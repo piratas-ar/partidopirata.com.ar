@@ -1221,3 +1221,7 @@
 			{
 				text-align: center;
 			}
+
+/* Propio del PPAR */
+
+#logo { width: 42%; max-width: 454px; min-width: 25px; } 
