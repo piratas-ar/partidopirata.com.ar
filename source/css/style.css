@@ -1224,4 +1224,5 @@
 
 /* Propio del PPAR */
 
-#logo { width: 42%; max-width: 454px; min-width: 25px; } 
+#logo { width: 42%; max-width: 454px; min-width: 25px; }
+#logo.inline { width: 22%; max-width: 220px; min-width: 15px; display: inline; vertical-align: middle; } 
