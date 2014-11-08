@@ -1,6 +1,6 @@
 El sitio de podemos es demasiado lindo, hay que copiarselo, mejorarlo y liberarlo.
 
-Repo https://github.com/piratas-ar/partidopirata.com.ar.gi
+Repo https://github.com/piratas-ar/partidopirata.com.ar.git
 
 Template http://html5up.net/helios
 
