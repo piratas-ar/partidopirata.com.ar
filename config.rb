@@ -27,14 +27,17 @@
 # end
 
 activate :blog do |blog|
-  blog.sources = "blog/{year}-{month}-{day}-{title}.html"
-  blog.permalink = "blog/{year}/{month}/{day}/{title}.html"
+  blog.prefix = 'blog'
+  blog.sources = '{year}-{month}-{day}-{title}.html'
+  blog.permalink = '{year}/{month}/{day}/{title}.html'
+
+  blog.layout = 'blog'
+  blog.tag_template = 'blog/tag.html'
+  blog.calendar_template = 'blog/calendar.html'
 end
 
 set :css_dir, 'stylesheets'
-
 set :js_dir, 'javascripts'
-
 set :images_dir, 'images'
 
 # Build-specific configuration
