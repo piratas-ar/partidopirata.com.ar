@@ -15,37 +15,75 @@
 
 		<!-- Main -->
 			<div class="wrapper style1">
-
 				<div class="container">
+
+        <div class="row double">
+          <div class="4u" id="sidebar">
+            <hr class="first" />
+            <section>
+              <img src="http://wiki.partidopirata.com.ar/images/8/88/Utopia_pirata_logo.png" alt="Utopía Pirata" />
+            </section>
+            <hr />
+
+            <section>
+              <header>
+                <h3><a href="/blog/">Artículos Recientes</a></h3>
+              </header>
+              <p>Está al tanto de las noticias</p>
+              <% blog.articles[0...10].each do |article| %>
+              <div class="row half no-collapse">
+                <div class="4u">
+                  <a href="<%= article.url %>" class="image fit"><img src="<%= article.data['thumb'] %>" alt="<%= article.title %>" /></a>
+                </div>
+                <div class="8u">
+                  <h4><%= link_to article.title, article %></h4>
+                </div>
+              </div>
+              <% end %>
+               <footer>
+                <a href="/blog/" class="button">Más Noticias</a>
+              </footer>
+            </section>
+            <hr />
+
+            <section>
+              <header>
+                <h3>Tags</h3>
+              </header>
+              <div class="row half no-collapse">
+              <% blog.tags.each do |tag, articles| %>
+                <% if articles.size > 5 %>
+                  <%= link_to "#{tag} (#{articles.size})", tag_path(tag) %>
+                <% end %>
+              <% end %>
+              </div>
+            </section>
+            <hr />
+
+            <section>
+              <header>
+                <h3>Por Año</h3>
+              </header>
+              <div class="row half no-collapse">
+              <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+                <%= link_to "#{year} (#{articles.size})", blog_year_path(year) %>
+              <% end %>
+              </div>
+            </section>
+          </div>
+
+          <div class="8u skel-cell-important" id="content">
+
+          <% unless current_article.nil? %>
+            <h2><%= current_article.title %></h2>
+          <% end %>
           <%= yield %>
 
-          <aside>
-            <h2>Recent Articles</h2>
-            <ol>
-              <% blog.articles[0...10].each do |article| %>
-                <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
-              <% end %>
-            </ol>
+          </div>
+        </div>
 
-            <h2>Tags</h2>
-            <ol>
-              <% blog.tags.each do |tag, articles| %>
-                <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
-              <% end %>
-            </ol>
-
-            <h2>By Year</h2>
-            <ol>
-              <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-                <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
-              <% end %>
-            </ol>
-          </aside>
-
-				</div>
-
-			</div>
-
+      </div>
+    </div>
 		<%= partial "footer" %>
 	</body>
 </html>

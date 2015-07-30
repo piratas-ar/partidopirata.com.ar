@@ -1284,3 +1284,10 @@ small { color: #7f7f7f; font-size: 13pt; }
 
 .invertido {color: black; background: white; opacity: 0.85; }
 .invertido:hover { opacity: 1;  }
+
+#banner { padding: 4.5em 2em; }
+
+.carousel header { padding: 0 1em; }
+.carousel article { vertical-align: top; }
+.carousel article .image { margin-bottom: 2em; }
+.image img { max-height: 240px; }

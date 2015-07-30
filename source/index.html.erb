@@ -33,36 +33,20 @@ title: 'Partido Pirata'
 		<!-- Carousel -->
 			<section class="carousel">
         <header>
-          <h2><%= link_to 'Esta al tanto', '/blog/' %></h2>
+          <h2><%= link_to 'Está al tanto', '/blog/' %></h2>
           <p>Siguiendo nuestro blog de anuncios y noticias.</p>
         </header>
 
 				<div class="reel">
-
+          <% blog.articles[0...10].each do |article| %>
 					<article>
-						<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+						<a href="<%= article.url %>" class="image featured"><img src="<%= article.data['image'] %>" alt="<%= article.title %>" /></a>
 						<header>
-							<h3><a href="#">Pulvinar sagittis congue</a></h3>
+							<h3><a href="<%= article.url %>"><%= article.title %></a></h3>
 						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
+						<p><%= Sanitize::clean article.summary(140) %></p>							
 					</article>
-				
-					<article>
-						<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Fermentum sagittis proin</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-				
-					<article>
-						<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Sed quis rhoncus placerat</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-			
+				  <% end %>
 				</div>
 			</section>
 

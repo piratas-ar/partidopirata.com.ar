@@ -27,13 +27,13 @@
 # end
 
 activate :blog do |blog|
-  blog.prefix = 'blog'
-  blog.sources = '{year}-{month}-{day}-{title}.html'
-  blog.permalink = '{year}/{month}/{day}/{title}.html'
+  blog.sources = 'blog/posts/{year}-{month}-{day}-{title}.html'
+  blog.permalink = '{year}/{month}/{day}/{wppost_name}/'
 
   blog.layout = 'blog'
   blog.tag_template = 'blog/tag.html'
   blog.calendar_template = 'blog/calendar.html'
+  blog.paginate = true
 end
 
 set :css_dir, 'stylesheets'

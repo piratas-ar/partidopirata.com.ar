@@ -1,0 +1,32 @@
+---
+title: Escuela por Hermano Vianna
+date: '2013-02-24'
+tags:
+- c
+- ciudadanos-digitales
+- clases
+- comienzo-de-las-clases
+- material-para-difusion
+- escuela
+- formacion-de-ciudadanos-digitales
+image: http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg
+thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02-150x150.jpg
+wppost_name: escuela-por-hermano-vianna
+---
+
+<a href="https://hermanovianna.wordpress.com/2013/02/23/escola/" target="_blank">Fuente blog de Hermano Vianna</a>
+En ediciones recientes, esta columna fue abducda por el ovni que hace el puente aéreo entre la<a href="http://hermanovianna.wordpres.com/2013/02/09/geracoes/">abundancia</a> y el <a href="http://hermanovianna.wordpres.com/2013/02/16/vazio/">vacío</a>. El <a href="http://hermanovianna.wordpres.com/2013/02/02/programadores/">tema anterior</a> era más relevante: educación para el siglo XXI. ¿Dónde paré? En la recomendación megalomaníaca de que todos los estudiantes completasen la Escuela Media dominando el lenguaje de computación C++. Esto seria el paso para la creación de un Valle de Silicio brasileño. Mi meta: dejar de ser sólo – como ya lo somos – campeones de consumo de internet; precisamos también inventar el futuro de la red global de información. Mis lectores deben saber que soy como el tipo de la canción de Caetano Veloso: “nunca quise poco, hablo de cantidad e intensidad”.
+
+Claro que “todo el mundo con C++” es mucho. En el Reino Unido se está haciendo una experiencia educativa importante llamada <a href="http://www.codeclub.org.uk/">Code Club</a>, que quiere darle a todos los niños británicos la oportunidad de aprender código. Su objetivo es en verdad más modesto que el mío: estar presente en 25% de las escuelas primarias en 2015. Y el lenguaje enseñado es <a href="http://scratch.mit.edu/">Scratch</a>, desarrollado para niños por el MIT. Nada es fácil en este campo. Que lo diga Obama, que <a href="http://www.whitehouse.gov/state-of-the-union-2013">en el State of the Union (principal discurso anual hecho por presidentes de los EUA) de la semana pasada</a>, en el momento en que habló en buena educación tecnológica, necesitó recurrir al ejemplo de la<a href="http://www.ptechnyc.org/site/default.aspx?PageID=1">P-Tech</a>, escuela de Enseñanza Media de Brooklyn que – con la colaboración de IBM y de la City University of New York – sólo tendrá sus primeros egresados en 2017.
+
+Pedro Dória, en su imperdible columna en la sección Digital &amp; Mídia de este diario, <a href="http://oglobo.globo.com/economia/receita-de-vale-do-silicio-7492448">se subió en mi propuesta delirante</a>. Obviamente ni habló en C++: “Deberíamos enseñar lenguajes de programación para los niños. Es un excelente comienzo.” ¿Qué hacer despues del comienzo? Sus recomendaciones son también en verdad más sensatas que las mías: una universidad deberia liderar el movimiento, bancado por venture capitalists, de creación de ambiente propulsor (con infraestructura confiable de banda ancha y eletricidad) para la innovación tecnológica.
+
+Pero lo que me hizo bajar a tierra fue <a href="http://www1.folha.uol.com.br/colunas/roselysayao/1229386-soltos-no-mundo-virtual.shtml">el artícuo de Rosely Saião en la Folha</a>. Ella nos lanza la siguiente pregunta: “ya le preguntó a los responsables de la escuela que su hijo frecuenta ¿cuál es su proyecto pedagógico para el uso de internet por los alumnos?” Rosely afirma que es “urgentemente necesario” que haya clases semanales para los más jóvenes aprendan “a usar colectivamente internet y reflexionar sobre los usos y abusos que suceden en el mundo virtual.” Esto es mucho menos aprendizaje que cualquier código, pero mucho a hacer delante de la penuria de la situación actual.
+
+<a href="http://hermanovianna.wordpres.com/2011/02/23/presentefuturo-indicativo/">Ya conté aqui</a> mi aventura cuando fui dar una conferencia sobre redes sociales para grupos de quinto año del colegio carioca. Preparé una charla titubeante. Puro preconcepto. Una muchacha levantó la mano y me hizo caer en la realidad con la pregunta: “¿es posible rastrear el IP?” Algún compañero estaba siendo acusado de usar perfiles fakes para publicar fotos pornograficamente manipuladas de los otros estudiantes. Estoy casi seguro que la mayoria de sus profesores no conocia la lengua que ella estaba hablando. En la disciplina propuesta por Rosely Saião, los alumnos tienen todo para tornarse los maestros de los adultos. Todos estamos explorando el admirable nuevo mundo electrónico al mismo tiempo. Los chicos nos llevan ventaja: no necesitan deshacerse de viejos hábitos analógicos para pensar lo digital.
+
+En la investigación para esa conferencia encontré a varias organizaciones que investigan la relación entre infancia y cultura electrónica. Algunas intentan proponer reglas de conducta para auxiliar a padres y profesores. Continuo recibiendo newsletters relacionados con ese tema, como el de la organización <a href="http://www.commonsensemedia.org/">Common Sense Media</a>, que tiene un equipo de <a href="http://www.commonsensemedia.org/about-us/who-we-are/board-advisors">consejeros</a> y <a href="http://www.commonsensemedia.org/about-us/supporters/education-supporters">apoyadores</a> miy ecléctico: desde Nickelodeon al CEO de The San Francisco Giants, pasando por el director de la Escuela de Medicina de Stanford. En el texto que anuncia <a href="http://www.commonsensemedia.org/about-us/our-mision">su misión</a> está escrito: “existimos porque los niños de nuestra nación pasan más tiempo con las actividades digitales o de medios que con sus familias o en la escuela”. Entre sus diez creencias: “creemos en enseñar a los niños a ser intérpretes, creadores y comunicadores de los medios experimentados, responsables y respetuosos.”
+
+Hay buenos consejos para todos, inclusive <a href="http://www.commonsensemedia.org/guide/best-first-kids-apps">una guia de apps</a> para smartphones y tablets, clasificadas por edad. Muchas cosas me parecen producidas para un mundo ideal. Por ejemplo: Twitter es recomendado para 15 años. ¿Qué hacer cuando todos los amigos de su hijo de 10 ya usan los 140 caracteres como forma de comunicación frenética? O ¿cuando los propios padres usan Instagram para publicar fotos de sus hijas (y compañers) de 11 años en biquíni?
+
+El carnaval ya terminó, las clases recomenzaron. Buen momento para pensar seriamente sobre los ciudadanos digitales que queremos formar.
