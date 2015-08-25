@@ -52,7 +52,7 @@
               </header>
               <div class="row half no-collapse">
               <% blog.tags.each do |tag, articles| %>
-                <% if articles.size > 5 %>
+                <% if articles.size > 8 %>
                   <%= link_to "#{tag} (#{articles.size})", tag_path(tag) %>
                 <% end %>
               <% end %>
