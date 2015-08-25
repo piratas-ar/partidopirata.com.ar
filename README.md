@@ -13,3 +13,12 @@ El blog viejo del PPAR esta(ba) en Wordpress, para migrarlo usamos wp2middleman
 con algunas modificaciones para migrar las imagenes y los thumbnails.
 
  wp2mm partidopirata.wordpress.2015-07-23.xml --include_fields wp:post_name
+
+
+Quitar los captions de wordpress
+
+ sed -i -r "s/\[caption[^]]+](.+)\[\/caption]/\1\n/g" *
+
+Buscar los posts con galerias
+
+ egrep -no "\[gallery[^]]+]" *
