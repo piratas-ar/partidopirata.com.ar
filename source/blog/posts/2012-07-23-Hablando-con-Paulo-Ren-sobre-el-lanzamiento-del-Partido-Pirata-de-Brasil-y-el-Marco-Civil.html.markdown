@@ -24,7 +24,8 @@ wppost_name: hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-
 <strong> Si la dirección anterior no funciona, presionen en <em>descargar</em><a href="http://www.ivoox.com/charlando-paulo-rena-2-partido-pirata-do-brasil-audios-mp3_rf_1348564_1.html" target="_blank">En el siguiente enlace.</a></strong></p>
 
 
-[caption id="attachment_5499" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart2.png"><img class="size-full wp-image-5499" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart2.png"><img class="size-full wp-image-5499" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 &nbsp;
 
@@ -46,7 +47,8 @@ wppost_name: hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-
 <strong><a href="http://softwarelivre.org/fisl13?lang=es" target="_blank">13 Foro Internacional de software libre</a></strong>
 <strong> Hasthag de #fisl13</strong>
 
-[caption id="attachment_5500" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/7596001816_ee6ebf36d6_o.jpg"><img class="size-medium wp-image-5500" title="7596001816_ee6ebf36d6_o" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/7596001816_ee6ebf36d6_o-300x300.jpg" alt="" width="300" height="300" /></a> Lanzamiento del Partido Pirata de Brasil[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/7596001816_ee6ebf36d6_o.jpg"><img class="size-medium wp-image-5500" title="7596001816_ee6ebf36d6_o" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/7596001816_ee6ebf36d6_o-300x300.jpg" alt="" width="300" height="300" /></a> Lanzamiento del Partido Pirata de Brasil
+
 <ul>
 	<li><strong><a href="https://es.wikipedia.org/wiki/Douglas_Adams#El_d.C3.ADa_de_la_toalla" target="_blank">El Día de la Toalla</a></strong></li>
 	<li><strong><a href="https://es.wikipedia.org/wiki/El_sentido_de_la_vida,_el_universo_y_todo_lo_dem%C3%A1s" target="_blank">El sentido de la vida, el universo y todo lo demás, el número 42</a></strong></li>

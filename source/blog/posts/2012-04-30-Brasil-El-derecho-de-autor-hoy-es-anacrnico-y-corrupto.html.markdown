@@ -16,7 +16,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae-150x15
 wppost_name: brasil-el-derecho-de-autor-hoy-es-anacronico-y-corrupto
 ---
 
-[caption id="attachment_4285" align="alignright" width="273" caption="Randolfe Rodrigues, senador brasileño (PSOL/AP)"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg"><img class=" wp-image-4285 " title="randolfe-ae" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg" alt="" width="273" height="186" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg"><img class=" wp-image-4285 " title="randolfe-ae" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg" alt="" width="273" height="186" /></a>
+
 
 <strong><a href="http://blogs.estadao.com.br/link/o-direito-autoral-hoje-e-anacronico-e-corrupto/" target="_blank">Fuente Suplemento <em>Link</em> de O Estado de São Paulo</a></strong>
 

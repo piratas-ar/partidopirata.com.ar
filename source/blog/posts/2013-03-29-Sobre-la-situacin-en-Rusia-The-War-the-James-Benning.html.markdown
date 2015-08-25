@@ -21,7 +21,8 @@ wppost_name: sobre-la-situacion-en-rusia-the-war-the-james-benning
 <strong> (Reemplacen # por @)</strong></p>
 <strong>Si quieren descargar el documental presionen en <a href="https://vimeo.com/55728375" target="_blank">descargar</a> en el site del documental en Vimeo.</strong>
 
-[caption id="attachment_8956" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/thewar.png"><img class="size-medium wp-image-8956" alt="Presionen donde dice Descargar para bajar la película" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/thewar-300x183.png" width="300" height="183" /></a> Presionen donde dice Descargar para bajar la película[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/thewar.png"><img class="size-medium wp-image-8956" alt="Presionen donde dice Descargar para bajar la película" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/thewar-300x183.png" width="300" height="183" /></a> Presionen donde dice Descargar para bajar la película
+
 
 &nbsp;
 

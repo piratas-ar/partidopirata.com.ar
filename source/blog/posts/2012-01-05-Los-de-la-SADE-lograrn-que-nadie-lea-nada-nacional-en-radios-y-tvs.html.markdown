@@ -15,7 +15,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1-150x150
 wppost_name: los-de-la-sade-lograran-que-nadie-lea-nada-nacional-en-radios-y-tvs
 ---
 
-[caption id="attachment_2714" align="aligncenter" width="311" caption="&quot;Sawyer&quot; lee &quot;La Invención de Morel&quot; en Lost"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg"><img class="size-full wp-image-2714" title="morellost" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg" alt="" width="311" height="400" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg"><img class="size-full wp-image-2714" title="morellost" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg" alt="" width="311" height="400" /></a>
+
 
 El presidente de la Sociedad Argentina de Escritores [SADE] sigue insistiendo con su idea de <em>canon</em> cuando se lean textos y poesías en las radios y tvs.
 

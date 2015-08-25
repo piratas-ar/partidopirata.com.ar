@@ -18,7 +18,8 @@ Durante el Campus Party en San Pablo Brasil, <strong><a href="http://blogs.estad
 
 <em>Primera manifestación pública de la religión fue en el Campus Party</em>
 
-[caption id="attachment_8340" align="alignright" width="244"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg"><img class=" wp-image-8340 " alt="Operador de la religión koptimista en Brasil, conocido como &quot;op.frederico.jpg&quot;, realizó primer culto público" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg" width="244" height="183" /></a> Operador de la religión kopimista en Brasil, conocido como "op.frederico.jpg", realizó primer culto público[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg"><img class=" wp-image-8340 " alt="Operador de la religión koptimista en Brasil, conocido como &quot;op.frederico.jpg&quot;, realizó primer culto público" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg" width="244" height="183" /></a> Operador de la religión kopimista en Brasil, conocido como "op.frederico.jpg", realizó primer culto público
+
 
 <em>Por Vinicius Felix
 </em>

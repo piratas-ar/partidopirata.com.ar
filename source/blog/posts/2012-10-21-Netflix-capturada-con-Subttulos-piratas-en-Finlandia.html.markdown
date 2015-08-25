@@ -31,7 +31,8 @@ DivX Finlandia fue alertada rápidamente sobre este uso atípico de su trabajo y
 
 "Es bueno ver que los textos se utilizan, pero no nos pidieron permiso", <a href="http://www.tietoviikko.fi/kaikki_uutiset/netflix+mokasi+kayttaa+luvatta+harrastelijoiden+tekstityksia++quotmaksaakohan+sita+omista+teksteistaquot/a848827">escribieron </a>, añadiendo un enlace de <a href="https://www.youtube.com/watch?v=9VkldVee9h8">un cli de video</a> desde Netflix donde los créditos de DivXFinlandia son claramente visibles
 
-[caption id="attachment_6989" align="aligncenter" width="524"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/fansub-netflix.jpg"><img class="size-full wp-image-6989" title="fansub-netflix" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/fansub-netflix.jpg" alt="" width="524" height="309" /></a> Netflix Finland usa subtítulos de Fansubs[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/fansub-netflix.jpg"><img class="size-full wp-image-6989" title="fansub-netflix" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/fansub-netflix.jpg" alt="" width="524" height="309" /></a> Netflix Finland usa subtítulos de Fansubs
+
 
 En respuesta a este desafortunado hecho, Netflix se disculpó por el uso de los subtítulos no autorizados y aseguró al periódico finlandés <a href="http://www.hs.fi/talous/Netflix+pyyt%C3%A4%C3%A4+anteeksi+tekstitysten+luvatonta+k%C3%A4ytt%C3%B6%C3%A4/a1305608387331">HS</a> que los van a sacar del catálogo. Netflix no explicó cómo llegaron allí desde el principio.
 

@@ -40,7 +40,8 @@ Presionen en <em>Play</em> para escucharlo o:
 Si el enlace anterior no funciona, presionen en descargar
 <a href="http://www.ivoox.com/charlando-alberto-cerda-ong-derechos-audios-mp3_rf_1236855_1.html" target="_blank">en el siguiente link.</a></center>
 
-[caption id="attachment_4514" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png"><img class="size-full wp-image-4514" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png" alt="" width="150" height="150" /></a> Código QR del Audio[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png"><img class="size-full wp-image-4514" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png" alt="" width="150" height="150" /></a> Código QR del Audio
+
 
 &nbsp;
 

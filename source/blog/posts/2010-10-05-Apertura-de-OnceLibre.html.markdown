@@ -22,4 +22,5 @@ Son muy bienvenidos artistas que desee producir y dialogar sobre su trabajo con 
 Al final de la estancia, organizamos un estudio abierto con el fin de hacer público los trabajos.
 
 <strong>Articultores más libres que nunca.</strong></blockquote>
-[caption id="attachment_175" align="aligncenter" width="500"]<a href="http://partidopirata.com.ar/wp-content/uploads/2010/10/oncelibre.jpeg"><img class="size-full wp-image-175" title="ONCELIBRE" src="http://partidopirata.com.ar/wp-content/uploads/2010/10/oncelibre.jpeg" alt="" width="500" height="375" /></a> ONCELIBRE, es un espacio dedicado a la cultura libre en el corazón del barrio porteño de Once. frente a la Plaza Miserere en un lugar emblemático popular. en Av. Pueyrredón 19, piso 3 en la Ciudad de Buenos Aires.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2010/10/oncelibre.jpeg"><img class="size-full wp-image-175" title="ONCELIBRE" src="http://partidopirata.com.ar/wp-content/uploads/2010/10/oncelibre.jpeg" alt="" width="500" height="375" /></a> ONCELIBRE, es un espacio dedicado a la cultura libre en el corazón del barrio porteño de Once. frente a la Plaza Miserere en un lugar emblemático popular. en Av. Pueyrredón 19, piso 3 en la Ciudad de Buenos Aires.
+

@@ -16,7 +16,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13-150x150
 wppost_name: ee-uu-joe-smith-collection-en-la-biblioteca-del-congreso-en-argentina-podriamos
 ---
 
-[caption id="attachment_7979" align="alignleft" width="176"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg"><img class="size-full wp-image-7979" alt="Joe SmithFoto: Sandy Gibson " src="http://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg" width="176" height="215" /></a> Joe Smith<br />Foto: Sandy Gibson[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg"><img class="size-full wp-image-7979" alt="Joe SmithFoto: Sandy Gibson " src="http://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg" width="176" height="215" /></a> Joe Smith<br />Foto: Sandy Gibson
+
 
 <strong>El ex presidente de Capitol Records/EMI, Joe Smith, grabó durante 2 años entrevistas de cantantes como Ella Fitzgerald, Ray Charles y Paul McCartney.</strong>
 <strong><a href="http://www.elfinanciero.com.mx/index.php?option=com_k2&amp;view=item&amp;id=25701:historias-como-la-de-ray-charles-van-a-biblioteca-del-congreso&amp;Itemid=26" target="_blank">Fuente "El Financiero"</a></strong>

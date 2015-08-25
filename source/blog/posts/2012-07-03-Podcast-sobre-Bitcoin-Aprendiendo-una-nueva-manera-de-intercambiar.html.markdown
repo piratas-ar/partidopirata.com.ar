@@ -17,7 +17,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwr
 wppost_name: podcast-sobre-bitcoin-aprendiendo-una-nueva-manera-de-intercambiar
 ---
 
-[caption id="attachment_5087" align="aligncenter" width="450"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png"><img class="size-full wp-image-5087" title="Bitcoin en español" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png" width="450" height="73" /></a> El Bitcoin en Español[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png"><img class="size-full wp-image-5087" title="Bitcoin en español" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png" width="450" height="73" /></a> El Bitcoin en Español
+
 
 <hr />
 
@@ -28,7 +29,8 @@ Charlando con Mariana y Marcelo sobre los Bitcoins. Presionen en <em>play</em> p
 <a href="http://www.ivoox.com/charlando-mariana-marcelo-sobre-bitcoin_md_1317784_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-mariana-marcelo-sobre-bitcoin-audios-mp3_rf_1317784_1.html" target="_blank">en esta página.</a></center>
 
-[caption id="attachment_5093" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart.png"><img class="size-full wp-image-5093" title="chart" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart.png" width="150" height="150" /></a> Código QR de la dirección del audio[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart.png"><img class="size-full wp-image-5093" title="chart" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart.png" width="150" height="150" /></a> Código QR de la dirección del audio
+
 
 &nbsp;
 

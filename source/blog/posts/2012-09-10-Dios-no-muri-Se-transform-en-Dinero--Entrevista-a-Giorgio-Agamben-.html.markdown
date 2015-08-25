@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/giorgio-agamben-20
 wppost_name: dios-no-murio-se-transformo-en-dinero-entrevista-a-giorgio-agamben
 ---
 
-[caption id="attachment_6435" align="aligncenter" width="500"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/giorgio-agamben-2009-8.jpg"><img class="size-full wp-image-6435" title="giorgio-agamben-2009-8" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/giorgio-agamben-2009-8.jpg" alt="" width="500" height="375" /></a> Giorgio Agamben[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/giorgio-agamben-2009-8.jpg"><img class="size-full wp-image-6435" title="giorgio-agamben-2009-8" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/giorgio-agamben-2009-8.jpg" alt="" width="500" height="375" /></a> Giorgio Agamben
+
 
 <strong><a href="http://www.ihu.unisinos.br/noticias/512966-giorgio-agamben" target="_blank">Fuente Instituto Humanitas Unisinos.</a></strong>
 

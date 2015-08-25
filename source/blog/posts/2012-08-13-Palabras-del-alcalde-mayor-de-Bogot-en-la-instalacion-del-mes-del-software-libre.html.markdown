@@ -24,7 +24,8 @@ wppost_name: palabras-del-alcalde-mayor-de-bogota-en-la-instalacio%cc%81n-del-me
 <strong> <a href="http://www.ivoox.com/palabras-del-alcalde-mayor-bogota-la_md_1377682_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a></strong></p>
 
 
-[caption id="attachment_5932" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart6.png"><img class="size-full wp-image-5932" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart6.png"><img class="size-full wp-image-5932" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 <p style="text-align: center;">Si el enlace anterior no funciona presionen en <em>Descargar</em><a href="http://www.ivoox.com/palabras-del-alcalde-mayor-bogota-la-audios-mp3_rf_1377682_1.html" target="_blank">en este link.</a></p>
 
 

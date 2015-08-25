@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa-115x115.jp
 wppost_name: se-viene-mas-presion-contra-taringa-justo-despues-de-las-elecciones
 ---
 
-[caption id="attachment_1019" align="aligncenter" width="120" caption="Logo de Taringa"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg"><img class="size-full wp-image-1019" title="taringa" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg" alt="" width="120" height="120" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg"><img class="size-full wp-image-1019" title="taringa" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg" alt="" width="120" height="120" /></a>
+
 
 <strong><a href="http://www.infobae.com/notas/613179-Otro-fallo-contra-el-sitio-Taringa-por-violar-la-ley-de-propiedad-intelectual.html" target="_blank">Fuente Infobae</a></strong>
 

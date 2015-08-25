@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt-150x1
 wppost_name: para-hacer-una-calculadora-del-dominio-publico-argentino
 ---
 
-[caption id="attachment_6117" align="alignright" width="213"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt.jpg"><img class="size-medium wp-image-6117" title="roberto Arlt" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt-213x300.jpg" alt="" width="213" height="300" /></a> Roberto Arlt, ¿el octavo loco?[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt.jpg"><img class="size-medium wp-image-6117" title="roberto Arlt" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt-213x300.jpg" alt="" width="213" height="300" /></a> Roberto Arlt, ¿el octavo loco?
+
 
 En la Argentina luego de los 70 años de la muerte de un escritor su obra entra en dominio público.
 

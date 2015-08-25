@@ -14,7 +14,8 @@ thumb:
 wppost_name: sobre-acampasampa-los-acampados-en-san-pablo-brasil
 ---
 
-[caption id="attachment_2095" align="aligncenter" width="500" caption="Policía cerca a los acampados en San Pablo-Brasil."]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/occupy-sao-paulo.jpg"><img class="size-full wp-image-2095" title="occupy-sao-paulo" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/occupy-sao-paulo.jpg" alt="Occupy San Pablo" width="500" height="333" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/occupy-sao-paulo.jpg"><img class="size-full wp-image-2095" title="occupy-sao-paulo" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/occupy-sao-paulo.jpg" alt="Occupy San Pablo" width="500" height="333" /></a>
+
 
 &nbsp;
 

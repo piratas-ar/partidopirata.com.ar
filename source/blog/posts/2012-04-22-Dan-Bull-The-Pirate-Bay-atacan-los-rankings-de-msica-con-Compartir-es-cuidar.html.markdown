@@ -22,7 +22,8 @@ wppost_name: dan-bull-the-pirate-bay-atacan-los-rankings-de-musica-con-compartir
 Esta semana, con el apoyo de una campaña  Promo Bay  en de The Pirate Bay, el artista de rap Dan Bull del Reino Unido,  tiene el objetivo de enviar un mensaje a la industria del entretenimiento. Con el lanzamiento de una nueva canción llamada "Compartir es cuidar", Dan intentará entrar en la lista de singles del Reino Unido e internacional sin el respaldo de un sello y demostrar que se puede llegr con la ayuda de Internet libre y BitTorrent .
 <em>Es es un artículo de nuestro invitado el rapero del Reino Unido <a href="http://itsdanbull.com/">Dan Bull</a>.</em>
 <h2>Compartir es Cuidar</h2>
-[caption id="attachment_4160" align="alignright" width="180" caption="Compartir es Cuidar-Dan Bull"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/sharingiscaring.jpg"><img class="size-full wp-image-4160" title="sharingiscaring" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/sharingiscaring.jpg" alt="" width="180" height="180" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/sharingiscaring.jpg"><img class="size-full wp-image-4160" title="sharingiscaring" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/sharingiscaring.jpg" alt="" width="180" height="180" /></a>
+
 
 Ayer un joven me preguntó: ".¿Dan Bull en las listas de más vendidos? ¿Entonces, es este un 'fuck off' a la industria discográfica? "
 

@@ -33,7 +33,8 @@ Lo que dice la nota de la revista <a href="http://www.senado.gov.br/NOTICIAS/JOR
 
 Como firmante de las convenciones de la ONU sobre entorpecientes, Brasil debe mantener ilegales drogas como cocaína, heroina y marihuana. Sin embargo, como muestra la experiencia en diversos países, existe margen para alternativas, como descriminalizar las drogas, con la intención de disminuir los efectos negativos de las drogas en la sociedad.
 
-[caption id="attachment_6192" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/70_901_Vicio_Viciado_04.jpg"><img class="size-medium wp-image-6192" title="Fotos produzidas por terceiros." src="http://partidopirata.com.ar/wp-content/uploads/2012/08/70_901_Vicio_Viciado_04-300x199.jpg" alt="" width="300" height="199" /></a> <br /><em>“Es necesario terminar con la marginalización de personas que usan drogas, pero que no le hacen mal a otras”, dice el informe de la ONU. Foto: Marcello Casal Jr.</em>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/70_901_Vicio_Viciado_04.jpg"><img class="size-medium wp-image-6192" title="Fotos produzidas por terceiros." src="http://partidopirata.com.ar/wp-content/uploads/2012/08/70_901_Vicio_Viciado_04-300x199.jpg" alt="" width="300" height="199" /></a> <br /><em>“Es necesario terminar con la marginalización de personas que usan drogas, pero que no le hacen mal a otras”, dice el informe de la ONU. Foto: Marcello Casal Jr.</em>
+
 
 Esa opción sólo está disponible porque descriminalizar a las drogas no significa legalizarlas, sino retirarle el carácter criminal de algunas conductas en relación a las drogas. Sin retirarle el carácter ilícito de la relación con substancias ilegales, la propuesta es extinguir la punición en la esfera criminal o suavizarla, substituyendo la prisión por penas alternativas, multas etc.
 

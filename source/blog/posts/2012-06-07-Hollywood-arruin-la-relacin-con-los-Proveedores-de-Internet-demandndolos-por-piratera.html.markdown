@@ -54,7 +54,8 @@ Eso sólo deja dos opciones -  cambiar la ley para favorecer a Hollywood o darl
 
 Piensen que los asociados a la RIAA en la Argentina ya hicieron presión ante Debora Giorgi para implementar un <em>Hadopi</em> en la Argentina.
 
-[caption id="" align="aligncenter" width="400" caption="Debora Giorgi y el Lobby de CAPIF  por instalar Hadopi en la Argentina"]<img title="Debora Giorgi y el Lobby por instalar Hadopi en la Argentina" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/capif003.jpg" alt="" width="400" height="86" />[/caption]
+<img title="Debora Giorgi y el Lobby por instalar Hadopi en la Argentina" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/capif003.jpg" alt="" width="400" height="86" />
+
 
 Si no saben qué es Hadopi, <a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">un podcast con Erik Walter oficial Hadopi en Francia.</a>
 <p style="text-align: center;"><strong>Algo que también podemos pensar es en los acuerdos a los que llegó Taringa con CAPIF y con la Cámara Argentina del Libro.</strong></p>

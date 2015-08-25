@@ -19,7 +19,8 @@ wppost_name: riaa-discograficas-de-usa-quiere-que-los-buscadores-censuren-asitio
 
 En un testimonio ante el Congreso sobre "El futuro de audio" hoy, la el director general de la RIAA Cary Sherman hará hincapié en que aún queda mucho por hacer para detener a la piratería en línea. En particular, que los motores de búsqueda como Google y Bing tiene que asumir su responsabilidad y llegar a soluciones tecnológicas apropiadas. La RIAA quiere que estos motores de búsqueda censuren los sitios piratas en sus resultados de búsqueda, dándole prioridad a los servicios de música legal.
 
-[caption id="attachment_4648" align="alignright" width="199" caption="Censurado"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/censored.jpg"><img class="size-full wp-image-4648" title="censored" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/censored.jpg" alt="" width="199" height="173" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/censored.jpg"><img class="size-full wp-image-4648" title="censored" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/censored.jpg" alt="" width="199" height="173" /></a>
+
 
 El día de hoy el CEO de la RIAA, Cary Sherman, participará en el "El futuro de audio" audiencia (<a href="http://www.ustream.tv/channel-popup/energyandcommerce2123">ahora en vivo</a>) en la Casa de Representantes de EE.UU.. [cámara de diputados]
 

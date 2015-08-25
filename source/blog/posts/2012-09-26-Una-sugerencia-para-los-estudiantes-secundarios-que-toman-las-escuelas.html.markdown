@@ -12,7 +12,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1-150
 wppost_name: una-sugerencia-para-los-estudiantes-secundarios-que-toman-las-escuelas
 ---
 
-[caption id="attachment_6642" align="aligncenter" width="340"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg"><img class="size-full wp-image-6642" title="Escuelas Tomadas" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg" alt="" width="340" height="255" /></a> Colegios Tomados en la Ciudad de Buenos Aires[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg"><img class="size-full wp-image-6642" title="Escuelas Tomadas" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg" alt="" width="340" height="255" /></a> Colegios Tomados en la Ciudad de Buenos Aires
+
 
 <hr />
 

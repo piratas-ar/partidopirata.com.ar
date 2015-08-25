@@ -15,7 +15,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform-150x
 wppost_name: partido-pirata-presenta-el-libro-un-acta-alternativo-al-parlamento-europeo
 ---
 
-[caption id="attachment_4259" align="alignright" width="205" caption="Reforma del Derecho de Autor -Falkvinge y Engstrom"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png"><img class="size-full wp-image-4259" title="pirate-reform" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png" alt="" width="205" height="148" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png"><img class="size-full wp-image-4259" title="pirate-reform" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png" alt="" width="205" height="148" /></a>
+
 
 <strong><a href="https://torrentfreak.com/pirate-party-presents-acta-alternative-to-european-parliament-120427/" target="_blank">Fuente Torrentfreak.</a></strong>
 

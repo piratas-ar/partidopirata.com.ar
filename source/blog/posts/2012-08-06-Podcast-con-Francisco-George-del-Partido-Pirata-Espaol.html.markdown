@@ -18,7 +18,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05
 wppost_name: podcast-con-francisco-george-del-partido-pirata-espanol
 ---
 
-[caption id="attachment_5770" align="aligncenter" width="549"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png"><img class=" wp-image-5770" title="Francisco George" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png" alt="" width="549" height="313" /></a> Francisco George-Vocal del Partido Pirata Español[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png"><img class=" wp-image-5770" title="Francisco George" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png" alt="" width="549" height="313" /></a> Francisco George-Vocal del Partido Pirata Español
+
 <p style="text-align: center;"><strong><a href="https://twitter.com/paco229" target="_blank">Twitter de Francisco George</a></strong></p>
 <p style="text-align: center;"><strong>Uno de los administradores del Grupo Manifiesto en Facebook. Vocal de la JDN del Partido Pirata de España. Liejense,Liegeois,Belgique resident en Espagne 1999</strong></p>
 <p style="text-align: center;"><strong>Brunete, Madrid, Spain · <a href="http://fgeorge.wordpress.com" rel="me nofollow" target="_blank"> http://fgeorge.wordpress.com </a></strong></p>
@@ -33,7 +34,8 @@ Primera parte de la charla con Francisco George sobre la ley Sinde, Alex de la I
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-francisco-george-i-sobre-cine-y-audios-mp3_rf_1367031_1.html" target="_blank">en el siguiente link.</a>
 <strong><em>Algunos enlaces que comentamos durante el podcast:</em></strong></center>&nbsp;
 
-[caption id="attachment_5779" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart.png"><img class="size-full wp-image-5779" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart.png"><img class="size-full wp-image-5779" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 <hr />
 
@@ -43,7 +45,8 @@ Segunda parte de la charla, sobre el funcionamiento del Partido Pirata español,
 <a href="http://www.ivoox.com/segunda-parte-charla-franciso-george_md_1367074_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/segunda-parte-charla-franciso-george-audios-mp3_rf_1367074_1.html" target="_blank">en el siguiente link.</a></center>
 
-[caption id="attachment_5782" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart1.png"><img class="size-full wp-image-5782" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart1.png"><img class="size-full wp-image-5782" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 &nbsp;
 

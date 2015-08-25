@@ -11,7 +11,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/articultores_1_tap
 wppost_name: salio-la-revista-de-articultores-n%c2%ba1
 ---
 
-[caption id="attachment_587" align="alignleft" width="300" caption="Revista Articultores Nro. 1"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/03/articultores_1_tapa1.jpg"><img class="size-medium wp-image-587" title="articultores_1_tapa1" src="http://partidopirata.com.ar/wp-content/uploads/2011/03/articultores_1_tapa1-300x235.jpg" alt="Revista Articulotres Nro. 1" width="300" height="235" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/03/articultores_1_tapa1.jpg"><img class="size-medium wp-image-587" title="articultores_1_tapa1" src="http://partidopirata.com.ar/wp-content/uploads/2011/03/articultores_1_tapa1-300x235.jpg" alt="Revista Articulotres Nro. 1" width="300" height="235" /></a>
+
 
 ¡¡Ya salimos!!! podés descargar libremente para compartir con tus amigos la revista nº0 de articultores.
 la edición impresa sale al costo de los materiales y nos servirá para llegar a las personas que no tienen acceso a la web.

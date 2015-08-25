@@ -25,7 +25,8 @@ Así que estuvimos hablando con Petr que es del Partido Pirata de la región de 
 <p style="text-align: center;">Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/conversando-petr-desde-republica-checa-audios-mp3_rf_1542391_1.html" target="_blan">En este link.</a></p>
 
 
-[caption id="attachment_7199" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png"><img class="size-full wp-image-7199" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png"><img class="size-full wp-image-7199" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 <hr />
 

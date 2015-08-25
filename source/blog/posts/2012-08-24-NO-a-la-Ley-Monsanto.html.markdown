@@ -26,7 +26,8 @@ Desde la Fundación Rockefeller lanzaron la llamada "Revolución Verde", que ter
 
 Las semillas transgénicas significan de hecho la renovación del catálogo de productos de Monsanto, Novartis, Du Pont, Aventis ó Astra Zéneca, quienes dominan por completo el mercado mundial de estas semillas.
 
-[caption id="attachment_6174" align="alignright" width="440"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg" alt="" title="Impacto transgénico" width="493" height="480" class="size-full wp-image-6174" /></a> Como los transgénicos redujeron la biodiversidad en los alimentos.[/caption] 
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg" alt="" title="Impacto transgénico" width="493" height="480" class="size-full wp-image-6174" /></a> Como los transgénicos redujeron la biodiversidad en los alimentos.
+ 
 
 Y pronto serán los propietarios de las semillas existentes, ya que lo que no dice ni las empresas, ni los gobiernos cómplices la existencia de una profunda erosión genética, un ejemplo es el Maiz que paso de 307 especies diferentes a solo 12. NOS ESTAN MATANDO MATANDO NUESTROS ECOSISTEMAS, si la variedad muere, morirá la naturaleza y el hombre. Tendrán el poder de decidir quién vive y quién muere.
 

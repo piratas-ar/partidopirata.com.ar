@@ -31,7 +31,8 @@ Pensando en los próximos y, lamentáblemente, largamente anunciados desastres y
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/carlos-taibo-decrecimiento-economico-15m-vera_md_1923958_1.mp3" target="_blank">Si quieren descargar el archivo del audio de la conferencia</a></strong></p>
 
 
-[caption id="attachment_9011" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart3.png"><img class="size-full wp-image-9011" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart3.png"><img class="size-full wp-image-9011" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 &nbsp;
 

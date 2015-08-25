@@ -18,7 +18,8 @@ wppost_name: la-iglesia-del-kopimism-casa-a-su-primer-pareja
 <p style="text-align: left;"><strong><a href="https://torrentfreak.com/file-sharing-church-weds-first-couple-120507/" target="_blank">Fuente Torrentfreak.</a></strong></p>
 
 
-[caption id="attachment_4370" align="alignright" width="250" caption="Casamiento-Iglesia Misionera del Kopimism"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg"><img class="size-full wp-image-4370" title="copy-wedding" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg" alt="" width="250" height="167" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg"><img class="size-full wp-image-4370" title="copy-wedding" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg" alt="" width="250" height="167" /></a>
+
 
 <strong>A principios de este año, la Iglesia del Kopimism fue aprobada por las autoridades [suecas] como una religión oficial. Desde entonces, el movimiento ha reunido a miles de creyentes de todo el mundo y dos de ellos ya han entrado en un matrimonio "Kopimism" . La Iglesia anima a los recién casados ​​a "copiar y remezclar algunos  ADN de las células y crear un nuevo ser humano."</strong>
 

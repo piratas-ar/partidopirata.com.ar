@@ -26,7 +26,8 @@ wppost_name: podcastcon-fulvia-repasando-los-movimientos-de-resistencia-en-turqu
 <a href="http://www.ivoox.com/con-fulvia-sobre-diferentes-movimientos-el_md_1353494_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona, presionen en <em>descargar</em> <a href="http://www.ivoox.com/con-fulvia-sobre-diferentes-movimientos-el-audios-mp3_rf_1353494_1.html" target="_blank">en el siguiente enlace.</a></center>
 
-[caption id="attachment_5621" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png"><img class="size-full wp-image-5621" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png"><img class="size-full wp-image-5621" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 &nbsp;
 

@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary-150
 wppost_name: harvard-quiere-investigaciones-abiertas
 ---
 
-[caption id="attachment_4386" align="alignright" width="200" caption="Biblioteca de Harvard"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary.jpg"><img class="size-medium wp-image-4386" title="harvardlibrary" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary-200x300.jpg" alt="" width="200" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary.jpg"><img class="size-medium wp-image-4386" title="harvardlibrary" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary-200x300.jpg" alt="" width="200" height="300" /></a>
+
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/harvard-quer-pesquisas-abertas/" target="_blank">Fuente Tatiana de Mello Dias</a></strong>
 

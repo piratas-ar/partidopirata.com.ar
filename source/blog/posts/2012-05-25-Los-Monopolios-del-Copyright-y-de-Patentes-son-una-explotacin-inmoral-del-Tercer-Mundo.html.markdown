@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_00001021199
 wppost_name: los-monopolios-del-copyright-y-de-patentes-son-una-explotacion-inmoral-del-tercer-mundo
 ---
 
-[caption id="attachment_4561" align="aligncenter" width="300" caption="Los Monopolios del Copyright y de Patentes son una explotación inmoral del Tercer Mundo"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363.jpg"><img class="size-medium wp-image-4561" title="iStock_000010211997Small-646x363" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363-300x168.jpg" alt="" width="300" height="168" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363.jpg"><img class="size-medium wp-image-4561" title="iStock_000010211997Small-646x363" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363-300x168.jpg" alt="" width="300" height="168" /></a>
+
 
 <strong><a href="http://es.falkvinge.net/2012/01/24/los-monopolios-del-copyright-y-de-patentes-son-una-explotacion-inmoral-del-tercer-mundo/" target="_blank">Fuente Blog de Rick Falkvinge</a></strong>
 

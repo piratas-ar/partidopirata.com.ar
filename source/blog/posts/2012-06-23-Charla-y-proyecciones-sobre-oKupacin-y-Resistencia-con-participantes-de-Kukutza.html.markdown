@@ -15,7 +15,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/flyerkukutzaasambl
 wppost_name: charla-y-proyecciones-sobre-okupacion-y-resistencia-con-participantes-de-kukutza
 ---
 
-[caption id="attachment_4913" align="aligncenter" width="212" caption="*Kukutza III El último gran gaztetxe de Bilbao*"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/flyerkukutzaasamblea-final25.jpg"><img class="size-medium wp-image-4913" title="flyerkukutzaasamblea final25" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/flyerkukutzaasamblea-final25-212x300.jpg" alt="" width="212" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/flyerkukutzaasamblea-final25.jpg"><img class="size-medium wp-image-4913" title="flyerkukutzaasamblea final25" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/flyerkukutzaasamblea-final25-212x300.jpg" alt="" width="212" height="300" /></a>
+
 
 *El el marco de Alerta de Desalojo que atraviesa hoy la toma y autogestión de la Sala Alberdi, tratamos de acumular la experiencia de otras luchas para fortalecernos y seguir construyendo un movimiento de recuperación de espacios de organización y lucha a través de la Acción Directa.* *Kukutza III El último gran gaztetxe de Bilbao* El pasado 21 de septiembre el emblemático gaztetxe Kukutuza III fue desalojado.
 

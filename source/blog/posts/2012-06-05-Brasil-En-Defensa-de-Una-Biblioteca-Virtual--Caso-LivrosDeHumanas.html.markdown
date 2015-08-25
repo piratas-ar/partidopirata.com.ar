@@ -18,7 +18,8 @@ Leemos en<a href="http://baixacultura.org/2012/06/05/por-dentro-do-caso-livros-d
 
 &nbsp;
 
-[caption id="attachment_4636" align="aligncenter" width="300" caption="En Defensa de una Biblioteca Virtual"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo.png"><img class="size-medium wp-image-4636" title="livros-de-humanas-globo" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo-300x277.png" alt="" width="300" height="277" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo.png"><img class="size-medium wp-image-4636" title="livros-de-humanas-globo" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo-300x277.png" alt="" width="300" height="277" /></a>
+
 
 <hr />
 

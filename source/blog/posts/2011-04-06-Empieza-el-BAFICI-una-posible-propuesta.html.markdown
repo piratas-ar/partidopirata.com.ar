@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png
 wppost_name: empieza-el-bafici-una-posible-propuesta
 ---
 
-[caption id="attachment_699" align="aligncenter" width="245" caption="BAFICI"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png"><img class="size-full wp-image-699" title="header_logo" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png" alt="" width="245" height="180" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png"><img class="size-full wp-image-699" title="header_logo" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png" alt="" width="245" height="180" /></a>
+
 
 Hoy empieza el <a href="http://www.bafici.gov.ar/home/web/es/index.html" target="_blank">BAFICI</a> y les dejamos una propuesta para el año que viene...En este no la tomaron en cuenta:
 

@@ -23,7 +23,8 @@ En el primer estudio oficial sobre las restricciones de acceso a Internet impues
 
 Con el estudio del BEREC (1), sobre la administración del tráfico y las restricciones del acceso a internet recientemente publicado, los legisladores europeos disponen ahora de pruebas que atestiguan que la situación requiere un actitud resuelta. La política impulsada por la Comisión a partir de 2009, basada en una fe ciega sobre la competencia y la transparencia en el comportamiento de los operadores ha mostrado sus límites a las claras.
 
-[caption id="attachment_4653" align="alignright" width="300" caption="Restricción al acceso en Europa"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Access-restrictions-in-EU.png"><img class="size-medium wp-image-4653" title="Access restrictions in EU" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Access-restrictions-in-EU-300x264.png" alt="" width="300" height="264" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Access-restrictions-in-EU.png"><img class="size-medium wp-image-4653" title="Access restrictions in EU" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Access-restrictions-in-EU-300x264.png" alt="" width="300" height="264" /></a>
+
 
 “Como lo muestra claramente el estudio del BEREC, los operadores restringen cada vez más las comunicaciones de sus abonados. Algunos puertos o protocolos son objeto de bloqueos injustificados y los servicios para algunos socios de los operadores son privilegiados en detrimento del resto de internet. A causa de esta discriminación la red se halla fragmentada y los innovadores de toda clase obstaculizados, mientras que las grandes empresas estadounidenses como Google y Facebook establecen acuerdos con los proveedores del servicio. En este contexto, la política de transparencia planteada por la Comisión europea vuelve a conceder a estas prácticas un cheque en blanco” ha declarado Jérémie  Zimmermann, co fundador y portavoz de la Cuadratura de la Red.
 Reaccionando ante este estudio del BEREC, Neelies Kroes ha reconocido la existencia del problema, especialmente en lo relacionado con tecnologías intrusivas para supervisar el tráfico de los usuarios de internet.
@@ -72,7 +73,8 @@ Notas:
 <strong> <a href="http://www.ivoox.com/charlando-alberto-cerda-ong-derechos-audios-mp3_rf_1236855_1.html" target="_blank">en el siguiente link.</a></strong></p>
 
 
-[caption id="attachment_4514" align="aligncenter" width="150" caption="Código QR del Audio"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png"><img class="size-full wp-image-4514" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png" alt="" width="150" height="150" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png"><img class="size-full wp-image-4514" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png" alt="" width="150" height="150" /></a>
+
 
 Podcast con Alberto Cerda,  Alberto es miembro fundador de ONG Derechos Digitales y es el responsable de estudios. Abogado y Magíster en Derecho Público. Es Profesor Asistente de Derecho Informático de la Facultad de Derecho de la Universidad de Chile. También imparte cursos de pre y postgrado en las Escuelas de Artes y de Economía de la misma Universidad. Ha sido asesor de diversos organismos públicos en temas tales como protección de datos personales, software libre y open source, delitos informáticos y propiedad intelectual. Es, además, líder legal de Creative Commons en Chile.
 

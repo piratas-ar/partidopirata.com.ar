@@ -27,7 +27,8 @@ Reportaje a Félix Cariboni en el programa Horizonte Sur del 1ro. de Diciembre.
 <a href="http://www.ivoox.com/sobre-audiencias-publicas-13-diciembre_md_1629030_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/sobre-audiencias-publicas-13-diciembre-audios-mp3_rf_1629030_1.html" target="_blank">en este link.</a>
 
-[caption id="attachment_7690" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart.png"><img class="size-full wp-image-7690" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart.png"><img class="size-full wp-image-7690" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/horizonte-sur-01-12-12-audios-mp3_rf_1619513_1.html" target="_blank">Si quieren escuchar o descargar todo el programa Horizonte Sur del 1ro. de Diciembre</a></strong></p>

@@ -28,7 +28,8 @@ Usar el servicio es muy fácil. La gente puede utilizar de forma segura sus cred
 
 Uno de los principales beneficios para los usuarios es que se pueden añadir torrents a su Dropbox desde el trabajo, la escuela o en el camino. Los archivos se sincronizarán automáticamente con todos los equipos bajo Dropbox. Otro aspecto positivo es que estas descargas son anónimas, ya que es Boxopus quien se encarga de la descarga.
 
-[caption id="attachment_4918" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-download.jpg"><img class="size-medium wp-image-4918" title="boxopus-download" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-download-300x197.jpg" alt="" width="300" height="197" /></a> Descargas con Boxopus[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-download.jpg"><img class="size-medium wp-image-4918" title="boxopus-download" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-download-300x197.jpg" alt="" width="300" height="197" /></a> Descargas con Boxopus
+
 
 Boxopus utiliza la <a href="https://www.dropbox.com/developers">APi de Dropbox</a>, lo que significa que el sitio no tiene acceso a todos los otros archivos almacenados en su cuenta. La principal desventaja es, sin embargo, que las descargas en general, tardan un poco más debido a que las velocidades de sincronización de Dropbox son limitadas.
 

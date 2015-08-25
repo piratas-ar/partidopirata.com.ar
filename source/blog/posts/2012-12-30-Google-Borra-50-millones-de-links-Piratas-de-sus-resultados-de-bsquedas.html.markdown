@@ -31,7 +31,8 @@ Google no informa de las cifras anuales, pero sumamos todos los informes semanal
 
 Los datos también revela que la RIAA [discográficas de EE.UU] es el emisor más activo. El grupo de música le pidió a Google que retire 7.816.766 enlaces a páginas web presuntamente infractoras este año.
 
-[caption id="attachment_7984" align="aligncenter" width="519"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/google-dmca.png"><img class="size-full wp-image-7984" alt="Pedidos de borrados de direcciones a google por semana" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/google-dmca.png" width="519" height="237" /></a> Pedidos de borrados de direcciones a google por semana[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/google-dmca.png"><img class="size-full wp-image-7984" alt="Pedidos de borrados de direcciones a google por semana" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/google-dmca.png" width="519" height="237" /></a> Pedidos de borrados de direcciones a google por semana
+
 
 Mirando a los sitios web <a href="http://www.google.com/transparencyreport/removals/copyright/domains/?r=last-year">que más recibieron </a> para ser borrados de los resultados de Google, vemos que el motor de búsquedas de descargas directas FilesTube encabeza el ranking con 2.273.280 enlaces. Si bien esto es ciertamente un número significativo, es menos del uno por ciento de todas las páginas indexadas de FilesTube por Google .
 

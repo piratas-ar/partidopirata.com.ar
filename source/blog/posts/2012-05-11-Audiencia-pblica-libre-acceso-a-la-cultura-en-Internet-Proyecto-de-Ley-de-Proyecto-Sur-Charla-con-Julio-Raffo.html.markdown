@@ -21,7 +21,8 @@ Presione en <em>play</em> para escuchar algunas de las dudas que le planteamos a
 <strong> Si el enlace anterior no funciona, presionen donde dice <em>descargar</em><a href="http://www.ivoox.com/charlando-diputado-julio-raffo-sobre-la-audios-mp3_rf_1220089_1.html" target="_blank"> en el siguiente enlace.</a></strong></p>
 
 
-[caption id="attachment_4397" align="aligncenter" width="150" caption="La dirección para descargar el audio."]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart.png"><img class="size-full wp-image-4397" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart.png" alt="" width="150" height="150" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart.png"><img class="size-full wp-image-4397" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart.png" alt="" width="150" height="150" /></a>
+
 <p style="text-align: center;"><strong>Estemos el lunes, revisemos al proyecto en lo que nos parezca que tiene que ser revisado, pero apoyémoslo. Entre tanta locura un poco de cordura es buena.</strong></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;">El evento se realiza hoy <strong>lunes 14 de mayo de 2012 a las 18 hs.</strong>, en la Sala 1 del <a href="http://es.wikipedia.org/wiki/Edificio_Anexo_de_la_C%C3%A1mara_de_Diputados">Anexo de la Cámara de Diputados</a>, Avenida Rivadavia 1843/1865, Ciudad de Buenos Aires (asistir con documento que acredite la identidad para poder ingresar al Congreso).</p>

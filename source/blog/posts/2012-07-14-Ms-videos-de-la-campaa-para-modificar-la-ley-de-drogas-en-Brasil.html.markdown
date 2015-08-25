@@ -15,7 +15,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/banner1-150x90.jpg
 wppost_name: mas-videos-de-la-campana-para-modificar-la-ley-de-drogas-en-brasil
 ---
 
-[caption id="attachment_5179" align="aligncenter" width="728"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg"><img class="size-full wp-image-5179" title="banner1" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg" alt="Banner de &quot;É preciso mudar&quot;" width="728" height="90" /></a> ¿Es eso justo? Brasil invierte más en la prisión por delitos con drogas de lo que invierte en el tratamiento de usuaros.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg"><img class="size-full wp-image-5179" title="banner1" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg" alt="Banner de &quot;É preciso mudar&quot;" width="728" height="90" /></a> ¿Es eso justo? Brasil invierte más en la prisión por delitos con drogas de lo que invierte en el tratamiento de usuaros.
+
 <p style="text-align: center;"><strong>Es parte de una campaña para modificar la ley de drogas en Brasil,</strong></p>
 <p style="text-align: center;"><strong><a href="http://eprecisomudar.com.br/" target="_blanK">Acá puede encontrar más información.</a>
 <a href="http://www.pagina12.com.ar/diario/sociedad/3-199296-2012-07-23.html" target="_blank">Una nota en Página 12 sobre el tema.</a></strong></p>

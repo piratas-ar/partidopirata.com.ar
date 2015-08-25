@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/bouchard1-150x150.
 wppost_name: el-manuscrito-bouchard-para-revisar-y-pasarlo-a-texto-si-alguien-quiere
 ---
 
-[caption id="attachment_5615" align="aligncenter" width="284"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/bouchard1.jpg"><img class=" wp-image-5615" title="bouchard1" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/bouchard1.jpg" alt="" width="284" height="378" /></a> Manuscrito Bouchard primera página[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/bouchard1.jpg"><img class=" wp-image-5615" title="bouchard1" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/bouchard1.jpg" alt="" width="284" height="378" /></a> Manuscrito Bouchard primera página
+
 
 Durante el bloqueo al puerto mexicano de San Blas, Bouchard redactó el único parte que se conserva de la expedición. El documento fue llevado a Valparaíso por el cap. Sylvester Ramsay, del mercante inglés "Good Hope" (Enero de 1819).Fuente: AGN / Fotos: Daniel Cichero En caso de difundir, se solicita citar las fuentes.
 

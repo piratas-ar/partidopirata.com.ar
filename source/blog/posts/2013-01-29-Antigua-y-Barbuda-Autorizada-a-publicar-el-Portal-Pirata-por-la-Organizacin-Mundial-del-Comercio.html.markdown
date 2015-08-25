@@ -54,6 +54,7 @@ Si en efecto Antigua soguiera adelante, será bastante interesante ver cómo los
 
 Es interesente recordar el <i>Mapa</i> de la propiedad intelectual en el mundo, hacía dónde van los pagos de derechos de autor:
 
-[caption id="attachment_4557" align="aligncenter" width="860"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-full wp-image-4557" alt="Patentes Otorgadas por país" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png" width="860" height="423" /></a> Patentes Otorgadas por país[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-full wp-image-4557" alt="Patentes Otorgadas por país" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png" width="860" height="423" /></a> Patentes Otorgadas por país
+
 <p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Màs sobre este mapa, en esta entrada del post</a></strong></p>
 <p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/8326/retaliacion-cruzada-del-algodon-algunas-sugerencias-para-el-gobierno-brasileno">Algunas sugerencias para el caso brasileño</a></strong></p>

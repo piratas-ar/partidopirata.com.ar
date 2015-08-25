@@ -21,7 +21,8 @@ En una declaración extraordinaria, la fundamentalista del monopolio de los dere
 
 En una entrevista que acaba de publicarse (en francés), Marielle Gallo - nada menos que un miembro del Parlamento Europeo - llama a las campañas contra el ACTA ", una forma suave de terrorismo" <em>(une forme douce de terrorisme)</em> Sí, <strong>realmente lo dice.</strong>  que los ciudadanos de Europa, de su circunscripción, que se comunican con sus colegas en el Parlamento con respecto a un asunto relativo a política deben ser consideradas como <strong>terroristas.</strong>
 
-[caption id="attachment_5033" align="aligncenter" width="621"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png"><img class="size-full wp-image-5033" title="Screenshot_2012-06-26-13-49-38-621x349" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png" alt="" width="621" height="349" /></a> Captura de pantalla de Inpact PC con la entrevista a Gallo (en francés)[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png"><img class="size-full wp-image-5033" title="Screenshot_2012-06-26-13-49-38-621x349" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png" alt="" width="621" height="349" /></a> Captura de pantalla de Inpact PC con la entrevista a Gallo (en francés)
+
 
 Esto muestra un par de cosas.
 <ol>

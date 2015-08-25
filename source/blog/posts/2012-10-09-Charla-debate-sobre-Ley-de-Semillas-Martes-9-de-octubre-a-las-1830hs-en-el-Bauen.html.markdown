@@ -36,4 +36,5 @@ Cordialmente</pre>
 
 <hr />
 
-[caption id="attachment_6778" align="alignright" width="1024"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg"><img class="size-full wp-image-6778" title="Charla-debate sobre Ley de Semillas" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg" alt="" width="1024" height="287" /></a> Charla-debate sobre Ley de Semillas[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg"><img class="size-full wp-image-6778" title="Charla-debate sobre Ley de Semillas" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg" alt="" width="1024" height="287" /></a> Charla-debate sobre Ley de Semillas
+

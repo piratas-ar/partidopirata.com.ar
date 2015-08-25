@@ -18,7 +18,8 @@ wppost_name: juez-una-direccion-ip-no-identifica-a-una-persona-o-a-un-pirata-de-
 
 <strong><a href="http://torrentfreak.com/judge-an-ip-address-doesnt-identify-a-person-120503/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-[caption id="attachment_4325" align="alignright" width="225" caption="Dirección IP"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png"><img class="size-full wp-image-4325" title="ip-address" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png" alt="" width="225" height="153" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png"><img class="size-full wp-image-4325" title="ip-address" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png" alt="" width="225" height="153" /></a>
+
 
 Un fallo histórico en una de las muchas demandas en masa contra usuarios de BitTorrent en los EE.UU. ha sufrido un duro golpe en un, hasta el momento,  negocio lucrativo. Entre otras cosas, el juez de Nueva York, Gary Brown explica en gran detalle porqué una dirección IP no es evidencia suficiente para identificar a los infractores de derechos de autor.  De acuerdo con el Juez , esta falta de pruebas significa que muchos supuestos piratas usuarios de BitTorrent han sido acusado injustamente por los titulares de derechos de autor.
 

@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/a2012-05-13t161540
 wppost_name: mas-problemas-para-merkel-el-partido-pirata-ingresa-en-su-cuarto-parlamento-regional
 ---
 
-[caption id="attachment_4430" align="alignright" width="300" caption="Piratas Alemanes"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/a2012-05-13t161540z_68077757.jpg"><img class="size-medium wp-image-4430" title="a2012-05-13t161540z_68077757" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/a2012-05-13t161540z_68077757-300x200.jpg" alt="" width="300" height="200" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/a2012-05-13t161540z_68077757.jpg"><img class="size-medium wp-image-4430" title="a2012-05-13t161540z_68077757" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/a2012-05-13t161540z_68077757-300x200.jpg" alt="" width="300" height="200" /></a>
+
 
 <strong><a href="http://globalspin.blogs.time.com/2012/05/14/more-trouble-for-merkel-as-pirate-party-raids-its-fourth-state-parliament/" target="_blank">Fuente Globalspin.</a></strong>
 

@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho
 wppost_name: "%e2%80%9cix-jornada-de-derecho-de-autor-en-el-mundo-editorial%e2%80%9d-miente-miente-que-algo-quedara"
 ---
 
-[caption id="attachment_845" align="aligncenter" width="262" caption="Los Trolls del Derecho de autor acechando por ahí..."]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro.jpg"><img class="size-medium wp-image-845" title="jornada-de-derecho-de-autor-en-la-feria-del-libro" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro-262x300.jpg" alt="Monstruos del Derecho de Autor" width="262" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro.jpg"><img class="size-medium wp-image-845" title="jornada-de-derecho-de-autor-en-la-feria-del-libro" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro-262x300.jpg" alt="Monstruos del Derecho de Autor" width="262" height="300" /></a>
+
 
 Muy buen artículo sobre la "“IX Jornada de derecho de autor en el mundo editorial" publicado en <a href="http://www.derechoaleer.org/2011/04/miente-miente-que-algo-quedara.html" target="_blank">Derecho a Leer</a>
 <h3>Classics Monsters</h3>

@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10
 wppost_name: que-decia-el-cartel-de-la-persona-que-expulsaron-del-acto-de-la-fragata
 ---
 
-[caption id="attachment_8158" align="aligncenter" width="640"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png"><img class="size-full wp-image-8158" alt="La persona desplegando un cartel en el acto de la llegada de la Fragata Libertad" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png" width="640" height="360" /></a> La persona desplegando un cartel en el acto de la llegada de la Fragata Libertad, abajo a la derecha[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png"><img class="size-full wp-image-8158" alt="La persona desplegando un cartel en el acto de la llegada de la Fragata Libertad" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png" width="640" height="360" /></a> La persona desplegando un cartel en el acto de la llegada de la Fragata Libertad, abajo a la derecha
+
 
 <hr />
 

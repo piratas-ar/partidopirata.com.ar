@@ -15,7 +15,8 @@ wppost_name: paulo-coelho-mis-pensamientos-sobre-s-o-p-a
 
 <strong><a href="http://paulocoelhoblog.com/2012/01/20/welcome-to-pirate-my-books/" target="_blank">Fuente Blog de Paulo Coelho.</a></strong>
 
-[caption id="attachment_853" align="aligncenter" width="100" caption="Paulo Coelho Pirata"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg"><img class="size-full wp-image-853" title="coelhopirate" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg" alt="" width="100" height="128" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg"><img class="size-full wp-image-853" title="coelhopirate" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg" alt="" width="100" height="128" /></a>
+
 
 A mediados del siglo 20, empezaron a circular en la antigua Unión Soviética varios libros mimeografiados cuestionando al sistema político. Sus autores jamás ganaron un centavo de derechos de autor.
 Al contrario: fueron perseguidos, desmoralizados en la prensa oficial, exiliados a los famosos gulags en Siberia. Aún así, continuaron escribiendo.

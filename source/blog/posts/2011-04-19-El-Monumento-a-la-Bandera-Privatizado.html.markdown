@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/monumento-a-la-ban
 wppost_name: el-monumento-a-la-bandera-privatizado
 ---
 
-[caption id="attachment_778" align="aligncenter" width="225" caption="Monumento a la Bandera-Rosario"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/monumento-a-la-bandera-rosario-argentina.jpg"><img class="size-medium wp-image-778" title="Monumento a la Bandera-Rosario" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/monumento-a-la-bandera-rosario-argentina-225x300.jpg" alt="" width="225" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/monumento-a-la-bandera-rosario-argentina.jpg"><img class="size-medium wp-image-778" title="Monumento a la Bandera-Rosario" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/monumento-a-la-bandera-rosario-argentina-225x300.jpg" alt="" width="225" height="300" /></a>
+
 
 <a href="http://www.vialibre.org.ar/2011/04/18/dia-mundial-de-la-propiedad-intelectual-el-derecho-de-autor-y-las-restricciones-a-la-cultura/" target="_blank">A través de un comentario en una entrada de la Fundación Vía Libre </a>
 

@@ -18,7 +18,8 @@ wppost_name: siguiendo-con-el-tema-del-guardado-de-asignaciones-de-direcciones-i
 <p style="text-align: left;">Vamos a ver qué peligros lleva guardar esa información:</p>
 
 
-[caption id="attachment_5015" align="aligncenter" width="500"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web1.jpg.scaled5001.jpg"><img class="alignright size-full wp-image-5016" title="historia_xcf_web.jpg.scaled500" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web1.jpg.scaled5001.jpg" alt="" width="500" height="1559" /></a> <a href="https://www.rubens.net.br/pela-defesa-do-logzero-no-marcocivil" target="_blank"> Diseño de Rubens Menezes sobre las direcciones IP y el peligro de su almacenamiento.</a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web1.jpg.scaled5001.jpg"><img class="alignright size-full wp-image-5016" title="historia_xcf_web.jpg.scaled500" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web1.jpg.scaled5001.jpg" alt="" width="500" height="1559" /></a> <a href="https://www.rubens.net.br/pela-defesa-do-logzero-no-marcocivil" target="_blank"> Diseño de Rubens Menezes sobre las direcciones IP y el peligro de su almacenamiento.</a>
+
 
 &nbsp;
 

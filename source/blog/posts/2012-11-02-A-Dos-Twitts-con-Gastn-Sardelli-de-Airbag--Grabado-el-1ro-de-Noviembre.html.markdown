@@ -52,7 +52,8 @@ Una segunda parte de A dos Twitts</p>
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/adostwitts-gaston-sardelli-audios-mp3_rf_1544308_1.html" target="_blank">en este link.</a></strong></p>
 
 
-[caption id="attachment_7210" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart1.png"><img class="size-full wp-image-7210" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart1.png" alt="" width="150" height="150" /></a> Código QR del audio de la charla.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart1.png"><img class="size-full wp-image-7210" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart1.png" alt="" width="150" height="150" /></a> Código QR del audio de la charla.
+
 
 <hr />
 
@@ -65,4 +66,5 @@ El otro archivo de audio grande que está en el canal de <em>A dos twitts</em>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/adostwitts-gaston-sardelli-segunda-parte-audios-mp3_rf_1544353_1.html" target="_blank">en este link.</a></p>
 
 
-[caption id="attachment_7214" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart2.png"><img class="size-full wp-image-7214" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3 de la charla.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart2.png"><img class="size-full wp-image-7214" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3 de la charla.
+

@@ -37,7 +37,8 @@ Las tres medidas tienen el mérito de ser simples y facilmente mensurables, ya q
 Basta preguntarse cuánto es lo que el país paga en concepto de derechos de autor a los EE.UU.
 Recuerden el mapa del pago de royalties!
 
-[caption id="attachment_4557" align="aligncenter" width="602"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-full wp-image-4557" alt="Patentes Otorgadas por país" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png" width="602" height="296" /></a> Patentes Otorgadas por país[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-full wp-image-4557" alt="Patentes Otorgadas por país" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png" width="602" height="296" /></a> Patentes Otorgadas por país
+
 <p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Màs sobre este mapa, en esta entrada del post</a></strong></p>
 <strong>Argentina tiene un caso en la OMC contra EE.UU:</strong>
 

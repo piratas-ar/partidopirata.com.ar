@@ -38,7 +38,8 @@ Colocaron:
 
 <strong><a href="http://www.managingip.com/Article/3062449/The-50-most-influential-people-in-IP.html" target="_blank">Fuente Managing IP</a></strong>
 
-[caption id="attachment_5376" align="aligncenter" width="620"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg"><img class="size-full wp-image-5376" title="Schloemer_Bernd2" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg" alt="" width="620" height="450" /></a> Bernd Schlömer<br />Presidente del Partido Pirata Alemán[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg"><img class="size-full wp-image-5376" title="Schloemer_Bernd2" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg" alt="" width="620" height="450" /></a> Bernd Schlömer<br />Presidente del Partido Pirata Alemán
+
 
 <hr />
 

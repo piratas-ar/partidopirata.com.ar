@@ -22,7 +22,8 @@ Charlando con Pedro desde el <b>Acampe Cultural</b> y la movida para resistir la
 <center>
 <object id="player1683707" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1683707_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1683707" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1683707_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object></center>
 
-[caption id="attachment_8041" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart.png"><img class="size-full wp-image-8041" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart.png"><img class="size-full wp-image-8041" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 <ul>
 	<li style="text-align: center;"><strong><a href="https://twitter.com/salaalberdi" target="_blank">Twitter de la Sala Alberdi</a></strong></li>
 	<li style="text-align: center;"><strong><a href="https://www.facebook.com/lasalaalberdi" target="_blank" rel="me nofollow">Facebook de la Sala Alberdi </a></strong></li>

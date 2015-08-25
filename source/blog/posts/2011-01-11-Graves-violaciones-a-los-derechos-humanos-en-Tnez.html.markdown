@@ -32,7 +32,8 @@ wppost_name: graves-violaciones-a-los-derechos-humaos-en-tunez
 ---
 
 <strong>Miembro del Partido Pirata golpeado en prisión</strong>
-[caption id="attachment_464" align="alignleft" width="300" caption="Miembros del partido pirata de Túnez detenidos."]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/01/tpp.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2011/01/tpp.jpg" alt="" title="Miembros del partido pirata de Túnez detenidos." width="300" height="189" class="size-full wp-image-464" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/01/tpp.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2011/01/tpp.jpg" alt="" title="Miembros del partido pirata de Túnez detenidos." width="300" height="189" class="size-full wp-image-464" /></a>
+
 
 Fuentes internas de Túnez confirman que Azyz Ammami, miembro del Partido Pirata detenido, ha sido golpeado por la policia. Incluso fue forzado a tomar un abogado a favor del régimen en lugar de uno de su elección.
 

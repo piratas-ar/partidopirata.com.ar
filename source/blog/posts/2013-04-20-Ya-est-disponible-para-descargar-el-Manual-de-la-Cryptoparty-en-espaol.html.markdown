@@ -19,7 +19,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty-150x15
 wppost_name: ya-esta-disponible-para-descargar-el-manual-de-la-cryptoparty-en-espanol
 ---
 
-[caption id="attachment_9104" align="alignnone" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png" alt="Logo de la Cryptoparty" width="300" height="157" class="size-full wp-image-9104" /></a> Logo de la Cryptoparty[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png" alt="Logo de la Cryptoparty" width="300" height="157" class="size-full wp-image-9104" /></a> Logo de la Cryptoparty
+
 
 ¿Qué es una CryptoParty?
 

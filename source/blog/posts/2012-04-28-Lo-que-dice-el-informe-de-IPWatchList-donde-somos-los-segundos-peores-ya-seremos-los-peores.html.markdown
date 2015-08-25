@@ -16,7 +16,8 @@ wppost_name: lo-que-dice-el-informe-de-ipwatchlist-donde-somos-los-segundos-peor
 
 &nbsp;
 
-[caption id="attachment_4236" align="aligncenter" width="300" caption="Somos la segunda peor ley de derechos de autor del mundo, ya vamos a ser los peores absolutos!!"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg"><img class="size-full wp-image-4236" title="watchlist1-300x164" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg" alt="" width="300" height="164" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg"><img class="size-full wp-image-4236" title="watchlist1-300x164" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg" alt="" width="300" height="164" /></a>
+
 
 <hr />
 

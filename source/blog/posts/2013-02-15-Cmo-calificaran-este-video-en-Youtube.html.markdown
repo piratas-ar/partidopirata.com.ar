@@ -23,19 +23,23 @@ wppost_name: como-calificarian-este-video-en-youtube
 
 Si se fijan <strong><a href="http://youtu.be/xZ9U3-EQWAo" target="_blank">en la base del video a la derecha</a> </strong>verán una banderita negra para calificar el video,presionando ahí les pide que se registren o que accedan con su cuenta, si usan Gmail es esa cuenta:
 
-[caption id="attachment_8450" align="aligncenter" width="636"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubebanderita.png"><img class="size-full wp-image-8450" alt="La &quot;banderita&quot; para calificar el video" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubebanderita.png" width="636" height="161" /></a> La "banderita" para calificar el video[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubebanderita.png"><img class="size-full wp-image-8450" alt="La &quot;banderita&quot; para calificar el video" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubebanderita.png" width="636" height="161" /></a> La "banderita" para calificar el video
+
 <p style="text-align: center;"><strong>Las opciones que nos otorga Youtube para calificar un video son las que aparecen a continuación:</strong></p>
 
 
-[caption id="attachment_8449" align="aligncenter" width="650"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png"><img class="size-full wp-image-8449" alt="Opciones para calificar un determinado video en Youtube" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png" width="650" height="493" /></a> Opciones para calificar un determinado video en Youtube[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png"><img class="size-full wp-image-8449" alt="Opciones para calificar un determinado video en Youtube" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png" width="650" height="493" /></a> Opciones para calificar un determinado video en Youtube
+
 
 <hr />
 
-[caption id="attachment_8456" align="aligncenter" width="642"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia1.png"><img class="size-full wp-image-8456" alt="Las opciones que aparecen cuando elegimos Actividades peligrosas" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia1.png" width="642" height="517" /></a> Las opciones que aparecen cuando elegimos Actividades peligrosas[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia1.png"><img class="size-full wp-image-8456" alt="Las opciones que aparecen cuando elegimos Actividades peligrosas" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia1.png" width="642" height="517" /></a> Las opciones que aparecen cuando elegimos Actividades peligrosas
+
 
 <hr />
 
-[caption id="attachment_8458" align="aligncenter" width="621"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia2.png"><img class="size-full wp-image-8458" alt="Como queda la denuncia después" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia2.png" width="621" height="435" /></a> Como queda la denuncia después[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia2.png"><img class="size-full wp-image-8458" alt="Como queda la denuncia después" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia2.png" width="621" height="435" /></a> Como queda la denuncia después
+
 
 <hr />
 <p style="text-align: center;"><strong>Si quieren saber algo más sobre lo que produce el <i>Fracking</i> los invitamos a ver el documental Gasland:</strong></p>

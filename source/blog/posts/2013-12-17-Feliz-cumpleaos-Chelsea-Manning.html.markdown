@@ -25,4 +25,5 @@ Casi nada ha cambiado desde que fue encarcelada, ya que Chelsea Manning tendrá 
 
 <em>Traducción de la nota original aparecida e</em>n http://piratetimes.net/chelsea-mannings-first-birthday-in-prison/
 
-[caption id="attachment_9300" align="alignnone" width="199"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/12/man2-199x300.jpg"><img class="size-full wp-image-9300" alt="Happy birthday, hero" src="http://partidopirata.com.ar/wp-content/uploads/2013/12/man2-199x300.jpg" width="199" height="300" /></a> Happy birthday, hero[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/12/man2-199x300.jpg"><img class="size-full wp-image-9300" alt="Happy birthday, hero" src="http://partidopirata.com.ar/wp-content/uploads/2013/12/man2-199x300.jpg" width="199" height="300" /></a> Happy birthday, hero
+

@@ -19,7 +19,8 @@ Sobre Open Access, presionen donde dice CC en rojo para ver los subtítulos en e
 
 <hr />
 
-[caption id="attachment_4526" align="alignright" width="273" caption="Infotecarios"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png"><img class="size-full wp-image-4526" title="arthemia_logo" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png" alt="" width="273" height="79" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png"><img class="size-full wp-image-4526" title="arthemia_logo" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png" alt="" width="273" height="79" /></a>
+
 
 <strong>Sobre Open Access:</strong>
 

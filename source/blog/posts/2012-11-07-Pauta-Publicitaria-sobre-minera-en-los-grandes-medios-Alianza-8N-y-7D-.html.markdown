@@ -39,7 +39,8 @@ Pauta Publicitaria de Barrrick Gold en Radio Mitre luego del programa de Chiche 
 
 <hr />
 
-[caption id="attachment_7282" align="aligncenter" width="513"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png"><img class="size-full wp-image-7282" title="barrick" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png" alt="" width="513" height="121" /></a> Vía Twitter <a href="https://twitter.com/AlejoGariglio">nos dicen los otros medios donde hay pauta sobre minería</a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png"><img class="size-full wp-image-7282" title="barrick" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png" alt="" width="513" height="121" /></a> Vía Twitter <a href="https://twitter.com/AlejoGariglio">nos dicen los otros medios donde hay pauta sobre minería</a>
+
 
 Así que para leer o acceder a información crítica sobre minería habrá que buscar medios alternativos.
 <p style="text-align: center;"><strong>Fíjense esta nota de la <a href="http://www.redeco.com.ar/nv/index.php?option=com_content&amp;task=view&amp;id=9217&amp;Itemid=130" target="_blank">Agencia Oficial de Noticias Telam</a></strong></p>
@@ -49,4 +50,5 @@ Así que para leer o acceder a información crítica sobre minería habrá que b
 
 <hr />
 
-[caption id="attachment_7290" align="aligncenter" width="572"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/dailymotionpauta.png"><img class="size-full wp-image-7290" title="dailymotionpauta" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/dailymotionpauta.png" alt="" width="572" height="338" /></a> La censura al video con la pauta publicitaria sobre megaminería en Palabras +, -[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/dailymotionpauta.png"><img class="size-full wp-image-7290" title="dailymotionpauta" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/dailymotionpauta.png" alt="" width="572" height="338" /></a> La censura al video con la pauta publicitaria sobre megaminería en Palabras +, -
+

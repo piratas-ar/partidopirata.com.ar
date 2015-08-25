@@ -72,4 +72,5 @@ Por el momento, el partido les propone a sus candidatos, diferentes fórmulas pa
 
 Traducción Susana Merino
 
-[caption id="attachment_3982" align="aligncenter" width="540" caption="Partido Pirata de Francia"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg"><img class="size-full wp-image-3982" title="1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg" alt="" width="540" height="270" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg"><img class="size-full wp-image-3982" title="1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg" alt="" width="540" height="270" /></a>
+

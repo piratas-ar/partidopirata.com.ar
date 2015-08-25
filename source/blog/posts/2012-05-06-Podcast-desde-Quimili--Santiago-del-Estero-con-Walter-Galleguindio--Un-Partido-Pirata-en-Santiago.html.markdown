@@ -38,11 +38,13 @@ Te mando unas fotos son de un amigo colaborador del MoCaSE el fotógrafo <strong
 
 <hr />
 
-[caption id="attachment_4353" align="aligncenter" width="300" caption="Chicos Trabajando en el carbón en Quimili-Santiago del Estero."]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152.jpg"><img class="size-medium wp-image-4353" title="f142688152" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152.jpg"><img class="size-medium wp-image-4353" title="f142688152" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152-300x199.jpg" alt="" width="300" height="199" /></a>
+
 
 <hr />
 
-[caption id="attachment_4352" align="aligncenter" width="300" caption="Rancho en Quimili - Santiago del Estero"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142687440.jpg"><img class="size-medium wp-image-4352" title="f142687440" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142687440-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142687440.jpg"><img class="size-medium wp-image-4352" title="f142687440" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142687440-300x199.jpg" alt="" width="300" height="199" /></a>
+
 
 <hr />
 

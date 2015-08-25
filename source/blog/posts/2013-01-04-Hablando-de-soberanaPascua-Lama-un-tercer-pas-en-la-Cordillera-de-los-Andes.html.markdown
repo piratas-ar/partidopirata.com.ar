@@ -16,7 +16,8 @@ wppost_name: hablando-de-soberania-pascua-lama-un-tercer-pais-en-la-cordillera-d
 
 <strong><a href="http://www.montrealgazette.com/news/Pascua+Lama+third+country+Andes+cordillera/7703081/story.html" target="_blank">Fuente Montreal Gazette</a></strong>
 
-[caption id="attachment_8082" align="aligncenter" width="460"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/7704952.bin_.jpg"><img class="size-full wp-image-8082" alt="Mapa de Pascua Lama, &quot;país&quot; entre Argentina y Chile" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/7704952.bin_.jpg" width="460" height="474" /></a> Mapa de Pascua Lama, "país" entre Argentina y Chile[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/7704952.bin_.jpg"><img class="size-full wp-image-8082" alt="Mapa de Pascua Lama, &quot;país&quot; entre Argentina y Chile" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/7704952.bin_.jpg" width="460" height="474" /></a> Mapa de Pascua Lama, "país" entre Argentina y Chile
+
 
 <hr />
 

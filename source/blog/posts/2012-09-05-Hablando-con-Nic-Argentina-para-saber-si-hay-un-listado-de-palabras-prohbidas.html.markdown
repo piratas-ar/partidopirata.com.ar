@@ -27,7 +27,8 @@ La conversación con el servicio de atención de Nic Argentina.
 <a href="http://www.ivoox.com/hablando-nic-argentina-para-saber-sobre-los_md_1410088_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em><a href="http://www.ivoox.com/hablando-nic-argentina-para-saber-sobre-los-audios-mp3_rf_1410088_1.html" target="_blank">en este link.</a></center>
 
-[caption id="attachment_6355" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart3.png"><img class="size-full wp-image-6355" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart3.png"><img class="size-full wp-image-6355" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 <hr />
 
@@ -38,14 +39,16 @@ Si el enlace anterior no funciona presionen en <em>descargar</em><a href="http:/
 
 <hr />
 
-[caption id="attachment_6359" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/fumateamauricio2.png"><img class="size-medium wp-image-6359" title="fumateamauricio" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/fumateamauricio2-300x128.png" alt="" width="300" height="128" /></a> El dominio fumateamauricio.com.ar se encuentra registrado desde el 27/08/2012.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/fumateamauricio2.png"><img class="size-medium wp-image-6359" title="fumateamauricio" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/fumateamauricio2-300x128.png" alt="" width="300" height="128" /></a> El dominio fumateamauricio.com.ar se encuentra registrado desde el 27/08/2012.
+
 <p style="text-align: center;"><strong>Fumateamauricio.com.ar</strong> se puede registrar, si querés registrar <strong>Fumateacristina.com.ar</strong> no se puede.</p>
 <p style="text-align: center;"><strong><a href="http://blog.smaldone.com.ar/2012/09/04/nic-argentina-prohibe-cristina-pero-acepta-mauricio/" target="_blank">La historia de Javier Smaldone y la negación del registro <em>Fumateacristina.com.ar</em></a></strong></p>
 
 
 <hr />
 
-[caption id="attachment_6354" align="aligncenter" width="360"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/macriputo.png"><img class=" wp-image-6354 " title="macriputo" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/macriputo-300x191.png" alt="" width="360" height="229" /></a> Registro de Macriputo.comar en Nic Argentina.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/macriputo.png"><img class=" wp-image-6354 " title="macriputo" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/macriputo-300x191.png" alt="" width="360" height="229" /></a> Registro de Macriputo.comar en Nic Argentina.
+
 <p style="text-align: center;"><strong>El registro de "Macri Puto" es del año 2009, supuestamente después se modificó la normativa para el registro de nombres.</strong>
 <strong> Habría que ver si algo similar podría registrarse ahora.</strong>
 <strong> <a href="http://blog.smaldone.com.ar/2012/09/04/nic-argentina-prohibe-cristina-pero-acepta-mauricio/" target="_blank">La historia de Javier Smaldone y la negación del registro <em>Fumateacristina.com.ar</em></a></strong></p>

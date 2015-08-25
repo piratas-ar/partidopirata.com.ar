@@ -24,7 +24,8 @@ wppost_name: la-libertad-de-la-web-esta-cada-vez-mas-amenazada-advierte-a-sergey
 
 <strong>Exclusivo:</strong> Las amenazas van desde los gobiernos que intentan controlar a los ciudadanos a la aparición de Facebook y los "jardines amurallados" estilo Apple.
 
-[caption id="attachment_3989" align="aligncenter" width="460" caption="Sergey Brin dice que él y el cofundador de Google Larry Page, no habrían sido capaces de crear al gigante de las búsquedas si Internet hubiera estaba dominada por Facebook. Fotografía: Justin Sullivan / Getty Images"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg"><img class="size-full wp-image-3989" title="Sergey Brin" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg" alt="" width="460" height="276" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg"><img class="size-full wp-image-3989" title="Sergey Brin" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg" alt="" width="460" height="276" /></a>
+
 
 Los principios de transparencia y de acceso universal que sustentaron la creación de<a title="More from guardian.co.uk on Internet" href="http://www.guardian.co.uk/technology/internet">internet</a> hace tres décadas, están más amenazados que nunca, según  <a title="More from guardian.co.uk on Sergey Brin" href="http://www.guardian.co.uk/media/sergeybrin">Sergey Brin</a>, cofundador de Google .
 

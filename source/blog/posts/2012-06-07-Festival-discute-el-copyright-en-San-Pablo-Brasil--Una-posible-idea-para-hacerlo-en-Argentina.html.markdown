@@ -18,7 +18,8 @@ wppost_name: festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-par
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/festival-discute-copyright-em-sp/" target="_blank">Fuente Blog P2P-Tatiana de Mello Dias</a></strong>
 
-[caption id="attachment_4672" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
+
 
 Empieza en São Paulo el próximo miércoles el ciclo “Copy, right?”. con películas y documentales que discuten a la cultura libre.
 

@@ -27,7 +27,8 @@ wppost_name: a-dos-twitts-musicos-independientes-y-nuevas-tecnologias-tocan-y-de
 <p style="text-align: center;">Si el enlace anterior no funcoiona presionen en <em>descargar</em> <a href="http://www.ivoox.com/a-dos-twitts-musicos-independientes-nuevas-tecnologias-audios-mp3_rf_1492269_1.html" target="_blank">en este link.</a></p>
 
 
-[caption id="attachment_6832" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart3.png"><img class="size-full wp-image-6832" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart3.png"><img class="size-full wp-image-6832" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 &nbsp;
 

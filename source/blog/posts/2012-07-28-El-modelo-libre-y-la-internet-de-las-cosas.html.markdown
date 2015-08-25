@@ -35,7 +35,8 @@ PORTO ALEGRE – El uso de software y hardware libre en un tiempo en que todo y 
 
 Cascardo prevé un salto de 5 mil millones a 50 mil millones de objetos conectados hasta 2020. Si esos dispositivos y los softwares que los controlan estuvieran basados en formato cerrado, será imposible saber qué tipo de información es recolectadas y de que manera los datos obtenidos son tratados, pudiento haber agujeros en la privacidad.
 
-[caption id="attachment_5633" align="alignright" width="390"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/brasuino.jpg"><img title="brasuino" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/brasuino.jpg" alt="" width="390" height="265" /></a> Brasuíno, la versión brasileña de la plataforma pró hardware libre Arduino. FOTO: Divulgación[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/brasuino.jpg"><img title="brasuino" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/brasuino.jpg" alt="" width="390" height="265" /></a> Brasuíno, la versión brasileña de la plataforma pró hardware libre Arduino. FOTO: Divulgación
+
 
 “Las personas tienen que tener el control sobre las cosas que poseen, no sólo el control, sino el conocimiento sobre aquello. Para eso, es necesaria transparencia”, dice Cascardo. “A partir de Arduino mostré como construir esa internet de las cosas.”
 

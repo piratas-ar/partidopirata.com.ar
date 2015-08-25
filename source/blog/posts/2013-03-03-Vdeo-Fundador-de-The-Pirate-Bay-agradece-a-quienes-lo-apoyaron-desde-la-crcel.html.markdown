@@ -21,7 +21,8 @@ Desde hace años y a pesar de las adversidades y la oposición, The Pirate Bay h
 
 Aunque hoy el sitio está tan fuerte como siempre, ha habido costos a lo largo del camino. Los cuatro individuos involucrados en los primeros días del sitio fueron declarados culpables de los delitos de infracción de derechos de autor y condenados a fuertes multas y penas de cárcel.
 
-[caption id="attachment_6503" align="alignright" width="200"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg"><img class="size-full wp-image-6503" alt="Gottfrid Svartholm cofundador de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg" width="200" height="248" /></a> Gottfrid Svartholm cofundador de The Pirate Bay[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg"><img class="size-full wp-image-6503" alt="Gottfrid Svartholm cofundador de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg" width="200" height="248" /></a> Gottfrid Svartholm cofundador de The Pirate Bay
+
 
 Mientras Fredrik Neij y Peter Sunde siguen siendo hombres libres, hay que tener cuidado con los últimos movimientos alrededor de ellos, sobre todo en Suecia. Durante una reciente entrevista la policía detuvo a un automovilista casualmente con exceso de velocidad cerca de donde Peter estaba hablando con la prensa. Él estaba evidentemente cauteloso.
 

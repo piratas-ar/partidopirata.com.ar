@@ -22,7 +22,8 @@ wppost_name: horizonte-sur-analizando-el-discurso-de-la-presidente-cristina-kirc
 <a href="http://www.ivoox.com/horizonte-sur-del-16-junio-2012_md_1289941_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presione en <em>descargar</em> <a href="http://www.ivoox.com/horizonte-sur-del-16-junio-2012-audios-mp3_rf_1289941_1.html" target="_blank">En el siguiente link.</a>
 
-[caption id="attachment_4793" align="aligncenter" width="150" caption="Código QR de la dirección donde está el audio del programa"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png"><img class="size-full wp-image-4793" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png" alt="" width="150" height="150" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png"><img class="size-full wp-image-4793" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png" alt="" width="150" height="150" /></a>
+
 
 <hr />
 

@@ -30,7 +30,8 @@ El uso de DRM es polémico. Los que abogan por su uso, argumentan que es necesar
 
 <hr />
 
-[caption id="attachment_4318" align="aligncenter" width="500" caption="Día Mundial contra el DRM"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png"><img class="size-full wp-image-4318" title="NoDRM.es-500" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png" alt="" width="500" height="707" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png"><img class="size-full wp-image-4318" title="NoDRM.es-500" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png" alt="" width="500" height="707" /></a>
+
 <p style="text-align: center;"><strong><a href="http://volantini.votopirata.it/NoDRM.es.svg" target="_blank">En un tamaño mayor.</a></strong></p>
 <p style="text-align: center;"><strong>Gracias al<a href="http://votopirata.it/" target="_blank"> Partido Pirata Italiano</a> por su diseño y por compartirlo con nosotros.</strong></p>
 <p style="text-align: center;"><strong><a href="http://volantini.votopirata.it/" target="_blank">Here in english and other languages</a></strong></p>

@@ -19,7 +19,8 @@ wppost_name: situacion-actual-de-la-sala-alberdi-festival-23-de-mayo
 <p style="text-align: center;"><strong>*Sala Alberdi TOMA Y AUTOGESTIÓN*</strong></p>
 
 
-[caption id="attachment_4538" align="aligncenter" width="212" caption="Festival en la Sala Alberdi"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/festivaldesalojoweb1.jpg"><img class="size-medium wp-image-4538 " title="festivaldesalojoweb" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/festivaldesalojoweb1-212x300.jpg" alt="" width="212" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/festivaldesalojoweb1.jpg"><img class="size-medium wp-image-4538 " title="festivaldesalojoweb" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/festivaldesalojoweb1-212x300.jpg" alt="" width="212" height="300" /></a>
+
 
 <hr />
 <p style="text-align: center;"><strong>*FESTIVAL CONTRA EL DESALOJO!*</strong>

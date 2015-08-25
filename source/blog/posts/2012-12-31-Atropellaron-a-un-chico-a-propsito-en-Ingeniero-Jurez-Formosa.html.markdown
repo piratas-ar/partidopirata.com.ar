@@ -35,7 +35,8 @@ Agustín nos dice que andar en bicicleta por la ruta es peligroso, que si sos wi
 <strong> <a href="http://www.ivoox.com/con-agustin-santillan-para-saber-esta-pasando-audios-mp3_rf_1678659_1.html" target="_blank"> en este link.</a></strong></p>
 
 
-[caption id="attachment_7987" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart7.png"><img class="size-full wp-image-7987" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart7.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart7.png"><img class="size-full wp-image-7987" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart7.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 <hr />
 

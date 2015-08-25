@@ -19,7 +19,8 @@ wppost_name: podcast-con-sebastian-sobre-la-p2pwikisprint-del-20-de-marzo
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en<i> descargar</i> <a href="http://www.ivoox.com/con-sebastian-sobre-p2pwikisprint-del-20-de-audios-mp3_rf_1873312_1.html" target="_blank">en este link.</a></strong></p>
 
 
-[caption id="attachment_8851" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart8.png"><img class="size-full wp-image-8851" alt="Código QR de la dirección del archivo mp3." src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart8.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart8.png"><img class="size-full wp-image-8851" alt="Código QR de la dirección del archivo mp3." src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart8.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 &nbsp;
 

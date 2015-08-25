@@ -42,7 +42,8 @@ El escritor no ve problemas en tener sus obras circulando online. “Tengo una b
 
 Los autores de la carta dicen que el público que baja es el mismo que compra libros. Eduardo Sterzi lo refuerza al decir que considera la oposición “comprar contra bajar” le parece falsa. “La verdadera alternativa es entre comprar o bajar versus no leer”.
 
-[caption id="attachment_4812" align="aligncenter" width="401" caption="Ofertas de libros en Brasil"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale.jpg"><img class=" wp-image-4812 " title="quantovale" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale-290x300.jpg" alt="" width="401" height="414" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale.jpg"><img class=" wp-image-4812 " title="quantovale" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale-290x300.jpg" alt="" width="401" height="414" /></a>
+
 <ul>
 	<li><strong>17,5</strong> de la bibliografía exigida en los cursos de Derecha, Medicina e Ingeniería de la USP no están disponibles en la biblioteca.</li>
 	<li><strong>Mas: 46,2 %</strong> de ellos están agotados</li>

@@ -21,7 +21,8 @@ wppost_name: rapidshare-se-prepara-para-la-eliminacion-en-masa-de-archivos-de-lo
 
 RapidShare ha anunciado un cambio en su modelo de negocio que está causando pánico entre sus usuarios no premiums. Después de ofrecer espacio de almacenamiento ilimitado para los clientes que utilizan su servicio gratuito, el alojador de archivos con sede en Suiza está a punto de implementar duros nuevos límites. Este miércoles todos los clientes gratuitos estarán limitados a sólo 5 GB de almacenamiento gratuito si deciden no pagar por una cuenta premium. Todos los archivos alojados en exceso serán borrados para siempre el 3 de abril.
 
-[caption id="attachment_4148" align="alignright" width="200"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg"><img class="size-full wp-image-4148" alt="Logo de Rapidshare" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg" width="200" height="148" /></a> Logo de Rapidshare[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg"><img class="size-full wp-image-4148" alt="Logo de Rapidshare" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg" width="200" height="148" /></a> Logo de Rapidshare
+
 
 En el mundo super-conectado de hoy ya no tenemos que almacenar datos únicamente en nuestras máquinas de escritorio. Ahora podemos subirlos en "la nube" y acceder a ella sin problemas desde cualquiera de nuestros dispositivos sin importar donde estemos. Es conveniente en gran escala pero trae nuevas preocupaciones sobre la otra cara - la falta de control sobre nuestros propios datos.
 

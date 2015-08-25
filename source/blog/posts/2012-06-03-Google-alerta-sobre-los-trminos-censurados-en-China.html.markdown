@@ -24,7 +24,8 @@ SÃO PAULO – Google creó un sistema de alertas que buscan ayudar a la poblaci
 Dependiendo del término, si es previamente censurado por el gobierno chino, la conexión del usuario con los servidores de Google es interrumpida y mensajes como “Esa página no está disponible” o “La conexión fue reiniciada” aparecian en la pantalla (<em>veanlo en el vídeo abajo</em>).
 <div class="mceTemp mceIEcenter" style="text-align: center;"><dl id="attachment_4612" class="wp-caption  aligncenter" style="width: 310px;"><dt class="wp-caption-dt"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1.png"><img class=" wp-image-4612" title="google-china1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1-300x133.png" alt="" width="300" height="133" /></a></dt><dd class="wp-caption-dd">Censura de Google en China 1
 
-[caption id="attachment_4613" align="aligncenter" width="300" caption="Censura de Google en China 2"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2.png"><img class="size-medium wp-image-4613" title="google-china2" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2-300x133.png" alt="" width="300" height="133" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2.png"><img class="size-medium wp-image-4613" title="google-china2" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2-300x133.png" alt="" width="300" height="133" /></a>
+
 
 </dd></dl></div>
 &nbsp;

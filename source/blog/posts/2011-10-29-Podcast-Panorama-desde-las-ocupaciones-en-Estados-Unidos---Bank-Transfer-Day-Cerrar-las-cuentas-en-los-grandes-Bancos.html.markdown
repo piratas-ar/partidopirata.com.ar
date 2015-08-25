@@ -51,4 +51,5 @@ Presionen en <em>play</em> para escucharlo sin descargar o
 
 
 <hr />
-[caption id="attachment_1911" align="aligncenter" width="245" caption="Occupy Wall Street"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg"><img class="size-full wp-image-1911" title="wallst-250-3" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg" alt="Occupy Wall Street" width="245" height="320" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg"><img class="size-full wp-image-1911" title="wallst-250-3" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg" alt="Occupy Wall Street" width="245" height="320" /></a>
+

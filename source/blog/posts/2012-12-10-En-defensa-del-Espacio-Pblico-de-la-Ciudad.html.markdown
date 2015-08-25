@@ -24,7 +24,8 @@ Entrevista a Martín Iomi, comunero de la comuna sexta convocando a la defensa d
 <a href="http://www.ivoox.com/por-defensa-del-espacio-publico-pacto-prok_md_1634686_1.mp3" target="_blank">Si quieren descargar el archivo del audio.</a>
 Si el enlace anterior no funciona pueden descargarlo presionando donde dice <em>descargar</em> <a href="http://www.ivoox.com/por-defensa-del-espacio-publico-pacto-prok-audios-mp3_rf_1634686_1.html" target="_blank">en este link.</a></center>
 
-[caption id="attachment_7769" align="alignright" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart1.png"><img class="size-full wp-image-7769" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart1.png"><img class="size-full wp-image-7769" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 Entrevista realizada en el programa Sueños Posibles del 3 de Diciembre <a href="http://partido-pirata.blogspot.com/2012/12/suenos-posibles-3-de-diciembre.html"> si quieren escuchar todo el programa</a><strong><a href="http://partidopirata.com.ar/7688/participar-de-las-audiencias-publicas-donde-se-decidira-la-privatizacion-de-espacios-publicos-de-la-ciudad">Más sobre la entrega de la ciudad por parte del Pacto Pro K</a></strong>
 <p style="text-align: center;"><strong>Marcha Contra el Pacto Pro-K  y la entrega de la ciudad:</strong></p>

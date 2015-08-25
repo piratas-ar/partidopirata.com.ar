@@ -38,4 +38,5 @@ Audio del encuentro:
 <p style="text-align: center;"><strong>Si el enlace no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/madrid-ciudad-p2p-encuentro-michel-bowuens-audios-mp3_rf_1895307_1.html" target="_blank"> en este link.</a></strong></p>
 
 
-[caption id="attachment_8949" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart10.png"><img class="size-full wp-image-8949" alt="Código QR de la dirección del archivo de audio" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart10.png" width="150" height="150" /></a> Código QR de la dirección del archivo de audio[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart10.png"><img class="size-full wp-image-8949" alt="Código QR de la dirección del archivo de audio" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart10.png" width="150" height="150" /></a> Código QR de la dirección del archivo de audio
+

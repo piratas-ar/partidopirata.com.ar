@@ -41,4 +41,5 @@ Sobre la Tragedia de los Comunes, presionen donde dice CC en fondo rojo para ver
 
 &nbsp;
 
-[caption id="attachment_4785" align="aligncenter" width="200"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg"><img class="size-full wp-image-4785" title="200px-Nobel_Prize_2009-Press_Conference_KVA-30" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg" alt="" width="200" height="297" /></a> Elinor Ostrom[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg"><img class="size-full wp-image-4785" title="200px-Nobel_Prize_2009-Press_Conference_KVA-30" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg" alt="" width="200" height="297" /></a> Elinor Ostrom
+

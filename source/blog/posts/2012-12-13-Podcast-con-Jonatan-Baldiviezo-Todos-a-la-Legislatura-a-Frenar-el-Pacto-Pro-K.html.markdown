@@ -31,7 +31,8 @@ Todos a la legislatura para frenar esta entrega de la Ciudad a la empresa IRSA!
 <p style="text-align: center;"><strong>Reemplacen # por @</strong></p>
 
 
-[caption id="attachment_7808" align="alignright" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png"><img class="size-full wp-image-7808" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png" alt="" width="150" height="150" /></a> Código QR de la Dirección del Archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png"><img class="size-full wp-image-7808" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png" alt="" width="150" height="150" /></a> Código QR de la Dirección del Archivo mp3
+
 
 <hr />
 

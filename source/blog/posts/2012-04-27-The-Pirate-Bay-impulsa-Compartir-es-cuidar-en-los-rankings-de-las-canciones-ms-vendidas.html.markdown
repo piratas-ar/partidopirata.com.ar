@@ -18,7 +18,8 @@ wppost_name: the-pirate-bay-impulsa-compartir-es-cuidar-en-los-rankings-de-las-c
 
 <strong><a href="https://torrentfreak.com/pirate-bay-boosts-sharing-is-caring-into-the-music-charts-120427/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-[caption id="attachment_4229" align="alignright" width="225" caption="Compartir es Cuidar en los más vendidos."]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/caring.png"><img class="size-full wp-image-4229" title="caring" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/caring.png" alt="" width="225" height="286" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/caring.png"><img class="size-full wp-image-4229" title="caring" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/caring.png" alt="" width="225" height="286" /></a>
+
 
 Los piratas de todo el mundo están trabajando en un intento de asaltar los rankings individuales de canciones más vendids, y con la ayuda del sitio más notorio de BitTorrents estos esfuerzos están dando sus frutos. Abrazando el mantra de The Pirate Bay, la canción  Dan Bull "Compartir es cuidar" aparece ahora en una variedad de listas de descargas diarias, obteniendo un puesto en las listas oficiales de canciones semanales de todo el mundo este fin de semana.
 

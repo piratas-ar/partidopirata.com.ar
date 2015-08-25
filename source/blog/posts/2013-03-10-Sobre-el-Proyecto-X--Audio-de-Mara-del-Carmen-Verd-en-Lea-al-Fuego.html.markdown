@@ -19,7 +19,8 @@ Segmento del programa Leña al Fuego del 9 de Marzo con la participación de Mar
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/maria-del-carmen-verdu-lena-al-fuego_md_1855083_1.mp3" target="_blank">Si quieren descargar el archvio mp3</a></strong></p>
 
 
-[caption id="attachment_8712" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart5.png"><img class="size-full wp-image-8712" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart5.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart5.png"><img class="size-full wp-image-8712" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart5.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 <hr />
 

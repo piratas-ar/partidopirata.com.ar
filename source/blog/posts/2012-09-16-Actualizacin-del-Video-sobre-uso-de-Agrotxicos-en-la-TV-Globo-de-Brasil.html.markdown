@@ -42,7 +42,8 @@ wppost_name: actualizacion-del-video-sobre-uso-de-agrotoxicos-en-la-tv-globo-de-
 
 <hr />
 
-[caption id="attachment_6498" align="aligncenter" width="480"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/vlcsnap-2012-09-16-16h59m20s56.png"><img class="size-full wp-image-6498" title=" Aldair Gomes Costa, gerente da empresa," src="http://partidopirata.com.ar/wp-content/uploads/2012/09/vlcsnap-2012-09-16-16h59m20s56.png" alt="" width="480" height="360" /></a> <strong>José Aldair Gomes Costa, gerente agrícola de la empresa acusado de mandar a matar a José María Xavier</strong>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/vlcsnap-2012-09-16-16h59m20s56.png"><img class="size-full wp-image-6498" title=" Aldair Gomes Costa, gerente da empresa," src="http://partidopirata.com.ar/wp-content/uploads/2012/09/vlcsnap-2012-09-16-16h59m20s56.png" alt="" width="480" height="360" /></a> <strong>José Aldair Gomes Costa, gerente agrícola de la empresa acusado de mandar a matar a José María Xavier</strong>
+
 
 En el final de la segunda parte nos enteramos que a José María Xavier lo mataron y que uno de los acusados es<strong> José Aldair Gomes Costa</strong>, gerente agrícola de la empresa.
 Me llama la atención que no aparezca una foto ni nada, si no fuera por el abogado defensor no nos enteraríamos que uno de los acusados es el <em>experto</em> que tanto dijo que cuidaba para no contaminar a la gente, que defendía las fumigaciones aéreas.

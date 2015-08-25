@@ -15,7 +15,8 @@ thumb:
 wppost_name: "%c2%bfun-llamado-a-la-pirateria-si-se-traba-la-entrada-de-peliculas-extranjeras"
 ---
 
-[caption id="attachment_2360" align="aligncenter" width="468" caption="Guillermo Moreno - Secretario de Comercio"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg"><img class="size-full wp-image-2360" title="Guillermo Moreno" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg" alt="Secretario de Comercio" width="468" height="320" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg"><img class="size-full wp-image-2360" title="Guillermo Moreno" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg" alt="Secretario de Comercio" width="468" height="320" /></a>
+
 
 <hr />
 

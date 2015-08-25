@@ -58,6 +58,7 @@ Un ingeniero agrónomo, integrante del paren de fumigar en Toledo, denuncia el c
 <p style="text-align: center;"><strong><a href="www.juicioalafumigacion.com.ar/" target="_blank">Sobre el juicio a los fumigadores en Córdoba</a></strong></p>
 
 
-[caption id="attachment_4796" align="aligncenter" width="200" caption="Juicio a las Fumigaciones en el Barrio Ituzaingó Anexo"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche_juicio3-page-001.jpg"><img class="size-medium wp-image-4796" title="afiche_juicio3-page-001" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche_juicio3-page-001-200x300.jpg" alt="" width="200" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche_juicio3-page-001.jpg"><img class="size-medium wp-image-4796" title="afiche_juicio3-page-001" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche_juicio3-page-001-200x300.jpg" alt="" width="200" height="300" /></a>
+
 
 Y Cristina los invita a más muerte...

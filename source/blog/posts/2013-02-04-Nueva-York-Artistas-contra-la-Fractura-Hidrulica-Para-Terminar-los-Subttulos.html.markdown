@@ -48,4 +48,5 @@ El 17 de Enero fueron a las regiones donde se hace <i>Fracking</i> en Pennsylvan
 
 &nbsp;
 
-[caption id="attachment_8372" align="aligncenter" width="215"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png"><img class="size-full wp-image-8372" alt="Si viven en Nueva York y Quieren decirle No al Fracking a Cuomo" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png" width="215" height="264" /></a> Si viven en Nueva York y Quieren decirle No al Fracking a Cuomo[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png"><img class="size-full wp-image-8372" alt="Si viven en Nueva York y Quieren decirle No al Fracking a Cuomo" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png" width="215" height="264" /></a> Si viven en Nueva York y Quieren decirle No al Fracking a Cuomo
+

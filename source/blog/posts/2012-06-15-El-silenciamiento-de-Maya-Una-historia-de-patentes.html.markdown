@@ -94,7 +94,8 @@ El hecho de que la capacidad de mi hija para hablar se está convirtiendo en una
 
 <strong><span style="font-family: inherit;">Ojalá que a Maya no le quiten su voz!</span></strong>
 
-[caption id="attachment_4768" align="aligncenter" width="260" caption="Maya"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640.jpg"><img class="size-medium wp-image-4768" title="IMAG0569 (557x640)" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640-260x300.jpg" alt="" width="260" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640.jpg"><img class="size-medium wp-image-4768" title="IMAG0569 (557x640)" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640-260x300.jpg" alt="" width="260" height="300" /></a>
+
 
 &nbsp;
 

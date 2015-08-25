@@ -20,7 +20,8 @@ wppost_name: la-policia-detiene-a-un-conocido-pirata-pero-no-por-la-razon-espera
 </ul>
 Cuando la policía alemana detuvo a Nico Kern por infracción de copyright,  estaba en una estación de trenes, tomando una foto del logo de una tienda de comestibles no se dieron cuenta que era un pirata profesional.
 
-[caption id="attachment_8902" align="alignright" width="224"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/c64aee29a6a0a4422e48b9a95d8dde61.jpg"><img class="size-full wp-image-8902" alt=" Nico Kern del Partido Pirata Alemán" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/c64aee29a6a0a4422e48b9a95d8dde61.jpg" width="224" height="166" /></a> Nico Kern del Partido Pirata Alemán[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/c64aee29a6a0a4422e48b9a95d8dde61.jpg"><img class="size-full wp-image-8902" alt=" Nico Kern del Partido Pirata Alemán" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/c64aee29a6a0a4422e48b9a95d8dde61.jpg" width="224" height="166" /></a> Nico Kern del Partido Pirata Alemán
+
 
 Kern es un miembro del Partido Pirata, que actualmente actúa en el Parlamento del Estado.
 

@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt-
 wppost_name: se-viene-el-dia-del-dominio-publico-y-el-proyecto-de-una-calculadora-del-dominio-publico
 ---
 
-[caption id="attachment_7697" align="alignleft" width="220"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg"><img class="size-full wp-image-7697" title="220px-RobertoArlt" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg" alt="" width="220" height="357" /></a> Roberto Arlt que entra en dominio público en 2013 porque murió en 1942 (a los 70 años, vencidos, de su muerte sus obras entran en dominio público)[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg"><img class="size-full wp-image-7697" title="220px-RobertoArlt" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg" alt="" width="220" height="357" /></a> Roberto Arlt que entra en dominio público en 2013 porque murió en 1942 (a los 70 años, vencidos, de su muerte sus obras entran en dominio público)
+
 
 <center>
 <iframe src="http://player.vimeo.com/video/16762573?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="400" height="300"></iframe>

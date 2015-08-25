@@ -19,7 +19,8 @@ wppost_name: podria-el-pirata-romney-ganar-las-elecciones
 
 Con las elecciones a la vuelta de la esquina, las encuestas empatadas, y en una semana con pocas noticias en los EE.UU., es el momento de hacer la pregunta que está en la mente de todos: ¿Podría ganar Mitt Romney con un poco de reposicionamiento estratégico sobre la política de derechos de autor? ¿La respuesta podría ser abrazar al pirata Romney? Vamos a explorar
 
-[caption id="attachment_7190" align="alignright" width="200"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg"><img class="size-full wp-image-7190" title="romney_pirate1" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg" alt="" width="200" height="181" /></a> Romney Pirata[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg"><img class="size-full wp-image-7190" title="romney_pirate1" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg" alt="" width="200" height="181" /></a> Romney Pirata
+
 
 ¿Qué sabemos acerca de  los puntos de vista de Romney sobre la propiedad intelectual? Realmente sólo dos cosas.
 
@@ -71,13 +72,15 @@ Las tensiones dentro de los partidos sobre estas cuestiones ciertamente van a su
 
 Para los republicanos, hay aquí una política tentadora hacía la  juventud y la modernidad, empujando cuesta arriba contra la retórica de la propiedad, la ley y el orden, y un conjunto más amplio de las demandas de las grandes empresas que tradicionalmente les han brindado ayuda. ¿Cuál parecería ser la captación partidista sobre estos temas? Puede parecer algo así como la polarización de la opinión sobre el aborto en la década de 1990, los evangélicos llegaron al poder en el Partido Republicano
 
-[caption id="attachment_7217" align="aligncenter" width="550"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/abortion-by-party.jpg"><img class="size-full wp-image-7217" title="abortion-by-party" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/abortion-by-party.jpg" alt="" width="550" height="343" /></a> Posición sobre el aborto 1975-2009 por partido[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/abortion-by-party.jpg"><img class="size-full wp-image-7217" title="abortion-by-party" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/abortion-by-party.jpg" alt="" width="550" height="343" /></a> Posición sobre el aborto 1975-2009 por partido
+
 
 ¿O podría ser como lo que estamos viendo ahora en Alemania y en otras partes de Europa, con el surgimiento de los pequeño partidos 'Piratas'  como representantes de un ecologismo naciente de Internet. Nuestro estudio sobre Alemania se llevó a cabo antes del 9% que obtuvo el Partido Pirata en las elecciones estatales de Berlín a finales de 2011 y las subsiguientes<a href="http://arstechnica.com/tech-policy/2012/02/on-eve-of-protests-germany-backs-away-from-acta/" target="_blank"> batallas contra ACTA</a>.
 
 Sin embargo, las líneas partidarias alrededor de la política de propiedad intelectual ya eran más fuertes en Europa que en los EE.UU., con defensas más consistentes de la libertad de expresión y del libre acceso a  Internet a la izquierda, haciendo causa común con las preocupaciones tradicionales sobre la vida privada de la derecha. Aquí nuestros datos de Alemania sobre el bloqueo y filtrado por identificación política.
 
-[caption id="attachment_7218" align="aligncenter" width="550"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-party-DE.jpg"><img class="size-full wp-image-7218" title="Block-by-party-DE" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-party-DE.jpg" alt="" width="550" height="591" /></a> Opinión sobre el bloqueo de sites por preferencias partidaras en Alemania[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-party-DE.jpg"><img class="size-full wp-image-7218" title="Block-by-party-DE" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-party-DE.jpg" alt="" width="550" height="591" /></a> Opinión sobre el bloqueo de sites por preferencias partidaras en Alemania
+
 
 A diferencia de los EE.UU., fuertes "safe harbor [puertos seguros]" de los Intermediarios en la web como Google y proveedores de Internet se han convertido en parte de las plataformas de los partidos alemanes de centro-izquierda - a todas luces estando al frente de la opinión pública sobre estos temas. Fuertes posiciones sobre la privacidad en Internet han demostrado ser populares en todo el espectro político, incomodando a las empresas de la web que recopilan una gran cantidad de datos de los consumidores (como Google y Facebook) y también provocando conflictos con la UE sobre las normas de retención de datos (un componente importante de fuerte cumplimiento).
 

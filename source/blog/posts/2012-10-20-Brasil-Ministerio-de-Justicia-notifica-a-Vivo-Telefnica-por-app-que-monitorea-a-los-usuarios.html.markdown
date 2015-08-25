@@ -18,7 +18,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/vivo-2012101820585
 wppost_name: brasil-ministerio-de-justicia-notifica-a-vivo-telefonica-por-app-que-monitorea-a-los-usuarios
 ---
 
-[caption id="attachment_6962" align="aligncenter" width="665"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/vivo-20121018205859.jpg"><img class="size-full wp-image-6962" title="vivo-20121018205859" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/vivo-20121018205859.jpg" alt="" width="665" height="445" /></a> App de Vivo[Telefónica] está en el centro de una polémica[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/vivo-20121018205859.jpg"><img class="size-full wp-image-6962" title="vivo-20121018205859" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/vivo-20121018205859.jpg" alt="" width="665" height="445" /></a> App de Vivo[Telefónica] está en el centro de una polémica
+
 <strong><a href="http://info.abril.com.br/noticias/mercado/ministerio-da-justica-notifica-vivo-por-app-que-monitora-usuarios-18102012-60.shl" target="_blank">Fuente Info Abril.</a></strong>
 
 <em>En Brasil Telefónica cambió su nombre por Vivo</em>

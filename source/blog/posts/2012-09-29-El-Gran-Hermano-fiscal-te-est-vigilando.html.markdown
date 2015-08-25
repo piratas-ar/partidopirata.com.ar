@@ -16,7 +16,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACIO
 wppost_name: el-gran-hermano-fiscal-te-esta-vigilando
 ---
 
-[caption id="attachment_6680" align="aligncenter" width="422"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg"><img class="size-full wp-image-6680" title="AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg" alt="" width="422" height="300" /></a> Edificio de la AFIP[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg"><img class="size-full wp-image-6680" title="AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg" alt="" width="422" height="300" /></a> Edificio de la AFIP
+
 
 "“Hay organismos de gobierno que han montado centros de cómputos o ‘data centers’ dignos de estar a disposición de grandes como Google o Microsoft –explica Sebastián Stranier, especialista Senior en Seguridad de la Información–. Personalmente conozco el de AFIP y está preparada para soportar los requerimientos actuales pero también, con muy poco esfuerzo, puede procesar el 5.000% de las transacciones que hoy se realizan, una visión que muestra un proyecto a largo plazo”, sostiene el fundador y CEO de VU Security, que además afirma que esto permite “integrar servicios y la ‘disponibilidad’ en tiempo real. Por ejemplo, cuando uno consulta su capacidad para comprar moneda extranjera, un trámite como este cuatro años atrás podría haber demorado quince días y un sinfín de formularios y papeles, tanto para el organismo como para las personas”."
 

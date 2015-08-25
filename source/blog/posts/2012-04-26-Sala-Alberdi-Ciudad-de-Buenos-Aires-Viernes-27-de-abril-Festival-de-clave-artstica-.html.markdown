@@ -27,4 +27,5 @@ Dado el claro avance que están efectuando las autoridades en contra de la toma 
 
 <hr />
 
-[caption id="attachment_4208" align="aligncenter" width="594" caption="festival del año de clave artística"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg"><img class="size-full wp-image-4208" title="jornada" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg" alt="" width="594" height="842" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg"><img class="size-full wp-image-4208" title="jornada" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg" alt="" width="594" height="842" /></a>
+

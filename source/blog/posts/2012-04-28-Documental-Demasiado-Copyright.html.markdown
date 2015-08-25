@@ -23,7 +23,8 @@ Presione en donde dice <em>CC</em> con fondo rojo para ver los subtítulos en es
 
 <hr />
 
-[caption id="attachment_4264" align="aligncenter" width="500" caption="La Curva de Mickey Mouse, como se fueron ampliando los plazos del derecho de autor"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg"><img class="size-full wp-image-4264" title="Curva de Mickey Mouse" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg" alt="" width="500" height="357" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg"><img class="size-full wp-image-4264" title="Curva de Mickey Mouse" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg" alt="" width="500" height="357" /></a>
+
 <p style="text-align: center;"><strong><a href="https://www.techdirt.com/articles/20120419/14462618567/too-much-copyright-this-generations-prohibition.shtml" target="_blank">Fuente Techdirt.</a></strong></p>
 
 

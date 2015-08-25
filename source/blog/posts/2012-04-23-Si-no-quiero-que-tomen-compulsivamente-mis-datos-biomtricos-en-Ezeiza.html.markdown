@@ -21,7 +21,8 @@ wppost_name: si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-eze
 
 <hr />
 
-[caption id="attachment_4163" align="aligncenter" width="768" caption="Protesta al ingresar a Ezeiza"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg"><img class="size-full wp-image-4163" title="protestaingresoezeiza" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg" alt="" width="768" height="1024" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg"><img class="size-full wp-image-4163" title="protestaingresoezeiza" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg" alt="" width="768" height="1024" /></a>
+
 
 <hr />
 
@@ -36,7 +37,8 @@ Entrego la información requerida bajo protesta.
 
 <hr />
 
-[caption id="attachment_4164" align="aligncenter" width="600" caption="Recepción de la Protesta"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/recepcion.jpg"><img class="size-full wp-image-4164" title="recepcion" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/recepcion.jpg" alt="" width="600" height="450" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/recepcion.jpg"><img class="size-full wp-image-4164" title="recepcion" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/recepcion.jpg" alt="" width="600" height="450" /></a>
+
 
 <hr />
 

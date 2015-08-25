@@ -16,7 +16,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_00001784867
 wppost_name: el-intercambio-de-archivos-es-una-religion-reconocida-en-suecia
 ---
 
-[caption id="attachment_2694" align="aligncenter" width="646" caption="Intercambio de Archivos-Religión en Suecia"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363.jpg"><img class="size-full wp-image-2694" title="Intercambio de Archivos-Religión en Suecia" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363.jpg" alt="" width="646" height="363" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363.jpg"><img class="size-full wp-image-2694" title="Intercambio de Archivos-Religión en Suecia" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363.jpg" alt="" width="646" height="363" /></a>
+
 
 <strong><a href="http://falkvinge.net/2012/01/04/missionary-church-of-kopimism-approved-as-official-religion/" target="_blank">Fuente Blog de Rick Falkvinge.</a></strong>
 

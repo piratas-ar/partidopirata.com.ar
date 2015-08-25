@@ -34,7 +34,8 @@ wppost_name: videoconferencia-de-cierre-del-curso-librebus
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/audio-videoconferencia-del-22-octubre-audios-mp3_rf_1516302_1.html" target="_blank">en este link.</a></strong></p>
 
 
-[caption id="attachment_6996" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart8.png"><img class="size-full wp-image-6996" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart8.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart8.png"><img class="size-full wp-image-6996" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart8.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 <hr />
 

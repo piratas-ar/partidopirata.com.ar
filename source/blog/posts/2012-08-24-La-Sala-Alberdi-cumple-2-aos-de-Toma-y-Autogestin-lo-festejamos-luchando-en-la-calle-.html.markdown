@@ -15,7 +15,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/image-1-150x150.pn
 wppost_name: la-sala-alberdi-cumple-2-anos-de-toma-y-autogestion-lo-festejamos-luchando-en-la-calle
 ---
 
-[caption id="attachment_6160" align="aligncenter" width="347"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/image-1.png"><img class=" wp-image-6160" title="Sala Alberdi" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/image-1-212x300.png" alt="" width="347" height="491" /></a> Toma y Autogestión<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/image.png"><img class="aligncenter  wp-image-6161" title="Sala Alberdi" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/image-211x300.png" alt="Cronograma de actividades 24 de Agosto" width="305" height="433" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/image-1.png"><img class=" wp-image-6160" title="Sala Alberdi" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/image-1-212x300.png" alt="" width="347" height="491" /></a> Toma y Autogestión<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/image.png"><img class="aligncenter  wp-image-6161" title="Sala Alberdi" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/image-211x300.png" alt="Cronograma de actividades 24 de Agosto" width="305" height="433" /></a>
+
 
 <center>
 <iframe src="http://www.youtube.com/embed/pPBXLpB09lM" frameborder="0" width="560" height="315"></iframe>

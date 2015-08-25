@@ -15,7 +15,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7-150x150.jpe
 wppost_name: si-fue-un-intento-de-golpe-de-estado-quien-tendra-todos-los-datos-biometricos-que-recolecta-el-gobierno
 ---
 
-[caption id="attachment_6726" align="aligncenter" width="591"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg"><img class=" wp-image-6726" title="Alfonso Severo" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg" alt="" width="591" height="394" /></a> Alfonso Severo el testigo del caso Mariano Ferreyra desaparecido[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg"><img class=" wp-image-6726" title="Alfonso Severo" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg" alt="" width="591" height="394" /></a> Alfonso Severo el testigo del caso Mariano Ferreyra desaparecido
+
 <p style="text-align: center;"><strong>El kirchnerismo duro denuncia un golpe de Estado</strong></p>
 Los dirigentes políticos y sociales más cercanos al kirchnerismo salieron a denunciar un intento de golpe de Estado a partir del reclamo de Prefectura Naval. Edgardo Depetri pidió a la militancia a “estar alerta” y el “Chino” Navarro dijo que la protesta "ya afecta la democracia".
 

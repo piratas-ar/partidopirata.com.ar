@@ -15,7 +15,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/Emilio_Salgari_rit
 wppost_name: dia-del-escritor-pirata
 ---
 
-[caption id="attachment_123" align="alignleft" width="138" caption="Retrato de Emilio Salgari"]<a href="http://partidopirata.com.ar/wp-content/uploads/2010/04/Emilio_Salgari_ritratto.jpg"><img class="size-full wp-image-123" title="Retrato de Emilio Salgari" src="http://partidopirata.com.ar/wp-content/uploads/2010/04/Emilio_Salgari_ritratto.jpg" alt="" width="138" height="198" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2010/04/Emilio_Salgari_ritratto.jpg"><img class="size-full wp-image-123" title="Retrato de Emilio Salgari" src="http://partidopirata.com.ar/wp-content/uploads/2010/04/Emilio_Salgari_ritratto.jpg" alt="" width="138" height="198" /></a>
+
 
 El 25 de abril de 1911 muere <a href="http://es.wikipedia.org/wiki/Emilio_Salgari">Emilio Salgari</a>, escritor y periodista italiano. Creador, entre muchas otras obras, de una serie de 11 novelas de aventura protagonizadas por el pirata Sandokán.
 

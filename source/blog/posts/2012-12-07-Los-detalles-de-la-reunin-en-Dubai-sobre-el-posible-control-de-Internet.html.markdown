@@ -32,7 +32,8 @@ Los países no llegan a un consenso en relación a dos términos: “operating a
 
 Este viernes, 7, el Plenario de la Conferencia discutirá una de las propuestas más polémicas. Rusia quiere que todos los países tengan autonomia para controlar internet internamente. Esta propuesta, sin embargo, no deberá conseguir el apoyo necesario para ser aprobada. Los mecanismos para cambiar la forma como internet funciona y establecer más control a la red son más sutiles.
 
-[caption id="attachment_7720" align="alignright" width="390"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/dpi.jpg"><img title="dpi" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/dpi.jpg" alt="" width="390" height="265" /></a> Detalle de la propuesta deep pack inspection[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/dpi.jpg"><img title="dpi" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/dpi.jpg" alt="" width="390" height="265" /></a> Detalle de la propuesta deep pack inspection
+
 
 “Las brechas se van abriendo, con una terminologia u outra, y la historia de ‘controlar’ puede transformarse en algo como tasas para diferentes servicios”, dice Joana, que también es directora del documental colaborativo <em>Freenet?</em>, que cuestiona la libertad en la red.
 

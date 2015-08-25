@@ -25,7 +25,8 @@ El cambio de algoritmo está siendo implementada esta semana y debe degradar sev
 
 Una búsqueda de  “The Dictator Download”  había obtenido <a href="http://torrentfreak.com/images/dictator-old.png">varios sites BitTorrents  </a>en los primeros resultados de hace unos días, y ahora éstos <a href="http://torrentfreak.com/images/dictator-new.png">han desaparecidos por completo</a>. Aunque estos resultados pueden variar dependiendo de la ubicación de las personas y la frase buscada, que podría hacer que el resultado del algoritmo cambie.
 
-[caption id="attachment_6085" align="aligncenter" width="341"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/dictator-download.jpg"><img class=" wp-image-6085" title="dictator-download" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/dictator-download-300x255.jpg" alt="" width="341" height="289" /></a> Resultados "viejos" de las búsquedas[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/dictator-download.jpg"><img class=" wp-image-6085" title="dictator-download" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/dictator-download-300x255.jpg" alt="" width="341" height="289" /></a> Resultados "viejos" de las búsquedas
+
 
 Nos muestran que los sitios de BitTorrent no están completamente ausentes de los resultados de búsqueda. Por ejemplo, sustituyendo "download" por "torrent" los trae de vuelta a la cima. Sin embargo, las entradas a partir de búsquedas a través de Google deben disminuir.
 

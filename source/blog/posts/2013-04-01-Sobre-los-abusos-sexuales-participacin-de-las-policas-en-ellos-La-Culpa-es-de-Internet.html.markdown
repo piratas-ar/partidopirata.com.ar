@@ -22,7 +22,8 @@ Segmento del programa Leña al Fuego donde María del Carmen Verdú explica la c
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/sobre-abusos-sexuales-la-culpa-es-internet_md_1913838_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-[caption id="attachment_8979" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart.png"><img class="size-full wp-image-8979" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart.png"><img class="size-full wp-image-8979" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en<i> descargar</i> <a href="http://www.ivoox.com/sobre-abusos-sexuales-la-culpa-es-internet-audios-mp3_rf_1913838_1.html" target="_blank">en este link.</a></strong></p>
 
 

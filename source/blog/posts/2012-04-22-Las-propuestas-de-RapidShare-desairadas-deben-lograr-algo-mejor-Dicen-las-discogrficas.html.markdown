@@ -19,7 +19,8 @@ wppost_name: las-propuestas-de-rapidshare-desairadas-deben-lograr-algo-mejor-dic
 
 Esta semana, el servicio de alojamiento de archivos RapidShare publicó un manifiesto contra la piratería con las directrices sobre cómo un cyberlocker y los sitios de alojamiento en la nube deben llevar a cabo sus negocios en el futuro. Pero las propuestas del servicio con sede en Suiza, que va mucho más allá de los requisitos previstos en la ley, recibió una tibia recepción de los titulares de derechos que dicen que no van lo suficientemente lejos. RapidShare cree que lo hace, y que los titulares de derechos deberían centrarse en los sitios que deliberadamente generen ingresos con la infracción.
 
-[caption id="attachment_4148" align="alignright" width="200" caption="Logo de Rapidshare"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg"><img class="size-full wp-image-4148" title="rapidsharelogo" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg" alt="" width="200" height="148" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg"><img class="size-full wp-image-4148" title="rapidsharelogo" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg" alt="" width="200" height="148" /></a>
+
 
 Desde el cierre inesperado de Megaupload en enero ha habido cambios importantes en el mercado de los cyberlockers, con muchos sitios cambiando sus modelos de negocios y algunos saliendo de todo el negocio.
 Para RapidShare, uno de los líderes del mercado, tomar cualquiera de estas acciones no era una opción. La compañía ha insistido en que hace negocios legalmente y se ha esforzado mucho en los últimos tiempos para hacerle frente a las infracciones. Su escala significa que el cierre no está en sus cartas.

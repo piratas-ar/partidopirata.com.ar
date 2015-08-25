@@ -21,7 +21,8 @@ wppost_name: dia-mundial-de-accion-contra-monsanto-fotos-de-la-ciudad-de-buenos-
 
 <hr />
 
-[caption id="attachment_6528" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/299413_280362678730814_107807918_n.jpg"><img class="size-medium wp-image-6528" title="299413_280362678730814_107807918_n" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/299413_280362678730814_107807918_n-300x168.jpg" alt="" width="300" height="168" /></a> Acción en la puerta del edificio donde están las oficinas de Monsanto en la Ciudad de Buenos Aires[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/299413_280362678730814_107807918_n.jpg"><img class="size-medium wp-image-6528" title="299413_280362678730814_107807918_n" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/299413_280362678730814_107807918_n-300x168.jpg" alt="" width="300" height="168" /></a> Acción en la puerta del edificio donde están las oficinas de Monsanto en la Ciudad de Buenos Aires
+
 
 <hr />
 
@@ -29,14 +30,17 @@ wppost_name: dia-mundial-de-accion-contra-monsanto-fotos-de-la-ciudad-de-buenos-
 
 <hr />
 
-[caption id="attachment_6522" align="aligncenter" width="672"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/483334_280362975397451_158722328_n.jpg"><img class=" wp-image-6522 " title="Día Mundial de Acción contra Monsanto" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/483334_280362975397451_158722328_n.jpg" alt="" width="672" height="504" /></a> Fotos en la Ciudad de Buenos Aires[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/483334_280362975397451_158722328_n.jpg"><img class=" wp-image-6522 " title="Día Mundial de Acción contra Monsanto" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/483334_280362975397451_158722328_n.jpg" alt="" width="672" height="504" /></a> Fotos en la Ciudad de Buenos Aires
+
 
 <hr />
 
-[caption id="attachment_6524" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/558682_280362725397476_906533291_n.jpg"><img class="size-medium wp-image-6524" title="558682_280362725397476_906533291_n" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/558682_280362725397476_906533291_n-300x225.jpg" alt="" width="300" height="225" /></a> Día Mundial de Acción contra Monsanto[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/558682_280362725397476_906533291_n.jpg"><img class="size-medium wp-image-6524" title="558682_280362725397476_906533291_n" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/558682_280362725397476_906533291_n-300x225.jpg" alt="" width="300" height="225" /></a> Día Mundial de Acción contra Monsanto
+
 
 <hr />
 
-[caption id="attachment_6523" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/229805_280362895397459_1981276293_n.jpg"><img class="size-medium wp-image-6523" title="229805_280362895397459_1981276293_n" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/229805_280362895397459_1981276293_n-300x168.jpg" alt="" width="300" height="168" /></a> Día Mundial de Acción Contra Monsanto en la Ciudad de Buenos Aires[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/229805_280362895397459_1981276293_n.jpg"><img class="size-medium wp-image-6523" title="229805_280362895397459_1981276293_n" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/229805_280362895397459_1981276293_n-300x168.jpg" alt="" width="300" height="168" /></a> Día Mundial de Acción Contra Monsanto en la Ciudad de Buenos Aires
+
 
 <hr />

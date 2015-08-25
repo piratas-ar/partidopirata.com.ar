@@ -18,7 +18,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9v
 wppost_name: charlando-con-enrique-viale-sobre-la-reforma-de-los-codigos-civil-y-comercial
 ---
 
-[caption id="attachment_6604" align="alignleft" width="128"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg"><img class="size-full wp-image-6604" title="Enrique Viale" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg" alt="" width="128" height="128" /></a> Enrique Viale[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg"><img class="size-full wp-image-6604" title="Enrique Viale" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg" alt="" width="128" height="128" /></a> Enrique Viale
+
 
 <center>
 <object id="player1449076" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1449076_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1449076" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1449076_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object></center><center></center><center><a href="http://www.ivoox.com/hablando-enrique-viale-sobre-modificacion-del_md_1449076_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>

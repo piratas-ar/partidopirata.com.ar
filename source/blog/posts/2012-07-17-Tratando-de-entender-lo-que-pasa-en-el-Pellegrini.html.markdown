@@ -84,6 +84,7 @@ Cualquier cosa, acá estamos intentando entender y viendo cómo acompañar las d
 
 <hr />
 
-[caption id="attachment_5318" align="aligncenter" width="660"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg"><img class="size-full wp-image-5318" title="TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg" alt="" width="660" height="370" /></a> Carlos Pellegrini Tomado[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg"><img class="size-full wp-image-5318" title="TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg" alt="" width="660" height="370" /></a> Carlos Pellegrini Tomado
+
 
 &nbsp;

@@ -11,7 +11,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison
 wppost_name: facebook-reconocimiento-facial-vencer-a-las-camaras-de-vigilancia
 ---
 
-[caption id="attachment_2790" align="aligncenter" width="640" caption="Facebook realiza reconocimiento facial"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg"><img class="size-full wp-image-2790" title="Reconocimiento Facial en Facebook" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg" alt="Cuidemos lo que usamos en Facebook" width="640" height="360" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg"><img class="size-full wp-image-2790" title="Reconocimiento Facial en Facebook" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg" alt="Cuidemos lo que usamos en Facebook" width="640" height="360" /></a>
+
 
 <a href="http://abcnews.go.com/Technology/protecting-privacy-defeating-facial-recognition-computer-vision-technology/story?id=15322337" target="_blank"><strong>Fuente ABC News</strong>.</a>
 

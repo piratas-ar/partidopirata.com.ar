@@ -19,4 +19,5 @@ Este lunes 30 de abril por el barrio de almagro la casona de humahuaca y otros c
 
 <hr />
 
-[caption id="attachment_4197" align="aligncenter" width="303" caption="Corte Cachengue"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg"><img class=" wp-image-4197  " title="flyer" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg" alt="" width="303" height="429" />Presione en la imagen para verla de un tamaño mayor</a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg"><img class=" wp-image-4197  " title="flyer" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg" alt="" width="303" height="429" />Presione en la imagen para verla de un tamaño mayor</a>
+

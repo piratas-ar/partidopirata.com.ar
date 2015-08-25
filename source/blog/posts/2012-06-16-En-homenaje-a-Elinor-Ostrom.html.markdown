@@ -48,4 +48,5 @@ Si buscan por Elinor Ostrom encontrarán muchísimo más material, <a href="http
 <strong> <a href="https://www.youtube.com/user/Tlavi?feature=watch" target="_blank">Pueden verlos en inglés acá.</a></strong></p>
 
 
-[caption id="attachment_4785" align="aligncenter" width="200" caption="Elinor Ostrom"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg"><img class="size-full wp-image-4785" title="200px-Nobel_Prize_2009-Press_Conference_KVA-30" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg" alt="" width="200" height="297" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg"><img class="size-full wp-image-4785" title="200px-Nobel_Prize_2009-Press_Conference_KVA-30" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg" alt="" width="200" height="297" /></a>
+

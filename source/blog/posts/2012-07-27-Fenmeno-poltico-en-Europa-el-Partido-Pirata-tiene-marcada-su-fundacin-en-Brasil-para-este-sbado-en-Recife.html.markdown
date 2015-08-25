@@ -16,7 +16,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt-150x15
 wppost_name: fenomeno-politico-en-europa-el-partido-pirata-tiene-su-fundacion-en-brasil-marcada-para-este-sabado-en-recife
 ---
 
-[caption id="attachment_5589" align="aligncenter" width="399"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg"><img class=" wp-image-5589" title="piratas_opt" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt-300x211.jpg" alt="" width="399" height="281" /></a> Presentación del Partido Pirata de Brasil[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg"><img class=" wp-image-5589" title="piratas_opt" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt-300x211.jpg" alt="" width="399" height="281" /></a> Presentación del Partido Pirata de Brasil
+
 
 <strong><a href="http://jc3.uol.com.br/blogs/blogjamildo/mobile/noticia/135077.php" target="_blank">Fuente Jamildo.</a></strong>
 

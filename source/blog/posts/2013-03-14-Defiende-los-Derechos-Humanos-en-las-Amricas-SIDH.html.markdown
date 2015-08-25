@@ -56,5 +56,6 @@ En el programa "Sueños Posibles "entrevistan a los padres de Marcela Iglesias <
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/caso-marcela-iglesias-llevado-a-la_md_1867396_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-[caption id="attachment_8804" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart6.png"><img class="size-full wp-image-8804" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart6.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart6.png"><img class="size-full wp-image-8804" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart6.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 <p style="text-align: center;"><strong><a href="http://partido-pirata.blogspot.com/2013/02/suenos-posibles-del-11-de-febrero.html">Si quieren descargar o escuchar todo el programa "Sueños Posibles" del 11 de Febrero</a></strong></p>

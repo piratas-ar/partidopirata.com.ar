@@ -25,7 +25,8 @@ Gracias a ellos por ofrecernos esta información, ojalá que haya un mercado may
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/conversando-mariana-marcelo-sobre-compra-y_md_1480414_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-[caption id="attachment_6766" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart.png"><img class="size-full wp-image-6766" title="chart" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart.png"><img class="size-full wp-image-6766" title="chart" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 Si el archivo mp3 no funciona presionen en descargar
 <a href="http://www.ivoox.com/conversando-mariana-marcelo-sobre-compra-y-audios-mp3_rf_1480414_1.html" target="_blank">en este enlace</a>
@@ -48,7 +49,8 @@ Las otras charlas con Mariana y Marcelo:
 <ul>
 	<li><strong><strong><a href="http://elbitcoin.org/" target="_blank">El site de ellos, El Bitcoin en español a la izquierda arriba verán la cotización de los bitcoins actualizada, </a>por ejemplo ahora vemos esta cotización:</strong></strong>
 
-[caption id="attachment_6764" align="alignright" width="359"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/preciobitcoin.png"><img class="size-full wp-image-6764" title="Cotización de los bitcoins" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/preciobitcoin.png" width="359" height="168" /></a> Esta es la cotización que veo ahora, por supuesto está desactualizada, entre en <a href="http://elbitcoin.org/" target="_blank">Bitcoin en español</a> y fíjense a cuanto está ahora.[/caption]</li>
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/preciobitcoin.png"><img class="size-full wp-image-6764" title="Cotización de los bitcoins" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/preciobitcoin.png" width="359" height="168" /></a> Esta es la cotización que veo ahora, por supuesto está desactualizada, entre en <a href="http://elbitcoin.org/" target="_blank">Bitcoin en español</a> y fíjense a cuanto está ahora.
+</li>
 	<li><strong><a href="https://localbitcoins.com/" target="_blank">Local Bitcoins para saber quien compra y quien vende cerca de nuestra dirección IP</a></strong></li>
 	<li><strong><a href="http://btcnearme.com/" target="_blank">BTC near me, otro lugar para buscar vendedores y compradores de Bitcoins cerca de alguna dirección </a><a href="http://btcnearme.com/" target="_blank">postal.</a></strong></li>
 	<li><strong><a href="https://mtgox.com/" target="_blank">MT Gox para saber las cotizaciones de los bitcoins.</a></strong></li>

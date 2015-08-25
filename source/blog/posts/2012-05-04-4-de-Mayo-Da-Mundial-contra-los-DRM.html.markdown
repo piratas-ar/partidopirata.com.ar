@@ -35,7 +35,8 @@ El Equipo de Eliminación de DRM
 
 <hr />
 
-[caption id="attachment_4318" align="aligncenter" width="500" caption="Día Mundial contra el DRM"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png"><img class="size-full wp-image-4318" title="NoDRM.es-500" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png" alt="" width="500" height="707" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png"><img class="size-full wp-image-4318" title="NoDRM.es-500" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png" alt="" width="500" height="707" /></a>
+
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://volantini.votopirata.it/NoDRM.es.svg" target="_blank">En un tamaño mayor.</a></strong></p>

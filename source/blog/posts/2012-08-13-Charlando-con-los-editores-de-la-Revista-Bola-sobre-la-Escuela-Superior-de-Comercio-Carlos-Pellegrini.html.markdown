@@ -17,7 +17,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/028-150x150.jpg
 wppost_name: charlando-con-los-editores-de-la-revista-bola-sobre-la-escuela-superior-de-comercio-carlos-pellegrini
 ---
 
-[caption id="attachment_5917" align="alignleft" width="262"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/028.jpg"><img class="size-medium wp-image-5917" title="028" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/028-262x300.jpg" alt="" width="262" height="300" /></a> Tapa de la Revista Bola Nro. 28[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/028.jpg"><img class="size-medium wp-image-5917" title="028" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/028-262x300.jpg" alt="" width="262" height="300" /></a> Tapa de la Revista Bola Nro. 28
+
 
 Entrevistamos a los editores de la <strong>Revista Bola</strong> de la Escuela Superior de Comercio Carlos Pellegrini dependiente de la Universidad de Buenos Aires.
 <p style="text-align: center;"><strong><a href="http://www.revistabola.com.ar/" target="_blank">Site de la Revista Bola</a></strong></p>
@@ -33,7 +34,8 @@ Entrevistamos a los editores de la <strong>Revista Bola</strong> de la Escuela S
 Presionen en <em>Play</em> para escucharlo sin descargar o :
 <a href="http://www.ivoox.com/charlando-alumnos-del-carlos-pellegrini-revista-bola_md_1377240_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a></center>
 
-[caption id="attachment_5918" align="alignleft" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart3.png"><img class="size-full wp-image-5918" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart3.png" alt="" width="150" height="150" /></a> <strong>Código QR de la dirección del archivo mp3.</strong>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart3.png"><img class="size-full wp-image-5918" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart3.png" alt="" width="150" height="150" /></a> <strong>Código QR de la dirección del archivo mp3.</strong>
+
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-alumnos-del-carlos-pellegrini-revista-bola-audios-mp3_rf_1377240_1.html" target="_blank">en el siguiente link.</a></strong></p>
 <p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/2179/actividades-diversas-para-el-mes-de-noviembre-debate-sobre-el-canon-por-fotocopias">Sobre el <em>Canon</em> por fotocopias que paga la Universidad de Buenos Aires</a></strong></p>
 

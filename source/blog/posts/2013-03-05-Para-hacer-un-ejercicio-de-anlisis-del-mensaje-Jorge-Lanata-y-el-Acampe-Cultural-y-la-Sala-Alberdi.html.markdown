@@ -25,7 +25,8 @@ Primero entrevistó a Hernán Lombardi, Ministro de Cultura del gobierno de Mauc
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/lanata-sin-filatro-entrevista-a-hernan-lombardi_md_1841082_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-[caption id="attachment_8635" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart.png"><img class="size-full wp-image-8635" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart.png"><img class="size-full wp-image-8635" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/lanata-sin-filatro-entrevista-a-hernan-lombardi-audios-mp3_rf_1841082_1.html" target="_blank">en este link.</a></strong></p>
 <p style="text-align: center;"><strong>Digamos que queda claro a quienes apoyan los conductores del programa...</strong></p>
 
@@ -38,7 +39,8 @@ Primero entrevistó a Hernán Lombardi, Ministro de Cultura del gobierno de Mauc
 Si el enlace anterior no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/entrevista-a-estan-haciendo-acampe-audios-mp3_rf_1841053_1.html">en este link.</a></p>
 
 
-[caption id="attachment_8636" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart1.png"><img class="size-full wp-image-8636" alt="Cógido QR de la dirección del archivo de audio" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart1.png" width="150" height="150" /></a> Cógido QR de la dirección del archivo de audio[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart1.png"><img class="size-full wp-image-8636" alt="Cógido QR de la dirección del archivo de audio" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart1.png" width="150" height="150" /></a> Cógido QR de la dirección del archivo de audio
+
 
 <hr />
 
@@ -48,7 +50,8 @@ La editorial luego de la entrevista a Nicolás González del Acampe Cultural:
 <object id="player1842059" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1842059_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1842059" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1842059_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object></center><a href="http://www.ivoox.com/editorial-sobre-toma-sala-alberdi_md_1842059_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a>
 Si el enlace anterior no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/editorial-sobre-toma-sala-alberdi-audios-mp3_rf_1842059_1.html" target="_blank">En este link.</a>
 
-[caption id="attachment_8640" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart2.png"><img class="size-full wp-image-8640" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart2.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart2.png"><img class="size-full wp-image-8640" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart2.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 <strong>Algunos fragmentos:</strong>
 <ul>

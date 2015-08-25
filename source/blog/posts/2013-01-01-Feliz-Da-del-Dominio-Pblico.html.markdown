@@ -12,7 +12,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013-15
 wppost_name: feliz-dia-del-dominio-publico
 ---
 
-[caption id="attachment_7992" align="aligncenter" width="640"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg"><img class="size-full wp-image-7992" alt="Los que entran en Dominio Público en 2013" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg" width="640" height="1052" /></a> Los que entran en Dominio Público en 2013[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg"><img class="size-full wp-image-7992" alt="Los que entran en Dominio Público en 2013" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg" width="640" height="1052" /></a> Los que entran en Dominio Público en 2013
+
 
 <strong><a href="http://derechoaleer.info/blog/2013/01/public-domain-day-2013.html" target="_blank">Fuente Derecho a Leer</a></strong>
 <p style="text-align: center"><strong>"¡Feliz Día del Dominio Público 2013!</strong></p>

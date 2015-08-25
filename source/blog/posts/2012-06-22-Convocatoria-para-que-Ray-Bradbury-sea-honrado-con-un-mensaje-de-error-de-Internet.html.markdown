@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/Fire-wall-author-R
 wppost_name: convocatoria-para-que-ray-bradbury-sea-honrado-con-un-mensaje-de-error-de-internet
 ---
 
-[caption id="attachment_4905" align="alignright" width="300" caption="Ray Bradbury"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Fire-wall-author-Ray-Br-008.jpg"><img class="size-medium wp-image-4905" title="Fire wall  author Ray Bradbury's Fahrenheit 451 features book-burning censors." src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Fire-wall-author-Ray-Br-008-300x180.jpg" alt="" width="300" height="180" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Fire-wall-author-Ray-Br-008.jpg"><img class="size-medium wp-image-4905" title="Fire wall  author Ray Bradbury's Fahrenheit 451 features book-burning censors." src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Fire-wall-author-Ray-Br-008-300x180.jpg" alt="" width="300" height="180" /></a>
+
 
 <strong><a href="http://www.guardian.co.uk/books/2012/jun/22/ray-bradbury-internet-error-message-451?CMP=twt_gu" target="_blank">Fuente The Guardian</a></strong>
 

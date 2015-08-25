@@ -29,7 +29,8 @@ En lugar de detener su hábito desafiante, quienes comparten archivos toman medi
 
 En cuanto a las tendencias de búsqueda en Google, vemos que esta predicción se ha hecho realidad. El volumen de búsquedas de "BitTorrent VPN" y "proxy BitTorrent" se disparó cuando el sistema de alertas de copyright se puso en marcha.
 
-[caption id="attachment_8822" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/vpns.jpg"><img class="size-medium wp-image-8822" alt="BitTorrent VPN / Proxy Búsquedas durante los últimos 90 días" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/vpns-300x153.jpg" width="300" height="153" /></a> BitTorrent VPN / Proxy Búsquedas durante los últimos 90 días[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/vpns.jpg"><img class="size-medium wp-image-8822" alt="BitTorrent VPN / Proxy Búsquedas durante los últimos 90 días" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/vpns-300x153.jpg" width="300" height="153" /></a> BitTorrent VPN / Proxy Búsquedas durante los últimos 90 días
+
 
 TorrentFreak habló con varios proveedores de VPNs que confirman que el interés en sus servicios aumentó. Algunos incluso hacen referencia al esquema de los avisos en su "marketing", como BeeVPN quien destacó en su blog que la gente que lo desee, puede protegerse de ser injustamente acusado.
 

@@ -16,7 +16,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/Alex_20111119_reas
 wppost_name: el-partido-pirata-en-suiza-conquista-el-primer-cargo-ejecutivo-alcaldia-de-eichberg
 ---
 
-[caption id="attachment_6594" align="alignleft" width="128"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/Alex_20111119_reasonably_small.jpg"><img class="size-full wp-image-6594" title="Alex_20111119_reasonably_small" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/Alex_20111119_reasonably_small.jpg" alt="" width="128" height="128" /></a> Alex Arnold -Alcalde de Eichberg[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/Alex_20111119_reasonably_small.jpg"><img class="size-full wp-image-6594" title="Alex_20111119_reasonably_small" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/Alex_20111119_reasonably_small.jpg" alt="" width="128" height="128" /></a> Alex Arnold -Alcalde de Eichberg
+
 
 "Alex Arnold del Partido Pirata de Suiza ha sido elegido alcalde de Eichberg  Esta es la primera victoria para los piratas en Suiza, y es de esperar sólo el comienzo de lo que vendrá Thomas Bruderer , presidente del Partido Pirata de Suiza, está encantado..: "Este resultado es para nuestro joven partido  un hito importante. para ganar una mayoría que voto muestra nuestros miembros no son sólo un fenómeno marginal, sino que están en medio de la sociedad."
 <strong><a href="http://yro.slashdot.org/story/12/09/23/1642211/the-swiss-pirate-party-has-its-first-mayor" target="_blank">Fuente Slashdot.</a>

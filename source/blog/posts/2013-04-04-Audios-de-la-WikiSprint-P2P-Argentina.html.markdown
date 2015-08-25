@@ -35,7 +35,8 @@ Dentro de las actividades que se desarrollaron hubo algunas charlas, si quieren 
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/audios-wikisprint-p2p-biblioteca_md_1922344_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-[caption id="attachment_9000" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart1.png"><img class="size-full wp-image-9000" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart1.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]</li>
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart1.png"><img class="size-full wp-image-9000" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart1.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+</li>
 </ul>
 </ul>
 

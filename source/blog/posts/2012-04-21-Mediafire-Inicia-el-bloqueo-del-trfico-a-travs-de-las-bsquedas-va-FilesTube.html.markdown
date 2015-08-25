@@ -42,7 +42,8 @@ El bloqueo a FilesTube evita que los usuarios accedan a Mediafire, pero no impid
 
 FilesTube <a href="http://www.facebook.com/photo.php?fbid=10150964687404746&amp;set=a.10150964686869746.528216.135577699745&amp;type=1&amp;theater">dejó en claro</a> esta solución en su página en Facebook.
 
-[caption id="attachment_4144" align="aligncenter" width="300" caption="Acceder a contenidos de Mediafire desde Filestube"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/blocked1.png"><img class="size-medium wp-image-4144" title="blocked1" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/blocked1-300x107.png" alt="" width="300" height="107" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/blocked1.png"><img class="size-medium wp-image-4144" title="blocked1" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/blocked1-300x107.png" alt="" width="300" height="107" /></a>
+
 
 <strong><a href="https://torrentfreak.com/mediafire-starts-blocking-filestube-links-120422/" target="_blank">Fuente Torrentfreak.</a></strong>
 

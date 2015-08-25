@@ -24,4 +24,5 @@ wppost_name: cancion-contra-el-tpp-el-tratado-del-pacifico-que-es-peor-que-el-ac
 
 <hr />
 
-[caption id="attachment_4403" align="aligncenter" width="300" caption="Canción contra el TPP"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg"><img class="size-full wp-image-4403" title="tpp_song_five" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg" alt="" width="300" height="224" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg"><img class="size-full wp-image-4403" title="tpp_song_five" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg" alt="" width="300" height="224" /></a>
+

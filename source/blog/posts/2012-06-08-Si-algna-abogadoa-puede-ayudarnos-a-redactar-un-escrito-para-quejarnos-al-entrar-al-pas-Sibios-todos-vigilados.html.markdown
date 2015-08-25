@@ -89,7 +89,8 @@ Presionen en <em>play</em> para escucharlo sin descargar o
 
 Este es el escrito que presentó Ramiro al entrar al país quejándose por SIBIOS y la toma compulsiva de datos biométricos de todos:
 
-[caption id="attachment_4163" align="aligncenter" width="225" caption="Protesta al ingresar a Ezeiza"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg"><img class="size-medium wp-image-4163" title="protestaingresoezeiza" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza-225x300.jpg" alt="" width="225" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg"><img class="size-medium wp-image-4163" title="protestaingresoezeiza" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza-225x300.jpg" alt="" width="225" height="300" /></a>
+
 
 <hr />
 

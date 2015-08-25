@@ -33,11 +33,13 @@ Más allá de la ilegalidad en la implementación del voto electrónico en Capit
 
 Vía Libre y varias personas están haciendo una campaña para entregar una carta al presidente de mesa y que este deje constancia en el acta. Puede bajarse una copia de la carta a imprimir desde aquí: <a href="http://www.vialibre.org.ar/2015/07/01/nota-de-protesta-contra-el-voto-electronico/" target="_blank">http://www.vialibre.org.ar/2015/07/01/nota-de-protesta-contra-el-voto-electronico/</a>
 
-[caption id="attachment_9608" align="aligncenter" width="600"]<a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-mundo1.png"><img class="wp-image-9608 size-full" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-mundo1.png" alt="voto-mundo" width="600" height="417" /></a> 16 países lo probaron y dejaron. 13 lo utilizan en parte o todo el país.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-mundo1.png"><img class="wp-image-9608 size-full" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-mundo1.png" alt="voto-mundo" width="600" height="417" /></a> 16 países lo probaron y dejaron. 13 lo utilizan en parte o todo el país.
+
 
 &nbsp;
 
-[caption id="attachment_9609" align="aligncenter" width="600"]<a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-latam.png"><img class="size-full wp-image-9609" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-latam.png" alt="América Latina usa mayoritariamente Boleta Única en papel." width="600" height="599" /></a> América Latina usa mayoritariamente Boleta Única en papel.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-latam.png"><img class="size-full wp-image-9609" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-latam.png" alt="América Latina usa mayoritariamente Boleta Única en papel." width="600" height="599" /></a> América Latina usa mayoritariamente Boleta Única en papel.
+
 
 &nbsp;
 

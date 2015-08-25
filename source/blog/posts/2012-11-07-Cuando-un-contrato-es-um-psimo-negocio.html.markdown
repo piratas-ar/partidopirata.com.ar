@@ -25,7 +25,8 @@ Epic, claro, se enfureció. Envió un e-mail a los miembros de la banda explican
 
 <a href="https://www.facebook.com/photo.php?fbid=474002185978299&amp;set=a.176170062428181.39239.170869886291532&amp;type=1&amp;permPage=1" target="_blank">La banda hizo un printscreen y divulgó el e-mail</a>:
 
-[caption id="attachment_7279" align="aligncenter" width="750"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/fm3dX.png"><img class=" wp-image-7279" title="fm3dX" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/fm3dX.png" alt="" width="750" height="441" /></a> E-Mail recibido por la banda click en la imagen para agrandarla[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/fm3dX.png"><img class=" wp-image-7279" title="fm3dX" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/fm3dX.png" alt="" width="750" height="441" /></a> E-Mail recibido por la banda click en la imagen para agrandarla
+
 
 Epic los procesó por romper el contrato. La grabadora les pidió que borren los links y afirmó que es dueña de los originales. En una nota oficial, dijeron: “somos una grabadora que lanza a nuevos artistas. Esa es nuestra misión y nuestro fuerte. Infelizmente, cuando el marketing y los trucos publicitarios superan la música real, es necesario recordar nuestros valores fundamentales. Para eso, inmediatamente, estamos trabajando para disolver nuestra relación con Death Grips”.
 

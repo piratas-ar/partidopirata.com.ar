@@ -60,4 +60,5 @@ Actualización: Virgin Media acaba de <a href="http://torrentfreak.com/virgin-me
 
 <strong><a href="https://torrentfreak.com/pirate-bay-enjoys-12-million-traffic-boost-shares-unblocking-tips-120502/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-[caption id="attachment_4313" align="aligncenter" width="420" caption="Virgin Media Bloqueó a The Pirate Bay"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/virgin-media-tpb-block.jpg"><img class="size-full wp-image-4313" title="virgin-media-tpb-block" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/virgin-media-tpb-block.jpg" alt="" width="420" height="451" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/virgin-media-tpb-block.jpg"><img class="size-full wp-image-4313" title="virgin-media-tpb-block" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/virgin-media-tpb-block.jpg" alt="" width="420" height="451" /></a>
+

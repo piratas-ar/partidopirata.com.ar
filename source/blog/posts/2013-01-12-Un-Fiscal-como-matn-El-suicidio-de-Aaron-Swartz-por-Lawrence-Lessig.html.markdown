@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1d
 wppost_name: un-fiscal-como-maton-por-el-suicidio-de-aaron-swartz-por-lawrence-lessig
 ---
 
-[caption id="attachment_8200" align="aligncenter" width="500"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg"><img class="size-full wp-image-8200" alt="Aaron Swartz " src="http://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg" width="500" height="400" /></a> Aaron Swartz[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg"><img class="size-full wp-image-8200" alt="Aaron Swartz " src="http://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg" width="500" height="400" /></a> Aaron Swartz
+
 
 <a href="http://lessig.tumblr.com/post/40347463044/prosecutor-as-bully" target="_blank">Fuente Lawrence Lessig</a>
 

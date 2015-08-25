@@ -17,7 +17,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9819-150x150.j
 wppost_name: desembarco-pirata-flisol-caba
 ---
 
-[caption id="attachment_9391" align="alignnone" width="400"]<a href="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9819.jpg"><img class="size-medium wp-image-9391" alt="Charla flash sobre lxs piratas y el estado" src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9819-300x225.jpg" width="400" height="300" /></a> Charla flash sobre lxs piratas y el estado[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9819.jpg"><img class="size-medium wp-image-9391" alt="Charla flash sobre lxs piratas y el estado" src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9819-300x225.jpg" width="400" height="300" /></a> Charla flash sobre lxs piratas y el estado
+
 
 El pasado sábado 26 de abril participamos en la <a title="FLISoL CABA" href="http://flisolcaba.usla.org.ar/" target="_blank">sede CABA del Festival Latinoamericano de Software Libre</a>, un evento que las comunidades de Software Libre realizan todos los años para que las personas interesadas en empezar a utilizarlo puedan acercarse y llevarse instalada una distribución GNU/Linux.
 
@@ -29,4 +30,186 @@ Hacia el final, dimos una charla flash sobre los problemas de la democracia dire
 
 Algunas fotos:
 
-[gallery ids="9379,9380,9381,9382,9383,9384,9385,9386,9387,9388,9389,9390,9391,9392,9393,9394,9395,9396"]
+
+<div class="gallery"><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9778/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9778-150x150.jpg"
+class="attachment-thumbnail" alt="La mesita pirata lista desde temprano"
+aria-describedby="gallery-1-9379" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9379">
+        La mesita pirata lista desde temprano
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9779/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9779-150x150.jpg"
+class="attachment-thumbnail" alt="Posters" aria-describedby="gallery-1-9380"
+height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9380">
+        Posters
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9782/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9782-150x150.jpg"
+class="attachment-thumbnail" alt="Entrevista sobre la nube"
+aria-describedby="gallery-1-9381" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9381">
+        Entrevista sobre la nube
+        </dd></dl><br style="clear: both"><dl class="gallery-item">
+      <dt class="gallery-icon portrait">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9783/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9783-150x150.jpg"
+class="attachment-thumbnail" alt="Entrevista sobre la nube"
+aria-describedby="gallery-1-9382" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9382">
+        Entrevista sobre la nube
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon portrait">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9784/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9784-150x150.jpg"
+class="attachment-thumbnail" alt="Entrevista sobre la nube"
+aria-describedby="gallery-1-9383" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9383">
+        Entrevista sobre la nube
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon portrait">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9785/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9785-150x150.jpg"
+class="attachment-thumbnail" alt="Entrevista sobre la nube"
+aria-describedby="gallery-1-9384" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9384">
+        Entrevista sobre la nube
+        </dd></dl><br style="clear: both"><dl class="gallery-item">
+      <dt class="gallery-icon portrait">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9786/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9786-150x150.jpg"
+class="attachment-thumbnail" alt="Entrevista sobre la nube"
+aria-describedby="gallery-1-9385" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9385">
+        Entrevista sobre la nube
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9787/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9787-150x150.jpg"
+class="attachment-thumbnail" alt="Utopías Piratas"
+aria-describedby="gallery-1-9386" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9386">
+        Utopías Piratas
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9788/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9788-150x150.jpg"
+class="attachment-thumbnail" alt="Utopías Piratas"
+aria-describedby="gallery-1-9387" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9387">
+        Utopías Piratas
+        </dd></dl><br style="clear: both"><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9789/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9789-150x150.jpg"
+class="attachment-thumbnail" alt="IDEAL - La joda es la democracia"
+aria-describedby="gallery-1-9388" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9388">
+        IDEAL – La joda es la democracia
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9790/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9790-150x150.jpg"
+class="attachment-thumbnail" alt="La mesa pirata más tarde"
+aria-describedby="gallery-1-9389" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9389">
+        La mesa pirata más tarde
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9791/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9791-150x150.jpg"
+class="attachment-thumbnail" alt="Privacidad!"
+aria-describedby="gallery-1-9390" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9390">
+        Privacidad!
+        </dd></dl><br style="clear: both"><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9819/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9819-150x150.jpg"
+class="attachment-thumbnail" alt="Charla flash sobre lxs piratas y el estado"
+aria-describedby="gallery-1-9391" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9391">
+        Charla flash sobre lxs piratas y el estado
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9820/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9820-150x150.jpg"
+class="attachment-thumbnail" alt="Charla flash sobre lxs piratas y el estado"
+aria-describedby="gallery-1-9392" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9392">
+        Charla flash sobre lxs piratas y el estado
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9821/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9821-150x150.jpg"
+class="attachment-thumbnail" alt="Charla flash sobre lxs piratas y el estado"
+aria-describedby="gallery-1-9393" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9393">
+        Charla flash sobre lxs piratas y el estado
+        </dd></dl><br style="clear: both"><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9822/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9822-150x150.jpg"
+class="attachment-thumbnail" alt="Charla flash sobre lxs piratas y el estado"
+aria-describedby="gallery-1-9394" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9394">
+        Charla flash sobre lxs piratas y el estado
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9823/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9823-150x150.jpg"
+class="attachment-thumbnail" alt="Una multitud"
+aria-describedby="gallery-1-9395" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9395">
+        Una multitud
+        </dd></dl><dl class="gallery-item">
+      <dt class="gallery-icon landscape">
+        <a
+href="http://partidopirata.com.ar/2014/05/04/desembarco-pirata-flisol-caba/img_9824/"><img
+src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_9824-150x150.jpg"
+class="attachment-thumbnail" alt="La misma multitud"
+aria-describedby="gallery-1-9396" height="150" width="150"></a>
+      </dt>
+        <dd class="wp-caption-text gallery-caption" id="gallery-1-9396">
+        La misma multitud
+        </dd></dl><br style="clear: both">
+    </div>

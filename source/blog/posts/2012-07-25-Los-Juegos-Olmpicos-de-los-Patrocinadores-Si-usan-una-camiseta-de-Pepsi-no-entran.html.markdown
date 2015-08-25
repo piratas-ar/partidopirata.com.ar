@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/mis2-150x150.jpg
 wppost_name: los-juegos-olimpicos-de-los-patrocinadores-si-usan-una-camiseta-de-pepsi-no-entran
 ---
 
-[caption id="attachment_5560" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/mis2.jpg"><img class="size-medium wp-image-5560" title="Misil Olimpico" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/mis2-300x177.jpg" alt="" width="300" height="177" /></a> <a href="http://banksy.co.uk/menu.html" target="_blank">Sténcil de Bansky</a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/mis2.jpg"><img class="size-medium wp-image-5560" title="Misil Olimpico" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/mis2-300x177.jpg" alt="" width="300" height="177" /></a> <a href="http://banksy.co.uk/menu.html" target="_blank">Sténcil de Bansky</a>
+
 <p style="text-align: center;"><strong><a href="http://www.dailyrecord.co.uk/news/uk-world-news/2012/07/21/london-olympics-lord-coe-s-astonishing-sponsors-outburst-86908-23910798/" target="_blank">Fuente Daily Record.</a></strong></p>
 <p style="text-align: center;"><strong> Juegos Olímpicos de Londres: Sorprendente explosion del Jefe de Seguridad defendiendo a los patrocinadores!</strong></p>
 MANO DURA Se supo ayer que el jefe de seguridad va a prohibir a los espectadores de las Olimpíadas vestir la marca de ropa equivocada.

@@ -16,7 +16,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/DSC075941-300x225.
 wppost_name: la-conferencia-internacional-de-partidos-piratas-en-belgica
 ---
 
-[caption id="attachment_64" align="alignleft" width="225"]<a href="http://partidopirata.com.ar/wp-content/uploads/2010/04/DSC075981.jpg"><img class="size-medium wp-image-64 " src="http://partidopirata.com.ar/wp-content/uploads/2010/04/DSC075981-225x300.jpg" alt="Christian Engström, eurodiputado por el Partido Pirata Sueco " width="225" height="300" /></a> Christian Engström, eurodiputado por el Partido Pirata Sueco[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2010/04/DSC075981.jpg"><img class="size-medium wp-image-64 " src="http://partidopirata.com.ar/wp-content/uploads/2010/04/DSC075981-225x300.jpg" alt="Christian Engström, eurodiputado por el Partido Pirata Sueco " width="225" height="300" /></a> Christian Engström, eurodiputado por el Partido Pirata Sueco
+
 
 Aqui van las fotos de la conferencia del PPI en Bruselas, la visita por el Parlamento Europeo y la conferencia de Christian (el representante del PP en Suecia que tiene un banco en el Parlamento Europeo).
 
@@ -29,7 +30,8 @@ Luego hicimos la visita por la sala donde se llevan a cabo estas sesiones (encon
 El asiento del representante del PPI es el numero 499 (es parte del partido Green). Christian se volvio miembro el 14 de julio de 2009. Su conferencia estuvo basada en los principales temas que manana se tocaràn en las sesiones, seguidas de votos, en Novanois (el sitio en Bruselas) del PPI.
 Los principales temas a votar y discutir son:
 
-[caption id="attachment_65" align="alignright" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2010/04/DSC075941.jpg"><img class="size-medium wp-image-65 " title="Vista del Parlamento Europeo" src="http://partidopirata.com.ar/wp-content/uploads/2010/04/DSC075941-300x225.jpg" alt="" width="300" height="225" /></a> Vista del Parlamento Europeo[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2010/04/DSC075941.jpg"><img class="size-medium wp-image-65 " title="Vista del Parlamento Europeo" src="http://partidopirata.com.ar/wp-content/uploads/2010/04/DSC075941-300x225.jpg" alt="" width="300" height="225" /></a> Vista del Parlamento Europeo
+
 
 1. Politicas de Seguridad vs derechos Humanos: y su frase màs destacada fue "Yo no quiero que se balanceen (por el término en inglés "Balancing Fundamental Rights") mis derechos fundamentales como ser humano, quiero que se Respeten"
 

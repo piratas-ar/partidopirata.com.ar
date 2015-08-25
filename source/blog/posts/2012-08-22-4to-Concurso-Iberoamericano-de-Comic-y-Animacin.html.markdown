@@ -19,7 +19,8 @@ wppost_name: 4to-concurso-iberoamericano-de-comic-y-animacion
 <object id="player1388912" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1388912_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1388912" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1388912_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object>
 <a href="http://www.ivoox.com/entrevista-a-claudio-bernardez-vorterix-rock_md_1388912_1.mp3" target="_blank">Si quiere descargar el archivo mp3 de la entrevista</a></center>
 
-[caption id="attachment_6141" align="alignright" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart9.png"><img class="size-full wp-image-6141" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart9.png"><img class="size-full wp-image-6141" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 Si el enlace anterior no funciona presione en <em>descargar</em><a href="http://www.ivoox.com/entrevista-a-claudio-bernardez-vorterix-rock-audios-mp3_rf_1388912_1.html" target="_blank">en el siguiente link.</a><strong>
 </strong>

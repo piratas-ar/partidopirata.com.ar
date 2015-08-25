@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147
 wppost_name: efectos-de-peliculas-influenciaron-en-el-caso-en-ee-uu-abogado-de-kim-dotcom
 ---
 
-[caption id="attachment_5637" align="alignright" width="220"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg"><img class="size-full wp-image-5637" title="kim-dotcom_220x147" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg" alt="" width="220" height="147" /></a> Kim Dotcom[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg"><img class="size-full wp-image-5637" title="kim-dotcom_220x147" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg" alt="" width="220" height="147" /></a> Kim Dotcom
+
 
 <strong><a href="http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=10822879" target="_blank">Fuente New Zeland Herald.</a></strong>
 La compañía de Kim Dotcom fue comparada ayer a un ejército de asesinos, rebeldes traficantes de cocaína.

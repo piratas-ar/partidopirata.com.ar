@@ -51,7 +51,8 @@ Para formar un partido, ellos deben aprobar el estatuto, programa de gobierno, f
 
 <hr />
 
-[caption id="attachment_5467" align="alignright" width="279"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png"><img class=" wp-image-5467" title="rick-falkvinge-div" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png" alt="" width="279" height="189" /></a> Rick Falkvinge[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png"><img class=" wp-image-5467" title="rick-falkvinge-div" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png" alt="" width="279" height="189" /></a> Rick Falkvinge
+
 <p style="text-align: center;"><strong>Hoy hay un choque cultural</strong></p>
 <strong>ENTREVISTA:</strong> Rick Falkvinge, fundador del Partido Pirata Sueco
 

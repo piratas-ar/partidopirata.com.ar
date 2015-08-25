@@ -42,7 +42,8 @@ Como era de prever, muestra que las personas que se han autoconfesado como quien
 
 "Pero algunos de ellos también proceden de manera significativa de mayores compras legales de música digital que sus contrapartes los que no usan P2P, alrededor de un 30% más entre los usuarios estadounidenses de P2P. Nuestros datos son muy claros en este punto y se alinean con muchos otros estudios: los mayores piratas de música son también los que más gastaron en música grabada ".
 
-[caption id="attachment_6862" align="aligncenter" width="550"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/p2p-music.jpg"><img class="size-full wp-image-6862" title="p2p-music" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/p2p-music.jpg" alt="" width="550" height="273" /></a> Usuarios de P2P vs. no usuarios de P2P[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/p2p-music.jpg"><img class="size-full wp-image-6862" title="p2p-music" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/p2p-music.jpg" alt="" width="550" height="273" /></a> Usuarios de P2P vs. no usuarios de P2P
+
 
 El gráfico anterior muestra que en Alemania, los resultados son aún más pronunciados. Los usuarios de P2P comprar allí casi tres veces más música digital que sus compañeros que no usan P2P. Sin embargo, el número de usuarios que comparten archivos P2P en la muestra alemana es demasiado baja para ser estadísticamente fiable por lo que estos resultados deben ser interpretados con reservas.
 

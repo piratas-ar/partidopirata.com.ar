@@ -24,7 +24,8 @@ Estaban comentando sobre el cierre del Cerro Uritorco por una posible convocator
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/profecia-maya-para-criminalizar-a-internet-audios-mp3_rf_1657170_1.html" target="_blank">en ete enlace</a></strong></p>
 
 
-[caption id="attachment_7913" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png"><img class="size-full wp-image-7913" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png"><img class="size-full wp-image-7913" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 &nbsp;
 

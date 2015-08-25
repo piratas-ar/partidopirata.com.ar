@@ -23,7 +23,8 @@ Lo que realmente mueve los llamados grandes datos no es el volumen de informaci�
 
 Durante décadas, ha habido una tensión fundamental entre los tres atributos de las bases de datos. Puedes tener los datos de forma rápida, puedes tener grandes datos, o  puedes tenerlos variados. El problema es, no puedes tenerlos los tres a la vez.
 
-[caption id="attachment_5696" align="aligncenter" width="384"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/big-data-triangle.png"><img class=" wp-image-5696" title="big-data-triangle" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/big-data-triangle.png" alt="" width="384" height="270" /></a> Triángulo de los grandes datos.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/big-data-triangle.png"><img class=" wp-image-5696" title="big-data-triangle" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/big-data-triangle.png" alt="" width="384" height="270" /></a> Triángulo de los grandes datos.
+
 
 La primera vez que escuché esto como "las tres V de los datos": volumen, variedad y velocidad. Tradicionalmente, conseguir dos fue fácil, pero conseguir los tres era muy, muy, muy caro.
 

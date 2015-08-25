@@ -20,7 +20,8 @@ Otra vez la cultura es víctima de las especulaciones inmobiliarias, esta vez ba
 
 La Kasa Pirata
 
-[caption id="attachment_6967" align="alignright" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Kasa_Pirata.jpg"><img class="size-medium wp-image-6967" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Kasa_Pirata-300x224.jpg" alt="Kasa_Pirata Rosario" width="300" height="224" /></a> Foto de Fernando Traverso en Indymedia Rosario[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Kasa_Pirata.jpg"><img class="size-medium wp-image-6967" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Kasa_Pirata-300x224.jpg" alt="Kasa_Pirata Rosario" width="300" height="224" /></a> Foto de Fernando Traverso en Indymedia Rosario
+
 
 La vieja casona venida a menos y abandonada desde hace más de 20 años de Ovidio Lagos al 1200 era un nido de ratas. Hace aproximadamente un año y medio un colectivo compuesto por artistas de varias nacionalidades la arregló, la limpió y la ocupó convirtiéndola en un espacio autogestivo de cultura libre y gratuita para todo el barrio y en vivienda comunitaria para varios artistas.
 

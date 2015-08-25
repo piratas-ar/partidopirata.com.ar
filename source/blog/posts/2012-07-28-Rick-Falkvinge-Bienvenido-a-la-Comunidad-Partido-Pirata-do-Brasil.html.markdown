@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt-150x15
 wppost_name: rick-falkvinge-bienvenido-a-la-comunidad-partido-pirata-do-brasil
 ---
 
-[caption id="attachment_5589" align="aligncenter" width="470"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg"><img class="size-full wp-image-5589" title="piratas_opt" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg" alt="" width="470" height="332" /></a> Presentación del Partido Pirata de Brasil[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg"><img class="size-full wp-image-5589" title="piratas_opt" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg" alt="" width="470" height="332" /></a> Presentación del Partido Pirata de Brasil
+
 
 <strong><a href="http://falkvinge.net/2012/07/28/welcome-to-the-community-partido-pirata-do-brasil/" target="_blank">Fuente Blog de Rick Falkvinge</a></strong>
 

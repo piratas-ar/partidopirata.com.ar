@@ -18,7 +18,8 @@ wppost_name: brasil-cierre-de-biblioteca-virtual-libro-impreso-pdf-legal-o-ilega
 
 <strong><a href="http://livrosetc.blogfolha.uol.com.br/2012/05/21/livro-impresso-pdf-legal-ou-ilegal-livrosdehumanas-se-defende/" target="_blank">Fuente Livrosetc.</a></strong>
 
-[caption id="attachment_4549" align="alignright" width="300" caption="Libro Antiguo"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1.jpg"><img class="size-medium wp-image-4549" title="oldbook1" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1-300x195.jpg" alt="" width="300" height="195" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1.jpg"><img class="size-medium wp-image-4549" title="oldbook1" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1-300x195.jpg" alt="" width="300" height="195" /></a>
+
 
 POR Joselia Aguiar
 

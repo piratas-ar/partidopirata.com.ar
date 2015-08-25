@@ -25,7 +25,8 @@ Este es un día de celebración. Este es el día en que los ciudadanos de Europa
 
 El camino a la victoria de hoy era oscuro, duro, y de ninguna manera cierto.
 
-[caption id="attachment_5113" align="aligncenter" width="621"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/IMG_2175-621x349.jpg"><img class="size-full wp-image-5113" title="Votacion Final Contra el ACTA" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/IMG_2175-621x349.jpg" alt="" width="621" height="349" /></a> La votación final votes sobre ACTA en el Parlamento Europeo. 39 iafavor, 478 en contra.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/IMG_2175-621x349.jpg"><img class="size-full wp-image-5113" title="Votacion Final Contra el ACTA" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/IMG_2175-621x349.jpg" alt="" width="621" height="349" /></a> La votación final votes sobre ACTA en el Parlamento Europeo. 39 iafavor, 478 en contra.
+
 <h3><strong>¿Cómo llegamos hasta acáí?</strong></h3>
 Hace seis meses, la situación se veía muy oscura. Era casi seguro que el ACTA podría pasar desapercibido en silencio. Las fuerzas que luchan por los derechos de los ciudadanos intentando que la Corte Europea de Justicia se pronuncie sobre él, con el fin de comprobar su legalidad y para ganar tiempo. Entonces, algo sucedió.
 

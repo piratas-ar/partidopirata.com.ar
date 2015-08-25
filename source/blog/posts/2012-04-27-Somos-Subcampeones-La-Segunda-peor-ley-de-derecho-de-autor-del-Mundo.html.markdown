@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164
 wppost_name: somos-subcampeones-la-segunda-peor-ley-de-derecho-de-autor-del-mundo
 ---
 
-[caption id="attachment_4236" align="alignright" width="257" caption="Lista de leyes de Derechos de autor"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg"><img class=" wp-image-4236 " title="watchlist1-300x164" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg" alt="" width="257" height="140" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg"><img class=" wp-image-4236 " title="watchlist1-300x164" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg" alt="" width="257" height="140" /></a>
+
 
 Nuestro país permanece en la lista de los peores en acceso a la información, según Consumers International.
 
@@ -26,7 +27,8 @@ CI evalúa ítems como acceso a la cultura, excepciones y limitaciones para uso 
 
 <hr />
 
-[caption id="attachment_4237" align="aligncenter" width="620" caption="Peores países según la duración del copyright"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist2.jpg"><img class="size-large wp-image-4237" title="watchlist2" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist2-1024x675.jpg" alt="" width="620" height="408" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist2.jpg"><img class="size-large wp-image-4237" title="watchlist2" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist2-1024x675.jpg" alt="" width="620" height="408" /></a>
+
 
 Argentina recibió las peores notas según la duración del copyright y en la libertad de acceso y uso privado, educativo y en bibliotecas.
 

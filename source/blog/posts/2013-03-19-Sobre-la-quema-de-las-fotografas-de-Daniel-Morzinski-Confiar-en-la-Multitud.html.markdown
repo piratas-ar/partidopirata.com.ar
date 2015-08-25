@@ -14,7 +14,8 @@ wppost_name: sobre-la-quema-de-las-fotografias-de-daniel-morzinski-confiar-en-la
 
 A través de <strong><a href="http://www.pagina12.com.ar/diario/suplementos/espectaculos/21-28099-2013-03-19.html" target="_blank">esta nota de Página 12</a></strong> nos enteramos que:
 
-[caption id="attachment_6710" align="aligncenter" width="245"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg"><img class="size-full wp-image-6710" alt="Derecho a Leer" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg" width="245" height="206" /></a> Fuente de la imagen <a href="http://derechoaleer.org/blog/" target="_blank">Derecho a Leer</a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg"><img class="size-full wp-image-6710" alt="Derecho a Leer" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg" width="245" height="206" /></a> Fuente de la imagen <a href="http://derechoaleer.org/blog/" target="_blank">Derecho a Leer</a>
+
 <h2 style="text-align: center;">“Le Monde”, el fuego inexplicable</h2>
 El periódico vació la oficina y quemó dos mil rollos con retratos de Borges, Cortázar, García Márquez, Vargas Llosa, Aira y muchos otros escritores genialmente retratados. “No hubo persecución ni complot, sólo incompetencia”, dice el fotógrafo.
 

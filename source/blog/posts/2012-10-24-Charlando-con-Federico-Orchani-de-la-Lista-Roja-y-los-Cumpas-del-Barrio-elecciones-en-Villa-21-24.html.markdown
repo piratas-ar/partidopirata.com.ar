@@ -32,7 +32,8 @@ Les deseamos mucha suerte el domingo y los invitamos , como invitamos a todos, a
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-federico-orchani-lista-roja-audios-mp3_rf_1520799_1.html" target="_blank">en este link.</a></strong></p>
 
 
-[caption id="attachment_7048" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart9.png"><img class="size-full wp-image-7048" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart9.png" alt="" width="150" height="150" /></a> Código QR del Archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart9.png"><img class="size-full wp-image-7048" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart9.png" alt="" width="150" height="150" /></a> Código QR del Archivo mp3.
+
 <p style="text-align: center;"><strong><a href="https://rapidshare.com/files/3297187332/cumpas.mp3" target="_blank">Si Ivoox no está funcionando pueden bajarlo desde Rapidshare</a></strong></p>
 
 
@@ -64,4 +65,5 @@ Spot de la Lista Roja</center><object width="353" height="132" classid="clsid:d2
 
 <hr />
 
-[caption id="attachment_7046" align="aligncenter" width="576"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/votalaroja.jpg"><img class=" wp-image-7046 " title="votalaroja" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/votalaroja.jpg" alt="" width="576" height="432" /></a> Vota La Roja[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/votalaroja.jpg"><img class=" wp-image-7046 " title="votalaroja" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/votalaroja.jpg" alt="" width="576" height="432" /></a> Vota La Roja
+

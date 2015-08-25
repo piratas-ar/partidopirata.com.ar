@@ -12,7 +12,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/afichon-150x150.jp
 wppost_name: primer-congreso-nacional-de-escuelas-de-cine-avellaneda-del-6-al-9-de-julio
 ---
 
-[caption id="attachment_5028" align="aligncenter" width="426"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg"><img class=" wp-image-5028" title="afichon" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg" alt="" width="426" height="364" /></a> Primer Congreso Nacional de Escuelas de Cine[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg"><img class=" wp-image-5028" title="afichon" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg" alt="" width="426" height="364" /></a> Primer Congreso Nacional de Escuelas de Cine
+
 
 <div>
 

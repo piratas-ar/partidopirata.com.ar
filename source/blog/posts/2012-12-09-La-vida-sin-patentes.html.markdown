@@ -35,7 +35,8 @@ El Year of Open Source está financiado parcialmente por pequeñas donaciones vo
 
 Él dice que la financiación colaborativa no paga todas las cuentas del proyecto. Por eso, Sam continua trabajando como productor de vídeo, usando licencias Creative Commons y un programa de edición de vídeo de código libre para Linux. Él documenta otras iniciativas abiertas que encuentra en sus investigaciones y, a fin de año, pretende contar toda la historia en una película, también financiada por donaciones.
 
-[caption id="attachment_7758" align="aligncenter" width="570"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/sam-at-open-design-city-02.jpg"><img title="sam-at-open-design-city-02" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/sam-at-open-design-city-02.jpg" alt="" width="570" height="380" /></a> En la foto, el cineasta manipula una impresora 3D MakerBot, desarrollada con licencias abiertas FOTO: DIVULGACIÓN[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/sam-at-open-design-city-02.jpg"><img title="sam-at-open-design-city-02" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/sam-at-open-design-city-02.jpg" alt="" width="570" height="380" /></a> En la foto, el cineasta manipula una impresora 3D MakerBot, desarrollada con licencias abiertas FOTO: DIVULGACIÓN
+
 
 <strong>COTIDIANO OPEN SOURCE</strong>
 

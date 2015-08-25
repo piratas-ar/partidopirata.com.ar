@@ -19,7 +19,8 @@ Para saber un poco más sobre <em>Financiación Colaborativa</em> o <em>Crowdfun
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/crowdfunding-para-projetos-livres/" target="_blank">Fuente Tatiana de Mello Dias</a></strong>
 
-[caption id="attachment_4848" align="aligncenter" width="300" caption="Beethoven"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven.jpg"><img class="size-medium wp-image-4848" title="beethoven" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven-300x221.jpg" alt="" width="300" height="221" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven.jpg"><img class="size-medium wp-image-4848" title="beethoven" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven-300x221.jpg" alt="" width="300" height="221" /></a>
+
 
 El site de crowdfunding[financiación colaborativa] Kickstarter tiene una sección dedicada apenas a proyectos que serán licenciados con Creative Commons.
 

@@ -24,7 +24,8 @@ En esta ocasión hablamos con Walter sobre patentes de software, software libre,
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em><a href="http://www.ivoox.com/charlando-galleguindio-walter-desde-quimili-santiago-del-estero-audios-mp3_rf_1377578_1.html" target="_blank">en este link.</a></strong></p>
 
 
-[caption id="attachment_5927" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart4.png"><img class="size-full wp-image-5927" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart4.png"><img class="size-full wp-image-5927" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 <hr />
 
@@ -34,7 +35,8 @@ Segunda Parte de la charla con Walter desde Quimilí-Santiago del Estero.
 <a href="http://www.ivoox.com/charlando-galleguindio-walter-desde-quimili-santiago-del-estero_md_1377609_1.mp3" target="_blank">Si quieren descargar el archivo mp3 de la charla.</a>
 Si el enlace anterior no funciona, presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-galleguindio-walter-desde-quimili-santiago-del-estero-audios-mp3_rf_1377609_1.html" target="_blank">desde este link.</a></center>
 
-[caption id="attachment_5928" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart5.png"><img class="size-full wp-image-5928" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart5.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart5.png"><img class="size-full wp-image-5928" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart5.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 &nbsp;
 

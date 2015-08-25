@@ -23,4 +23,5 @@ Acto de asunción de mando en el Congreso de la Nación: Discurso de la Presiden
 
 <hr />
 
-[caption id="attachment_7937" align="aligncenter" width="653"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/CFK-Peter-Munk.jpg"><img class="size-full wp-image-7937" alt="Cristina Kirchner y Peter Munk presidente de Barrick Gold" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/CFK-Peter-Munk.jpg" width="653" height="334" /></a> Cristina Kirchner y Peter Munk presidente de Barrick Gold[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/CFK-Peter-Munk.jpg"><img class="size-full wp-image-7937" alt="Cristina Kirchner y Peter Munk presidente de Barrick Gold" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/CFK-Peter-Munk.jpg" width="653" height="334" /></a> Cristina Kirchner y Peter Munk presidente de Barrick Gold
+

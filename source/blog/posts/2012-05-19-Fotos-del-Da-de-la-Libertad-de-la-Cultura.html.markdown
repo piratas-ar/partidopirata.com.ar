@@ -18,16 +18,20 @@ Fotos del "Día de la Libertad de la Cultura en Rosario, envíadas por <a href="
 
 <hr />
 
-[caption id="attachment_4504" align="aligncenter" width="300" caption="Día de la Libertad de la Cultura - Rosario 2012"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-061.jpg"><img class="size-medium wp-image-4504" title="Rosario 2012a 061" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-061-300x225.jpg" alt="" width="300" height="225" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-061.jpg"><img class="size-medium wp-image-4504" title="Rosario 2012a 061" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-061-300x225.jpg" alt="" width="300" height="225" /></a>
+
 
 <hr />
 
-[caption id="attachment_4503" align="aligncenter" width="300" caption="Día de la Libertad de la Cultura - Rosario 2012"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-0601.jpg"><img class="size-medium wp-image-4503" title="Rosario 2012a 060" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-0601-300x225.jpg" alt="" width="300" height="225" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-0601.jpg"><img class="size-medium wp-image-4503" title="Rosario 2012a 060" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-0601-300x225.jpg" alt="" width="300" height="225" /></a>
+
 
 <hr />
 
-[caption id="attachment_4500" align="aligncenter" width="300" caption="Día de la Libertad de la Cultura-Rosario 2012"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-058.jpg"><img class="size-medium wp-image-4500" title="Rosario 2012a 058" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-058-300x225.jpg" alt="" width="300" height="225" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-058.jpg"><img class="size-medium wp-image-4500" title="Rosario 2012a 058" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-058-300x225.jpg" alt="" width="300" height="225" /></a>
+
 
 <hr />
 
-[caption id="attachment_4501" align="aligncenter" width="300" caption="Día de la Libertad de la Cultura-Rosario 2012"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-059.jpg"><img class="size-medium wp-image-4501" title="Rosario 2012a 059" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-059-300x225.jpg" alt="" width="300" height="225" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-059.jpg"><img class="size-medium wp-image-4501" title="Rosario 2012a 059" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Rosario-2012a-059-300x225.jpg" alt="" width="300" height="225" /></a>
+

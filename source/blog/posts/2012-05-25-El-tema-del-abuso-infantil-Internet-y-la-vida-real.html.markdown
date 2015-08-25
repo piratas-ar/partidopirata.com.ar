@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246-150
 wppost_name: el-tema-del-abuso-infantil-internet-y-la-vida-real
 ---
 
-[caption id="attachment_4567" align="alignright" width="300" caption="Maria Das Gracas Meneghel-Xusa"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg"><img class="size-full wp-image-4567" title="Xuxa-1-300x246" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg" alt="" width="300" height="246" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg"><img class="size-full wp-image-4567" title="Xuxa-1-300x246" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg" alt="" width="300" height="246" /></a>
+
 
 "Entre llantos, Xuxa confesó: <em>“Nunca expliqué nada a nadie porque tenía vergüenza, no sabía qué hacer. Si hubiera hablado con mi padre, él me habría culpado por provocar. Supongo que vieron algo extraño en que yo, que siempre había sido muy habladora, de repente me convirtiese en una persona callada”.</em>
 

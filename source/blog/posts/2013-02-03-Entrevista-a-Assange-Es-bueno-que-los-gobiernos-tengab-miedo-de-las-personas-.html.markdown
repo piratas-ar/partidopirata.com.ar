@@ -9,7 +9,8 @@ wppost_name: 'entrevista_assange_es_bueno_que_los_gobiernos_teman_las_personas'
 
 <strong><a href="blogs.estadao.com.br/jamil-chade/2013/02/02/entrevista-com-assange-e-bom-que-os-governos-tenham-medo-das-pessoas/" target="_blank">Fuente O Estado de São Paulo</a></strong>
 
-[caption id="attachment_8370" align="aligncenter" width="600"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg"><img class="size-full wp-image-8370" alt="Julián Assange con la camiseta de Brasil !!!" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg" width="600" height="400" /></a> Julián Assange con la camiseta de Brasil !!![/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg"><img class="size-full wp-image-8370" alt="Julián Assange con la camiseta de Brasil !!!" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg" width="600" height="400" /></a> Julián Assange con la camiseta de Brasil !!!
+
 
 <strong><a href="http://blogs.estadao.com.br/jamil-chade/" target="_blank">Realizada por Jamil Chade</a></strong>
 

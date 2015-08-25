@@ -21,7 +21,8 @@ La  Recording Industry Association of America [RIAA, las grandes discográficas
 
 Cuando se trata de derecho, pocas empresas privadas pueden coincidir con la RIAA. La última fuente de sus gemidos es Google. Después de que<strong><a href="http://partidopirata.com.ar/4579/google-se-enfrenta-con-un-millon-de-solicitudes-al-mes-para-eliminar-material-con-derechos-de-autor-de-sus-busquedas"> Google publicó su informe </a></strong>la semana pasada de pedido de borrado de links por DMCA, la RIAA está decidida a hacer que Google sea el problema, porque casi 1,25 millones enlaces eliminados en un año no es suficiente, y todo es culpa de Google, a pesar que el gigante de las búsquedas no tiene absolutamente ninguna responsabilidad en poner alguno de ellos en línea.
 
-[caption id="attachment_4604" align="alignright" width="199" caption="Policía de la RIAA"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg"><img class="size-full wp-image-4604" title="riaa_cop1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg" alt="" width="199" height="253" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg"><img class="size-full wp-image-4604" title="riaa_cop1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg" alt="" width="199" height="253" /></a>
+
 
 Pobre Google no puede hacer nada bien a los ojos de la RIAA.
 

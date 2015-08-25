@@ -11,7 +11,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-
 wppost_name: artistas-contra-el-copyright
 ---
 
-[caption id="attachment_4361" align="alignright" width="300" caption="Artistas contra el Copyright"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat.jpg"><img class="size-medium wp-image-4361" title="chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat-300x234.jpg" alt="" width="300" height="234" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat.jpg"><img class="size-medium wp-image-4361" title="chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat-300x234.jpg" alt="" width="300" height="234" /></a>
+
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/os-artistas-contra-o-copyright/" target="blank">Fuente Tatiana de Mello Dias</a></strong>
 

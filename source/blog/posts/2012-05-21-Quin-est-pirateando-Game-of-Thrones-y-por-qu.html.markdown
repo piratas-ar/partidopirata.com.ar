@@ -19,7 +19,8 @@ wppost_name: quien-esta-pirateando-game-of-thrones-y-por-que
 
 Con más de 3 millones de descargas por episodio, la exitosa serie de HBO Game of Thrones es sin duda lo más pirateado de la televisión de la temporada. Los datos recogidos por TorrentFreak muestran que la mayoría de los piratas provienen de Australia, mientras que Londres encabeza la lista de las ciudades más piratas. Pero ¿por qué esta gente se volvió a BitTorrent?
 
-[caption id="attachment_4519" align="alignright" width="248" caption="Game of Thrones"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg"><img class="size-full wp-image-4519" title="thrones" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg" alt="" width="248" height="131" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg"><img class="size-full wp-image-4519" title="thrones" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg" alt="" width="248" height="131" /></a>
+
 
 En pocas horas un nuevo episodio de Game of Thrones aparecerá en BitTorrent, y unos días más tarde entre 3 y 4 millones de personas descargarán esta versión no oficial.
 

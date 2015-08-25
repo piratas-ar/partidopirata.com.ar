@@ -23,4 +23,5 @@ fumigación.
 </strong></p>
 
 
-[caption id="attachment_7940" align="aligncenter" width="720"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/FUMIGACIONES-CAMPITO.jpg"><img class="size-full wp-image-7940" alt="Verificando la fumigación con &quot;matayuyos&quot;" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/FUMIGACIONES-CAMPITO.jpg" width="720" height="960" /></a> Verificando la fumigación con "matayuyos"[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/FUMIGACIONES-CAMPITO.jpg"><img class="size-full wp-image-7940" alt="Verificando la fumigación con &quot;matayuyos&quot;" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/FUMIGACIONES-CAMPITO.jpg" width="720" height="960" /></a> Verificando la fumigación con "matayuyos"
+

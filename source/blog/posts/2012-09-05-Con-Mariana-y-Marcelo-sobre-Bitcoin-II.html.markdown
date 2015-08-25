@@ -16,7 +16,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwr
 wppost_name: con-mariana-y-marcelo-sobre-bitcoin-ii
 ---
 
-[caption id="attachment_5087" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png"><img class="size-medium wp-image-5087" title="Bitcoin en español" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1-300x48.png" width="300" height="48" /></a> El Bitcoin en Español[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png"><img class="size-medium wp-image-5087" title="Bitcoin en español" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1-300x48.png" width="300" height="48" /></a> El Bitcoin en Español
+
 
 <hr />
 
@@ -30,7 +31,8 @@ wppost_name: con-mariana-y-marcelo-sobre-bitcoin-ii
 <object id="player1407349" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1407349_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1407349" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1407349_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object></center><a href="http://www.ivoox.com/con-mariana-marcelo-sobre-bitcoin_md_1407349_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a>
 Si el archivo no descarga en ese enlace presionen en <em>descargar</em><a href="http://www.ivoox.com/con-mariana-marcelo-sobre-bitcoin-audios-mp3_rf_1407349_1.html" target="_blank"> en el siguiente enlace.</a>
 
-[caption id="attachment_6329" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart2.png"><img class="size-full wp-image-6329" title="chart" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart2.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart2.png"><img class="size-full wp-image-6329" title="chart" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart2.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://elbitcoin.org/excelentes-noticias-para-los-bitcoiners-argentinos/" target="_blank">El enlace para comprar bitcoins con pesos en la Argentina.</a></strong></p>

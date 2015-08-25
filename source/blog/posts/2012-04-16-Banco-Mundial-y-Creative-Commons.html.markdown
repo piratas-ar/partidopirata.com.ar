@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/bm-150x150.jpg
 wppost_name: banco-mundial-y-creative-commons
 ---
 
-[caption id="attachment_4061" align="aligncenter" width="150" caption="Publicaciones del Banco Mundial"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/bm.jpg"><img class="size-thumbnail wp-image-4061 " title="bm" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/bm-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/bm.jpg"><img class="size-thumbnail wp-image-4061 " title="bm" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/bm-150x150.jpg" alt="" width="150" height="150" /></a>
+
 
 <hr />
 

@@ -21,11 +21,13 @@ wppost_name: el-marco-civil-es-unico-en-el-mundo-dice-el-fundador-del-partido-pi
 
 <hr />
 
-[caption id="attachment_5550" align="aligncenter" width="404"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/555603_478116905549157_1060185226_n.jpg"><img class=" wp-image-5550" title="Rick Falkvinge en la FISL 13" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/555603_478116905549157_1060185226_n-300x225.jpg" alt="" width="404" height="303" /></a> Rick Falkvinge en la FISL 13[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/555603_478116905549157_1060185226_n.jpg"><img class=" wp-image-5550" title="Rick Falkvinge en la FISL 13" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/555603_478116905549157_1060185226_n-300x225.jpg" alt="" width="404" height="303" /></a> Rick Falkvinge en la FISL 13
+
 
 <hr />
 
-[caption id="attachment_5553" align="aligncenter" width="409"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n.jpg"><img class=" wp-image-5553" title="Falkvinge en la FISL 3" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n-300x225.jpg" alt="" width="409" height="307" /></a> <br />Felipe Magnus Gil, Rick Falkvinge, Leandro Chemalle, Paulo Rená[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n.jpg"><img class=" wp-image-5553" title="Falkvinge en la FISL 3" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n-300x225.jpg" alt="" width="409" height="307" /></a> <br />Felipe Magnus Gil, Rick Falkvinge, Leandro Chemalle, Paulo Rená
+
 <p style="text-align: center;"><strong><a href="https://www.facebook.com/photo.php?fbid=478117082215806&amp;set=a.478114712216043.122239.180044272023090&amp;type=1&amp;theater" target="_blank">Más fotos en esta página en Facebook.</a></strong></p>
 
 

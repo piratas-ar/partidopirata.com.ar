@@ -29,7 +29,8 @@ Supongo que es por qué me tomó mucho tiempo reconciliarme con el hecho de que 
 
 Los políticos han sido bajados del pedestal. Y eso es bueno que sea en todo el camino
 
-[caption id="attachment_4067" align="aligncenter" width="150" caption="Reunión de la Internacional Pirata"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirates-international.jpg"><img class="size-thumbnail wp-image-4067" title="pirates-international" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirates-international-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirates-international.jpg"><img class="size-thumbnail wp-image-4067" title="pirates-international" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirates-international-150x150.jpg" alt="" width="150" height="150" /></a>
+
 
 He entendido que muchos de los lectores estadounidenses me interpretaron mal cuando dije que el 9% en una elección es una sensación. Eso es porque los Estados Unidos y Europa tienen sistemas electorales completamente diferentes: en los Estados Unidos, si  tenés un 9% de los votos, has sido aplastado, abajo y  fuera. En (la mayoría) de Europa, <strong>cuando alcanzas un 9% de los votos, obtienes un 9% de los escaños.</strong>
 

@@ -17,7 +17,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz-150x
 wppost_name: sigue-la-violencia-contra-los-qom
 ---
 
-[caption id="attachment_5132" align="alignleft" width="346"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz.jpg"><img class="size-medium wp-image-5132" title="Abelardo Diaz hijo de Félix Diaz qarashe de la comunidad Qom La primavera" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz-277x300.jpg" alt="" width="346" height="384" /></a> Abelardo Diaz, hijo de Félix Diaz, qarashe de la comunidad Qom La primavera[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz.jpg"><img class="size-medium wp-image-5132" title="Abelardo Diaz hijo de Félix Diaz qarashe de la comunidad Qom La primavera" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz-277x300.jpg" alt="" width="346" height="384" /></a> Abelardo Diaz, hijo de Félix Diaz, qarashe de la comunidad Qom La primavera
+
 
 
 El pasado 28 a la noche una patota que presuntamente responde a Insfrán, gobernador oficialista de Formosa, atacaron y (portando armas blancas) amenazaron con degollar a Abelardo Diaz, hijo de Félix Diaz, qarashe de la comunidad Qom Potae Napocna Navogoh (La Primavera).

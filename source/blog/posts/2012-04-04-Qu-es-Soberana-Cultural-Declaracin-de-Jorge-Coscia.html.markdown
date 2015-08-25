@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia-150x1
 wppost_name: que-es-soberania-cultural-declaracion-de-jorge-coscia
 ---
 
-[caption id="attachment_873" align="alignleft" width="225" caption="Jorge Coscia"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873" title="225px-Coscia" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873" title="225px-Coscia" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>
+
 
 <hr />
 

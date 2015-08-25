@@ -24,7 +24,8 @@ wppost_name: dia-internacional-de-la-prevencion-del-abuso-infantil-programa-de-r
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/suenos-posibles-del-19-noviembre-audios-mp3_rf_1584213_1.html" target="_blank">en este link.</a></strong></p>
 
 
-[caption id="attachment_7487" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png"><img class="size-full wp-image-7487" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png"><img class="size-full wp-image-7487" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 <hr />
 

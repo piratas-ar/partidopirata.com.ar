@@ -31,7 +31,6 @@ Si tuviste alguna de esas dudas, entonces tenés que venir a escuchar a los chic
 También se va a estar proyectando PressPausePlay, un documental sobre los nuevos medios (new media) y como adaptarse sin <strong>morir en el intento</strong>.
 <blockquote><a title="PressPausePlay" href="www.presspauseplay.com">Press Pause Play</a> es un film sobre la importancia de los nuevos medios en la música, el cine, la fotografía el diseño y el arte en general, incluyendo entrevistas con alguno de los más influyentes creadores de la era digital. La revolución digital de la última década ha disparado el talento de una forma sin precedentes, generando una nueva creatividad sin límites. Pero, ¿esto significa que una cultura democratizada genera mejores expresiones de arte, cine, música y literatura? ¿o es el talento que se pierde en ese vasto océano de la cultura de masas?
 Press Pause Play contiene entrevistas con creadores como Moby, Bill Drummond (KLF), Sean Parker (Napster), Amy Philips (<a title="Pitchfork" href="http://www.pitchfork.com">Pitchfork</a>),Anne Hilde Neset (The Wire Magazine) y Christopher Weingarten (Rolling Stone)</blockquote>
-[gallery orderby="rand"]
 
 La charla (y debate también, ¿por qué no?) junto a la proyección del documental se llevará a cabo en <a title="La Casa Estudio" href="http://lacasaestudio.wordpress.com/">La Casa Estudio</a>, H. Yrigoyen 863, Neuquén, Argentina.
 

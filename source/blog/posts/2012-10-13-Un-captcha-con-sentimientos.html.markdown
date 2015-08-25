@@ -22,7 +22,8 @@ wppost_name: un-captcha-con-sentimientos
 
 <em>Un grupo de activistas propone CAPTCHAS con preguntas basadas en casos reales de violación a los derechos humanos; respuestas son sentimientos</em>
 
-[caption id="attachment_6840" align="alignright" width="200"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/youtubes-captcha_200.jpg"><img class="size-full wp-image-6840" title="youtubes-captcha_200" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/youtubes-captcha_200.jpg" alt="" width="200" height="280" /></a> Ejemplos de CAPTCHAS para la aprobación de comentarios en YouTube.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/youtubes-captcha_200.jpg"><img class="size-full wp-image-6840" title="youtubes-captcha_200" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/youtubes-captcha_200.jpg" alt="" width="200" height="280" /></a> Ejemplos de CAPTCHAS para la aprobación de comentarios en YouTube.
+
 
 <em>SÃO PAULO – Mientras navegas por internet,  debes estar acostumbrado a depararte con  los sistemas CAPTCHA – aquellos formularios en que digitás una secuencia de números o letras que aparecem distorcionadas en una imagen, para probar que sos un ser humano y no un robot. Pero,  ¿ y si para prevenir bots automáticos y spam, tuvieses que decir como te sentís respecto de temas que hieren los derechos humanos?</em>
 

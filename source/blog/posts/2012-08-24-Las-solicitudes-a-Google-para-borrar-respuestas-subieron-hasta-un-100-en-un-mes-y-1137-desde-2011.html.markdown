@@ -33,7 +33,8 @@ A raíz de ese artículo el límite se elevó otra vez durante la semana que com
 
 En la semana que comienza el 23 de julio, los titulares de derechos pidieron que  1107659 URLs fueran borradas, un aumento de más del 50% con respecto al récord semanal anterior. Pero, sorprendentemente, incluso este récord estaba a punto de ser aplastado.
 
-[caption id="attachment_6170" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/googletakedown.jpg"><img class="size-medium wp-image-6170" title="Pedidos para borrar URLs por semana" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/googletakedown-300x155.jpg" alt="" width="300" height="155" /></a> Pedidos para borrar URLs por semana[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/googletakedown.jpg"><img class="size-medium wp-image-6170" title="Pedidos para borrar URLs por semana" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/googletakedown-300x155.jpg" alt="" width="300" height="155" /></a> Pedidos para borrar URLs por semana
+
 
 Durante la semana que comienza el 13 de agosto, Google recibió solicitudes para borrar 1.496.220 direcciones URLs, un 35% más que el récord establecido apenas dos semanas antes y un enorme aumento de 1.137% de las 131577 URLs solicitadas para borrar el 08 de agosto 2011.
 

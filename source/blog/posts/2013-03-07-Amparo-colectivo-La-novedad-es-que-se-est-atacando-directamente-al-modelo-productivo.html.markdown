@@ -32,4 +32,5 @@ wppost_name: amparo-colectivo-la-novedad-es-que-se-esta-atacando-directamente-al
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/novedad-es-se-esta-atacando-directamente_md_1847528_1.mp3" target="_blank">Si quieren descargar el archivo mp3 de la entrevsita</a></strong></p>
 
 
-[caption id="attachment_8660" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart3.png"><img class="size-full wp-image-8660" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart3.png"><img class="size-full wp-image-8660" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+

@@ -42,7 +42,8 @@ Normalmente, estos intentos de censura se dirigen hacia fotos, archivos o págin
 
 Si van a la parte inferior donde está el video encontrarán esta opción para descargarlo, hagan click con el botón derecho del mouse y elijan la calidad que les guste más, luego súbanlo a algún otro servidor de videos, hay varios además de Youtube:
 
-[caption id="attachment_8075" align="aligncenter" width="542"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/himno.png"><img class="size-full wp-image-8075" alt="Para descargar el video, fíjense en la base donde dice Descargar" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/himno.png" width="542" height="253" /></a> Para descargar el video, fíjense en la base donde dice Descargar elijan la opción que quieran[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/himno.png"><img class="size-full wp-image-8075" alt="Para descargar el video, fíjense en la base donde dice Descargar" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/himno.png" width="542" height="253" /></a> Para descargar el video, fíjense en la base donde dice Descargar elijan la opción que quieran
+
 
 Otros lugares para subir videos:
 <ul>

@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar-15
 wppost_name: otra-victoria-ley-de-glaciares-la-corte-revoco-amparos-de-las-mineras
 ---
 
-[caption id="attachment_5118" align="aligncenter" width="545"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar.jpg"><img class="size-full wp-image-5118" title="Explicación sobre &quot;Minería Responsable&quot; de Barrick Gold" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar.jpg" alt="" width="545" height="597" /></a> Explicación sobre "Minería Responsable" de Barrick Gold[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar.jpg"><img class="size-full wp-image-5118" title="Explicación sobre &quot;Minería Responsable&quot; de Barrick Gold" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar.jpg" alt="" width="545" height="597" /></a> Explicación sobre "Minería Responsable" de Barrick Gold
+
 <p style="text-align: center;"><strong>Barrick Gold decía que no operaba en glaciares....Pero en sus folletos anuncia que van a moverlo</strong></p>
 <p style="text-align: center;"><strong>(¿A Cristina le habrá gustado el folleto de la Barrick?)</strong></p>
 <strong>Relevamiento</strong>. El inventario de glaciares ya arrancó en el país. El Ianigla (Instituto Argentino de Nivología, Glaciología y Ciencias Ambientales, Conicet) es la institución designada por la ley para realizarlo. Los primeros datos divulgados son de la cuenca del río Mendoza, donde detectaron 570 kilómetros cuadrados de glaciares en sus tres formas generales (descubiertos, cubiertos y de escombros). En total, son 1.612 glaciares.

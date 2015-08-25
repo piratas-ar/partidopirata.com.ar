@@ -22,7 +22,8 @@ Esta nota fue escrita luego de los disturbios en Londre del año 2011
 
 Como mostraron los recientes disturbios del Reino Unido mostraron, CCTV [el sistema de cámaras de vigilancia del Reino Unido] no hizo nada para prevenir la delincuencia callejera
 
-[caption id="attachment_7240" align="aligncenter" width="460"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/CCTV-007.jpg"><img class="size-full wp-image-7240" title="CCTV-007" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/CCTV-007.jpg" alt="" width="460" height="276" /></a> Cámaras de Vigilancia (algunos las llaman de "seguridad" en el Reino Unido.<br />¿Alguien las está viendo? El mayor valor de CCTV parece ser el de aquellos que ganan dinero con la venta de CCTV. Foto: Felix Clay[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/CCTV-007.jpg"><img class="size-full wp-image-7240" title="CCTV-007" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/CCTV-007.jpg" alt="" width="460" height="276" /></a> Cámaras de Vigilancia (algunos las llaman de "seguridad" en el Reino Unido.<br />¿Alguien las está viendo? El mayor valor de CCTV parece ser el de aquellos que ganan dinero con la venta de CCTV. Foto: Felix Clay
+
 
 He perdido la cuenta del número de personas que me han pedido comentar el <a title="" href="http://www.guardian.co.uk/uk/2011/aug/11/cameron-call-social-media-clampdown">loco plan de David Cameron de mutilar la internet Británica en tiempos de agitación socia</a> mediante el bloqueo de servicios como Twitter y otros. En caso de que usted se esté preguntando por qué lo crítico, bueno, digamos que no es sólo un mal plan,  también es ineficaz.
 

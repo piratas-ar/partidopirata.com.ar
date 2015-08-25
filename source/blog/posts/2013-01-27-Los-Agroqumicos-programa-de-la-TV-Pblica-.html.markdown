@@ -26,7 +26,8 @@ Si quieren escuchar o descargar el audio del programa:</center>
 Si el enlace anterior no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/audio-del-programa-cientificos-industria-argentina-dedicado-a-audios-mp3_rf_1739208_1.html" target="_blank">En este link.</a></p>
 
 
-[caption id="attachment_8307" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart3.png"><img class="size-full wp-image-8307" alt="Código QR de la dirección del archivo de audio." src="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo de audio.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart3.png"><img class="size-full wp-image-8307" alt="Código QR de la dirección del archivo de audio." src="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo de audio.
+
 
 &nbsp;
 

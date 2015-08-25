@@ -23,11 +23,13 @@ wppost_name: hombre-bebiendo-luz-rodolfo-kusch-en-procura-de-un-pensamiento-cont
 <p style="text-align: center;">En Vimeo está la opción para descargar los archivos, en la base donde está el video, a la derecha verán la opción <strong>Descargar:</strong></p>
 
 
-[caption id="attachment_7342" align="aligncenter" width="475"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/basevimeo.png"><img class=" wp-image-7342" title="basevimeo" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/basevimeo.png" alt="" width="475" height="139" /></a> En la parte inferior donde aparece el video verán la opción para descargarlo:[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/basevimeo.png"><img class=" wp-image-7342" title="basevimeo" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/basevimeo.png" alt="" width="475" height="139" /></a> En la parte inferior donde aparece el video verán la opción para descargarlo:
+
 
 <hr />
 
-[caption id="attachment_7341" align="aligncenter" width="497"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/vimeo2.png"><img class=" wp-image-7341" title="vimeo2" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/vimeo2.png" alt="" width="497" height="215" /></a> En la base del video verán la opción para realizar descargas, pueden elegirlo con mayor definición (pero casi 1 giga) o más liviano.<br /><br />[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/vimeo2.png"><img class=" wp-image-7341" title="vimeo2" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/vimeo2.png" alt="" width="497" height="215" /></a> En la base del video verán la opción para realizar descargas, pueden elegirlo con mayor definición (pero casi 1 giga) o más liviano.<br /><br />
+
 <p style="text-align: center;"><strong><strong></strong>También pueden descargarlo si usan Firefox con el complemento <a href="https://addons.mozilla.org/es/firefox/addon/video-downloadhelper/" target="_blank">Download Helper</a>
 </strong></p>
 

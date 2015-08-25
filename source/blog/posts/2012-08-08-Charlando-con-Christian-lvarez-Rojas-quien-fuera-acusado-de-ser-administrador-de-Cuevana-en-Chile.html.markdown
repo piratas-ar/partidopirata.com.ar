@@ -23,7 +23,8 @@ wppost_name: charlando-con-christian-alvarez-quien-fuera-acusado-de-ser-administ
 
 <hr />
 
-[caption id="attachment_5801" align="alignright" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671.jpg"><img class="size-medium wp-image-5801" title="600x0_518671" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671-300x225.jpg" alt="" width="300" height="225" /></a> Christian Álvarez Rojas y el circo que montaron en torno a su acusación como colaborador de Cuevana[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671.jpg"><img class="size-medium wp-image-5801" title="600x0_518671" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671-300x225.jpg" alt="" width="300" height="225" /></a> Christian Álvarez Rojas y el circo que montaron en torno a su acusación como colaborador de Cuevana
+
 
 <strong>Cristian Álvarez Rojas</strong> era investigado por las autoridades chilenas por<strong> infringir la Ley de Propiedad Intelectual.</strong> Está acusado de subir a la red las películas del vecino país. La denuncia que desembocó en la detención fue presentada por HBO. Hay otros ocho administradores del sitio en América Latina
 <a href="http://www.infobae.com/notas/636859-Demoraron-al-administrador-en-Chile-del-sitio-de-peliculas-Cuevana.html" target="_blank">Fuente Infobae</a>
@@ -36,7 +37,8 @@ Presionen en <em>play</em> para escucharl osin descargar o
 <a href="http://www.ivoox.com/charlando-christian-alvarez-colaborador-cuevana-en_md_1368381_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-christian-alvarez-colaborador-cuevana-en-audios-mp3_rf_1368381_1.html" target="_blank">en el siguiente enlace.</a></center>&nbsp;
 
-[caption id="attachment_5800" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart2.png"><img class="size-full wp-image-5800" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart2.png"><img class="size-full wp-image-5800" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 <hr />
 

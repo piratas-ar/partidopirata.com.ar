@@ -50,6 +50,7 @@ Una charla imperdible (posta, abran la cabeza!) con la directora, Candelaria Sab
 
 <div class="separator" style="clear: both; text-align: center;">
 
-[caption id="attachment_4763" align="aligncenter" width="142" caption="Obra de Teatro con Creative Commons"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg"><img class="size-full wp-image-4763" title="no mas zzzzs" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg" alt="" width="142" height="200" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg"><img class="size-full wp-image-4763" title="no mas zzzzs" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg" alt="" width="142" height="200" /></a>
+
 
 </div>

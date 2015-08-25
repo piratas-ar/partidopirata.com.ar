@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-re
 wppost_name: tim-berners-lee-controlar-la-web-destrye-los-derechos-humanos
 ---
 
-[caption id="attachment_4155" align="alignright" width="300" caption="Tim Berners-lee-"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine.jpg"><img class="size-medium wp-image-4155" title="tim-berners-lee-reuters-ray-stubblebine" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine-300x203.jpg" alt="" width="300" height="203" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine.jpg"><img class="size-medium wp-image-4155" title="tim-berners-lee-reuters-ray-stubblebine" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine-300x203.jpg" alt="" width="300" height="203" /></a>
+
 
 <strong><a href="http://blogs.estadao.com.br/link/controlar-a-internet-destroi-os-direitos-humanos/" target="_blank">Fuente Suplemento Link diario "O Estado de São Paulo"</a></strong>
 

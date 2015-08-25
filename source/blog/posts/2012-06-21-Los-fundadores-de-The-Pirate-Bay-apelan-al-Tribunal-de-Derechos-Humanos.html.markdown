@@ -21,7 +21,8 @@ Con los años ha habido docenas de anuncios de The Pirate Bay, a menudo predicie
 
 Aunque muchos no han llegado a buen término debido a influencias externas, tales como fiestas salvajes, una cosa ha sido confirmada - la promesa de años de  lucha hasta el amargo final.
 
-[caption id="attachment_4875" align="alignright" width="100" caption="Peter Sunde-Cofundador de The Pirate Bay"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg"><img class="size-full wp-image-4875" title="petersunde1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg" alt="" width="100" height="120" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg"><img class="size-full wp-image-4875" title="petersunde1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg" alt="" width="100" height="120" /></a>
+
 
 El sitio ha estado en nuevas manos desde hace algún tiempo, pero para los  cofundadores Peter Sunde y Fredrik Neij no está terminada la historia de  Pirata Bay no va a desaparecer.
 

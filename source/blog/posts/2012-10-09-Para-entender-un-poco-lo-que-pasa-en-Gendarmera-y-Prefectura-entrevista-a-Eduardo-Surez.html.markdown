@@ -27,7 +27,8 @@ Tratando de entender un poco más lo que pasa con Gendarmería y Prefectura les 
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/entrevista-a-eduardo-suarez-asociacion-gremial-audios-mp3_rf_1483309_1.html" target="_blank">en el siguiente link.</a></strong></p>
 
 
-[caption id="attachment_6782" align="alignright" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart1.png"><img class="size-full wp-image-6782" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart1.png"><img class="size-full wp-image-6782" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 <hr />
 

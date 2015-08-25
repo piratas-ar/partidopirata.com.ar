@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/Copyright-History-
 wppost_name: una-historia-del-copyright-por-rick-falkvinge
 ---
 
-[caption id="attachment_622" align="alignleft" width="300" caption="De Una Historia del Copyright"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/03/Copyright-History-1-Black-Death.jpg"><img class="size-medium wp-image-622" title="Copyright-History-1-Black-Death" src="http://partidopirata.com.ar/wp-content/uploads/2011/03/Copyright-History-1-Black-Death-300x168.jpg" alt="La Peste Negra" width="300" height="168" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/03/Copyright-History-1-Black-Death.jpg"><img class="size-medium wp-image-622" title="Copyright-History-1-Black-Death" src="http://partidopirata.com.ar/wp-content/uploads/2011/03/Copyright-History-1-Black-Death-300x168.jpg" alt="La Peste Negra" width="300" height="168" /></a>
+
 
 <a href="http://falkvinge.net/2011/02/01/history-of-copyright-part-1-black-death/" target="_blank">Blog de Rick Falkvinge.</a>
 

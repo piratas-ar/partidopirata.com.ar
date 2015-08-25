@@ -18,7 +18,8 @@ wppost_name: comcast-elogia-acuerdo-voluntario-en-la-campana-contra-los-bittorre
 <strong><a href="https://torrentfreak.com/comcast-praises-voluntary-bittorrent-crackdown-agreement-120501/" target="_blank">Fuente Torrentfreak.</a></strong>
 A partir de este verano[en el hemisferio norte], millones de usuarios de BitTorrent en Estados Unidos serán objeto de seguimiento como parte de un acuerdo voluntario entre la MPAA, la RIAA y todos los principales proveedores de internet. Aquellos que sean atrapados compartiendo obras con copyright recibirán varios mensajes de advertencia y una eventual sanción si continúan con la infracción. Al comentar sobre los planes, el vicepresidente de Comcast Gerard Lewis elogió la cooperación como un buen modelo que proteja la privacidad, mientras que educa al público.
 
-[caption id="attachment_4302" align="alignright" width="225" caption="Gerard Lewis-Vicepresidente de Comcast"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg"><img class="size-full wp-image-4302" title="gerard" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg" alt="" width="225" height="177" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg"><img class="size-full wp-image-4302" title="gerard" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg" alt="" width="225" height="177" /></a>
+
 
 La semana pasada la Campaña de la Coalición Creativa organizó una conferencia sobre medidas contra la piratería.
 

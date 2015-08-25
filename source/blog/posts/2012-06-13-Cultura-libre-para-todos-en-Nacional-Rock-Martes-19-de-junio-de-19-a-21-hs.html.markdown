@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande-150x
 wppost_name: cultura-libre-para-todos-en-nacional-rock-martes-19-de-junio-de-19-a-21-hs
 ---
 
-[caption id="attachment_4750" align="aligncenter" width="402" caption="Cultura Libre Para Todos!"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande.jpg"><img class=" wp-image-4750" title="afiche-grande" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande-212x300.jpg" alt="" width="402" height="568" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande.jpg"><img class=" wp-image-4750" title="afiche-grande" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande-212x300.jpg" alt="" width="402" height="568" /></a>
+
 
 <div style="text-align: center;"><strong>Gala Cacchione y Victoria Tombolini en El Fin del Finde del 10/6/2012 anuncian el Festival Cultura Libre para todos y explican de qué se trata:</strong></div>
 <div style="text-align: center;"><object id="player1284392" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1284392_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1284392" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1284392_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object>

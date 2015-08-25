@@ -19,7 +19,8 @@ El 19 de Julio el programa de radio <span style="font-size: large;"><a href="ht
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/entrevista-del-programa-madrid-norte-onda-audios-mp3_rf_1418072_1.html" target="_blank">en este link.</a></strong></p>
 
 
-[caption id="attachment_6424" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart4.png"><img class="size-full wp-image-6424" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivio mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart4.png"><img class="size-full wp-image-6424" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivio mp3
+
 
 &nbsp;
 

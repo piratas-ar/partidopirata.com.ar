@@ -13,7 +13,8 @@ thumb:
 wppost_name: sobre-la-destitucion-de-fernando-lugo-en-paraguay
 ---
 
-[caption id="attachment_4922" align="aligncenter" width="300" caption="Propaganda de Syngenta"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja.jpg"><img class="size-medium wp-image-4922" title="RepublicaSoja" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja-300x161.jpg" alt="" width="300" height="161" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja.jpg"><img class="size-medium wp-image-4922" title="RepublicaSoja" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja-300x161.jpg" alt="" width="300" height="161" /></a>
+
 
 Sobre la destitución de Lugo en Paraguay leemos:
 

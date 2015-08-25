@@ -18,7 +18,8 @@ wppost_name: bitcoinsen-la-busqueda-de-una-moneda-unica-para-internet
 <p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6732/sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben" target="_blank">Fíjense en esta nota sobre las urnas electrónicas y Jorge Lanata.</a></strong></p>
 <strong><a href="http://blogs.estadao.com.br/link/em-busca-de-uma-moeda-unica-para-a-internet/" target="_blank">Fuente Suplemento Link "O Estado de São Paulo"</a></strong>
 
-[caption id="attachment_6699" align="alignright" width="360"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg"><img class=" wp-image-6699" title="IMG_372345679" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg" alt="" width="360" height="532" /></a> Amir Taaki<br />FOTO: ROBERTO ALMEIDA/AE[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg"><img class=" wp-image-6699" title="IMG_372345679" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg" alt="" width="360" height="532" /></a> Amir Taaki<br />FOTO: ROBERTO ALMEIDA/AE
+
 
 <em>Amir Taaki es uno de los principales apoyadores del proyecto Bitcoin, una moneda digital llena de controversias </em>
 

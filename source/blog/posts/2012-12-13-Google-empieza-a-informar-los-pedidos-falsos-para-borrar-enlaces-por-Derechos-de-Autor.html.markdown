@@ -39,7 +39,8 @@ Por una <a href="http://www.google.com/transparencyreport/removals/copyright/re
 
 Estos pedidos de borrado falsos están claramente especificados como "no se tomaron medidas" y las direcciones URL completas se muestran en el informe.
 
-[caption id="attachment_7822" align="aligncenter" width="549"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/ms-dmca.png"><img class="size-full wp-image-7822" title="ms-dmca" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/ms-dmca.png" alt="" width="549" height="153" /></a> Microsoft DMCA[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/ms-dmca.png"><img class="size-full wp-image-7822" title="ms-dmca" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/ms-dmca.png" alt="" width="549" height="153" /></a> Microsoft DMCA
+
 
 Hay miles de errores como este, incluyendo la <a href="http://www.google.com/transparencyreport/removals/copyright/domains/last.fm/">petición</a> de Disney para eliminar una página en el portal de música Last.fm que no es claramente infractora.
 

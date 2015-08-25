@@ -51,5 +51,6 @@ Podríamos empezar con las diferentes preguntas que hay que hacer para saber si,
 
 <strong><a href="../1615/respetable-publico-que-pasa-cuando-una-obra-entra-en-dominio-publico">Qué pasa cuando una obra entra en Dominio Público</a></strong>
 
-[caption id="attachment_2654" align="aligncenter" width="492" caption="Dominio Público"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/1238701861238753675qubodup_public_domain_audio_symbol-svg-hi.png"><img class="size-full wp-image-2654" title="1238701861238753675qubodup_public_domain_audio_symbol-svg-hi" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/1238701861238753675qubodup_public_domain_audio_symbol-svg-hi.png" alt="" width="492" height="257" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/1238701861238753675qubodup_public_domain_audio_symbol-svg-hi.png"><img class="size-full wp-image-2654" title="1238701861238753675qubodup_public_domain_audio_symbol-svg-hi" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/1238701861238753675qubodup_public_domain_audio_symbol-svg-hi.png" alt="" width="492" height="257" /></a>
+
 <p style="text-align: center;"><strong><a href="https://tecknohints.wordpress.com/2011/05/16/el-dominio-publico-y-la-tecnologia-como-motor-de-liberacion/" target="_blank">Imagen de Tecnknohints</a></strong></p>

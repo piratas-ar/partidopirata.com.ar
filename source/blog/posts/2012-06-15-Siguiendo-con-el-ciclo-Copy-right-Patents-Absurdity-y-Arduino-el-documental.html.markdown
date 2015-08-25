@@ -18,7 +18,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.
 wppost_name: siguiendo-con-el-ciclo-copy-right-patents-absurdity-y-arduino-el-documental
 ---
 
-[caption id="attachment_4672" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
+
 <p style="text-align: center;"><strong>Mientras en San Pablo, Brasil, ocurre el ciclo de cine:</strong></p>
 <p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4671/festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-para-hacerlo-en-argentina">Copy, Right?</a></strong></p>
 <p style="text-align: center;">En la Argentina (y otros países del mundo que quieran) lo hacemos virtual :</p>

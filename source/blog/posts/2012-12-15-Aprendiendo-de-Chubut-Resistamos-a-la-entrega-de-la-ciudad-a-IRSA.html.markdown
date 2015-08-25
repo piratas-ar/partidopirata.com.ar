@@ -29,7 +29,8 @@ Escuchemos lo que está pasando en Chubut y aprendamos ya que lo que quieren hac
 <a href="http://www.ivoox.com/formas-organizarse-para-resistir-ejemplo-esquel_md_1648744_1.mp3" target="_blank">Si quieren descargar el archivo de audio.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/formas-organizarse-para-resistir-ejemplo-esquel-audios-mp3_rf_1648744_1.html" target="_blank">en este link.</a>
 
-[caption id="attachment_7850" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png"><img class="size-full wp-image-7850" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png"><img class="size-full wp-image-7850" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 Hay que resistir, luchar, con inteligencia, nuestros <em>"representantes"</em> sólo se <em>"representan"</em> a ellos mismos o al poder económico de turno.
 

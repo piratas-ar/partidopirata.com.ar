@@ -35,7 +35,8 @@ Y luego lo reproducen con un programa para leer QRs</p>
 
 &nbsp;
 
-[caption id="attachment_4106" align="aligncenter" width="312" caption="Piratería de medios en las economías emergentes- El informe en Español"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/piracymedia.png"><img class="size-full wp-image-4106" title="piracymedia" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/piracymedia.png" alt="" width="312" height="312" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/piracymedia.png"><img class="size-full wp-image-4106" title="piracymedia" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/piracymedia.png" alt="" width="312" height="312" /></a>
+
 <p style="text-align: center;"><a href="http://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">
 <strong>Piratería de medios en las economías emergentes- El informe en Español</strong></a>
 <strong> Entre otras cosas el informe demuestra que no existe vínculo entre los que venden cds y dvds truchos y el crimen organizado...
@@ -65,7 +66,8 @@ Saludos
 
 <hr />
 
-[caption id="attachment_810" align="aligncenter" width="140" caption="Volantes para la feria del libro"]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png"><img class="size-medium wp-image-810" title="criminalizados-2011" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-140x300.png" alt="" width="140" height="300" />Click para ver de un tamaño mayor</a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png"><img class="size-medium wp-image-810" title="criminalizados-2011" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-140x300.png" alt="" width="140" height="300" />Click para ver de un tamaño mayor</a>
+
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">Sobre la Feria del Libro,</a></strong></p>

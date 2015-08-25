@@ -50,7 +50,8 @@ Habría que ver hasta qué punto es efectivo. Si alguien sabe algo más,  por f
 
 Si alguien quiere colaborar con una posible guía para no ser reconocidos por cámaras de vigilancia <a href="http://partidopirata.com.ar/contacto" target="_blank">puede escribirnos.</a>
 
-[caption id="attachment_7313" align="aligncenter" width="190"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg"><img class="size-full wp-image-7313" title="b" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg" alt="" width="190" height="190" /></a> Formas de no ser reconocidos por las cámaras de vigilancia en una marcha[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg"><img class="size-full wp-image-7313" title="b" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg" alt="" width="190" height="190" /></a> Formas de no ser reconocidos por las cámaras de vigilancia en una marcha
+
 
 <hr />
 

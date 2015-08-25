@@ -18,7 +18,8 @@ wppost_name: un-ejemplo-de-notice-and-take-down-la-censura-al-video-de-megauploa
 
 La noticia sobre el borrado en YouTube del video de apoyo a Megaupload:
 
-[caption id="attachment_2549" align="aligncenter" width="475" caption="La canción de Megaupload bloqueada en YouTube."]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg"><img class="size-full wp-image-2549" title="megasongblocked" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg" alt="" width="475" height="355" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg"><img class="size-full wp-image-2549" title="megasongblocked" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg" alt="" width="475" height="355" /></a>
+
 
 <strong><a href="http://www.fayerwayer.com/2011/12/megaupload-demandara-a-universal-por-hacer-que-youtube-eliminara-su-hit/" target="_blank">Fuente Fayerwayer.</a></strong>
 

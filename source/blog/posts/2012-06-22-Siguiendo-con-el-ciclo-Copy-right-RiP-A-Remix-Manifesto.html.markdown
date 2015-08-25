@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.
 wppost_name: siguiendo-con-el-ciclo-copy-right-rip-a-remix-manifesto
 ---
 
-[caption id="attachment_4672" align="alignright" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
+
 
 <strong>Mientras en San Pablo, Brasil, ocurre el ciclo de cine:</strong>
 

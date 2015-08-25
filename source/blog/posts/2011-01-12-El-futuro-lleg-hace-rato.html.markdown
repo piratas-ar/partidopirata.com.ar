@@ -33,7 +33,8 @@ wppost_name: el-futuro-llego-hace-rato
 
 La ciencia ficción nos ha dado un montón de ejemplos sobre futuros distópicos, en los que el estado y las corporaciones, al mando de una élite privilegiada, cesan la privacidad y por ende la libertad de los individuos, que nunca saben quien puede estar vigilando. Hoy en cambio entregamos esa información a cualquier empresa sin preguntárnoslo dos veces.
 
-[caption id="attachment_447" align="alignleft" width="300" caption="Los sitios mas utilizados se encuentran en servidores en Estados Unidos, es difícil si no imposible borrar nuestra información y están obligados a entregarla ante un simple pedido de la justicia."]<a href="http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-300x242.jpg" alt="" title="google 2084" width="300" height="242" class="size-medium wp-image-447" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-300x242.jpg" alt="" title="google 2084" width="300" height="242" class="size-medium wp-image-447" /></a>
+
 
 <em>El artículo <a href="http://blog.brokep.com/2011/01/08/who-controls-your-data/">quien controla tu información (eng)</a> muestra algunos detalles preocupantes sobre la situación actual de la privacidad online.</em>
 

@@ -27,7 +27,8 @@ Hace dos semanas, el ex portavoz de Pirate Bay Peter Sunde, presentó una emotiv
 
 En apoyo a Sunde se inició una <a href="http://www.avaaz.org/en/petition/Grant_Peter_Sundes_of_The_Pirate_Bay_plea_for_pardon/">petición</a> en Avaaz, un sitio con el objetivo declarado de brindarle a "la gente poder político para la toma de decisiones en todas partes." El objetivo <a href="http://torrentfreak.com/ten-thousands-back-pirate-bay-founders-pardon-plea-120714/">final </a> es entregarle la petición a Beatrice Ask, ministra sueca de Justicia, por lo que Avaaz está haciendo un gran ajuste.
 
-[caption id="attachment_5300" align="aligncenter" width="475"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/sunde1.jpg"><img class="size-full wp-image-5300" title="sunde1" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/sunde1.jpg" alt="" width="475" height="239" /></a> Peter Sunde[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/sunde1.jpg"><img class="size-full wp-image-5300" title="sunde1" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/sunde1.jpg" alt="" width="475" height="239" /></a> Peter Sunde
+
 
 La petición ha sido un éxito clamoroso. Sunde dijo inicialmente que 10.000 firmas podrían hacer una diferencia, pero en este momento había más de 91.000 personas que habían firmado. Sin embargo, este fin de semana Avaaz envió un e-mail que le frunció las cejas a sus miembros, se preguntó si la encuesta Sunde se debía permitir en el sitio.
 

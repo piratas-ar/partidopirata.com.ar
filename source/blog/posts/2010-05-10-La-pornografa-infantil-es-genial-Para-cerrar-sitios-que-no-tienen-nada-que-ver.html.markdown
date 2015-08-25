@@ -41,7 +41,8 @@ wppost_name: la-pornografia-infantil-es-genial-para-cerrar-sitios-que-no-tienen-
 
 “La pornografía infantil es genial”, declaró Johan Schlüter, abogado, miembro de un grupo antipiratería de Dinamarca. “Es genial porque los políticos entienden la pornografía infantil. Si jugamos esa carta, podemos hacer que tomen acciones y que empiecen a bloquear sitios –y una vez hecho eso podemos hacer que bloqueen los sitios que comparten archivos.”
 
-[caption id="" align="alignleft" width="200"]<img title="Christian Engstrom, Miembro del Parlamento Europeo  por el Partido Pirata Sueco" src="http://1.bp.blogspot.com/_CPtUSP1MzEE/S-dwrJE3dEI/AAAAAAAADDw/sMAWFebwD9E/s400/200px-chris12-by-rickard-olsson.jpg" alt="" width="200" height="240" /> Christian Engstrom, Miembro del Parlamento Europeo por el Partido Pirata Sueco[/caption]
+<img title="Christian Engstrom, Miembro del Parlamento Europeo  por el Partido Pirata Sueco" src="http://1.bp.blogspot.com/_CPtUSP1MzEE/S-dwrJE3dEI/AAAAAAAADDw/sMAWFebwD9E/s400/200px-chris12-by-rickard-olsson.jpg" alt="" width="200" height="240" /> Christian Engstrom, Miembro del Parlamento Europeo por el Partido Pirata Sueco
+
 
 Christian Engström, miembro del Parlamento Europeo por el Partido Pirata de Suecia, cuenta recientemente en <a href="http://christianengstrom.wordpress.com/" target="_blank">su blog</a> que este abogado maquiavélico habló así, en el año 2007, en un seminario en Estocolmo organizado por norteamericanos.
 

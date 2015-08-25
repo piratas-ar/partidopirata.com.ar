@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/%C3%8Dndice-150x15
 wppost_name: como-cuidan-nuestros-datos-las-empresas-que-los-recolectan-tarjeta-sube
 ---
 
-[caption id="attachment_4844" align="alignright" width="275" caption="Tarjeta Subea"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg"><img class="size-full wp-image-4844" title="Tarjeta Sube" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg" alt="" width="275" height="183" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg"><img class="size-full wp-image-4844" title="Tarjeta Sube" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg" alt="" width="275" height="183" /></a>
+
 
 <a href="http://partidopirata.com.ar/4816/el-fetiche-tecnologico-ataca-de-nuevo-ahora-con-400-x-pasaporte-todos-vigilados">Asi como el pasaporte tiene información nuestra y es altamente hackeable.</a>
 

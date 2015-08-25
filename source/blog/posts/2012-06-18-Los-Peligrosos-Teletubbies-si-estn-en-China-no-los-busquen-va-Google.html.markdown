@@ -34,7 +34,8 @@ wppost_name: los-peligrosos-teletubbies-si-estan-en-china-no-los-busquen-via-goo
 
 &nbsp;
 
-[caption id="attachment_4808" align="aligncenter" width="300" caption="Teletubbies Censurados en las búsquedas con Google en China"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1.jpg"><img class="size-medium wp-image-4808" title="evil_teletubbies_1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1-300x192.jpg" alt="" width="300" height="192" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1.jpg"><img class="size-medium wp-image-4808" title="evil_teletubbies_1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1-300x192.jpg" alt="" width="300" height="192" /></a>
+
 <h1 style="text-align: center;">¿Por qué los líderes chinos le temen a los teletubbies?</h1>
 <div>Willis Sparks</div>
 Hace algunos días Google presentó una herramienta advirtiéndole a sus usuarios en China sobre las centenas de palabras y frases sensibles que pueden generar mensajes de error o incluso congelar el site. El portal de notícias China Digital Times (CDT) compiló una lista de los términos de búsqueda más sorprendentes. Tomados en conjunto, dan una idea de la amplia gama de cosas que los monitores de Internet en China no quieren que los ciudadanos chinos lean o hablen. Las traducciones son proporcionadas por el CDT. Todos los términos destacados a continuación son considerados sensibles.

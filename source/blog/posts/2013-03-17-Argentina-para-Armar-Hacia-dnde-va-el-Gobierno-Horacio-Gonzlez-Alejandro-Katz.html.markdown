@@ -25,7 +25,8 @@ Audio completo del programa:
 <strong> Si el enlace anterior no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/programa-argentina-para-armar-horacio-gonzalez-alejandro-audios-mp3_rf_1875133_1.html" target="_blank">en este link</a></strong></p>
 
 
-[caption id="attachment_8865" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart9.png"><img class="size-full wp-image-8865" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart9.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart9.png"><img class="size-full wp-image-8865" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart9.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+
 
 &nbsp;
 

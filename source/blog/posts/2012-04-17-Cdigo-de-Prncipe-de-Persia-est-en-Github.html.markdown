@@ -20,7 +20,8 @@ wppost_name: codigo-de-principe-de-persia-esta-en-github
 
 El código permaneció perdido por 23 años hasta que el padre de Mechner – que compuso la banda sonora del juego – encontró cajas con cosas que su hijo había dejado en su casa. Dentro de ellas, estaban los discos originales del juego, olvidados en el armario por más de dos décadas.
 
-[caption id="attachment_4077" align="alignright" width="150" caption="Príncipe de Persia"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/princeofpersia.jpg"><img class="size-thumbnail wp-image-4077" title="princeofpersia" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/princeofpersia-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/princeofpersia.jpg"><img class="size-thumbnail wp-image-4077" title="princeofpersia" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/princeofpersia-150x150.jpg" alt="" width="150" height="150" /></a>
+
 
 Mechner no lo creía. Contó la novedad en su blog y prometió que publicaria el código en la web. Habia tres discos Apple ProDOS de 3,5, pero el problema era mayor: ¿cómo recuperar los archivos de un disquette parado hacía tanto tiempo? El designer llamó al archivista digital Jason Scott. Quien ayudó en la recuperación del código, escrito en una Apple II entre 1985 y 1989 en lenguaje assembly, para hacerlo legible en su MacBook. <a href="http://alt1040.com/2012/03/el-creador-del-prince-of-persia-encuentra-el-codigo-fuente-23-anos-despues">Lo logró!</a>.
 

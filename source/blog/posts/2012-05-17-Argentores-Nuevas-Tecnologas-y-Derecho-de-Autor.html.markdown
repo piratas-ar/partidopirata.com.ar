@@ -13,7 +13,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112-150x150.
 wppost_name: argentores-nuevas-tecnologias-y-derecho-de-autor
 ---
 
-[caption id="attachment_4470" align="alignright" width="212" caption="Argentores: Nuevas Tecnologías y Derecho de Autor"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112.jpg"><img class="size-medium wp-image-4470" title="afiche112" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112-212x300.jpg" alt="" width="212" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112.jpg"><img class="size-medium wp-image-4470" title="afiche112" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112-212x300.jpg" alt="" width="212" height="300" /></a>
+
 
 Nos invitan al siguiente evento en Argentores:
 <p style="text-align: center;">Las "Nuevas Tecnologías" han revolucionado el acceso a la información y las comunicaciones, pero también lo han hecho en el campo del Derecho de Autor, donde las normas tradicionales de la esfera analógica son objeto de cuestionamientos en la era digital. Para reflexionar sobre estos temas Argentores, desde su Comisión de Cultura y el Departamento de Nuevas Tecnologías, ha organizado una serie de tres charlas en el año con especialistas en la relación del “Derecho de Autor y las Nuevas Tecnologías. Las mismas tendrán lugar los martes: <strong>29 DE MAYO, 31 DE JULIO Y 30 DE OCTUBRE.</strong></p>

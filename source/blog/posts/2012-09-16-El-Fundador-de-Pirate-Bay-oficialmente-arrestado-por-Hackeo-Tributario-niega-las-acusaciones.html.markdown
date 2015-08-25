@@ -22,7 +22,8 @@ Después de su arresto hace menos de dos semanas, el lunes pasado el co-fundador
 
 Teniendo en cuenta que su visa había expirado y que no hay ningún acuerdo de extradición entre Camboya y Suecia, Gottfrid debería haber tenido una elección de a dónde ir. Pero en lugar de eso fue llevado a Suecia, con el pretexto de servir a una destacada sentencia de cárcel de un año por infracción de derechos de autor.
 
-[caption id="attachment_6503" align="alignright" width="200"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg"><img class="size-full wp-image-6503" title="Gottfrid Svartholm" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg" alt="" width="200" height="248" /></a> Gottfrid Svartholm cofundador de The Pirate Bay[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg"><img class="size-full wp-image-6503" title="Gottfrid Svartholm" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg" alt="" width="200" height="248" /></a> Gottfrid Svartholm cofundador de The Pirate Bay
+
 
 Sin embargo, una vez que aterrizó en el aeropuerto de Arlanda de Estocolmo, Gottfrid fue entregado por <a href="http://torrentfreak.com/pirate-bay-co-founder-lands-in-sweden-immediately-charged-by-police-120911/">nuevos cargos</a> a la policía, que sospecha que esta involucrado en el <a href="http://torrentfreak.com/pirate-bay-founder-arrest-related-to-tax-hack-not-piracy-120906/">hackeo de Logica</a>, una compañía sueca de TI que trabaja con las autoridades fiscales locales.
 

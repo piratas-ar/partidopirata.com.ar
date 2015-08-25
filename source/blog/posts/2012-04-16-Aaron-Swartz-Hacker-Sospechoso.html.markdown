@@ -23,7 +23,8 @@ Aaron Swartz – On Peer To Peer, Digital Rights Management and Web 2 0</center>
 
 &nbsp;
 
-[caption id="attachment_4000" align="aligncenter" width="610" caption="EUA vs. Aaron Swartz. Documento del proceso muestra las acusaciones contra él."]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/aaronprocesso.jpg"><img class="size-full wp-image-4000" title="aaronprocesso" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/aaronprocesso.jpg" alt="" width="610" height="428" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/aaronprocesso.jpg"><img class="size-full wp-image-4000" title="aaronprocesso" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/aaronprocesso.jpg" alt="" width="610" height="428" /></a>
+
 
 SÃO PAULO – “Información es poder”, escribió el programador Aaron Swartz, entonces con 22 años, en el manifiesto Guerilla Open Acces. El texto, de 2008, defendia el acceso libre y gratuito a los textos de investigaciones científicas y de revistas acadêmicas, protegidos por sites que cobran caro por el acceso.
 
@@ -52,7 +53,8 @@ Por tener más tiempo libre que las demás personas del equipo del proyecto, tom
 Fue en esta época que Swartz conoció a Lawrence Lesig. Leyó una noticia sobre la posible creación de las licencias Creative Commons y se quedó interesado. Entró en contacto con el abogado estadounidense para intentar convencerlo a usar las tecnologias que estaba desarrollando con Tim Berners-Lee.
 <div>
 
-[caption id="attachment_4001" align="alignleft" width="332" caption="Swartz y Lawrence Lessig. FOTO: Achvo Personal"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/Aaron_Swartz_and_Lawrence_Lessig1.jpg"><img class=" wp-image-4001   " title="Swartz y Lawrence Lessig. FOTO: Achvo Personal " src="http://partidopirata.com.ar/wp-content/uploads/2012/04/Aaron_Swartz_and_Lawrence_Lessig1.jpg" alt="" width="332" height="442" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/Aaron_Swartz_and_Lawrence_Lessig1.jpg"><img class=" wp-image-4001   " title="Swartz y Lawrence Lessig. FOTO: Achvo Personal " src="http://partidopirata.com.ar/wp-content/uploads/2012/04/Aaron_Swartz_and_Lawrence_Lessig1.jpg" alt="" width="332" height="442" /></a>
+
 
 “Él respondió que era una buena idea y que yo debía implementarla”, dijo. Ayudó en la arquitetura del sistema de las licencias y en la programación. “La manera como Lesig alienta a las personas es inspiradora, así como su estilo único de comunicarse y su foco intenso en problemas importantes”, dice Swartz sobre su antiguo patrón.
 

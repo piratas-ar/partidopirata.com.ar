@@ -18,7 +18,8 @@ wppost_name: en-el-canal-de-la-casa-rosada-no-en-el-de-la-tv-publica-si-los-come
 
 <strong>Si se fijan en los comentarios de la inauguración del pozo de Fracking <a href="https://www.youtube.com/watch?v=TjfxCRe-DaE" target="_blank">en el canal de la TV Pública en Youtube</a></strong>
 
-[caption id="attachment_8523" align="aligncenter" width="659"]<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/vision7.png"><img class="size-full wp-image-8523" alt="Los comentarios que aparecen en el canal de la TV Pública de Youtube" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/vision7.png" width="659" height="776" /></a> Los comentarios que aparecen en el canal de la TV Pública de Youtube[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/vision7.png"><img class="size-full wp-image-8523" alt="Los comentarios que aparecen en el canal de la TV Pública de Youtube" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/vision7.png" width="659" height="776" /></a> Los comentarios que aparecen en el canal de la TV Pública de Youtube
+
 
 Recuerden que casi nada en Internet es anónimo, tampoco tiene sentido no respetar la investidura, podemos criticar sin entrar en la falta de respeto!, hágamoslo así por favor!.
 

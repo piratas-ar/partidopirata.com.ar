@@ -22,7 +22,8 @@ wppost_name: hablando-con-isabel-y-rafael-de-piratas-de-galicia-ante-las-eleccio
 <strong> Si el enlace anterior no funciona presionen en <em>Descargar</em> <a href="http://www.ivoox.com/conversando-isabel-rafael-piratas-audios-mp3_rf_1458218_1.html" target="_blank">en este link.</a> </strong></p>
 
 
-[caption id="attachment_6667" align="aligncenter" width="150"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart9.png"><img class="size-full wp-image-6667" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart9.png"><img class="size-full wp-image-6667" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+
 
 <hr />
 

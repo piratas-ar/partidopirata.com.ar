@@ -22,7 +22,8 @@ Una disputa sobre si un ISP [proveedor de internt] sueco puede ser obligado a en
 
 No mucho tiempo después que el polémico proyecto  IPRED de Suecia se convirtiera en ley en 2009, cinco editores de libros entregaron una solicitud de información a un tribunal local.
 
-[caption id="attachment_4122" align="alignright" width="180" caption="Proveedor de Internet de Suecia."]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg"><img class="size-full wp-image-4122" title="ephone" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg" alt="" width="180" height="59" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg"><img class="size-full wp-image-4122" title="ephone" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg" alt="" width="180" height="59" /></a>
+
 
 Los titulares de derechos, representados por el grupo anti-piratería Antipiratbyrån , quería obligar al isp local a entregar los datos personales de un usuario que supuestamente almacena más de 2000 audio libros en su servidor, 27 de los cuales violaríann derechos de autor de los editores.
 

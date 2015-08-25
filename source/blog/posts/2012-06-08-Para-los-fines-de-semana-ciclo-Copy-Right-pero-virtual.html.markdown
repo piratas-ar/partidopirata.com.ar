@@ -16,7 +16,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.
 wppost_name: para-los-fines-de-semana-ciclo-copy-right-pero-virtual
 ---
 
-[caption id="attachment_4672" align="aligncenter" width="300"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
+
 <p style="text-align: center;">El 12 de junio empieza el <strong><a href="http://partidopirata.com.ar/4671/festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-para-hacerlo-en-argentina">Festival Copy, Right? , en San Pablo-Brasil.</a></strong></p>
 Así que vamos a aprovechar la programación para agendarla para quienes quieran ver esos documentales aunque no estén en San Pablo!.
 La primera que darán es: <strong><em>¡Copiad, malditos</em>!</strong>

@@ -32,13 +32,15 @@ Por ejemplo, los usuarios que intercambian archivos "piratas" de películas o se
 
 Dicho de otra manera, los mismos datos concluye que dos tercios de toda la música de los que comparten archivos pagan por descargas de música o streams.
 
-[caption id="attachment_6955" align="aligncenter" width="506"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png"><img class="size-full wp-image-6955" title="digital1" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png" alt="" width="506" height="304" /></a> Descargadores son más propensos a comprar digital (download / stream) de música, libros, películas y juegos[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png"><img class="size-full wp-image-6955" title="digital1" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png" alt="" width="506" height="304" /></a> Descargadores son más propensos a comprar digital (download / stream) de música, libros, películas y juegos
+
 
 Curiosamente, efectos similares se encontraron para los medios físicos, pero las diferencias son menores aquí. La conclusión es, no obstante que quienes comparten archivos también son más propensos a comprar libros físicos, CDs y DVDs y juegos.
 
 La diferencia es más pronunciada para los juegos con un 65% frente a 14%.
 
-[caption id="attachment_6956" align="aligncenter" width="514"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png"><img class="size-full wp-image-6956" title="psysical1" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png" alt="" width="514" height="305" /></a> http://partidopirata.com.ar/wp-admin/post-new.phpQuienes comparten archivos más propensos a comprar música física, libros, películas y juegos.[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png"><img class="size-full wp-image-6956" title="psysical1" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png" alt="" width="514" height="305" /></a> http://partidopirata.com.ar/wp-admin/post-new.phpQuienes comparten archivos más propensos a comprar música física, libros, películas y juegos.
+
 
 Speaking with TorrentFreak, researcher Joost Poort explains his findings by arguing that file-sharers tend to be more heavy entertainment consumers than those who don’t share anything.
 
@@ -52,7 +54,8 @@ Además de los hábitos de compra de medios, el estudio también ha abordado el 
 
 Los que descargaron películas procedentes de fuentes ilegales durante los últimos 12 meses son 50% más propensos a ir al cine que los que no descargan, por ejemplo (64% vs 42%).
 
-[caption id="attachment_6957" align="aligncenter" width="517"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/ticket-merch4.png"><img class="size-full wp-image-6957" title="ticket-merch4" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/ticket-merch4.png" alt="" width="517" height="327" /></a> Loa que comparten archivos tienen más probabilidades de asistirr a conciertos, salas de cine y comprar merchandising[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/ticket-merch4.png"><img class="size-full wp-image-6957" title="ticket-merch4" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/ticket-merch4.png" alt="" width="517" height="327" /></a> Loa que comparten archivos tienen más probabilidades de asistirr a conciertos, salas de cine y comprar merchandising
+
 
 La correlación, sin embargo, no debe interpretarse como una relación causal. La gente no compra necesariamente más, porque comparten archivos, o viceversa. Aunque el muestreo puede ser un factor, terceras variables tales como el interés en las películas y la música son propensos a conducir la mayor parte del efecto.
 

@@ -14,7 +14,8 @@ thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/allshallperish-150
 wppost_name: troll-del-copyright-provoca-caos-al-demandar-a-los-fans-sin-permiso-de-la-banda
 ---
 
-[caption id="attachment_4277" align="alignright" width="180" caption="All Shall Perish"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/allshallperish.jpg"><img class="size-full wp-image-4277" title="allshallperish" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/allshallperish.jpg" alt="" width="180" height="180" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/allshallperish.jpg"><img class="size-full wp-image-4277" title="allshallperish" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/allshallperish.jpg" alt="" width="180" height="180" /></a>
+
 
 <strong><a href="https://torrentfreak.com/copyright-troll-causes-chaos-by-suing-fans-without-bands-permission-120429/" target="_blank">Fuente Torrentfreak.</a></strong>
 

@@ -19,21 +19,25 @@ wppost_name: nuestras-otras-participaciones-en-la-feria-del-libro
 
 <hr />
 
-[caption id="attachment_4112" align="aligncenter" width="300" caption="Escrache en la Feria del Libro del año 2010, enfrente al Stand de Clarín, en &quot;honor&quot; a su fundador que es quien hizo la famosa &quot;Ley Noble&quot;."]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/escrache.jpg"><img class="size-medium wp-image-4112" title="escrache" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/escrache-300x255.jpg" alt="" width="300" height="255" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/escrache.jpg"><img class="size-medium wp-image-4112" title="escrache" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/escrache-300x255.jpg" alt="" width="300" height="255" /></a>
+
 <p style="text-align: center;"><strong><a href="http://partido-pirata.blogspot.com/2010/05/posibles-escraches-del-partido-pirata.html">Más información en nuestro blog no oficial.</a></strong></p>
 
 
 <hr />
 
-[caption id="attachment_4113" align="aligncenter" width="191" caption="Volantes para la Feria del Libro año 2009, en ese año se lo estaba procesando a Horacio Potel por compartir libros."]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel-2.jpg"><img class="size-medium wp-image-4113" title="potel-2" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel-2-191x300.jpg" alt="" width="191" height="300" /><strong>Si quieren verlo en un formato mayor</strong></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel-2.jpg"><img class="size-medium wp-image-4113" title="potel-2" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel-2-191x300.jpg" alt="" width="191" height="300" /><strong>Si quieren verlo en un formato mayor</strong></a>
+
 
 <hr />
 
-[caption id="attachment_4114" align="aligncenter" width="225" caption="Nuestro Volante en la Feria del Libro de 2009"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel3.jpg"><img class="size-medium wp-image-4114" title="potel3" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel3-225x300.jpg" alt="" width="225" height="300" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel3.jpg"><img class="size-medium wp-image-4114" title="potel3" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel3-225x300.jpg" alt="" width="225" height="300" /></a>
+
 
 <hr />
 
-[caption id="attachment_4115" align="aligncenter" width="300" caption="Otra foto de nuestro volante en la Feria del Libro del 2009"]<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel4.jpg"><img class="size-medium wp-image-4115" title="potel4" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel4-300x225.jpg" alt="" width="300" height="225" /></a>[/caption]
+<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel4.jpg"><img class="size-medium wp-image-4115" title="potel4" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/potel4-300x225.jpg" alt="" width="300" height="225" /></a>
+
 
 <hr />
 
