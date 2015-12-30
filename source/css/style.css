@@ -1278,7 +1278,7 @@
 
 /* Propio del PPAR */
 
-#logo { max-width: 40%; min-width: 20%; }
+#logo { max-width: 40%; min-width: 20%; vertical-align: middle; }
 /*#logo.inline { width: 22%; max-width: 220px; min-width: 15px; display: inline; vertical-align: middle; } */
 small { color: #7f7f7f; font-size: 13pt; }
 

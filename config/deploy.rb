@@ -1,5 +1,5 @@
 set :scm, :middleman
-set :application, 'lainventoria'
+set :application, 'partidopirata.com.ar'
 set :repo_url, 'git@github.com:piratas-ar/partidopirata.com.ar.git'
 
 # Defaults de capistrano que usamos
