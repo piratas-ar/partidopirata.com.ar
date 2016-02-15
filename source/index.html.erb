@@ -4,50 +4,67 @@ title: 'Partido Pirata'
 		<!-- Banner -->
 			<section id="banner">
         <header>
-          <h2><%= link_to 'Acerca de', 'acerca_de.html' %></h2>
-          <p>
-            <strong>El Partido Pirata es un movimiento internacional</strong>, 
-            ya que <strong>entendemos que las problemáticas locales son específicas, 
-            pero que los valores son humanos y globales.</strong>
-          </p>
+          <h2><%= link_to '¿Qué es el Partido Pirata?', 'acerca_de.html' %></h2>
         </header>
+        <div class="container">
+          <p>El Partido Pirata es una agrupación <a href="http://wiki.partidopirata.com.ar/Declaraci%C3%B3n_de_Principios_Partido_Pirata_Argentino" title="Declaración de Principios del Partido Pirata de Argentina">horizontal</a> que promueve: el acceso libre a la cultura y el conocimiento, el uso, creación y distribución de software libre, la autogestión ,la creación y mantenimiento de redes de pares, la problematización de temas de gónero y LGTTIBQ en la tecnología, la política prefigurativa, el derecho a la privacidad, la articulación entre espacios, la capacitación en areas de seguridad y tecnología.</p> 
 
-        <p>Con representación en 42 países, teniendo como herramienta internet, la Pirate
-        Parties International (PPI) nuclea y reúne las agrupaciones piratas alrededor
-        del mundo, incentivando un ambiente de intercambio, debate, innovación,
-        experiencia compartida y apoyo entre naciones e individuos.</p>
+          <p>Creemos que la tecnología debe amoldarse a las necesidades y deseos de las personas y colectivos, no al revés.</p>
 
-        <p>En Argentina empezamos hace 5 años y durante todo este tiempo estuvimos
-        tramando lazos con distintas comunidades e incorporando más gente, <strong>constituímos
-        una carta orgánica en dónde cada palabra está puesta a conciencia</strong>, en base a
-        las prácticas y a la experiencia de nuestra organización.</p>
-
-        <p><em>La horizantalidad es un proceso: aprender, enseñar, debatir, acordar y seguir
-        aprendiendo lleva tiempo.</em></p>  
-
+        </div>
         <footer>
-          <%= link_to 'Continuar Leyendo', 'acerca_de.html', class: :button %>
+          <%= link_to 'Lee nuestros Documentos Fundacionales', '//wiki.partidopirata.com.ar/Categor%C3%ADa:Documentos_Fundacionales', class: :button %>
         </footer>
 			</section>
-
-		<!-- Carousel -->
-			<section class="carousel">
+		<!-- Banner -->
+			<section id="participa" class="banner continue">
         <header>
-          <h2><%= link_to 'Está al tanto', '/blog/' %></h2>
-          <p>Siguiendo nuestro blog de anuncios y noticias.</p>
+          <h2><%= link_to '¡Hacete Pirata Hoy!', 'participar.html' %></h2>
+          <p><strong>Si estas de acuerdo con nuestros objetivos y prácticas ya sos pirata. Sumate a hacer y proponer.<strong></p>
         </header>
-
-				<div class="reel">
-          <% blog.articles[0...10].each do |article| %>
-					<article>
-						<a href="<%= article.url %>" class="image featured"><img src="<%= article.data['image'] %>" alt="<%= article.title %>" /></a>
-						<header>
-							<h3><a href="<%= article.url %>"><%= article.title %></a></h3>
-						</header>
-						<p><%= Sanitize::clean article.summary(140) %></p>							
-					</article>
-				  <% end %>
-				</div>
+        <div class="container">
+          <div class="row">
+            <article class="4u special">
+              <a href="//consenso.partidopirata.com.ar/" class="image featured"><img alt="Consenso Pirata" src="" /></a>
+              <header><h3>Consenso</h3></header>
+              <p>Es una plataforma digital (la cual vamos modificando a medida de nuestras necesidades) donde se PRESENTAN DEBATES/DISCUSIONES Y SE PROPONEN ACCIONES CONCRETAS. Es el medio principal en la TOMA DE DECISIONES. Si participás del mismo vas a poder estar al tanto de las discusiones y propuestas que las piratas vamos haciendo referido a diversos temas que consideramos importantes. Es nuestra ASAMBLEA GENERAL Y PERMANENTE.</p>
+              <footer>
+                <%= link_to 'Guía de uso', '//wiki.partidopirata.com.ar/Consenso_%28loomio%29', class: "button small" %>
+                <%= link_to 'Acceso', '//consenso.partidopirata.com.ar/', class: "button alt small" %>
+              </footer>
+            </article>
+            <article class="4u special">
+              <a href="//asambleas.partidopirata.com.ar/listinfo/general" class="image featured"><img alt="Lista de Correos" src="" /></a>
+              <header><h3>Lista de Correos</h3></header>
+              <p>En una lista de correos cuando alguien envía un mail todas las subscriptas lo reciben y pueden responder. Suscribite a la lista de correos que es abierta y en la que leerás diferentes comentarios, opiniones y materiales que circula.</p>
+              <footer>
+                <%= link_to 'Guía de uso', '//wiki.partidopirata.com.ar/Listas_de_correo', class: "button small" %>
+                <%= link_to 'Acceso', '//asambleas.partidopirata.com.ar/listinfo/general', class: "button alt small" %>
+              </footer>
+            </article>
+            <article class="4u special">
+              <a href="http://wiki.partidopirata.com.ar/IRC" class="image featured"><img alt="IRC" src="" /></a>
+              <header><h3>IRC (Chat)</h3></header>
+              <p></p>
+            </article>
+          </div>
+        </div>
+        <footer>
+          <div id="redes">
+            <h3>Seguínos: </h3>
+            <a href="https://quitter.is/ppar" title="Partido Pirata en GNU Social" class="icono-gnusocial"></a>
+            <a href="https://joindiaspora.com/u/partidopirata_arg" title="Partido Pirata en Diaspora" class="icono-diaspora"></a>
+            <a href="https://twitter.com/PartidoPirataAr" title="Partido Pirata en Twitter" class="icono-twitter"></a>
+            <a href="http://facebook.com/PartidoPirataArgentino" title="Partido Pirata en Facebook" class="icono-facebook" rel="nofollow"></a>
+          </div>
+        </footer>
+			</section>
+		<!-- Carousel -->
+			<section class="">
+        <header>
+          <h2><%= link_to '¿Buscás el Blog?', '/blog/' %></h2>
+          <p>Mientras migramos los artículos podes leerlos en el <a href="">sitio viejo</a>.</p>
+        </header>
 			</section>
 
 				<!-- Features -->

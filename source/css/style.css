@@ -1002,7 +1002,7 @@
 /* Banner                                                                        */
 /*********************************************************************************/
 
-	#banner
+	#banner, .banner
 	{
 		background: #fff;
 		text-align: center;
@@ -1010,7 +1010,7 @@
 		margin-bottom: 0;
 	}
 	
-		#banner header > p
+		#banner header > p, .banner header > p
 		{
 			margin-bottom: 0;
 		}
@@ -1279,15 +1279,34 @@
 /* Propio del PPAR */
 
 #logo { max-width: 40%; min-width: 20%; vertical-align: middle; }
-/*#logo.inline { width: 22%; max-width: 220px; min-width: 15px; display: inline; vertical-align: middle; } */
+#logo.inline { width: 22%; max-width: 220px; min-width: 15px; display: inline; vertical-align: middle; } 
 small { color: #7f7f7f; font-size: 13pt; }
 
+#header .inner { padding: 2em 0 0; }
+.homepage #header h1 { font-size: 3em; }
 .invertido {color: black; background: white; opacity: 0.85; }
 .invertido:hover { opacity: 1;  }
-
-/* #banner { padding: 4.5em 2em; } */
 
 .carousel header { padding: 0 1em; }
 .carousel article { vertical-align: top; }
 .carousel article .image { margin-bottom: 2em; }
 .image img { max-height: 240px; }
+
+#redes { padding-top: 3em; }
+
+.button.small { padding: 0.65em 2em 0.65em 2em; }
+/* para cuando no queremos que los bloques esten muy separados del anterior */ 
+.continue { padding: 1.5em 0 4.5em 0; }
+
+.icono-gnusocial, .icono-diaspora, .icono-facebook, .icono-twitter {  
+  background-image: url('/images/sprite-redes.png');
+  background-repeat: no-repeat;
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+  margin: 0.5em 0.5em;
+}
+.icono-gnusocial { background-position: -4px -4px; }
+.icono-diaspora { background-position: -68px -4px; }
+.icono-facebook { background-position: -132px -4px; }
+.icono-twitter { background-position: -196px -4px; }
