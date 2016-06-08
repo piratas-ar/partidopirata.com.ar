@@ -1292,8 +1292,8 @@ small { color: #7f7f7f; font-size: 13pt; }
 .carousel article .image { margin-bottom: 2em; }
 .image img { max-height: 240px; }
 
-#redes { padding-top: 3em; }
-
+#redes { padding-top: 0; text-align: center; }
+#blogposts { padding: 1em; }
 .button.small { padding: 0.65em 2em 0.65em 2em; }
 /* para cuando no queremos que los bloques esten muy separados del anterior */ 
 .continue { padding: 1.5em 0 4.5em 0; }
@@ -1305,6 +1305,7 @@ small { color: #7f7f7f; font-size: 13pt; }
   width: 60px;
   display: inline-block;
   margin: 0.5em 0.5em;
+  border:0!important;
 }
 .icono-gnusocial { background-position: -4px -4px; }
 .icono-diaspora { background-position: -68px -4px; }
