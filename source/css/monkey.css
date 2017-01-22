@@ -16,12 +16,14 @@ blink, .blink {
   animation: blink 2s step-end infinite;
 }
 
+/*
 blink:hover, .blink:hover {
   -webkit-animation: none;
   -moz-animation: none;
   -o-animation: none;
   animation: none;
 }
+*/
 
 @-webkit-keyframes blink {
   67% { opacity: 0 }

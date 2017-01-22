@@ -7,4 +7,3 @@ gem 'nokogiri'
 gem 'sanitize'
 gem 'capistrano'
 gem 'capistrano-middleman', require: false
-
