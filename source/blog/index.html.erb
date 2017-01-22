@@ -1,7 +1,5 @@
 ---
 title: Blog del Partido Pirata
-pageable: true
-per_page: 7
 layout: blog
 ---
 <% if paginate && num_pages > 1 %>
@@ -15,7 +13,7 @@ layout: blog
     <h2><%= link_to article.title, article %></h2>
     <em><%= article.date.strftime('%d/%m/%y') %></em>
   </header>
-  <%= article.summary(450) %>
+  <%= article.summary(350) %>
 </article>
 <% end %>
 <% if paginate %>

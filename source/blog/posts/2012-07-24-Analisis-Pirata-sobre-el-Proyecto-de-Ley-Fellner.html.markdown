@@ -1,5 +1,5 @@
 ---
-title: Analisis Pirata sobre el Proyecto de Ley Fellner
+title: 'Analisis Pirata sobre el Proyecto de Ley Fellner'
 date: '2012-07-24'
 tags: 
 - censura
@@ -11,7 +11,7 @@ tags:
 - leyes
 - liliana-fellner
 - proyecto-de-ley
-wppostname: 'analisis_pirata_sobre_el_proyecto_de_ley_fellner'
+wppost_name: analisis_pirata_sobre_el_proyecto_de_ley_fellner
 ---
 
 Proteger a los niños hoy en día es un tema bastante sensible. Dejamos en claro

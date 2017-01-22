@@ -1,39 +1,12 @@
-###
-# Compass
-###
-
-# Change Compass configuration
-# compass_config do |config|
-#   config.output_style = :compact
-# end
-
-###
-# Helpers
-###
-
-# Automatic image dimensions on image_tag helper
-# activate :automatic_image_sizes
-
-# Reload the browser automatically whenever files change
-# configure :development do
-#   activate :livereload
-# end
-
-# Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
-
 activate :blog do |blog|
   blog.sources = 'blog/posts/{year}-{month}-{day}-{title}.html'
   blog.permalink = '{year}/{month}/{day}/{wppost_name}/'
 
   blog.layout = 'blog'
-  blog.tag_template = 'blog/tag.html'
-  blog.calendar_template = 'blog/calendar.html'
+  blog.month_template = 'blog/calendar.html'
+  blog.year_template = 'blog/calendar.html'
   blog.paginate = true
+  blog.per_page = 15
 end
 
 set :css_dir, 'stylesheets'

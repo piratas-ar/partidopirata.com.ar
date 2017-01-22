@@ -1,5 +1,5 @@
 ---
-title: " \tTHEY LIVE! en el CINE DEBATE de la TOMA Y AUTOGESTIÓN-Sala Alberdi."
+title: "THEY LIVE! en el CINE DEBATE de la TOMA Y AUTOGESTIÓN-Sala Alberdi."
 date: '2012-07-24'
 tags:
 - eventos
