@@ -1285,4 +1285,12 @@ img.copyleft:hover { background-color: purple; }
   nav#nav ul li {
     width: 40%;
   }
+
+  #header h1 {
+    font-size: 1.1em;
+  }
+
+  #header h2 {
+    font-size: 0.6em;
+  }
 }
