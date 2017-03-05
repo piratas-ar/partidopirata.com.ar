@@ -1035,6 +1035,8 @@
 
 	#sidebar
 	{
+    padding: 1em;
+    padding-left: 5em;
 	}
 
 		#sidebar > hr.first
@@ -1309,5 +1311,24 @@ img.copyleft:hover { background-color: purple; }
 
   #header h2 {
     font-size: 0.6em;
+  }
+
+  #sidebar {
+    display: none;
+  }
+
+  #content {
+    padding-left: 5em;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  #sidebar .\34u {
+    display: none;
+  }
+
+  #sidebar .\38u {
+    width: 100%;
   }
 }

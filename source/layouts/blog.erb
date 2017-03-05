@@ -24,7 +24,6 @@
               <header>
                 <h3><a href="/blog/">Artículos Recientes</a></h3>
               </header>
-              <p>Está al tanto de las noticias</p>
               <% blog.articles[0...10].each do |article| %>
               <div class="row half no-collapse">
                 <div class="4u">
@@ -35,9 +34,6 @@
                 </div>
               </div>
               <% end %>
-               <footer>
-                <a href="/blog/" class="button">Más Noticias</a>
-              </footer>
             </section>
             <hr />
 
@@ -46,9 +42,11 @@
                 <h3>Por Año</h3>
               </header>
               <div class="row half no-collapse">
-              <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-                <%= link_to "#{year} (#{articles.size})", blog_year_path(year) %>
-              <% end %>
+              <ul>
+                <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+                  <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
+                <% end %>
+              </ul>
               </div>
             </section>
           </div>
