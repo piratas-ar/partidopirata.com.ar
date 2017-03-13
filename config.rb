@@ -1,6 +1,6 @@
 activate :blog do |blog|
   blog.sources = 'blog/posts/{year}-{month}-{day}-{title}.html'
-  blog.permalink = '{year}/{month}/{day}/{wppost_name}/'
+  blog.permalink = '{year}/{month}/{day}/{wppost_name}/index.html'
 
   blog.layout = 'blog'
   blog.month_template = 'blog/calendar.html'
