@@ -1300,6 +1300,10 @@ img.copyleft:hover { background-color: purple; }
   width: 30px
 }
 
+div.\38u.centered {
+	margin: 0 auto;
+}
+
 @media screen and (max-width: 600px) {
   nav#nav ul li {
     width: 40%;

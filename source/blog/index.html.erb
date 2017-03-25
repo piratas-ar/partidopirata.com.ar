@@ -1,6 +1,8 @@
 ---
 title: Blog del Partido Interdimensional Pirata
 layout: blog
+pageable: true
+per_page: 13
 ---
 <% if paginate && num_pages > 1 %>
   <% if prev_page %>
@@ -13,7 +15,7 @@ layout: blog
     <h2><%= link_to article.title, article %></h2>
     <em><%= article.date.strftime('%d/%m/%y') %></em>
   </header>
-  <%= article.summary(350) %>
+  <%= article.summary(321) %>
 </article>
 <% end %>
 <% if paginate %>

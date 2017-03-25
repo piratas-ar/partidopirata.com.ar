@@ -17,41 +17,7 @@
 			<div class="wrapper style1">
 				<div class="container">
 
-        <div class="row double">
-          <div class="4u" id="sidebar">
-
-            <section>
-              <header>
-                <h3><a href="/blog/">Artículos Recientes</a></h3>
-              </header>
-              <% blog.articles[0...10].each do |article| %>
-              <div class="row half no-collapse">
-                <div class="4u">
-                  <a href="<%= article.url %>" class="image fit"><img src="<%= article.data['thumb'] %>" alt="<%= article.title %>" /></a>
-                </div>
-                <div class="8u">
-                  <h4><%= link_to article.title, article %></h4>
-                </div>
-              </div>
-              <% end %>
-            </section>
-            <hr />
-
-            <section>
-              <header>
-                <h3>Por Año</h3>
-              </header>
-              <div class="row half no-collapse">
-              <ul>
-                <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-                  <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
-                <% end %>
-              </ul>
-              </div>
-            </section>
-          </div>
-
-          <div class="8u skel-cell-important" id="content">
+          <div class="8u skel-cell-important centered" id="content">
 
           <% unless current_article.nil? %>
             <h2><%= current_article.title %></h2>
@@ -59,7 +25,6 @@
           <%= yield %>
 
           </div>
-        </div>
 
       </div>
     </div>
