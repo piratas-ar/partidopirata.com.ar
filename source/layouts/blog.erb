@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="es">
+  <% title = current_article.title unless current_article.nil? %>
+  <% tags = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
+  <%= partial 'head' %>
+	<body class="left-sidebar">
+
+		<!-- Header -->
+			<div id="header">
+
+        <%= partial 'header', locals: { type: :small } %>
+        <%= partial 'nav' %>
+
+			</div>
+
+		<!-- Main -->
+			<div class="wrapper style1">
+				<div class="container">
+
+          <div class="8u skel-cell-important centered" id="content">
+
+          <% unless current_article.nil? %>
+            <h2><%= current_article.title %></h2>
+          <% end %>
+          <%= yield %>
+
+          </div>
+
+      </div>
+    </div>
+		<%= partial "footer" %>
+	</body>
+</html>

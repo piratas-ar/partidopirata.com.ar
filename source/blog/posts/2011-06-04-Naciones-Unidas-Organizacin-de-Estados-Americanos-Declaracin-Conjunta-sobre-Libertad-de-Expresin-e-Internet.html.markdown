@@ -1,0 +1,101 @@
+---
+title: 'Naciones Unidas-Organización de Estados Americanos: Declaración Conjunta sobre
+  Libertad de Expresión e Internet'
+date: '2011-06-04'
+tags:
+- censura
+- declaracion
+- derechos-humanos
+- divulgacion
+- naciones-unidas
+- organizacion-de-estados
+- organizacion-de-estados-americanos
+image: http://partidopirata.com.ar/wp-content/uploads/2011/06/onu.jpg
+thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/onu.jpg
+wppost_name: naciones-unidas-organizacion-de-estados-americanos-declaracion-conjunta-sobre-libertad-de-expresion-e-internet
+---
+
+<strong><a href="http://www.cidh.oas.org/relatoria/showarticle.asp?artID=849&amp;lID=2" target="_blank">Fuente Comisión Interamericana de Derechos Humanos.</a></strong><a href="http://www.cidh.oas.org/relatoria/showarticle.asp?artID=849&amp;lID=2" target="_blank"></a>
+
+<em><span style="font-family: Univers; font-size: x-large;">Adoptamos</span></em><span style="font-family: Univers; font-size: x-large;">, el 1 de junio de 2011, la siguiente Declaración Conjunta sobre Libertad de Expresión e Internet:</span>
+
+<span style="font-family: Univers; font-size: x-large;">
+</span>
+<ol>
+	<li><span style="font-family: Univers; font-size: x-large;">1.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="text-decoration: underline;"><span style="font-family: Univers; font-size: x-large;">Principios generales</span></span><span style="font-family: Univers; font-size: x-large;"> </span>
+<ol>
+	<li><span style="font-family: Univers; font-size: x-large;">a.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">La  libertad de expresión se aplica a Internet del mismo modo que a todos  los medios de comunicación. Las restricciones a la libertad de expresión  en Internet solo resultan aceptables cuando cumplen con los estándares  internacionales que disponen, entre otras cosas, que deberán estar  previstas por la ley y perseguir una finalidad legítima reconocida por  el derecho internacional y ser necesarias para alcanzar dicha finalidad  (la prueba "tripartita").</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">b.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Al  evaluar la proporcionalidad de una restricción a la libertad de  expresión en Internet, se debe ponderar el impacto que dicha restricción  podría tener en la capacidad de Internet para garantizar y promover la  libertad de expresión respecto de los beneficios que la restricción  reportaría para la protección de otros intereses.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">c.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Los  enfoques de reglamentación desarrollados para otros medios de  comunicación —como telefonía o radio y televisión— no pueden  transferirse sin más a Internet, sino que deben ser diseñados  específicamente para este medio, atendiendo a sus particularidades. </span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">d.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Para  responder a contenidos ilícitos, debe asignarse una mayor relevancia al  desarrollo de enfoques alternativos y específicos que se adapten a las  características singulares de Internet, y que a la vez reconozcan que no  deben establecerse restricciones especiales al contenido de los  materiales que se difunden a través de Internet.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">e.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">La  autorregulación puede ser una herramienta efectiva para abordar las  expresiones injuriosas y, por lo tanto, debe ser promovida. </span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">f.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Deben  fomentarse medidas educativas y de concienciación destinadas a promover  la capacidad de todas las personas de efectuar un uso autónomo,  independiente y responsable de Internet ("alfabetización digital").</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+</ol>
+</li>
+	<li><span style="font-family: Univers; font-size: x-large;">2.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="text-decoration: underline;"><span style="font-family: Univers; font-size: x-large;">Responsabilidad de intermediarios</span></span><span style="font-family: Univers; font-size: x-large;"> </span>
+<ol>
+	<li><span style="font-family: Univers; font-size: x-large;">a.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Ninguna persona que ofrezca únicamente servicios técnicos  de Internet como acceso, búsquedas o conservación de información en la  memoria caché deberá ser responsable por contenidos generados por  terceros y que se difundan a través de estos servicios, siempre que no  intervenga específicamente en dichos contenidos ni se niegue a cumplir  una orden judicial que exija su eliminación cuando esté en condiciones  de hacerlo ("principio de mera transmisión").</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">b.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Debe  considerarse la posibilidad de proteger completamente a otros  intermediarios, incluidos los mencionados en el preámbulo, respecto de  cualquier responsabilidad por los contenidos generados por terceros en  las mismas condiciones establecidas en el párrafo 2(a). Como mínimo, no  se debería exigir a los intermediarios que controlen el contenido  generado por usuarios y no deberían estar sujetos a normas  extrajudiciales sobre cancelación de contenidos que no ofrezcan  suficiente protección para la libertad de expresión (como sucede con  muchas de las normas sobre "notificación y retirada" que se aplican  actualmente). </span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+</ol>
+</li>
+	<li><span style="font-family: Univers; font-size: x-large;">3.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="text-decoration: underline;"><span style="font-family: Univers; font-size: x-large;">Filtrado y bloqueo</span></span><span style="font-family: Univers; font-size: x-large;"> </span>
+<ol>
+	<li><span style="font-family: Univers; font-size: x-large;">a.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">El  bloqueo obligatorio de sitios web enteros, direcciones IP, puertos,  protocolos de red o ciertos tipos de usos (como las redes sociales)  constituye una medida extrema—análoga a la prohibición de un periódico o  una emisora de radio o televisión— que solo podría estar justificada  conforme a estándares internacionales, por ejemplo, cuando sea necesaria  para proteger a menores del abuso sexual.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">b.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Los  sistemas de filtrado de contenidos impuestos por gobiernos o  proveedores de servicios comerciales que no sean controlados por el  usuario final constituyen una forma de censura previa y no representan  una restricción justificada a la libertad de expresión.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">c.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Se  debe exigir que los productos destinados a facilitar el filtrado por  los usuarios finales estén acompañados por información clara dirigida a  dichos usuarios acerca del modo en que funcionan y las posibles  desventajas si el filtrado resulta excesivo.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+</ol>
+</li>
+	<li><span style="font-family: Univers; font-size: x-large;">4.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="text-decoration: underline;"><span style="font-family: Univers; font-size: x-large;">Responsabilidad penal y civil</span></span><span style="font-family: Univers; font-size: x-large;"> </span>
+<ol>
+	<li><span style="font-family: Univers; font-size: x-large;">a.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">La  competencia respecto de causas vinculadas con contenidos de Internet  debería corresponder exclusivamente a los Estados con los que tales  causas presenten los contactos más estrechos, normalmente debido a que  el autor reside en ese Estado, el contenido se publicó desde allí y/o  este se dirige específicamente al Estado en cuestión. Los particulares  solo deberían poder iniciar acciones judiciales en una jurisdicción en  la que puedan demostrar haber sufrido un perjuicio sustancial (esta  norma busca prevenir lo que se conoce como "turismo de la difamación").</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">b.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Las  normas de responsabilidad, incluidas las exclusiones de  responsabilidad, en los procedimientos civiles, deberían tener en cuenta  el interés general del público en proteger tanto la expresión como el  foro en el cual se pronuncia (es decir, la necesidad de preservar la  función de "lugar público de reunión" que cumple Internet).</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">c.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">En  el caso de contenidos que hayan sido publicados básicamente con el  mismo formato y en el mismo lugar, los plazos para la interposición de  acciones judiciales deberían computarse desde la primera vez que fueron  publicados y solo debería permitirse que se presente una única acción  por daños respecto de tales contenidos y, cuando corresponda, se debería  permitir una única reparación por los daños sufridos en todas las  jurisdicciones (regla de la "publicación única"). </span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+</ol>
+</li>
+	<li><span style="font-family: Univers; font-size: x-large;">5.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="text-decoration: underline;"><span style="font-family: Univers; font-size: x-large;">Neutralidad de la red</span></span><span style="font-family: Univers; font-size: x-large;"> </span>
+<ol>
+	<li><span style="font-family: Univers; font-size: x-large;">a.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">El  tratamiento de los datos y el tráfico de Internet no debe ser objeto de  ningún tipo de discriminación en función de factores como dispositivos,  contenido, autor, origen y/o destino del material, servicio o  aplicación.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">b.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Se  debe exigir a los intermediarios de Internet que sean transparentes  respecto de las prácticas que emplean para la gestión del tráfico o la  información, y cualquier información relevante sobre tales prácticas  debe ser puesta a disposición del público en un formato que resulte  accesible para todos los interesados.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+</ol>
+</li>
+	<li><span style="font-family: Univers; font-size: x-large;">6.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="text-decoration: underline;"><span style="font-family: Univers; font-size: x-large;">Acceso a Internet</span></span><span style="font-family: Univers; font-size: x-large;"> </span>
+<ol>
+	<li><span style="font-family: Univers; font-size: x-large;">a.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Los  Estados tienen la obligación de promover el acceso universal a Internet  para garantizar el disfrute efectivo del derecho a la libertad de  expresión. El acceso a Internet también es necesario para asegurar el  respeto de otros derechos, como el derecho a la educación, la atención  de la salud y el trabajo, el derecho de reunión y asociación, y el  derecho a elecciones libres.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">b.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">La  interrupción del acceso a Internet, o a parte de este, aplicada a  poblaciones enteras o a determinados segmentos del público (cancelación  de Internet) no puede estar justificada en ningún caso, ni siquiera por  razones de orden público o seguridad nacional. Lo mismo se aplica a las  medidas de reducción de la velocidad de navegación de Internet o de  partes de este. </span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">c.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">La  negación del derecho de acceso a Internet, a modo de sanción,  constituye una medida extrema que solo podría estar justificada cuando  no existan otras medidas menos restrictivas y siempre que haya sido  ordenada por la justicia, teniendo en cuenta su impacto para el  ejercicio de los derechos humanos.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">d.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Otras  medidas que limitan el acceso a Internet, como la imposición de  obligaciones de registro u otros requisitos a proveedores de servicios,  no son legítimas a menos que superen la prueba establecida por el  derecho internacional para las restricciones a la libertad de expresión.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+	<li><span style="font-family: Univers; font-size: x-large;">e.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Los Estados tienen la obligación positiva de facilitar el acceso universal a Internet. </span><span style="font-family: Univers; font-size: x-large;">Como</span><span style="font-family: Univers; font-size: x-large;"> mínimo, los Estados deberían:</span>
+<ol>
+	<li><span style="font-family: Univers; font-size: x-large;"><span style="font-family: Times New Roman; font-size: xx-large;"> </span>i.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Establecer  mecanismos regulatorios —que contemplen regímenes de precios,  requisitos de servicio universal y acuerdos de licencia— para fomentar  un acceso más amplio a Internet, incluso de los sectores pobres y las  zonas rurales más alejadas.</span></li>
+	<li><span style="font-family: Univers; font-size: x-large;"><span style="font-family: Times New Roman; font-size: xx-large;"> </span>ii.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Brindar apoyo directo para facilitar el acceso, incluida la creación de centros comunitarios de tecnologías de la información y la comunicación (TIC) y otros puntos de acceso público.</span></li>
+	<li><span style="font-family: Univers; font-size: x-large;"><span style="font-family: Times New Roman; font-size: xx-large;"> </span>iii.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Generar  conciencia sobre el uso adecuado de Internet y los beneficios que puede  reportar, especialmente entre sectores pobres, niños y ancianos, y en  las poblaciones rurales aisladas.</span></li>
+	<li><span style="font-family: Univers; font-size: x-large;"><span style="font-family: Times New Roman; font-size: xx-large;"> </span>iv.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">Adoptar  medidas especiales que aseguren el acceso equitativo a Internet para  personas con discapacidad y los sectores menos favorecidos.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+</ol>
+</li>
+	<li><span style="font-family: Univers; font-size: x-large;">f.<span style="font-family: Times New Roman; font-size: xx-large;"> </span></span><span style="font-family: Univers; font-size: x-large;">A  fin de implementar las medidas anteriores, los Estados deberían adoptar  planes de acción detallados de varios años de duración para ampliar el  acceso a Internet, que incluyan objetivos claros y específicos, así como  estándares de transparencia, presentación de informes públicos y  sistemas de monitoreo.</span><span style="font-family: Univers; font-size: x-large;"> </span></li>
+</ol>
+</li>
+</ol>
+<span style="font-family: Univers; font-size: x-large;"> </span>
+
+<span style="font-family: Univers; font-size: x-large;">Frank LaRue</span>
+
+<span style="font-family: Univers; font-size: x-large;">Relator Especial de las Naciones Unidas para la Libertad de Opinión y de Expresión</span><span style="color: black; font-family: Univers; font-size: x-large;"> </span>
+
+<span style="font-family: Univers; font-size: x-large;"> </span>
+
+<span style="font-family: Univers; font-size: x-large;">Dunja Mijatović</span>
+
+<span style="font-family: Univers; font-size: x-large;">Representante de la OSCE para la Libertad de los Medios de Comunicación</span><span style="font-family: Univers; font-size: x-large;"> </span>
+
+<span style="font-family: Univers; font-size: x-large;"> </span>
+
+<span style="font-family: Univers; font-size: x-large;">Catalina Botero Marino</span>
+
+<span style="font-family: Univers; font-size: x-large;">Relatora Especial de la OEA para la Libertad de Expresión</span><span style="font-family: Univers; font-size: x-large;"> </span>
+
+<span style="font-family: Univers; font-size: x-large;"> </span>
+
+<span style="font-family: Univers; font-size: x-large;">Faith Pansy Tlakula</span>
+
+<span style="font-family: Univers; font-size: x-large;">Relatora Especial de la CADHP sobre Libertad de Expresión y Acceso a la Información</span>

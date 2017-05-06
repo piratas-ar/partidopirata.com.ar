@@ -1,0 +1,42 @@
+
+@font-face {
+  font-family: 'Monkey Island 1990';
+  src: url('../fonts/MonkeyIsland-1990.ttf');
+}
+
+.monkey {
+  font-family: 'Monkey Island 1990', monospace;
+  text-shadow: 2px 2px 0 black;
+}
+
+blink, .blink {
+  -webkit-animation: blink 2s step-end infinite;
+  -moz-animation: blink 2s step-end infinite;
+  -o-animation: blink 2s step-end infinite;
+  animation: blink 2s step-end infinite;
+}
+
+/*
+blink:hover, .blink:hover {
+  -webkit-animation: none;
+  -moz-animation: none;
+  -o-animation: none;
+  animation: none;
+}
+*/
+
+@-webkit-keyframes blink {
+  67% { opacity: 0 }
+}
+
+@-moz-keyframes blink {
+  67% { opacity: 0 }
+}
+
+@-o-keyframes blink {
+  67% { opacity: 0 }
+}
+
+@keyframes blink {
+  67% { opacity: 0 }
+}

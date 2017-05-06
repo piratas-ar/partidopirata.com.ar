@@ -1,0 +1,14 @@
+---
+title: "Grog & Tor"
+date: '2015-08-12'
+tags:
+- privacidad
+- seguridad
+image: http://partidopirata.com.ar/wp-content/uploads/2015/08/grog-tor.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2015/08/grog-tor-150x150.png
+wppost_name: grog-tor
+---
+
+Mañana jueves 13 a las 19hs en algún rincón de la Casona de Humahuaca (Abasto) algunas piratas nos juntamos a enseñarnos de seguridad en comunicaciones y en general. Traé el dispositivo que más uses para ir probando cosas, algo para anotar y conocimiento para compartir!
+
+

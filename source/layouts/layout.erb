@@ -1,17 +1,16 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="es" prefix="og: http://ogp.me/ns#">
   <%= partial 'head' %>
 	<body class="homepage">
 
 		<!-- Header -->
 			<div id="header">
 
-          <%= partial 'header', :locals => { :logo => :big, :comenzar => true} %>
+          <%= partial 'header', locals: { type: :big } %>
           <%= partial 'nav' %>
 
 			</div>
 
-  <%= yield %>
-  <%= partial 'footer' %>
+    <%= yield %>
 	</body>
 </html>
