@@ -47,7 +47,7 @@ Al amparo de esa ley, tampoco pueden aspirar a subsidio oficial alguno las pelí
 
 <hr />
 
-<b>Una aclaración</b>: En la nota nombran al documental <b>Hombre Bebiendo Luz</b><strong><a href="http://www.partidopirata.com.ar/7148/hombre-bebiendo-luz-rodolfo-kusch-en-procura-de-un-pensamiento-continental-autonomo"> que su director nos envió para colgarla y compartirla con todos.</a></strong>
+<b>Una aclaración</b>: En la nota nombran al documental <b>Hombre Bebiendo Luz</b><strong><a href="https://partidopirata.com.ar/7148/hombre-bebiendo-luz-rodolfo-kusch-en-procura-de-un-pensamiento-continental-autonomo"> que su director nos envió para colgarla y compartirla con todos.</a></strong>
 Ese documental no tuvo ningún subsidio o crédito del INCAA (por lo menos no aparece nada en sus créditos ni en el site del INCAA). Sólo una pequeña aclaración para no colocar en la misma bolsa a películas y documentales que no gozan del amparo oficial o del curro oficial...
 
 Y todos estos créditos y subsidios tienen todos los candados del derecho de autor. O sea, además de un posible curro, como informa el autor de la nota, quedarán para siempre encajonadas y no se podrán ver, a pesar de que fuimos nosotros con nuestros impuestos los que ayudamos a que se hicieran.

@@ -28,4 +28,4 @@ Esta sobre entendido que el Gobierno hace y deshace como quiere, pero me parece 
 &nbsp;
 
 <hr />
-<p style="text-align: center;"><strong>Si a alguien más le pasó algo similar, avise en los comentarios o envíen su denuncia a <a href="http://www.partidopirata.com.ar/contacto" target="_blank">nuestro formulario de contacto.</a></strong></p>
+<p style="text-align: center;"><strong>Si a alguien más le pasó algo similar, avise en los comentarios o envíen su denuncia a <a href="https://partidopirata.com.ar/contacto" target="_blank">nuestro formulario de contacto.</a></strong></p>
