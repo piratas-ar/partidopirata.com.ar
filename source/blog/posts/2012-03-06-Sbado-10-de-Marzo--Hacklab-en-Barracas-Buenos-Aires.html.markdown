@@ -8,8 +8,8 @@ tags:
 - buenos-aires-libre
 - hacklab
 - laboratorio
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcción_1982.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcci%C3%B3n_1982-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcción_1982.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcci%C3%B3n_1982-150x150.jpg
 wppost_name: sabado-10-de-marzo-hacklab-en-barracas-buenos-aires
 ---
 

@@ -21,12 +21,12 @@ tags:
 - publicas
 - ranking
 - simposio
-image: http://partidopirata.com.ar/wp-content/uploads/2010/04/top_ten1-300x266.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/top_ten1-300x266.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/04/top_ten1-300x266.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/04/top_ten1-300x266.jpg
 wppost_name: argentina-en-el-last-ten-de-los-paises-con-las-peores-leyes-de-propiedad-intelectual-del-mundo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/04/top_ten1.jpg"><img class="aligncenter size-medium wp-image-139" title="top_ten" src="http://partidopirata.com.ar/wp-content/uploads/2010/04/top_ten1-300x266.jpg" alt="" width="300" height="266" /></a><a title="Simposio Internacional de Políticas Públicas para los Acervos Digitales" href="http://culturadigital.br/simposioacervosdigitais/2010/04/29/brasil-e-o-7%C2%BA-pais-mais-restritivo-em-direitos-autorais/" target="_blank">Fuente site del Simposio Internacional de Políticas Públicas en Acervos Digitales.</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/04/top_ten1.jpg"><img class="aligncenter size-medium wp-image-139" title="top_ten" src="https://partidopirata.com.ar/wp-content/uploads/2010/04/top_ten1-300x266.jpg" alt="" width="300" height="266" /></a><a title="Simposio Internacional de Políticas Públicas para los Acervos Digitales" href="http://culturadigital.br/simposioacervosdigitais/2010/04/29/brasil-e-o-7%C2%BA-pais-mais-restritivo-em-direitos-autorais/" target="_blank">Fuente site del Simposio Internacional de Políticas Públicas en Acervos Digitales.</a>
 
 El coordinador de <a title="Consumers International " href="http://www.consumersinternational.org/" target="_blank">Consumers International</a>, el australiano Jeremy Malcolm, presentó en la mesa de la tarde de este miércoles 29 del Simposio internacional de Políticas Públicas para Acervos Digitales la lista de los países ejemplo en derechos de autor, para bien y para mal. Vea:
 

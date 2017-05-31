@@ -9,8 +9,8 @@ tags:
 - megaupload
 - skyload
 - skyload-net
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/kinoto.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/kinoto-150x86.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/kinoto.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/kinoto-150x86.gif
 wppost_name: alemania-policia-cierra-un-servidor-de-archivos-y-arresta-a-los-operadores
 ---
 

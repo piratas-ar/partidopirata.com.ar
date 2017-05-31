@@ -7,8 +7,8 @@ tags:
 - numeros
 - perdidas
 - perdidas-por-pirateria
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
 wppost_name: la-falsificacion-de-la-numerologia-pirata
 ---
 
@@ -20,8 +20,8 @@ wppost_name: la-falsificacion-de-la-numerologia-pirata
 </ul>
 <ul>
 	<li><a style="font-weight: bold;" href="http://partido-pirata.blogspot.com/2010/04/el-gobierno-de-eeuu-admite-como.html" target="_blank">Artículo en "Derecho a Leer" sobre los números de la <em>piratería</em></a></li>
-	<li><a href="http://partidopirata.com.ar/3506/las-dificiles-matematicas-de-los-derechos-de-autor-o-mas-numerologia-pirata">Conferencia TED dedicada a las <em>"matemáticas del copyright"</em></a></li>
-	<li><a href="http://partidopirata.com.ar/3737/mas-numerologia-pirata-el-caso-de-las-ventas-perdidas-de-libros">La numerología pirata de los libros españoles.</a></li>
+	<li><a href="https://partidopirata.com.ar/3506/las-dificiles-matematicas-de-los-derechos-de-autor-o-mas-numerologia-pirata">Conferencia TED dedicada a las <em>"matemáticas del copyright"</em></a></li>
+	<li><a href="https://partidopirata.com.ar/3737/mas-numerologia-pirata-el-caso-de-las-ventas-perdidas-de-libros">La numerología pirata de los libros españoles.</a></li>
 </ul>
 Ahora en <a href="http://baixacultura.org/2011/03/14/a-falsificacao-da-numerologia-pirata/" target="_blank">Baixa Cultura</a> aparece otro artículo sobre los números de la piratería:
 
@@ -44,7 +44,7 @@ Ahora en <a href="http://baixacultura.org/2011/03/14/a-falsificacao-da-numerolog
 <p style="text-align: justify;">El <a href="http://www.projetoescolalegal.org.br/?page_id=99">Proyecto Escuela Legal</a> – promovido a partir de 2007 por la Cámara Americana de Comercio (<a href="http://www.amcham.com.br/">AmCham</a>), apoyado por el CNPC y <a href="http://www.projetoescolalegal.org.br/?page_id=112">patro$$inado</a> por la <a href="http://pt.wikipedia.org/wiki/Motion_Picture_Asociation_of_America">MPAA</a> - es uno de esos que reproducen los falsos números. La intención del proyecto es auxiliar al profesores a <del>adoctrinar</del> trabajar la antipiratería con sus alumnos, a través de un “kit para educadores” y actividades en las disciplinas – que van desde textos sobre el asunto en Portugués hasta problemas de Matemática con los números de las “investigaciónes”, pasando todavía por la citación de los países fuente de productos falsificados en Geografia. <a href="http://www.projetoescolalegal.org.br/?page_id=106">Según el site</a>, el proyecto fue implementado en 82 escuelas (9 particulares y 73 públicas) de seis ciudades (de San Pablo, GOias, y Santa Catarina), pudiéndo ir para más escuelas.</p>
 <p style="text-align: justify;">Y los de más edad también pueden reproducir las mismas cifras por medio de reportajes vehiculados en la prensa. Denle una mirada a esos reportajes de <a href="http://fantastico.globo.com/Jornalismo/FANT/0,,MUL1613698-15605,00-PRODUTOS+FALSIFICADOS+PREJUDICAM+O+BOLSO+E+A+SAUDE+DO+CONSUMIDOR.html">Fantástico</a> y de <a href="http://partido-pirata.blogspot.com/2011/03/analizando-los-que-hablan-de-pirateria.html" target="_blank">R7</a> para que vean que los números son reproducidos y la “piratería” es usada tanto para referirse a infracción de derecho de autor como de propiedad industrial. [En el segundo reportaje, muestra ejemplar del ridículo discurso moralizador del combate a la piratería, felizmente un entrevistado dice que "<em>a veces comprás un cd o dvd que lo ves dos veves y ya vale la pena</em>".]</p>
 <p style="text-align: justify;">Como se percibe, las campañas y reportajes periodísticos intentan colocar una dosis para caballos de “culpa” a la hora de comprar productos oficiales. Se olvidan de dar el destaque debido a àquella que es la principal motivación de alguien para comprar un producto considerado “pirata”: el precio mas bajo. Es público y notorio que el precio alto de los cds y dvds no se condice con los bajos salarios de las personas, especialmente en países emergentes como Brasil, Rusia y Sudáfrica, donde el precio de un CD, DVD o de una copia de Microsoft Office es de cinco a diez veces mayor de lo que en los Estados Unidos o en Europa, y los productos oficiales acaban siendo ítems de lujo, como Lemos escribe en la introducción del estudio que puede ser bajado <a href="http://piracy.src.org/" target="_blank">aqui</a>.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2375/mas-numerologia-pirata-gobierno-britanico-reconoce-que-su-ley-%E2%80%9Canti-pirateria%E2%80%9D-fue-creada-sin-evidencia">Más y más <em>numerología pirata</em></a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2375/mas-numerologia-pirata-gobierno-britanico-reconoce-que-su-ley-%E2%80%9Canti-pirateria%E2%80%9D-fue-creada-sin-evidencia">Más y más <em>numerología pirata</em></a></strong></p>
 
 
 <hr />

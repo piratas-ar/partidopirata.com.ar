@@ -11,12 +11,12 @@ tags:
 - megaupload
 - programas-de-afiliados
 - rapidshare
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/cash1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/cash1-150x121.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/cash1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/cash1-150x121.jpg
 wppost_name: la-mayoria-de-los-que-suben-archivos-a-cyberlockers-rapidshare-etc-no-lo-hacen-por-las-recompensas-en-efectivo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/cash1.jpg"><img class="alignright size-full wp-image-7484" title="cash1" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/cash1.jpg" alt="" width="200" height="121" /></a><strong><a href="https://torrentfreak.com/most-cyberlocker-uploaders-not-driven-by-cash-rewards-121119/" target="_blank">Fuente Torrentfreak, por Ernesto</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/cash1.jpg"><img class="alignright size-full wp-image-7484" title="cash1" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/cash1.jpg" alt="" width="200" height="121" /></a><strong><a href="https://torrentfreak.com/most-cyberlocker-uploaders-not-driven-by-cash-rewards-121119/" target="_blank">Fuente Torrentfreak, por Ernesto</a></strong>
 
 La mayoría de las personas que suben archivos a cyberlockers [tipo rapidshare, el antiguo megaupload, etc] ganan menos que el salario mínimo de sus actividades de acuerdo con investigadores de la Universidad Boston Northeasterny Eurécom en Francia. Los investigadores analizaron las tasas de clics en el enlace de varios sitios, y concluyen que el impacto global de los programas de afiliados [los que les pagan a los que subieron archivos] como causa de la piratería puede ser exagerada.
 

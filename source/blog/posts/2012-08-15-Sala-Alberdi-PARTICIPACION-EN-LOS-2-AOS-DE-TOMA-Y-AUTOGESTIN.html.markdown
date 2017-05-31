@@ -8,15 +8,15 @@ tags:
 - material-para-difusion
 - sala-alberdi
 - toma-y-autofestion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-001.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-001-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-001.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-001-150x150.jpg
 wppost_name: sala-alberdi-participacion-en-los-2-anos-de-toma-y-autogestion
 ---
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-001.jpg"><img class="aligncenter size-medium wp-image-6005" title="2an_osdelasalaalberdicon DIRECCION [original](1)-page-001" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-001-300x200.jpg" alt="" width="300" height="200" /></a><a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-002.jpg"><img class="aligncenter size-medium wp-image-6006" title="2an_osdelasalaalberdicon DIRECCION [original](1)-page-002" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-002-300x200.jpg" alt="" width="300" height="200" /></a>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1.pdf">Si quieren descargar el archivo pdf.</a></strong></p>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-001.jpg"><img class="aligncenter size-medium wp-image-6005" title="2an_osdelasalaalberdicon DIRECCION [original](1)-page-001" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-001-300x200.jpg" alt="" width="300" height="200" /></a><a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-002.jpg"><img class="aligncenter size-medium wp-image-6006" title="2an_osdelasalaalberdicon DIRECCION [original](1)-page-002" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1-page-002-300x200.jpg" alt="" width="300" height="200" /></a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/2an_osdelasalaalberdicon-DIRECCION-original1.pdf">Si quieren descargar el archivo pdf.</a></strong></p>
 
 
 <hr />

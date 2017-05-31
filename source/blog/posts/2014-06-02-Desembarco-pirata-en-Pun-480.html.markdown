@@ -10,8 +10,8 @@ tags:
 - fundacion-via-libre
 - taller-eventos
 - uba
-image: http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3576.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3576-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3576.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3576-150x150.jpg
 wppost_name: desembarco-pirata-en-puan-480
 ---
 
@@ -42,8 +42,8 @@ El material que repartimos:
 <li>Historia del Copyright, Rick Falkvinge <a href="http://utopia.partidopirata.com.ar/historia_del_copyright.html" target="_blank">http://utopia.partidopirata.com.ar/historia_del_copyright.html</a></li>
 </ul>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3576.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3576-300x225.jpg" alt="IMG_3576" width="300" height="225" class="size-medium wp-image-9438" /></a>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3583.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3583-300x225.jpg" alt="IMG_3583" width="300" height="225" class="size-medium wp-image-9445" /></a>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3581.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3581-300x225.jpg" alt="IMG_3581" width="300" height="225" class="size-medium wp-image-9443" /></a>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3579.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3579-300x225.jpg" alt="IMG_3579" width="300" height="225" class="size-medium wp-image-9441" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3576.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3576-300x225.jpg" alt="IMG_3576" width="300" height="225" class="size-medium wp-image-9438" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3583.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3583-300x225.jpg" alt="IMG_3583" width="300" height="225" class="size-medium wp-image-9445" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3581.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3581-300x225.jpg" alt="IMG_3581" width="300" height="225" class="size-medium wp-image-9443" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3579.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2014/05/IMG_3579-300x225.jpg" alt="IMG_3579" width="300" height="225" class="size-medium wp-image-9441" /></a>
 

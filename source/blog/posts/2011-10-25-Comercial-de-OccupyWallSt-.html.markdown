@@ -7,8 +7,8 @@ tags:
 - occupy
 - occupy-wall-street
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3-150x150.jpg
 wppost_name: comercial-de-occupywallst
 ---
 
@@ -27,5 +27,5 @@ Completados puco <a href="http://www.estadao.com.br/noticias/internacional,movim
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg"><img class="size-full wp-image-1911" title="wallst-250-3" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg" alt="Occupy Wall Street" width="245" height="320" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg"><img class="size-full wp-image-1911" title="wallst-250-3" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg" alt="Occupy Wall Street" width="245" height="320" /></a>
 

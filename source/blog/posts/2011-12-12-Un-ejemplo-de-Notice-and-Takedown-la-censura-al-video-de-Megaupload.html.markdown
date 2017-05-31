@@ -9,16 +9,16 @@ tags:
 - megaupload
 - universal
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked-150x150.jpg
 wppost_name: un-ejemplo-de-notice-and-take-down-la-censura-al-video-de-megaupload
 ---
 
-<a href="http://partidopirata.com.ar/2543/analisis-sobre-%e2%80%9cnotice-and-takedown%e2%80%9d-lo-que-hace-youtube-por-ejemplo-cuando-borra-algo">En esta otra entrada del blog comentábamos sobre los peligros del sistema <em>"Notice and Takedown"</em></a> que es lo que hace YouTube, por ejemplo, cuando le llega una notificación de violación de los derechos de autor. Lo borra primero y le pregunta a quien lo subió después.
+<a href="https://partidopirata.com.ar/2543/analisis-sobre-%e2%80%9cnotice-and-takedown%e2%80%9d-lo-que-hace-youtube-por-ejemplo-cuando-borra-algo">En esta otra entrada del blog comentábamos sobre los peligros del sistema <em>"Notice and Takedown"</em></a> que es lo que hace YouTube, por ejemplo, cuando le llega una notificación de violación de los derechos de autor. Lo borra primero y le pregunta a quien lo subió después.
 
 La noticia sobre el borrado en YouTube del video de apoyo a Megaupload:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg"><img class="size-full wp-image-2549" title="megasongblocked" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg" alt="" width="475" height="355" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg"><img class="size-full wp-image-2549" title="megasongblocked" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/megasongblocked.jpg" alt="" width="475" height="355" /></a>
 
 
 <strong><a href="http://www.fayerwayer.com/2011/12/megaupload-demandara-a-universal-por-hacer-que-youtube-eliminara-su-hit/" target="_blank">Fuente Fayerwayer.</a></strong>

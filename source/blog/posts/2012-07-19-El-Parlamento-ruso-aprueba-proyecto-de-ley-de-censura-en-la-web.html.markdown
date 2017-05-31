@@ -8,8 +8,8 @@ tags:
 - pornografia-infantil
 - rusia
 - vladimir-puttin
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/+nicolas2b.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/+nicolas2b-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/+nicolas2b.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/+nicolas2b-150x150.jpg
 wppost_name: el-parlamento-ruso-aprueba-proyecto-de-ley-de-censura-en-la-web
 ---
 
@@ -58,4 +58,4 @@ Diputados de la oposición denunciaron el miércoles lo que dijeron que era una 
 "Estamos transformando el parlamento en una oficina de secretaría que lleva a cabo los deseos de alguien más", dijo el diputado de oposición Gennady Gudkov del partido Rusia Justa en las audiencias.
 
 <strong><a href="http://news.yahoo.com/russian-parliament-vote-censorship-bill-102234560.html" target="_blank">Fuente AFP</a></strong><hr>
-La <i>pornografía infantil</i> siempre tan funcional para censurar internet.....<a href="http://partidopirata.com.ar/5254/con-el-tema-de-abusos-de-menores-siempre-es-todo-culpa-de-internet">En la Argentina vemos como se tratan algunos casos de abuso infantil no virtuales....</a> Pero siempre la culpa de todo es de Internet....
+La <i>pornografía infantil</i> siempre tan funcional para censurar internet.....<a href="https://partidopirata.com.ar/5254/con-el-tema-de-abusos-de-menores-siempre-es-todo-culpa-de-internet">En la Argentina vemos como se tratan algunos casos de abuso infantil no virtuales....</a> Pero siempre la culpa de todo es de Internet....

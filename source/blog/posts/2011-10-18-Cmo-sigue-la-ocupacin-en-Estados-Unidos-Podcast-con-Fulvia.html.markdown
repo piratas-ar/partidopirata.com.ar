@@ -10,8 +10,8 @@ tags:
 - occupy-wall-street
 - podcasts
 - usa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli-150x150.png
 wppost_name: como-sigue-la-ocupacion-en-estados-unidos-podcast-con-fulvia
 ---
 
@@ -71,4 +71,4 @@ Banda Bassotti - Oh Bella Ciao!</center>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli.png"><img class="aligncenter size-full wp-image-1931" title="occupyphilli" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli.png" alt="Occupy Filadelfia" width="560" height="352" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli.png"><img class="aligncenter size-full wp-image-1931" title="occupyphilli" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli.png" alt="Occupy Filadelfia" width="560" height="352" /></a>

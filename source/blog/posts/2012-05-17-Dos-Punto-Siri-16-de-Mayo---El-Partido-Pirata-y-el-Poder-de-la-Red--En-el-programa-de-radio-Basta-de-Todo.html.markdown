@@ -10,8 +10,8 @@ tags:
 - ripoll
 - santiago-siri
 - schultz
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/Imagen_6_reasonably_small.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/Imagen_6_reasonably_small-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/Imagen_6_reasonably_small.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/Imagen_6_reasonably_small-115x115.png
 wppost_name: dos-punto-siri-16-de-mayo-el-partido-pirata-y-el-poder-de-la-red-en-el-programa-de-radio-basta-de-todo
 ---
 
@@ -32,5 +32,5 @@ Y luego les aparecerá la opción para descargar el archivo mp3 del audio.
 <p style="text-align: center;"><strong><a href="http://lomejordelosmedios.blogspot.com/2012/05/matias-ripoll-y-cabito-en-basta-de-todo_14.html" target="_blank">En <em>Lo Mejor de los Medios</em></a>  está todo el programa de radio por si quieren escucharlo.</strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Imagen_6_reasonably_small.png"><img class="size-full wp-image-4473" title="Imagen_6_reasonably_small" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Imagen_6_reasonably_small.png" alt="" width="128" height="128" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/Imagen_6_reasonably_small.png"><img class="size-full wp-image-4473" title="Imagen_6_reasonably_small" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/Imagen_6_reasonably_small.png" alt="" width="128" height="128" /></a>
 

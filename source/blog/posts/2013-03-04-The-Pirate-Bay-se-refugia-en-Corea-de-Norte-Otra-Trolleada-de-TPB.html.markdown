@@ -7,12 +7,12 @@ tags:
 - refugia
 - torrentfreak-noticias
 - tpb
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/tpb-korea.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/tpb-korea-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/tpb-korea.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/tpb-korea-150x150.png
 wppost_name: the-pirate-bay-se-refugia-en-corea-de-norte
 ---
 
-Como mostramos anteriormente <a href="http://partidopirata.com.ar/8576/the-pirate-bay-se-muda-a-piratas-de-catalunya-y-noruega">TPB se había mudado con el Partido pirata de España(catalunya) y Noruega,</a> a pesar de que en el ultimo país se  se vio forzado a cerrar el nodo que había abierto debido a reclamos de organizaciones protectoras del copyright, de forma similar a lo que ocurrió en Suecia.
+Como mostramos anteriormente <a href="https://partidopirata.com.ar/8576/the-pirate-bay-se-muda-a-piratas-de-catalunya-y-noruega">TPB se había mudado con el Partido pirata de España(catalunya) y Noruega,</a> a pesar de que en el ultimo país se  se vio forzado a cerrar el nodo que había abierto debido a reclamos de organizaciones protectoras del copyright, de forma similar a lo que ocurrió en Suecia.
 
 Lo gracioso de todo esto es que sucedió algo inesperado<strong>:
 “hemos sido invitados por el líder de la república de Corea, para luchar nuestras batallas desde su red”</strong>
@@ -33,4 +33,4 @@ Fuentes: <a href="http://torrentfreak.com/the-pirate-bay-moves-to-north-korea-ge
 
 <h3 style="text-align: left;"><strong> Pueden ver el Documental de TPB - AFK:</strong></h3>
 <center><iframe src="http://www.youtube.com/embed/GfRFh_h5ICE" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></center>&nbsp;
-<h2>Y leer <a href="http://partidopirata.com.ar/8471/tpb-afk-the-pirate-bay-bajo-los-proyectores" rel="bookmark">“TPB: AFK” , The Pirate Bay bajo los proyectores</a></h2>
+<h2>Y leer <a href="https://partidopirata.com.ar/8471/tpb-afk-the-pirate-bay-bajo-los-proyectores" rel="bookmark">“TPB: AFK” , The Pirate Bay bajo los proyectores</a></h2>

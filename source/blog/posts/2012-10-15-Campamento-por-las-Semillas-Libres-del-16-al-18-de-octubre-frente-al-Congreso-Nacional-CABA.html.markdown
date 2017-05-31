@@ -12,12 +12,12 @@ tags:
 - ogm
 - organismos-geneticamente-modificados
 - semillas-libres
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/12725_313096825464053_497298550_n.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/12725_313096825464053_497298550_n-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/12725_313096825464053_497298550_n.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/12725_313096825464053_497298550_n-150x150.jpg
 wppost_name: campamento-por-las-semillas-libres-del-16-al-18-de-octubre-frente-al-congreso-nacional-caba
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/12725_313096825464053_497298550_n.jpg"><img class="aligncenter size-full wp-image-6859" title="12725_313096825464053_497298550_n" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/12725_313096825464053_497298550_n.jpg" alt="" width="690" height="960" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/12725_313096825464053_497298550_n.jpg"><img class="aligncenter size-full wp-image-6859" title="12725_313096825464053_497298550_n" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/12725_313096825464053_497298550_n.jpg" alt="" width="690" height="960" /></a>
 
 <hr />
 <p style="text-align: center;"><strong>Campamento por las Semillas Libres.</strong>

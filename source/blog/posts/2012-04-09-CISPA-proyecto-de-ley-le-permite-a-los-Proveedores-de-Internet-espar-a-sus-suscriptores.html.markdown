@@ -15,8 +15,8 @@ tags:
 - reprimir
 - sopa
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: cispa-proyecto-de-ley-le-permite-a-los-proveedores-de-internet-espiar-a-sus-suscriptores
 ---
 

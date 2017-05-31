@@ -6,8 +6,8 @@ tags:
 - denuncias
 - material-para-difusion
 - veto
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/No_Veto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/No_Veto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/No_Veto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/No_Veto-150x150.jpg
 wppost_name: del-voto-al-veto-voto-al-chapiro
 ---
 

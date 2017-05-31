@@ -10,8 +10,8 @@ tags:
 - seralini
 - transgenia
 - transgenicos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: alerta-organismos-geneticamente-modificados-documental
 ---
 
@@ -23,7 +23,7 @@ Documental sobre los estudios del doctor Gilles Eric Seralini en ratas que demos
 
 Este documental se relaciona con un artículo que salió en <strong>Nouvel Observateur</strong>  sobre el riesgo del consumo de Organismos Genéticamente Modificados [OGM]
 
-<a href="http://partidopirata.com.ar/6609/todos-somos-conejillos-de-indias-tous-cobayes-documental-de-jean-paul-jaud">Más información en este otro post del blog.</a>
+<a href="https://partidopirata.com.ar/6609/todos-somos-conejillos-de-indias-tous-cobayes-documental-de-jean-paul-jaud">Más información en este otro post del blog.</a>
 <strong><a href="http://www.ogm-alerte-mondiale.net/Fiche-technique?lang=fr" target="_blank">Ficha del Documental:</a></strong>
 <h3>OGM, le moment de vérité ?</h3>
 13 minutes

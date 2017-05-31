@@ -13,8 +13,8 @@ tags:
 - divulgacion
 - sadaic
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/leysicamu-115x115.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/leysicamu-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/leysicamu-115x115.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/leysicamu-115x115.png
 wppost_name: mientras-esperamos-el-texto-del-proyecto-de-ley-de-la-musica-presentado-noalcanon-leydelamusica-%c2%bfno-es-ley-de-las-corporaciones-de-la-musica
 ---
 
@@ -104,7 +104,7 @@ Dejamos los links a lo que nosotros rescatamos cuando se emitió el debate:
 &nbsp;
 
 Cuando se realizó el debate subimos a nuestro canal lo que habíamos podido rescatar caseramente del video. En ese momento se dió un rico debate entre Claudia Mercante y algunos otros navegantes de nuestro blog.
-<a href="http://partidopirata.com.ar/1564/video-de-la-mesa-redonda-en-siga-2011-sobre-el-canon-digital-noalcanon" target="_blank">En los comentarios de esta entrada pueden leer el debate.</a>
+<a href="https://partidopirata.com.ar/1564/video-de-la-mesa-redonda-en-siga-2011-sobre-el-canon-digital-noalcanon" target="_blank">En los comentarios de esta entrada pueden leer el debate.</a>
 
 Ante las críticas al proyecto de ley en el blog de<a href="http://www.bea.org.ar/2011/09/nacido-obsoleto/" target="_blank"> Beatriz Busaniche</a> Claudia Mercante avisa que el proyecto que se aprobó en comisión es diferente al que estaba archivado en el site de los músicos independientes,<a href="http://www.musicosconvocados.com/ley%20de%20la%20musica.pdf" target="_blank"> (archivo pdf)</a> .
 
@@ -123,7 +123,7 @@ Te mando un abrazo! Diego Boris"</div>
 
 <hr />
 
-Para ir "calentando los motores" el debate entre Claudia Mercante y varios navegantes en nuestro blog, <strong><a href="http://partidopirata.com.ar/1564/video-de-la-mesa-redonda-en-siga-2011-sobre-el-canon-digital-noalcanon">en los comentarios de esta entrada.</a></strong>
+Para ir "calentando los motores" el debate entre Claudia Mercante y varios navegantes en nuestro blog, <strong><a href="https://partidopirata.com.ar/1564/video-de-la-mesa-redonda-en-siga-2011-sobre-el-canon-digital-noalcanon">en los comentarios de esta entrada.</a></strong>
 
 &nbsp;
 

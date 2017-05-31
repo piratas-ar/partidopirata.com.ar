@@ -10,14 +10,14 @@ tags:
 - dilma-rousseff
 - drogas
 - guerra-a-las-drogas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/2476_WOD_1_460x230.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/2476_WOD_1_460x230-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/2476_WOD_1_460x230.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/2476_WOD_1_460x230-150x150.png
 wppost_name: brasil-solicitan-que-dilma-pare-la-guerra-a-las-drogas-en-la-cupula-de-cartagena-podemos-firmar
 ---
 
 <strong><a href="https://secure.avaaz.org/po/stop_the_war_on_drugs_po_c/" target="_blank">Para Firmar la Solicitud a Dilma</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/2476_WOD_1_460x230.png"><img class="aligncenter size-medium wp-image-3934" title="Guerra a las Drogas" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/2476_WOD_1_460x230-300x150.png" alt="" width="300" height="150" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/2476_WOD_1_460x230.png"><img class="aligncenter size-medium wp-image-3934" title="Guerra a las Drogas" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/2476_WOD_1_460x230-300x150.png" alt="" width="300" height="150" /></a>
 <strong>¿Y a Cristina?</strong>
 
 <strong>En 24 horas, la presidente de Brasil Dilma Rouseff podrá desempeñar un papel fundamental en el cambio de las políticas globales de drogas, de una perspectiva de guerra y represión para una de tratamiento y comprensión</strong>. Pero ella está en silencio en relación a la necesidad de abandonar la actual política catastrófica internacional y sólo nuestro enorme apoyo lo hará público.

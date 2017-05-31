@@ -13,8 +13,8 @@ tags:
 - takedown
 - torrentfreak
 - universal
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
 wppost_name: alex-cox-guionista-de-repo-man-mudar-los-sites-al-extranjero-para-acabar-con-los-reclamos-de-copyright
 ---
 
@@ -56,5 +56,5 @@ Por el momento myPDFScripts está sufriendo un poco de una crisis después que M
 
 <hr />
 
-Pero ya sabemos, según <a href="http://partidopirata.com.ar/4134/tito-cossa-no-decepciona-el-famoso-samba-de-solo-una-nota-ii"><strong>Tito Cossa y Argentores los autores viven de sus derechos</strong>, </a>sobre todo los guionistas, Argentores se preocupa más con Internet que con proteger a los guionistas de estas enormes corporaciones.
+Pero ya sabemos, según <a href="https://partidopirata.com.ar/4134/tito-cossa-no-decepciona-el-famoso-samba-de-solo-una-nota-ii"><strong>Tito Cossa y Argentores los autores viven de sus derechos</strong>, </a>sobre todo los guionistas, Argentores se preocupa más con Internet que con proteger a los guionistas de estas enormes corporaciones.
 Menos mal que en la Argentina no tenemos a monstruos como Universal..Sino con Tito ya tendríamos SOPA, PIPA y CISPA como panaceas.

@@ -6,8 +6,8 @@ tags:
 - material-para-difusion
 - extension-de-los-derechos-de-autor
 - the-economist
-image: http://partidopirata.com.ar/wp-content/uploads/2010/04/van_mal.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/van_mal-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/04/van_mal.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/04/van_mal-150x150.jpg
 wppost_name: los-derechos-de-autor-y-lo-incorrecto-the-economist
 ---
 

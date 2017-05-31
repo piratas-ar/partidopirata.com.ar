@@ -12,12 +12,12 @@ tags:
 - proyecto-x
 - sibios
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2014/02/11F.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/02/11F-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2014/02/11F.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/02/11F-150x150.png
 wppost_name: 11f-el-dia-que-nos-defendemos-de-la-vigilancia-masiva
 ---
 
-<strong>Nos encontramos el martes 11 de febrero a partir de las 17:30hs en el Obelisco! <a title="El día que nos defendemos de la vigilancia masiva" href="http://partidopirata.com.ar/events/el-dia-que-nos-defendemos-de-la-vigilancia-masiva/">Más información</a></strong>
+<strong>Nos encontramos el martes 11 de febrero a partir de las 17:30hs en el Obelisco! <a title="El día que nos defendemos de la vigilancia masiva" href="https://partidopirata.com.ar/events/el-dia-que-nos-defendemos-de-la-vigilancia-masiva/">Más información</a></strong>
 
 &nbsp;
 

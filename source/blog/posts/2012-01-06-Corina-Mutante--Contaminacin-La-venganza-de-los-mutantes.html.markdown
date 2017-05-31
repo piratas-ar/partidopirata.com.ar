@@ -12,12 +12,12 @@ tags:
 - multimedia
 - villa-corina
 - zombies
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/corina-589x441.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/corina-589x441-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/corina-589x441.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/corina-589x441-150x150.jpg
 wppost_name: corina-mutante-contaminacion-la-venganza-de-los-mutantes
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/corina-589x441.jpg"><img class="size-full wp-image-2740" title="corina-589x441" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/corina-589x441.jpg" alt="Corina Mutante" width="320" height="239" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/corina-589x441.jpg"><img class="size-full wp-image-2740" title="corina-589x441" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/corina-589x441.jpg" alt="Corina Mutante" width="320" height="239" /></a>
 
 
 Corina Mutante es una película de terror, humor, y a la vez pura realidad: la idearon los Vecinos de Villa Corina por un Futuro Mejor como un modo de denunciar la contaminación del Arroyo Sarandí, en Avellaneda, que genera toda clase de enfermedades y hasta malformaciones en los chicos y grandes.

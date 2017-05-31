@@ -11,8 +11,8 @@ tags:
 - torrentfreak
 - universidad-de-lund
 - vpn
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/communism-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/communism-150x150.jpg
 wppost_name: jovenes-que-comparten-archivos-le-responden-a-las-duras-leyes-mediante-la-compra-de-una-vpn-navegar-anonimo
 ---
 
@@ -26,7 +26,7 @@ En Suecia, los resultados de un intenso lobby son claras. Debido a una combinaci
 
 Sin embargo, según una nueva investigación del grupo de investigación <a href="http://cybernorms.net/">Cybernorms</a> de la Universidad de Lund en Suecia, una proporción creciente de la población del país está tomando medidas para paliar los efectos de espiar sus actividades online.
 
-El estudio revela que 700.000 suecos ahora están en línea anónimamente pagando los<a href="http://partidopirata.com.ar/3869/mpaa-riaa-para-aumentaran-los-ingresos-de-cyberlocker-y-vpn"> servicios de VPN,</a> como iPredator de The Pirate Bay.
+El estudio revela que 700.000 suecos ahora están en línea anónimamente pagando los<a href="https://partidopirata.com.ar/3869/mpaa-riaa-para-aumentaran-los-ingresos-de-cyberlocker-y-vpn"> servicios de VPN,</a> como iPredator de The Pirate Bay.
 
 Un estudio similar realizado en 2009 reveló que 500.000 suecos estaban tomando medidas para anonimizar sus conexiones. Los resultados de hoy por lo tanto, revelan un aumento del 40% en los servicios que garantizan la privacidad del servicio en alrededor de 2,5 años.
 

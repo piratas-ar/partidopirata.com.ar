@@ -14,12 +14,12 @@ tags:
 - intercambio
 - programas-de-afiliados
 - suspension
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif
 wppost_name: efecto-megaupload-filesonic-suspende-la-funcion-para-compartir-archivos-y-fileserve-su-programa-de-afiliados
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif"><img class="size-full wp-image-2899 alignleft" title="stop_error" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif" alt="Stop" width="35" height="35" /></a>    <strong><span style="color: red; font-size: large;">File not available</span></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif"><img class="size-full wp-image-2899 alignleft" title="stop_error" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif" alt="Stop" width="35" height="35" /></a>    <strong><span style="color: red; font-size: large;">File not available</span></strong>
 
 <strong><a href="http://lists.partidopirata.com.ar/pipermail/general-partidopirata.com.ar/2012-January/014483.html" target="_blank">Enviado por Alejo a nuestra lista de correo.</a></strong>
 
@@ -50,8 +50,8 @@ Supongo que habrá que volver al viejo P2P lo importante, si compartimos algo v�
 Cuando charlamos con Eric Walter oficial Hadopi en Francia nos comentó que las sociedades de gestión francesas, las SADAIC, ARGENTORES, CAPIF , francesas vigilan lo que se intercambia vía P2P, cuando encuentran algo que esté en sus bases de datos como que ellos gestionan, copian la dirección IP (lo que nos identifica al navegar en la web) y solicitan que se les de la información del usuario, su nombre, apellido, dirección etc. para mandarles una notificación.
 Con la tercera notificación puede llegar una suspensión del servicio y una multa.
 <p style="text-align: center;"><strong>Así que lo importante es saber cómo resguardar nuestra privacidad si usamos programas P2P (Ares, Emule, BitTorrent son programas P2P).</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Si quieren escuchar el podcast sobre Hadopi</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/contacto">Si alguien tiene un tutorial sobre privacidad usando redes P2P avísennos por favor!</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Si quieren escuchar el podcast sobre Hadopi</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/contacto">Si alguien tiene un tutorial sobre privacidad usando redes P2P avísennos por favor!</a></strong></p>
 <p style="text-align: center;"><strong>O envíennos un e-mail a:</strong></p>
 <p style="text-align: center;"><strong>Ppirataargentino#gmail.com</strong>
 <strong> (reemplace # por @)</strong></p>

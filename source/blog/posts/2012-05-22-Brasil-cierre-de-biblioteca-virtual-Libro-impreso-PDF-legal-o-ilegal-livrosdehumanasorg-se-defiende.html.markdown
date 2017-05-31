@@ -11,14 +11,14 @@ tags:
 - derechos-reprograficos
 - material-para-difusion
 - livrosdehumanas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1-150x150.jpg
 wppost_name: brasil-cierre-de-biblioteca-virtual-libro-impreso-pdf-legal-o-ilegal-livrosdehumanas-org-se-defiende
 ---
 
 <strong><a href="http://livrosetc.blogfolha.uol.com.br/2012/05/21/livro-impresso-pdf-legal-ou-ilegal-livrosdehumanas-se-defende/" target="_blank">Fuente Livrosetc.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1.jpg"><img class="size-medium wp-image-4549" title="oldbook1" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1-300x195.jpg" alt="" width="300" height="195" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1.jpg"><img class="size-medium wp-image-4549" title="oldbook1" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/oldbook1-300x195.jpg" alt="" width="300" height="195" /></a>
 
 
 POR Joselia Aguiar
@@ -67,4 +67,4 @@ Eduardo Viveiros de Castro, Idelber Avelar y otros ivestigadores salen en defens
 
 <hr />
 <p style="text-align: center;">El Hashtag en Twitter es #FreeLivrosdeHumanas</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4635/brasil-en-defensa-de-una-biblioteca-virtual-caso-livrosdehumanas">Artículo en O Globo sobre el cierre del site Livros de Humanas</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4635/brasil-en-defensa-de-una-biblioteca-virtual-caso-livrosdehumanas">Artículo en O Globo sobre el cierre del site Livros de Humanas</a></strong></p>

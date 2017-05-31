@@ -10,8 +10,8 @@ tags:
 - video-viral
 - multimedia
 - virus
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/meme-kony.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/meme-kony-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/meme-kony.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/meme-kony-150x150.jpg
 wppost_name: rap-news-kony-2012-para-entender-un-poco-mas-el-famoso-video-viral
 ---
 

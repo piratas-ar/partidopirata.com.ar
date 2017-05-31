@@ -9,8 +9,8 @@ tags:
 - mpaa
 - noticias
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/860327_53728466-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/860327_53728466-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/860327_53728466-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/860327_53728466-646x363-150x150.jpg
 wppost_name: locura-de-la-industria-del-copyright-toma-seis-anos-para-ponerse-al-dia-con-su-peor-satira
 ---
 

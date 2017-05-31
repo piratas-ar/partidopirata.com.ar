@@ -8,8 +8,8 @@ tags:
 - proveedores-de-internet
 - torrenfreak
 - vigillando
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: planificacion-de-castigos-a-usuarios-de-bittorrent-genera-protestas-proveedores-de-internet-como-policias-del-copyright
 ---
 
@@ -55,6 +55,6 @@ En la medida que nos acercamos a la fecha límite de julio más detalles deben s
 </strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3510/lobbysta-de-la-riaa-discograficas-de-usa-los-isp-seran-los-policias-del-derechos-de-autor-a-partir-del-12-de-julio">Sobre el control a través de los proveedores de Internet en USA a partir del 12 de Julio.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3510/lobbysta-de-la-riaa-discograficas-de-usa-los-isp-seran-los-policias-del-derechos-de-autor-a-partir-del-12-de-julio">Sobre el control a través de los proveedores de Internet en USA a partir del 12 de Julio.</a></strong></p>
 <p style="text-align: center;"><strong>
 Estemos atentos, no sería extraño que en la Argentina vinieran con un planteo similar!</strong></p>

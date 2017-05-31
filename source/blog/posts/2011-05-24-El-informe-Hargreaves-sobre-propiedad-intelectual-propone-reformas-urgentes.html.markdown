@@ -6,12 +6,12 @@ tags:
 - limites-al-copyright
 - manzana-mecanica
 - divulgacion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg
 wppost_name: el-informe-hargreaves-sobre-propiedad-intelectual-propone-reformas-urgentes
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg"><img class="aligncenter size-full wp-image-1041" title="Manzana Mecánica" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg" alt="" width="160" height="267" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg"><img class="aligncenter size-full wp-image-1041" title="Manzana Mecánica" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg" alt="" width="160" height="267" /></a>
 
 <strong><a href="http://manzanamecanica.org/2011/05/el_informe_hargreaves_sobre_propiedad_intelectual_propone_reformas_urgentes.html" target="_blank">Fuente "La Manzana Mecánica"</a></strong>
 
@@ -30,7 +30,7 @@ El Informe Hargreaves incluye una serie de recomendaciones urgentes  en materia 
 
 <hr />
 
-Menos mal que en algunos lugares está empezando a surgir algo de cordura!!!, sabemos que en la Argentina  mucho no importa, que para nuestro<strong><a href="http://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor" target="_blank"> Secretario de Cultura hace falta un Canon Digital</a> </strong>o que para<strong><a href="http://partido-pirata.blogspot.com/2011/04/los-perseguidores.html" target="_blank"> Cristina Kirchner la ley  de derecho de autor es una <em>Ley Justa </em>.</a></strong> De la oposición mucho no se meten por si le deben algún favor a los medios....
+Menos mal que en algunos lugares está empezando a surgir algo de cordura!!!, sabemos que en la Argentina  mucho no importa, que para nuestro<strong><a href="https://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor" target="_blank"> Secretario de Cultura hace falta un Canon Digital</a> </strong>o que para<strong><a href="http://partido-pirata.blogspot.com/2011/04/los-perseguidores.html" target="_blank"> Cristina Kirchner la ley  de derecho de autor es una <em>Ley Justa </em>.</a></strong> De la oposición mucho no se meten por si le deben algún favor a los medios....
 Pero todos tenemos que pensar y , sobre todo, luchar.
 
 &nbsp;

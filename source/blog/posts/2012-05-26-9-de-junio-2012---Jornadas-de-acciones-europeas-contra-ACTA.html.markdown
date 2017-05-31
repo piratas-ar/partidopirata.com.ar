@@ -7,8 +7,8 @@ tags:
 - material-para-difusion
 - paremos-el-acta
 - stop-acta
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion-150x150.jpg
 wppost_name: 9-de-junio-2012-jornadas-de-acciones-europeas-contra-acta
 ---
 

@@ -8,8 +8,8 @@ tags:
 - bicicletas
 - bike-anjo
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/bike-anjo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/bike-anjo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/bike-anjo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/bike-anjo-150x150.jpg
 wppost_name: bike-angeles-ayudan-al-ciclista-iniciante-a-enfrentar-el-transito
 ---
 

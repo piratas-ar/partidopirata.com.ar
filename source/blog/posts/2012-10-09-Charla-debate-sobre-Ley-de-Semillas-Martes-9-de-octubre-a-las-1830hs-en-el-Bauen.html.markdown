@@ -9,8 +9,8 @@ tags:
 - hotel-bauen
 - ley-de-semillas
 - ley-monsanto
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas-150x150.jpeg
 wppost_name: charla-debate-sobre-ley-de-semillas-martes-9-de-octubre-a-las-1830hs-en-el-bauen
 ---
 
@@ -36,5 +36,5 @@ Cordialmente</pre>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg"><img class="size-full wp-image-6778" title="Charla-debate sobre Ley de Semillas" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg" alt="" width="1024" height="287" /></a> Charla-debate sobre Ley de Semillas
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg"><img class="size-full wp-image-6778" title="Charla-debate sobre Ley de Semillas" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/Fwd_-MNCI.-Charla-debate-sobre-Ley-de-Semillas.jpeg" alt="" width="1024" height="287" /></a> Charla-debate sobre Ley de Semillas
 

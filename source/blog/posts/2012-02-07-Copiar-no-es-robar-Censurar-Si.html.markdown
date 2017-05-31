@@ -10,15 +10,15 @@ tags:
 - copias-de-respaldo
 - material-para-difusion
 - robar
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block-150x150.jpg
 wppost_name: copiar-no-es-robar-censurar-si
 ---
 
 <strong><a href="http://www.techdirt.com/articles/20120129/03171517578/copying-is-not-theft-censorship-is.shtml" target="_blank">Fuente Techdirt.</a></strong>
 Por Crazy dept
 
-Esta mañana un amigo compartió conmigo algunos videos divertidos sobre lenguaje de señas estadounidense, a cambio quise compartir con él mi video favorito del Lenguaje de Señas Estadounidsne [LSE] de todos los tiempos: la interpretación de B. Storm. de la canción Crazy de Gnarls Barkley. Sólo que no podía porque se había ido. ¿Por qué? Debido a que "Este vídeo incluye contenido de WMG (Warner Music Group), que lo ha bloqueado por motivos de derechos de autor." Esto es terrible, por muchas razones, el no menos importante es que el video casi seguro se encuadra en uso justo<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block.jpg"><img class="aligncenter size-full wp-image-3101" title="Youtube Censurado" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block.jpg" alt="" width="640" height="388" /></a>.
+Esta mañana un amigo compartió conmigo algunos videos divertidos sobre lenguaje de señas estadounidense, a cambio quise compartir con él mi video favorito del Lenguaje de Señas Estadounidsne [LSE] de todos los tiempos: la interpretación de B. Storm. de la canción Crazy de Gnarls Barkley. Sólo que no podía porque se había ido. ¿Por qué? Debido a que "Este vídeo incluye contenido de WMG (Warner Music Group), que lo ha bloqueado por motivos de derechos de autor." Esto es terrible, por muchas razones, el no menos importante es que el video casi seguro se encuadra en uso justo<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block.jpg"><img class="aligncenter size-full wp-image-3101" title="Youtube Censurado" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block.jpg" alt="" width="640" height="388" /></a>.
 
 Copiar no es robar, pero censurar si. Cuando un video es bloqueado, prohibido, borrado, o censurado de cualquier forma, no lo tenemos más. El bien común es robado. Cuando B. Storm copió la canción Crazy en su vídeo, las copias de WMG todavía estaban allí. Cuando WMG censuró el video de B. Storm , ya se había ido.
 

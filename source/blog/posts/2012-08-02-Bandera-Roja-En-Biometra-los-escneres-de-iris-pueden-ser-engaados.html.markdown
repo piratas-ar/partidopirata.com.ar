@@ -9,8 +9,8 @@ tags:
 - identificacion
 - iris
 - reconocimiento-del-iris
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano-150x150.jpg
 wppost_name: bandera-roja-en-biometria-los-escaneres-de-iris-pueden-ser-enganados
 ---
 

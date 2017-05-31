@@ -10,8 +10,8 @@ tags:
 - marcelo-birmajer
 - responsabilidad-penal
 - sitios-webs
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-150x150.png
 wppost_name: x-jornada-de-derecho-de-autor-en-el-mundo-editorial-en-la-feria-del-libro-de-buenos-aires
 ---
 
@@ -43,7 +43,7 @@ Y sigue con:
 Moderador: Dr. Gerardo Filippelli.
 <ul>
 	<li> Sr. Marcelo Birmajer.</li>
-	<li> Lic. <strong><a href="http://partidopirata.com.ar/3807/un-extrano-en-el-nido-octavio-kulesz-en-las-jornadas-de-derecho-de-autor-en-el-mundo-editorial">Octavio Kulesz</a></strong>.</li>
+	<li> Lic. <strong><a href="https://partidopirata.com.ar/3807/un-extrano-en-el-nido-octavio-kulesz-en-las-jornadas-de-derecho-de-autor-en-el-mundo-editorial">Octavio Kulesz</a></strong>.</li>
 </ul>
 Birjmaer es el que salió a decir que estaba de acuerdo con SOPA:
 
@@ -54,7 +54,7 @@ Birmajer tampoco ahorra <em>mentiras</em>, incluso rudimentarias, para sostener 
 <p style="text-align: center;">Queda claro quienes son algunos de los expositores y que dirán....</p>
 <p style="text-align: center;">Lástima que del rob... digo del Canon por Fotocopiadoras de las diferentes universidades no dirán nada..</p>
 <p style="text-align: center;"><strong>Si alguien quiere buscar el Pedigree de los otros panelistas...</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3807/un-extrano-en-el-nido-octavio-kulesz-en-las-jornadas-de-derecho-de-autor-en-el-mundo-editorial">No todos <em>Talibanes</em> el caso de Octavio Kulesz</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3807/un-extrano-en-el-nido-octavio-kulesz-en-las-jornadas-de-derecho-de-autor-en-el-mundo-editorial">No todos <em>Talibanes</em> el caso de Octavio Kulesz</a></strong></p>
 <p style="text-align: center;"><strong><a href="http://www.cadra.org.ar/upload/Afiche_Jornada_2012.pdf" target="_blank">Acá está el afiche con el anuncio de las <em>Jornadas</em> </a> es un archivo pdf.</strong></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><strong><a href="../4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">Nuestros Volantes de la Feria del Libro para descargar y repartir en ella.</a></strong></p>
@@ -62,5 +62,5 @@ Birmajer tampoco ahorra <em>mentiras</em>, incluso rudimentarias, para sostener 
 
 <hr />
 <p style="text-align: center;"><strong>Cliqueando en la imagen la verán de un tamaño mayor:</strong></p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png"><img class="alignleft &lt;size-full wp-image-2180" title="infocadra_baja_64" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png" alt="Información sobre el acuerdo CADRA- Universidades" width="1474" height="1046" /></a></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3898/el-famoso-samba-de-una-sola-nota-antes-cadra-ahora-argentores-en-la-feria-del-libro">Más lobby en la Feria del Libro, esta vez Argentores.</a></strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png"><img class="alignleft &lt;size-full wp-image-2180" title="infocadra_baja_64" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png" alt="Información sobre el acuerdo CADRA- Universidades" width="1474" height="1046" /></a></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3898/el-famoso-samba-de-una-sola-nota-antes-cadra-ahora-argentores-en-la-feria-del-libro">Más lobby en la Feria del Libro, esta vez Argentores.</a></strong></p>

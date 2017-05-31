@@ -9,8 +9,8 @@ tags:
 - diario
 - objetivos
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg-150x150.png
 wppost_name: podcast-con-un-periodista-de-un-diario-del-conurbano-bonaerense
 ---
 

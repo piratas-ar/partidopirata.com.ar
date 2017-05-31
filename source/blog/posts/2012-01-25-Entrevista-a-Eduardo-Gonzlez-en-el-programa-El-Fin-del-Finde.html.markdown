@@ -9,8 +9,8 @@ tags:
 - pipa
 - radio-2
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/LOGO.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/LOGO-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/LOGO.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/LOGO-115x115.jpg
 wppost_name: entrevista-a-eduardo-gonzalez-en-el-programa-el-fin-del-finde
 ---
 

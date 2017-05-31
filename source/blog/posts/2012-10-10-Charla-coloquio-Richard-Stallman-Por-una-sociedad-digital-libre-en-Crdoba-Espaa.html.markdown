@@ -9,8 +9,8 @@ tags:
 - cordoba
 - material-para-difusion
 - stallman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/stallman-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/stallman-150x150.png
 wppost_name: charla-coloquio-richard-stallman-por-una-sociedad-digital-libre-en-cordoba-espana
 ---
 
@@ -18,7 +18,7 @@ wppost_name: charla-coloquio-richard-stallman-por-una-sociedad-digital-libre-en-
 <strong><a href="http://www.ivoox.com/conferencia-richard-stallman-por-sociedad-digital-libre_md_1486086_1.mp3" target="_blank">Si quieren descargar el audio de la charla-coloquio</a></strong></center><center>
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/conferencia-richard-stallman-por-sociedad-digital-libre-audios-mp3_rf_1486086_1.html" target="_blank">este enlace.</a></strong></center>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart2.png"><img class="size-full wp-image-6798" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo de audio.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart2.png"><img class="size-full wp-image-6798" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo de audio.
 
 
 <hr />

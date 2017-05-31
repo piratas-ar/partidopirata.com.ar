@@ -10,8 +10,8 @@ tags:
 - sala-alberdi
 - sustentabilidad-de-la-mineria
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/elalgarrobo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/elalgarrobo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/elalgarrobo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/elalgarrobo-150x150.jpg
 wppost_name: pantalla-para-los-pueblos-cine-debate-en-sala-alberdi
 ---
 

@@ -11,8 +11,8 @@ tags:
 - ley-patriotica
 - nsl
 - patriotic-act
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/google_nsl.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/google_nsl-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/google_nsl.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/google_nsl-150x150.png
 wppost_name: informe-de-transparencia-de-google-destaca-lo-mucho-que-no-sabemos-sobre-los-pedidos-de-informacion-del-fbi
 ---
 
@@ -22,7 +22,7 @@ En una victoria sin precedentes para la transparencia,  Google aye comenzó <a 
 
 Google ha abierto el camino entre las grandes empresas en la prestación de transparencia con respecto a las solicitudes legales y de derecho con su <a href="https://www.google.com/transparencyreport/">informe de transparencia</a>, pero hasta ahora, siempre ha dejado las solicitudes NSL de su cifra de solicitudes de datos de usuario, en parte, probablemente, debido a la preocupación por la orden de silencio que las acompaña. Con la inclusión de estos datos, incluso de una manera general que sólo nos dice que Google ha recibido en algún punto entre 0 y 999 NSL en 2012, Google ha ayudado al menos a arrojar algo de limitada luz sobre las formas en que el gobierno de EE.UU. utiliza estas demandas secretas de datos acerca de los usuarios.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/google_nsl.png"><img class="aligncenter size-full wp-image-8696" alt="google_nsl" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/google_nsl.png" width="831" height="298" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/google_nsl.png"><img class="aligncenter size-full wp-image-8696" alt="google_nsl" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/google_nsl.png" width="831" height="298" /></a>
 
 Por ley, NSL sólo se puede utilizar para obtener información "relevante" para ciertas investigaciones de seguridad nacional y sólo después de obtener los datos de transacciones de usuario - Datos de abonado y la información como desde qué cuenta de usuario se comunica y con quien - en lugar de contenido generado por usuarios tales como correos electrónicos. Sin embargo, el proceso de NSL sufre de una falta inherente de los controles que permitan frenar el abuso, tales como cualquier tipo de revisión judicial significativa. Los abusos del FBI de este poder han sido documentados tanto por una serie de mandatos del Congreso por las investigaciones del  <a href="http://www.justice.gov/oig/special/s0703b/final.pdf">Departmento</a> de <a href="http://www.justice.gov/oig/special/s0803b/final.pdf">Justicia e</a> <a href="http://www.justice.gov/oig/special/s1001r.pdf">investigación</a> y en los <a href="https://www.eff.org/issues/foia/07656JDB">documentos obenodos por la EFF</a> a través de una solicitud de la ley de Libertad de Información. Sin embargo, sólo hay un puñado de pleitos (incluyendo a la <a href="https://www.eff.org/deeplinks/2012/07/eff-challenges-national-security-letter-statute-landmark-lawsuit">EFF</a>) desafiando la autoridad subyacente del FBI para emitir tales demandas de información, a pesar de los cientos de miles de NSL que se han emitido en la última década.
 

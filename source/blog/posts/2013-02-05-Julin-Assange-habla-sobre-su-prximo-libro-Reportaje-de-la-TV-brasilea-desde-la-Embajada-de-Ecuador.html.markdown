@@ -12,8 +12,8 @@ tags:
 - multimedia
 - vigilancia-generalizada
 - vigilancia-masiva
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600-150x150.jpg
 wppost_name: julian-assange-habla-sobre-su-proximo-libro-reportaje-de-la-tv-brasilena-desde-la-embajada-de-ecuador
 ---
 
@@ -30,7 +30,7 @@ wppost_name: julian-assange-habla-sobre-su-proximo-libro-reportaje-de-la-tv-bras
 
 <hr />
 <p style="text-align: center;"><strong>En el reportaje presenta a su libro Criptopunks que escribió junto con Jacob Appelbaum, Andy Müller-Maguhn, Jeremie Zimmerman.</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/7963/el-mundo-manana-criptopunks" target="_blank">Assange les dedicó´uno de sus programas "El Mundo Mañana" a ellos que pueden ver con subtítulos en castellano en nuestro blog.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/7963/el-mundo-manana-criptopunks" target="_blank">Assange les dedicó´uno de sus programas "El Mundo Mañana" a ellos que pueden ver con subtítulos en castellano en nuestro blog.</a></strong></p>
 <p style="text-align: center;">Assange habla sobre vigilancia masiva, los cuatro jinetes del <em>Infoapocalipsis :</em></p>
 
 <ul>

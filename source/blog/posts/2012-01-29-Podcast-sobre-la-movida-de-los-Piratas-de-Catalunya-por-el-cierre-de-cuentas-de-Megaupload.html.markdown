@@ -8,8 +8,8 @@ tags:
 - megaupload-catalunya
 - piratas-de-catalunya
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
 wppost_name: podcast-sobre-la-movida-de-los-piratas-de-catalunya-por-el-cierre-de-cuentas-de-megaupload
 ---
 

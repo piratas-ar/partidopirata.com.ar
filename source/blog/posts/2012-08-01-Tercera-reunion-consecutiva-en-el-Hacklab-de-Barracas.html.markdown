@@ -7,8 +7,8 @@ tags:
 - biblioteca-de-barracas
 - cultura-libre
 - piratas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/hacklab8.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/hacklab8-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/hacklab8.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/hacklab8-150x150.png
 wppost_name: tercera-reunion-consecutiva-en-el-hacklab-de-barracas
 ---
 
@@ -65,4 +65,4 @@ Los esperamos!
 [2]http://lab.hackcoop.com.ar/projects/juan-carlos-radio/wiki
 [3]http://lab.hackcoop.com.ar/projects/librevpn/wiki/Wiki</pre>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/hacklab8.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/08/hacklab8.png" alt="" title="hacklab8" width="497" height="373" class="aligncenter size-full wp-image-5655" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/hacklab8.png"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/08/hacklab8.png" alt="" title="hacklab8" width="497" height="373" class="aligncenter size-full wp-image-5655" /></a>

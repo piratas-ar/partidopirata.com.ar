@@ -14,12 +14,12 @@ tags:
 - libros-divulgacion
 - manual
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty-150x150.png
 wppost_name: ya-esta-disponible-para-descargar-el-manual-de-la-cryptoparty-en-espanol
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png" alt="Logo de la Cryptoparty" width="300" height="157" class="size-full wp-image-9104" /></a> Logo de la Cryptoparty
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png"><img src="https://partidopirata.com.ar/wp-content/uploads/2013/04/cryptoparty.png" alt="Logo de la Cryptoparty" width="300" height="157" class="size-full wp-image-9104" /></a> Logo de la Cryptoparty
 
 
 ¿Qué es una CryptoParty?

@@ -9,8 +9,8 @@ tags:
 - partido-pirata-aleman
 - piratenpartei
 - sarre
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/Piraten-Partei-Flagge-Logo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/Piraten-Partei-Flagge-Logo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/Piraten-Partei-Flagge-Logo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/Piraten-Partei-Flagge-Logo-150x150.jpg
 wppost_name: manana-25-de-marzo-alemania-vota-a-piratas-de-nuevo
 ---
 

@@ -10,12 +10,12 @@ tags:
 - teatro
 - teatro-san-martin
 - toma
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/FLYER-BACK.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/FLYER-BACK-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/FLYER-BACK.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/FLYER-BACK-150x150.jpg
 wppost_name: arrancan-los-talleres-en-la-sala-alberdi
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/FLYER-BACK.jpg"><img class="alignleft  wp-image-3540" title="Talleres en la Sala Alberdi" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/FLYER-BACK.jpg" alt="" width="642" height="453" /></a> Click en el horario para verlo de un tamaña mayor.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/FLYER-BACK.jpg"><img class="alignleft  wp-image-3540" title="Talleres en la Sala Alberdi" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/FLYER-BACK.jpg" alt="" width="642" height="453" /></a> Click en el horario para verlo de un tamaña mayor.
 
 <hr />
 <p style="text-align: center;"><strong>Arrancan los</strong></p>

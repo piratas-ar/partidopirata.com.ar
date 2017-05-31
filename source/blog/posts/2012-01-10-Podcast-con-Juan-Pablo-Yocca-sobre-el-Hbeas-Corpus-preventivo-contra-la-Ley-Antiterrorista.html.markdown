@@ -11,8 +11,8 @@ tags:
 - podcasts
 - terror
 - tucuman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata-150x150.png
 wppost_name: podcast-con-juan-pablo-yocca-sobre-el-habeas-corpus-preventivo-contra-la-ley-antiterrorista
 ---
 

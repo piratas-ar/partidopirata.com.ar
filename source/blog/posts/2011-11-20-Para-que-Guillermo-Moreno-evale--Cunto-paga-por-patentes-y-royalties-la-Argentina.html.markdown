@@ -18,9 +18,9 @@ thumb:
 wppost_name: para-que-guillermo-moreno-evalue-%c2%bfcuanto-paga-por-patentes-y-royalties-la-argentina
 ---
 
-http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg<img class="aligncenter" title="Guillermo Moreno - Secretario de Comercio" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg" alt="" width="468" height="320" />
+https://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg<img class="aligncenter" title="Guillermo Moreno - Secretario de Comercio" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg" alt="" width="468" height="320" />
 
-Ahora que  <a href="http://partidopirata.com.ar/2359/%C2%BFun-llamado-a-la-pirateria-si-se-traba-la-entrada-de-peliculas-extranjeras">Guillermo Moreno está preocupado con las películas y libros</a> que ingresan al país por la salida de dólares que implican.
+Ahora que  <a href="https://partidopirata.com.ar/2359/%C2%BFun-llamado-a-la-pirateria-si-se-traba-la-entrada-de-peliculas-extranjeras">Guillermo Moreno está preocupado con las películas y libros</a> que ingresan al país por la salida de dólares que implican.
 
 Tal vez debería preguntarse ¿Cuánto paga por patentes y royalties la Argentina?:
 

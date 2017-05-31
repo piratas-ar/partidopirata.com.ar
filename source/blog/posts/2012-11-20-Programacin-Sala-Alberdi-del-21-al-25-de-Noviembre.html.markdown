@@ -6,12 +6,12 @@ tags:
 - centro-cultural-general-san-martin
 - material-para-difusion
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/semananoviembre2125.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/semananoviembre2125-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/semananoviembre2125.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/semananoviembre2125-150x150.jpg
 wppost_name: programacion-sala-alberdi-del-21-al-25-de-noviembre
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/semananoviembre2125.jpg"><img class="aligncenter size-large wp-image-7497" title="Web" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/semananoviembre2125-1024x401.jpg" alt="" width="620" height="242" />Click para agrandar</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/semananoviembre2125.jpg"><img class="aligncenter size-large wp-image-7497" title="Web" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/semananoviembre2125-1024x401.jpg" alt="" width="620" height="242" />Click para agrandar</a>
 
 <hr />
 

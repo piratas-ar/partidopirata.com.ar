@@ -9,8 +9,8 @@ tags:
 - libros-universitarios
 - portal-de-libros-universitarios
 - rodolfo-hamawi
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/escritores-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/escritores-150x150.jpg
 wppost_name: de-que-no-viven-los-escritores-hoy-escritores-de-libros-universitarios
 ---
 
@@ -44,7 +44,7 @@ Otras entradas sobre <strong>De que no viven los escritores</strong>
 
 <hr />
 
-Sobre los libros universitarios, lo que comentaba <strong><a href="http://partidopirata.com.ar/3952/brasil-debate-por-la-liberacion-de-textos-universitarios-universidad-de-san-pablo">Pablo Ortellado</a></strong> de Brasil.:
+Sobre los libros universitarios, lo que comentaba <strong><a href="https://partidopirata.com.ar/3952/brasil-debate-por-la-liberacion-de-textos-universitarios-universidad-de-san-pablo">Pablo Ortellado</a></strong> de Brasil.:
 
 Creo que deberíamos liberar [la copia] sin pago de derechos de autor para fines didácticos, porque esos contenidos ya fueron pagados! Precisamos de una ley que permita, hoy, que los libros que ya están en circulación sean copiados para fines no comerciales – no estoy hablando de ganar dinero, para hacer ediciones piratas. Estoy hablando que yo escanee un libro y dárselo a mis alumnos sin pagarle derechos al autor porque ya pagamos por esos libros.
 
@@ -53,6 +53,6 @@ Creo que deberíamos liberar [la copia] sin pago de derechos de autor para fines
 
 <strong>JC: Entonce, siguiendo su lógica, las obras deberian ser abiertas..</strong>
 <strong> PO:</strong> Si, porque ya pagamos por eso! ¿Por qué deberíamos comprar ese contenido si ya fue pagado [por nosotros]? La parte más cara de elaborar el libro no es la manufactura, ni la publicación, ni la impresión. La parte más cara es la investigación científica.
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3952/brasil-debate-por-la-liberacion-de-textos-universitarios-universidad-de-san-pablo">Si quieren leer toda la entrevista con Pablo Ortellado</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4134/tito-cossa-no-decepciona-el-famoso-samba-de-solo-una-nota-ii">Tal vez habría que avisarle a Tito Cossa que los autores, muchos de ellos, no viven de sus derechos de autor</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3952/brasil-debate-por-la-liberacion-de-textos-universitarios-universidad-de-san-pablo">Si quieren leer toda la entrevista con Pablo Ortellado</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4134/tito-cossa-no-decepciona-el-famoso-samba-de-solo-una-nota-ii">Tal vez habría que avisarle a Tito Cossa que los autores, muchos de ellos, no viven de sus derechos de autor</a></strong></p>
 <p style="text-align: center;"><strong>Mientras tanto si quieren pueden volantear, dejar pegados en la Feria <a href="../4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">algunos de nuestros volantes.</a></strong></p>

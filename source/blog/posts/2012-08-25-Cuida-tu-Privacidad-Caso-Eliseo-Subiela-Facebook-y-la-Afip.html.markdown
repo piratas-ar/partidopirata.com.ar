@@ -8,8 +8,8 @@ tags:
 - facebook
 - intimidad
 - plataformas-sociales
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: cuida-tu-privacidad-caso-eliseo-subiela-facebook-y-la-afip
 ---
 

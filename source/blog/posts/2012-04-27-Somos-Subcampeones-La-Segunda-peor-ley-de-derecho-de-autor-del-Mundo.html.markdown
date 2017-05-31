@@ -9,12 +9,12 @@ tags:
 - podcasts
 - segunda-peor-ley
 - watchip
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164-150x150.jpg
 wppost_name: somos-subcampeones-la-segunda-peor-ley-de-derecho-de-autor-del-mundo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg"><img class=" wp-image-4236 " title="watchlist1-300x164" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg" alt="" width="257" height="140" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg"><img class=" wp-image-4236 " title="watchlist1-300x164" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg" alt="" width="257" height="140" /></a>
 
 
 Nuestro país permanece en la lista de los peores en acceso a la información, según Consumers International.
@@ -27,7 +27,7 @@ CI evalúa ítems como acceso a la cultura, excepciones y limitaciones para uso 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist2.jpg"><img class="size-large wp-image-4237" title="watchlist2" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist2-1024x675.jpg" alt="" width="620" height="408" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist2.jpg"><img class="size-large wp-image-4237" title="watchlist2" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist2-1024x675.jpg" alt="" width="620" height="408" /></a>
 
 
 Argentina recibió las peores notas según la duración del copyright y en la libertad de acceso y uso privado, educativo y en bibliotecas.
@@ -38,7 +38,7 @@ La ONG divulga lo que considera buenas prácticas, como el uso de alternativas a
 <p style="text-align: center;"><strong><a href="http://www.fundacionambio.org/media_files/download/IPWatchlist-2012-SPAN.pdf">Todo el informe en PDF.</a></strong></p>
 <p style="text-align: center;"><strong><a href="https://twitter.com/@tuiteamelo" target="_blank">Gracias a Juan por avisarnos de la versión en español.</a></strong></p>
 <p style="text-align: center;"><strong> <a href="http://blogs.estadao.com.br/tatiana-dias/brasil-tem-a-5a-pior-lei-autoral-do-mundo/" target="_blank">Basado en un artículo de Tatiana de Mello Dias</a>
-<a href="http://partidopirata.com.ar/4252/lo-que-dice-el-informe-de-ipwatchlist-donde-somos-los-segundos-peores-ya-seremos-los-peores">Algunas apreciaciones sobre el informe</a></strong></p>
+<a href="https://partidopirata.com.ar/4252/lo-que-dice-el-informe-de-ipwatchlist-donde-somos-los-segundos-peores-ya-seremos-los-peores">Algunas apreciaciones sobre el informe</a></strong></p>
 
 
 <hr />

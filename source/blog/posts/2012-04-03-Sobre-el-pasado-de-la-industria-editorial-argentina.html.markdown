@@ -9,8 +9,8 @@ tags:
 - historia-editorial
 - impresion-de-libros
 - libros
-image: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros-150x150.jpg
 wppost_name: sobre-el-pasado-de-la-industria-editorial-argentina
 ---
 

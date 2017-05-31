@@ -8,12 +8,12 @@ tags:
 - menores
 - peligro
 - voto-a-menores
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/index.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/index-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/index.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/index-150x150.jpg
 wppost_name: sobre-el-voto-a-menores-y-el-trato-que-reciben-algunos
 ---
 
-En esta entrada <a href="http://partidopirata.com.ar/6294/sobre-el-voto-optativo-a-partir-de-los-16-anos">había dejado mi opinión (no la de todos)</a> sobre los riesgos que podría haber si se confunde el voto optativo para menores de 16 años con tratarlos como adultos.
+En esta entrada <a href="https://partidopirata.com.ar/6294/sobre-el-voto-optativo-a-partir-de-los-16-anos">había dejado mi opinión (no la de todos)</a> sobre los riesgos que podría haber si se confunde el voto optativo para menores de 16 años con tratarlos como adultos.
 
 Hoy leo estas dos noticias:
 

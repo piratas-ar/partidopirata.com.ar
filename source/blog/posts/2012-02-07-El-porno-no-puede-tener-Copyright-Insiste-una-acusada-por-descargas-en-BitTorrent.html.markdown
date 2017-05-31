@@ -9,12 +9,12 @@ tags:
 - material-para-difusion
 - pornografia
 - trolls-del-copyright
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/pirates-pron.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/pirates-pron-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/pirates-pron.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/pirates-pron-150x150.jpg
 wppost_name: el-porno-no-puede-tener-copyright-insiste-una-acusada-por-descargas-en-bittorrent
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/pirates-pron.jpg"><img class="aligncenter size-full wp-image-3091" title="Porno Pirata" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/pirates-pron.jpg" alt="" width="200" height="185" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/pirates-pron.jpg"><img class="aligncenter size-full wp-image-3091" title="Porno Pirata" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/pirates-pron.jpg" alt="" width="200" height="185" /></a>
 <strong><a href="https://torrentfreak.com/you-cant-copyright-porn-bittorrent-defendant-insists-120206/" target="_blank">Fuente TorrentFreak.</a></strong>
 Una mujer que dice que fue acusada erróneamente de compartir material con copyright en BitTorrent ha presentado una demanda de acoso contra un troll de los derechos de autor. Hard Drive production había exigido 3.400 dólares para que su amenaza de demanda desapareciera, pero su blanco no sólo dice que es inocente y acosada, sino también que la pornografía no puede tener derechos de autor. ¿Pueden películas con sexo favorecer el progreso científico o constituir arte útil? Un tribunal puede estar pronto para decidirlo.
 

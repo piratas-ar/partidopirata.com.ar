@@ -11,8 +11,8 @@ tags:
 - gallegos
 - piratas-de-galicia
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/bannerpeq_web_21O-2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/bannerpeq_web_21O-2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/bannerpeq_web_21O-2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/bannerpeq_web_21O-2-150x150.png
 wppost_name: hablando-con-isabel-y-rafael-de-piratas-de-galicia-ante-las-elecciones-del-21-de-octubre
 ---
 
@@ -22,14 +22,14 @@ wppost_name: hablando-con-isabel-y-rafael-de-piratas-de-galicia-ante-las-eleccio
 <strong> Si el enlace anterior no funciona presionen en <em>Descargar</em> <a href="http://www.ivoox.com/conversando-isabel-rafael-piratas-audios-mp3_rf_1458218_1.html" target="_blank">en este link.</a> </strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart9.png"><img class="size-full wp-image-6667" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart9.png"><img class="size-full wp-image-6667" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />
 
 <ul>
 	<li><strong><a href="https://www.myspace.com/ultraqans/music/songs/01-01-setent-qulos-mp3-81256479" target="_blank">Escuchamos a Ulträqäns</a></strong></li>
-	<li><strong>Y también a <a href="http://partidopirata.com.ar/6579/ensemble-of-early-music-collegium-vocale-con-creative-commons">Collegium Vocale desde Polonia</a></strong></li>
+	<li><strong>Y también a <a href="https://partidopirata.com.ar/6579/ensemble-of-early-music-collegium-vocale-con-creative-commons">Collegium Vocale desde Polonia</a></strong></li>
 	<li><strong><a href="http://partido-pirata.blogspot.com/2011/07/para-usar-mumble.html" target="_blank">La charla la hicimos a través de nuestro canal en Mumble.</a></strong></li>
 </ul>
 &nbsp;
@@ -77,4 +77,4 @@ EL presidente de Galicia se burla de los Piratas de Galicia!</center>&nbsp;
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino</a></strong></p>

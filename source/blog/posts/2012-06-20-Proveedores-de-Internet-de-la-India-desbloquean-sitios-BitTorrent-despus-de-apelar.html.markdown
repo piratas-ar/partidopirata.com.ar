@@ -11,14 +11,14 @@ tags:
 - proveedores-de-internet
 - resistir
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/dhammu.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/dhammu-150x133.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/dhammu.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/dhammu-150x133.png
 wppost_name: proveedores-de-internet-de-la-india-desbloquean-sitios-bittorrent-despues-de-apelar
 ---
 
 <strong><a href="https://torrentfreak.com/indian-isps-unblock-bittorrent-sites-after-appeal-120620/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/dhammu.png"><img class="alignright size-full wp-image-4861" title="dhammu" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/dhammu.png" alt="" width="200" height="133" /></a>Millones de indios  hoy pueden suspirar aliviados. Una vez más, pueden acceder a sus favoritos sitios para compartir archivos, entre ellos The Pirate Bay y Torrentz.eu, después que un consorcio de proveedores de Internet apeló a una orden de censura general. La Alta Corte de Madrás especificó una decisión anterior y dictaminó que los proveedores de Internet ya no tienen que bloquear las páginas web enteras para evitar que una sola película sea compartida online.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/dhammu.png"><img class="alignright size-full wp-image-4861" title="dhammu" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/dhammu.png" alt="" width="200" height="133" /></a>Millones de indios  hoy pueden suspirar aliviados. Una vez más, pueden acceder a sus favoritos sitios para compartir archivos, entre ellos The Pirate Bay y Torrentz.eu, después que un consorcio de proveedores de Internet apeló a una orden de censura general. La Alta Corte de Madrás especificó una decisión anterior y dictaminó que los proveedores de Internet ya no tienen que bloquear las páginas web enteras para evitar que una sola película sea compartida online.
 
 El mes pasado, millones de indios fueron sacudidos por lo que parecía ser una acción anti-piratería en masa del Gobierno.
 

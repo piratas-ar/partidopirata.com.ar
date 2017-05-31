@@ -11,8 +11,8 @@ tags:
 - patentamiento
 - patentes
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/images1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/images1-150x124.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/images1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/images1-150x124.jpg
 wppost_name: documental-los-piratas-de-los-seres-vivos-marie-monique-robin
 ---
 

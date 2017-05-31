@@ -12,12 +12,12 @@ tags:
 - fetiche-tecnologicos
 - pasaportes
 - union-europeo
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo-150x150.jpg
 wppost_name: documentos-nacionales-de-identidad-y-pasaportes-documentos-nacionales-de-identidad-biometricos-y-pasaportes-una-falsa-sensacion-de-seguridad-una-falsa-sensacion-de-seguridad
 ---
 
-Ahora que el gobierno estableció<strong><a href="http://partidopirata.com.ar/4816/el-fetiche-tecnologico-ataca-de-nuevo-ahora-con-400-x-pasaporte-todos-vigilados"> los pasaportes con datos biométricos,</a></strong> un repaso por algunos países que implementaron esos documentos.
+Ahora que el gobierno estableció<strong><a href="https://partidopirata.com.ar/4816/el-fetiche-tecnologico-ataca-de-nuevo-ahora-con-400-x-pasaporte-todos-vigilados"> los pasaportes con datos biométricos,</a></strong> un repaso por algunos países que implementaron esos documentos.
 
 <strong><a href="https://www.eff.org/deeplinks/2012/06/biometrics-national-id-passports-false-sense-security" target="_blank">Fuente Electronic Frontier Foundation.</a></strong>
 
@@ -56,7 +56,7 @@ En resumen, los gobiernos han fallado al afirmar  que estas tecnologías efecti
 </strong>
 
 <hr />
-<p style="text-align: center;">Lamentablemente en la Argentina nuestros políticos siguen facinados por el <a href="http://partidopirata.com.ar/4816/el-fetiche-tecnologico-ataca-de-nuevo-ahora-con-400-x-pasaporte-todos-vigilados"><em>Fetiche Tecnológico</em></a>
+<p style="text-align: center;">Lamentablemente en la Argentina nuestros políticos siguen facinados por el <a href="https://partidopirata.com.ar/4816/el-fetiche-tecnologico-ataca-de-nuevo-ahora-con-400-x-pasaporte-todos-vigilados"><em>Fetiche Tecnológico</em></a>
 <strong>Si quieren revisar esta traducción, corregirla, envíenla a:</strong>
 <strong> Eduardo(arroba)partidopirata.com.ar</strong>
 <strong> Así hacemos una mejor traducción.</strong>

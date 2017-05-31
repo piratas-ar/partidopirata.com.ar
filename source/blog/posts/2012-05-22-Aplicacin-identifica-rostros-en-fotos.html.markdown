@@ -11,8 +11,8 @@ tags:
 - klik
 - privacidad
 - reconocimiento-facial
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/kliks.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/kliks-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/kliks.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/kliks-150x150.jpg
 wppost_name: aplicacion-identifica-rostros-en-fotos
 ---
 
@@ -24,7 +24,7 @@ Por Agências
 
 TORONTO – Imaginate hacer una foto de un grupo de amigos y que tu smartphone revele instantáneamente la identidad de todos los fotografiados. Una nueva aplicación para iPhone,  <a href="http://itunes.apple.com/us/app/klik-by-face.com/id484990787?mt=8">KLiK</a>, realiza reconocimiento facial en tiempo real para identificar personas en fotos.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/kliks.jpg"><img class="size-medium wp-image-4543" title="kliks" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/kliks-300x203.jpg" alt="" width="300" height="203" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/kliks.jpg"><img class="size-medium wp-image-4543" title="kliks" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/kliks-300x203.jpg" alt="" width="300" height="203" /></a>
 
 
 “Es nuestra más reciente evolución de la plataforma y del producto al consumidor que ofrecemos”, dijo Gil Hirsch, presidente ejecutivo de la plataforma de tecnologia de reconocimiento facial <a href="http://face.com/">Face.com</a>, que lanzó la aplicación.

@@ -12,8 +12,8 @@ tags:
 - sopa
 - subtitulos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/201222010275798734_20.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/201222010275798734_20-115x89.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/201222010275798734_20.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/201222010275798734_20-115x89.jpg
 wppost_name: si-quieren-ayudarnos-con-los-subtitulos-controlando-la-web-programa-de-tv
 ---
 

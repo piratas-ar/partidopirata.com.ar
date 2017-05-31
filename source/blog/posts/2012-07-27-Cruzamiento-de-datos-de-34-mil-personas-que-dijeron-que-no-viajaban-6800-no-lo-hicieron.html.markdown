@@ -11,16 +11,16 @@ tags:
 - intimidad
 - migraciones
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/20070417klpgeogra_2.Ges_.SCO_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/20070417klpgeogra_2.Ges_.SCO_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/20070417klpgeogra_2.Ges_.SCO_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/20070417klpgeogra_2.Ges_.SCO_-150x150.png
 wppost_name: cruzamiento-de-datos-de-34-mil-personas-que-dijeron-que-no-viajaban-6800-no-lo-hicieron
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/20070417klpgeogra_2.Ges_.SCO_.png"><img class="aligncenter size-full wp-image-5593" title="20070417klpgeogra_2.Ges.SCO" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/20070417klpgeogra_2.Ges_.SCO_.png" alt="" width="555" height="271" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/20070417klpgeogra_2.Ges_.SCO_.png"><img class="aligncenter size-full wp-image-5593" title="20070417klpgeogra_2.Ges.SCO" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/20070417klpgeogra_2.Ges_.SCO_.png" alt="" width="555" height="271" /></a>
 
 El tema con recolectar datos es que, muchas veces, cuando se ven por separado no quieren decir mucho. Cuando se cruzan con otras bases de datos nos dan un panorama mucho mayor.
 En el caso de los supermercados, ellos pueden cruzar nuestras compras y saber, además de nuestros hábitos de comprasa, si estamos pasando por alguna situación especial.
-<a href="http://partidopirata.com.ar/5508/como-las-empresas-saben-tus-secretos">Sobre todo si una de sus clients está embarazada.</a>
+<a href="https://partidopirata.com.ar/5508/como-las-empresas-saben-tus-secretos">Sobre todo si una de sus clients está embarazada.</a>
 
 <strong>Ahora leemos esta información en <a href="http://www.pagina12.com.ar/diario/economia/2-199661-2012-07-27.html" target="_blank">Página 12.</a></strong>
 
@@ -38,6 +38,6 @@ La AFIP también difundió un perfil de los compradores de divisas. El 98 por ci
 <p style="text-align: center;"><strong>¿Cuánta más información pueden obtener cruzando todas las bases de datos?</strong></p>
 <p style="text-align: center;"><strong>¿Si cruzan las bases de datos con nuestro perfil en Facebook, twitts, etc. etc...?</strong></p>
 <p style="text-align: center;">Ya se, algunos dirán "No tengo nada que ocultar"</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5576/rick-falkvinge-desenmascarando-el-si-no-tienes-nada-que-ocultar-no-tienes-nada-que-temer">Algunos cuestionamientos a ese argumento.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5576/rick-falkvinge-desenmascarando-el-si-no-tienes-nada-que-ocultar-no-tienes-nada-que-temer">Algunos cuestionamientos a ese argumento.</a></strong></p>
 
 <h1></h1>

@@ -7,8 +7,8 @@ tags:
 - corte-cachengue
 - material-para-difusion
 - evento
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/flyer-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/flyer-150x150.jpg
 wppost_name: corte-cachentue-lunes-30-de-abril-en-la-casona-de-humahuaca-almagro
 ---
 
@@ -19,5 +19,5 @@ Este lunes 30 de abril por el barrio de almagro la casona de humahuaca y otros c
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg"><img class=" wp-image-4197  " title="flyer" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg" alt="" width="303" height="429" />Presione en la imagen para verla de un tamaño mayor</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg"><img class=" wp-image-4197  " title="flyer" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/flyer.jpg" alt="" width="303" height="429" />Presione en la imagen para verla de un tamaño mayor</a>
 

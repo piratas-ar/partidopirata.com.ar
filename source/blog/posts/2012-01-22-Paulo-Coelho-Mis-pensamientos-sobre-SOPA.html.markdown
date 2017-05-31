@@ -8,14 +8,14 @@ tags:
 - pirate-coelho
 - pirateen-mis-libros
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate-100x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate-100x115.jpg
 wppost_name: paulo-coelho-mis-pensamientos-sobre-s-o-p-a
 ---
 
 <strong><a href="http://paulocoelhoblog.com/2012/01/20/welcome-to-pirate-my-books/" target="_blank">Fuente Blog de Paulo Coelho.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg"><img class="size-full wp-image-853" title="coelhopirate" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg" alt="" width="100" height="128" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg"><img class="size-full wp-image-853" title="coelhopirate" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg" alt="" width="100" height="128" /></a>
 
 
 A mediados del siglo 20, empezaron a circular en la antigua Unión Soviética varios libros mimeografiados cuestionando al sistema político. Sus autores jamás ganaron un centavo de derechos de autor.

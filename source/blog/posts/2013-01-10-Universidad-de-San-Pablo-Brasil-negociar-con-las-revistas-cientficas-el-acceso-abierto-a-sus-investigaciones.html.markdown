@@ -10,8 +10,8 @@ tags:
 - investigacion
 - universidad-de-san-pablo
 - usp
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
 wppost_name: universidad-de-san-pablo-brasil-negociara-con-las-revistas-cientificas-el-acceso-abierto-a-sus-investigaciones
 ---
 

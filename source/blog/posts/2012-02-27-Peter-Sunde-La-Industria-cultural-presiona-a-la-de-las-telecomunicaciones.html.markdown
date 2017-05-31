@@ -11,13 +11,13 @@ tags:
 - mafiaa
 - peter-sunde
 - the-pirate-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/mafiaa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/mafiaa-150x102.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/mafiaa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/mafiaa-150x102.jpg
 wppost_name: peter-sunde-industria-cultural-presiona-a-la-de-la-telecomunicacion
 ---
 
 <strong><a href="https://torrentfreak.com/pirate-bays-peter-sunde-on-the-copyright-mafia-120222/" target="_blank">Fuente TorrentFreak</a></strong>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/mafiaa.jpg"><img class="aligncenter size-full wp-image-3302" title="Mafiaa" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/mafiaa.jpg" alt="" width="200" height="102" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/mafiaa.jpg"><img class="aligncenter size-full wp-image-3302" title="Mafiaa" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/mafiaa.jpg" alt="" width="200" height="102" /></a>
 
 Por Peter Sunde, uno de los fundadores de The Pirate Bay y de Flattr, servicio de micropos en internet
 

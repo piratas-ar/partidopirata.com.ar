@@ -7,12 +7,12 @@ tags:
 - pablo-ortellado
 - pago-de-derechos-de-autor
 - retaliacion-cruzada
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/167-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/167.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/167-150x150.png
 wppost_name: retaliacion-cruzada-del-algodon-algunas-sugerencias-para-el-gobierno-brasileno
 ---
 
-Así como <a href="http://partidopirata.com.ar/8323/antigua-y-barbuda-autorizada-a-publicar-el-portal-pirata-por-la-organizacion-mundial-del-comercio">Antigua y Barbuda plantean una retaliación en la OMC sin pagarle el derecho de autor a loos EE.UU</a> Brasil también podría aplicar la retaliación (represalia) por problemas con el ingreso de algodón brasileño en EE.UU
+Así como <a href="https://partidopirata.com.ar/8323/antigua-y-barbuda-autorizada-a-publicar-el-portal-pirata-por-la-organizacion-mundial-del-comercio">Antigua y Barbuda plantean una retaliación en la OMC sin pagarle el derecho de autor a loos EE.UU</a> Brasil también podría aplicar la retaliación (represalia) por problemas con el ingreso de algodón brasileño en EE.UU
 
 <strong><a href="http://www.gpopai.org/ortellado/2013/01/retaliacao-cruzada-no-caso-do-algodao-algumas-sugestoes-para-o-governo-brasileiro/" target="_blank">Fuente Blog de Pablo Ortellado</a></strong>
 
@@ -37,9 +37,9 @@ Las tres medidas tienen el mérito de ser simples y facilmente mensurables, ya q
 Basta preguntarse cuánto es lo que el país paga en concepto de derechos de autor a los EE.UU.
 Recuerden el mapa del pago de royalties!
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-full wp-image-4557" alt="Patentes Otorgadas por país" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png" width="602" height="296" /></a> Patentes Otorgadas por país
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-full wp-image-4557" alt="Patentes Otorgadas por país" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/167.png" width="602" height="296" /></a> Patentes Otorgadas por país
 
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Màs sobre este mapa, en esta entrada del post</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Màs sobre este mapa, en esta entrada del post</a></strong></p>
 <strong>Argentina tiene un caso en la OMC contra EE.UU:</strong>
 
 "El segundo panel conformado ayer analizará la traba que impone Estados Unidos al ingreso de carne vacuna y limones de Argentina. Las ventas ganaderas al país del Norte están frenadas desde 2000 por supuestos problemas de fiebre aftosa, a pesar de que Argentina vende a Alemania, Israel y los Países Bajos, entre otros. En el caso de los limones, desde 2001 no pueden entrar a Estados Unidos a raíz del lobby californiano. Argentina es el primer productor mundial de limones."

@@ -11,8 +11,8 @@ tags:
 - libertad-de-expresion
 - pedofilia
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/chart2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/chart2-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/chart2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/chart2-115x115.png
 wppost_name: beatriz-busaniche-campus-party-bogota-amenazas-a-la-libertad-de-expresion
 ---
 
@@ -28,7 +28,7 @@ Charla sobre Amenazas a la libertad de expresión en Internet en la Campus Party
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/beatriz-busaniche-amenazas-a-libertad-de-audios-mp3_rf_1313500_1.html" target="_blank">En esta página.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart2.png"><img class="size-full wp-image-5051" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/chart2.png"><img class="size-full wp-image-5051" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />

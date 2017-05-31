@@ -16,8 +16,8 @@ tags:
 - monsanto
 - periodistas-a24
 - soja
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: la-otra-cara-de-la-soja-periodistas-a24
 ---
 

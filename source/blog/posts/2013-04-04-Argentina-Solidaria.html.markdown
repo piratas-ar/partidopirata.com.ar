@@ -55,6 +55,6 @@ Centenario 1239 (San José)
 
 Salta: Balcarce 585 de 10 a 22hs
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/red-solidaria2.jpg"><img class="alignnone size-medium wp-image-9005" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/red-solidaria2-300x225.jpg" width="300" height="225" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/red-solidaria2.jpg"><img class="alignnone size-medium wp-image-9005" alt="" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/red-solidaria2-300x225.jpg" width="300" height="225" /></a>
 
 Foto: Red Solidaria

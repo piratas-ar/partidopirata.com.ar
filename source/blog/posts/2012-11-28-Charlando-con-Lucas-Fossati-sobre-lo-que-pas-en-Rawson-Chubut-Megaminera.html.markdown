@@ -12,8 +12,8 @@ tags:
 - uap
 - union-de-asambleas-patagonicas
 - uocra
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart11.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart11-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart11.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart11-115x115.png
 wppost_name: charlando-con-lucas-fossati-sobre-lo-que-paso-en-rawson-chubut-megamineria
 ---
 
@@ -29,7 +29,7 @@ Estuvimos hablando con Lucas Fossati de No a la Mina sobre el tema:
 <p style="text-align: center;"><strong>Si no pueden descargar el audio en el enlace anterior, presionen en <em>Descargar</em> <a href="http://www.ivoox.com/charlando-lucas-fossati-desde-chubut-aprietes-megamineria-audios-mp3_rf_1606605_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart11.png"><img class="size-full wp-image-7565" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart11.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart11.png"><img class="size-full wp-image-7565" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart11.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />

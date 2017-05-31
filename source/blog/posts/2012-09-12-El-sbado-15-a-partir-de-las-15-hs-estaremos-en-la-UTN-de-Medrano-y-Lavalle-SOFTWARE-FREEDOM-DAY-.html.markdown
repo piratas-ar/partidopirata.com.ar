@@ -10,12 +10,12 @@ tags:
 - software-freedom-day
 - utn
 - utn-medrano
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/logo-150x85.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/logo-150x85.png
 wppost_name: el-sabado-15-a-partir-de-las-15-hs-estaremos-en-la-utn-de-medrano-y-cordoba-software-freedom-day
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/logo.png"><img class="aligncenter size-full wp-image-6455" title="logo" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/logo.png" alt="" width="300" height="85" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/logo.png"><img class="aligncenter size-full wp-image-6455" title="logo" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/logo.png" alt="" width="300" height="85" /></a></p>
 <p style="text-align: center;"><strong>El sábado 15 a partir de las 15 hs. estaremos dando una desconferencia sobre Patentes y algo más.</strong></p>
 <p style="text-align: center;"><strong>Si quieren darse una vuelta los esperamos.</strong></p>
 <p style="text-align: center;"><strong>Más información sobre el Software Freedom Day-Día del Software Libre el sábado 15 de setiembre a partir de las 10 hs, nosotros participamos a las 15 hs. en:</strong></p>

@@ -8,12 +8,12 @@ tags:
 - hbo-ole
 - la-nacion
 - pablo-sirven
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
 wppost_name: cuevana-sigue-amenazada-denuncia-de-hbo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="alignleft size-full wp-image-2318" title="Cuevana" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a><strong><a href="http://www.lanacion.com.ar/1426708-cuevana-cenizas-de-un-volcan" target="_blank">Según esta nota de La Nación.</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="alignleft size-full wp-image-2318" title="Cuevana" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a><strong><a href="http://www.lanacion.com.ar/1426708-cuevana-cenizas-de-un-volcan" target="_blank">Según esta nota de La Nación.</a></strong>
 
 &nbsp;
 

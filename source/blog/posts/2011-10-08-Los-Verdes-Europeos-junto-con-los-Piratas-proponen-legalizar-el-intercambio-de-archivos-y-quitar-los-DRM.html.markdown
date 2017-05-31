@@ -8,8 +8,8 @@ tags:
 - noticias
 - parlamento-europeo
 - verdes-euroeos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/die-grunen.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/die-grunen-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/die-grunen.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/die-grunen-150x150.jpg
 wppost_name: los-verdes-europeos-junto-con-los-piratas-proponen-legalizar-el-intercambio-de-archivos-y-quitar-los-drm
 ---
 

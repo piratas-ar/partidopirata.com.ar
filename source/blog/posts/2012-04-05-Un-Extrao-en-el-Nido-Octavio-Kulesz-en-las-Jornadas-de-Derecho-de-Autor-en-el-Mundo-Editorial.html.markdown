@@ -10,12 +10,12 @@ tags:
 - jornadas
 - mundo-editorial
 - octavio-kulesz
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-150x150.png
 wppost_name: un-extrano-en-el-nido-octavio-kulesz-en-las-jornadas-de-derecho-de-autor-en-el-mundo-editorial
 ---
 
-<strong><a href="http://partidopirata.com.ar/3790/x-jornada-de-derecho-de-autor-en-el-mundo-editorial-en-la-feria-del-libro-de-buenos-aires">En la Jornada de Derecho de Autor en el Mundo Editorial</a></strong> organizado por<strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png" target="_blank"> CADRA</a></strong>.
+<strong><a href="https://partidopirata.com.ar/3790/x-jornada-de-derecho-de-autor-en-el-mundo-editorial-en-la-feria-del-libro-de-buenos-aires">En la Jornada de Derecho de Autor en el Mundo Editorial</a></strong> organizado por<strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png" target="_blank"> CADRA</a></strong>.
 Aparece Octavio Kulesz. Uno que espera encontrarse sólo con Talibanes del Copyright , sobre todo luego de leer el título de esta conferencia:
 
 <strong>‘LA RESPONSABILIDAD PENAL DE LOS TITULARES DE LOS SITIOS WEB’</strong>
@@ -32,6 +32,6 @@ Se trata entonces de una crisis por saturación de oferta: se producen demasiado
 
 "Con respecto a la protección de los derechos de autor, pienso que la solución no pasa necesariamente por artificios tecnológicos (a eso se están dedicando sin demasiados frutos los grandes grupos multinacionales). En mi opinión, la mejor política de resguardo de los derechos de autor en la era digital pasa por permitir que los libros estén siempre disponibles para los lectores, de una manera sencilla y lo más económica posible."
 <p style="text-align: center;"><strong> <a href="http://portal.educ.ar/noticias/entrevistas/octavio-kulesz-tecnologia-digi.php" target="_blank">Toda la nota en el Portal Edu.ar</a></strong></p>
-Recordemos todas las limitaciones que tienen <strong><a href="http://partidopirata.com.ar/3798/e-libros-en-la-academia-una-historia-de-las-limitaciones-y-posibilidades">los libros electrónicos universitarios</a></strong> que los hace mucho peores que los impresos !.
-Por lo menos un taliban menos....Vemos que con el <strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png" target="_blank">Canon por Fotocopias </a></strong> de Cadra algo bueno se hace ....
-<p style="text-align: center;">Más sobre las <strong><a href="http://partidopirata.com.ar/3790/x-jornada-de-derecho-de-autor-en-el-mundo-editorial-en-la-feria-del-libro-de-buenos-aires"> Jornada de Derecho de Autor en el Mundo Editorial</a></strong></p>
+Recordemos todas las limitaciones que tienen <strong><a href="https://partidopirata.com.ar/3798/e-libros-en-la-academia-una-historia-de-las-limitaciones-y-posibilidades">los libros electrónicos universitarios</a></strong> que los hace mucho peores que los impresos !.
+Por lo menos un taliban menos....Vemos que con el <strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png" target="_blank">Canon por Fotocopias </a></strong> de Cadra algo bueno se hace ....
+<p style="text-align: center;">Más sobre las <strong><a href="https://partidopirata.com.ar/3790/x-jornada-de-derecho-de-autor-en-el-mundo-editorial-en-la-feria-del-libro-de-buenos-aires"> Jornada de Derecho de Autor en el Mundo Editorial</a></strong></p>

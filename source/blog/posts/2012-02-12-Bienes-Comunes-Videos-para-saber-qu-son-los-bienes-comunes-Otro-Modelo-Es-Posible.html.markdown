@@ -8,8 +8,8 @@ tags:
 - modelo-neoliberal
 - sostenible
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/NO-a-la-megamineria-bandera.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/NO-a-la-megamineria-bandera-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/NO-a-la-megamineria-bandera.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/NO-a-la-megamineria-bandera-150x150.jpg
 wppost_name: bienes-comunes-videos-para-saber-que-son-los-bienes-comunes-otro-modelo-es-posible
 ---
 

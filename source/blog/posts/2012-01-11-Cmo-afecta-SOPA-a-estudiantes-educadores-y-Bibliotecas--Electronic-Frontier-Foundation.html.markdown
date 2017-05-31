@@ -13,8 +13,8 @@ tags:
 - lineas-de-accion
 - profesores
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: como-afecta-sopa-a-estudiantes-educadores-y-bibliotecas-electronic-frontier-foundation
 ---
 

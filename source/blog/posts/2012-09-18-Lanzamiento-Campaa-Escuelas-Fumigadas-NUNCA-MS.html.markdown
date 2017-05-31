@@ -9,8 +9,8 @@ tags:
 - escuelas-fumigadas-nunca-mas
 - ninos
 - ninos-fumigados
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/el-unico-lugar-para-vivir-1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/el-unico-lugar-para-vivir-1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/el-unico-lugar-para-vivir-1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/el-unico-lugar-para-vivir-1-150x150.jpg
 wppost_name: lanzamiento-campana-escuelas-fumigadas-nunca-mas
 ---
 

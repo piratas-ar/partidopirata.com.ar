@@ -9,12 +9,12 @@ tags:
 - rechazo-al-acta
 - senado
 - senado-mexicano
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/acta-800x592.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/acta-800x592.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/acta-800x592.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/acta-800x592.jpg
 wppost_name: senado-mexicano-ratifica-de-forma-unanime-y-oficial-su-rechazo-al-acta
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/acta-800x592.jpg"><img class="aligncenter size-full wp-image-1775" title="acta-800x592" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/acta-800x592.jpg" alt="" width="800" height="592" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/acta-800x592.jpg"><img class="aligncenter size-full wp-image-1775" title="acta-800x592" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/acta-800x592.jpg" alt="" width="800" height="592" /></a>
 
 <strong> <a href="http://alt1040.com/2011/09/senado-mexicano-ratifica-de-forma-unanime-y-oficial-su-rechazo-al-acta" target="_blank">Fuente Alt 1040.</a></strong>
 
@@ -27,5 +27,5 @@ El punto es que el Senado — en su totalidad — se pronunció en contra de la 
 Jesús Díaz, Secretario Técnico del Senador Castellón, y sin quien hubiera sido imposible que el rechazo legislativo al ACTA sucediera, fue quien dió la gran noticia en Twitter:
 
 &nbsp;
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1518/charla-con-geraldine-juarez-de-mexico-sobre-el-acta-y-formas-de-organizarse-para-oponerse-a-lo-que-viene">Acá charlamos con Geraldine, autora de la nota, sobre el rechazo del senado mexicano al ACTA.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1518/charla-con-geraldine-juarez-de-mexico-sobre-el-acta-y-formas-de-organizarse-para-oponerse-a-lo-que-viene">Acá charlamos con Geraldine, autora de la nota, sobre el rechazo del senado mexicano al ACTA.</a></strong></p>
 <p style="text-align: center;">Felicitaciones al Pueblo Mexicano, ojalá nuestros senadores fueran así...Pero lo tenemos a Filmus, Pichetto....mejor no deprimirse.</p>

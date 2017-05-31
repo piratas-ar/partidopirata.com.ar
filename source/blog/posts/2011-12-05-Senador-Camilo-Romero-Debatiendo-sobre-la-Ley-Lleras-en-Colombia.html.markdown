@@ -8,8 +8,8 @@ tags:
 - ley-lleras
 - senador-camilo-romero
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map-150x150.jpg
 wppost_name: senador-camilo-romero-debatiendo-sobre-la-ley-lleras-en-colombia
 ---
 
@@ -18,7 +18,7 @@ wppost_name: senador-camilo-romero-debatiendo-sobre-la-ley-lleras-en-colombia
 <strong></strong></center><center></center><center><strong>Senador Camilo Romero Debatiendo sobre la Ley Lleras y el Derecho de Autor en Colombia</strong></center>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2510/brasil-nueva-ley-de-derechos-de-autor-retroceso">Tal vez para pensar en otro modelo diferente al “notice and take down”</a> que se propone en Brasil.</strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2510/brasil-nueva-ley-de-derechos-de-autor-retroceso">Tal vez para pensar en otro modelo diferente al “notice and take down”</a> que se propone en Brasil.</strong></p>
 
 
 <hr />

@@ -9,18 +9,18 @@ tags:
 - la-casa-estudio
 - neuquen
 - presspauseplay
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/PressPausePlay-1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/PressPausePlay-1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/PressPausePlay-1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/PressPausePlay-1-150x150.jpg
 wppost_name: charla-del-partido-pirata-argentino-en-neuquen-sobre-copyright-y-derechos-de-autor-24-de-febrero
 ---
 
-<a href="http://partidopirata.com.ar/75/festival-latinoamericano-de-instalacion-de-software-libre-2010/75-revision" rel="attachment wp-att-76"><img class="aligncenter size-full wp-image-76" title="PressPausePlay" src="http://jinyerei.com.ar/wp-content/uploads/PressPausePlay-1.jpg" alt="" width="547" height="309" /></a>
+<a href="https://partidopirata.com.ar/75/festival-latinoamericano-de-instalacion-de-software-libre-2010/75-revision" rel="attachment wp-att-76"><img class="aligncenter size-full wp-image-76" title="PressPausePlay" src="http://jinyerei.com.ar/wp-content/uploads/PressPausePlay-1.jpg" alt="" width="547" height="309" /></a>
 
 &nbsp;
 
 Los derechos de autor... ¿están <strong>obsoletos</strong>? ¿A quienes benefician <em>en realidad</em>? ¿Gana uno <em>algo de dinero</em> registrando los temas?<!--more-->
 
-Si tuviste alguna de esas dudas, entonces tenés que venir a escuchar a los chicos del <a title="Partido Pirata Argentino" href="http://partidopirata.com.ar">Partido Pirata Argentino</a> que van a estar dando una charla introductoria a los siguientes temas:
+Si tuviste alguna de esas dudas, entonces tenés que venir a escuchar a los chicos del <a title="Partido Pirata Argentino" href="https://partidopirata.com.ar">Partido Pirata Argentino</a> que van a estar dando una charla introductoria a los siguientes temas:
 <ul>
 	<li>Derechos de autor</li>
 	<li>Propiedad intelectual</li>

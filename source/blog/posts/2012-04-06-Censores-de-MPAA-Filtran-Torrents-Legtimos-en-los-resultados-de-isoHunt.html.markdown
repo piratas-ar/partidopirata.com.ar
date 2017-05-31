@@ -10,15 +10,15 @@ tags:
 - mpaa
 - takedown
 - torrents
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/isohunt-logo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/isohunt-logo-150x71.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/isohunt-logo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/isohunt-logo-150x71.jpg
 wppost_name: censores-de-mpaa-filtran-torrents-legitimos-en-los-resultados-de-isohunt
 ---
 
 <strong><a href="https://torrentfreak.com/mpaa-filter-censors-legit-torrent-files-on-" target="_blank">Fuente Torrentfreak</a></strong>
 
 Después de la decisión de un tribunal de EE.UU.  que le ordenó al motor de búsqueda de BitTorrents isoHunt  implementar un filtro de palabras clave en todo el sitio proporcionado por la MPAA[asociación de los grandes estudios de cine de EE.UU]. Según el propietario de isoHunt la sentencia daría lugar a la censura masiva de contenido legítimo, y datos recientes muestran que este es el caso. El filtro obligatorio de la MPAA censura accidentalmente miles de canciones en dominio público e incluso una película independiente que fue subida por el propio cineasta.
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/isohunt-logo.jpg"><img class="size-full wp-image-3827 alignright" title="Isohunt" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/isohunt-logo.jpg" alt="" width="200" height="71" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/isohunt-logo.jpg"><img class="size-full wp-image-3827 alignright" title="Isohunt" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/isohunt-logo.jpg" alt="" width="200" height="71" /></a>
 Hace casi dos años los EE.UU. el Tribunal del Distrito de California emitió una <a href="http://torrentfreak.com/isohunt-forced-to-shut-down-in-the-u-s-100522/">porden judicial permanente</a>  contra el motor de búsqueda de BitTorrents isoHunt .
 La Corte ordenó al dueño de isoHunt que inicie la censura del motor de búsqueda del sitio sobre la base de una lista de miles de palabras clave proporcionadas por la MPAA, o cese sus operaciones por completo en los EE.UU..
 
@@ -34,7 +34,7 @@ El cineasta Brian Taylor es uno de los artistas independientes cuyo trabajo es f
 
 Sin embargo, este entusiasmo se desvaneció rápidamente cuando se trató de acceder al <a href="https://isohunt.com/torrent_details/380853973/The+Bite?tab=summary">torrent</a> desde una conexión de EE.UU. un día después. En lugar de un enlace con el archivo torrent al cineasta se le dio la bienvenida con el siguiente mensaje. "Este Torrent ha sido censurado, como exige el tribunal de EE.UU.".
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/censored-isohunt.jpg"><img class="aligncenter size-full wp-image-3828" title="Isohunt Censurado" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/censored-isohunt.jpg" alt="" width="494" height="198" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/censored-isohunt.jpg"><img class="aligncenter size-full wp-image-3828" title="Isohunt Censurado" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/censored-isohunt.jpg" alt="" width="494" height="198" /></a>
 
 Huelga decir que Taylor se sorprendió al ver su trabajo el 100% censurado. La idea era compartirlo con un público más amplio, incluyendo a personas de los EE.UU..
 

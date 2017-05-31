@@ -10,8 +10,8 @@ tags:
 - parodia
 - support
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/wlogo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/wlogo.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/wlogo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/wlogo.png
 wppost_name: cambiar-al-mundo-no-tiene-precio-apoyemos-a-wikileaks
 ---
 

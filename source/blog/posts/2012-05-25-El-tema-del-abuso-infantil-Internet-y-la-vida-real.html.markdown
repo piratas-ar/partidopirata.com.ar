@@ -9,12 +9,12 @@ tags:
 - internet
 - pornografia-infantil
 - regular-la-web
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246-150x150.jpg
 wppost_name: el-tema-del-abuso-infantil-internet-y-la-vida-real
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg"><img class="size-full wp-image-4567" title="Xuxa-1-300x246" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg" alt="" width="300" height="246" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg"><img class="size-full wp-image-4567" title="Xuxa-1-300x246" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/Xuxa-1-300x246.jpg" alt="" width="300" height="246" /></a>
 
 
 "Entre llantos, Xuxa confesó: <em>“Nunca expliqué nada a nadie porque tenía vergüenza, no sabía qué hacer. Si hubiera hablado con mi padre, él me habría culpado por provocar. Supongo que vieron algo extraño en que yo, que siempre había sido muy habladora, de repente me convirtiese en una persona callada”.</em>
@@ -80,7 +80,7 @@ Agrega:
 <strong></strong>Algo más sobre el horrible tema de abuso y pornografía infantil:
 <ul>
 	<li><strong> <a href="http://partido-pirata.blogspot.com.br/2010/05/la-pornografia-infantil-es-genial.html"> La Pornografía Infantil es Genial!!!, para cerrar sitios que no tienen nada que ver, por Christian Engström, Miembro del Parlamento Europeo por el Partido Pirata Sueco</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/4320/confundir-una-infraccion-de-copyright-con-la-pornografia-infantil-es-un-juego-sucio-y-peligroso">Confundir una infracción de copyright con pornografía infantil es un juego sucio y peligroso</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/4320/confundir-una-infraccion-de-copyright-con-la-pornografia-infantil-es-un-juego-sucio-y-peligroso">Confundir una infracción de copyright con pornografía infantil es un juego sucio y peligroso</a></strong></li>
 </ul>
 
 <hr />

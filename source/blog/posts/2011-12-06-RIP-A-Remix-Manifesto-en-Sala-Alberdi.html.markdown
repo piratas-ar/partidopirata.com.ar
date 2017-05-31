@@ -14,12 +14,12 @@ tags:
 - gilberto-gil
 - lawrence-lessig
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/RiPARemixManifestoGraphic.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/RiPARemixManifestoGraphic-150x150.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/RiPARemixManifestoGraphic.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/RiPARemixManifestoGraphic-150x150.gif
 wppost_name: rip-a-remix-manifesto-en-sala-alberdi
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/RiPARemixManifestoGraphic.gif"><img src="http://partidopirata.com.ar/wp-content/uploads/2011/12/RiPARemixManifestoGraphic.gif" alt="" title="RiPARemixManifestoGraphic" width="398" height="252" class="alignleft size-full wp-image-2515" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/RiPARemixManifestoGraphic.gif"><img src="https://partidopirata.com.ar/wp-content/uploads/2011/12/RiPARemixManifestoGraphic.gif" alt="" title="RiPARemixManifestoGraphic" width="398" height="252" class="alignleft size-full wp-image-2515" /></a>
 Hoy 6/12 a las <strong>22:30hs en Sala Alberdi</strong>, <em>Sarmiento 1551 Centro Cultural San Martín 6to piso</em>, inicia el ciclo de cine-debate sobre cultura libre con la reproducción de RIP: A Remix Manifesto.
 
 La entrada es libre y gratuita, pero estara disponible una gorra para quienes quieran ayudar a la sala, tomada desde hace mas de un año cuando Macri intentara venderla.

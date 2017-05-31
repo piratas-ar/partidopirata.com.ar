@@ -9,8 +9,8 @@ tags:
 - penalizar-las-busquedas
 - ranking
 - resultado-de-las-busquedas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-busquedas
 ---
 
@@ -18,7 +18,7 @@ wppost_name: google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-bu
 
 Google anunció hoy que reducirá los rankings  en los resultados de las búsquedas de los sitios web que reciban un alto número de peticiones de borrado por el  DMCA, [ley de derecho de autor de EE.UU.] independientemente de si el contenido de dichos enlaces es legal o no. El cambio del algoritmo es el resultado de extensos esfuerzos de lobby por parte de Hollywood y los principales sellos discográficos, y puede degradar seriamente la clasificación de sitios web como The Pirate Bay, FilesTube, e incluso YouTube.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
 
 Durante años los grupos de la industria del entretenimiento  <a href="http://torrentfreak.com/riaa-wants-search-engines-to-censor-pirate-sites-120606/">han presionado a los motores de búsqueda</a> para que penalicen los sitios que enlazan a un gran número de archivos con derechos de autor, y hoy Google ha escuchado sus demandas.
 
@@ -38,7 +38,7 @@ Google insiste en que no sabe si el contenido está autorizada o no, por lo que 
 
 Uno de los principales problemas con nuevo ranking de Google es que el contenido perfectamente legítimo en sitios con un elevado número de peticiones de borrado se degrada también. Tomando como ejemplo YouTube, millones de resultados de búsqueda relevantes y legales se degradarán simplemente porque hay un alto número de  videos "no autorizados" publicados en el sitio.
 
-Agregándole al elevado número de <a href="http://partidopirata.com.ar/4603/las-grandes-discograficas-de-usa-le-demandan-poder-ilimitado-para-censurar-a-google">falsos avisos de borrado por el DMCA</a> que Google ve como válidos, también las peticiones de borrado defectuosas que los titulares de derechos de autor envían hará que muchos sitios también puedan ser castigados. Eso es preocupante por decir lo mínimo.
+Agregándole al elevado número de <a href="https://partidopirata.com.ar/4603/las-grandes-discograficas-de-usa-le-demandan-poder-ilimitado-para-censurar-a-google">falsos avisos de borrado por el DMCA</a> que Google ve como válidos, también las peticiones de borrado defectuosas que los titulares de derechos de autor envían hará que muchos sitios también puedan ser castigados. Eso es preocupante por decir lo mínimo.
 
 Para Hollywood y los principales sellos discográficos, el anuncio de Google es una clara victoria. De hecho, fue una de las tres demandas que le entregarán a Google, MSN y Yahoo el año pasado <a href="http://torrentfreak.com/copyright-industry-calls-for-broad-search-engine-censorship-120127/">durante una reunión a puertas cerrada</a>s.
 

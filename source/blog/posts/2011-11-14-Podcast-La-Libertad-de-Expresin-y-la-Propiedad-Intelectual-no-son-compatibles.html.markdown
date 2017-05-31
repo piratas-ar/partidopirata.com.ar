@@ -8,8 +8,8 @@ tags:
 - podcast-2
 - podcasts
 - propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/images-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/images-150x150.jpeg
 wppost_name: podcast-la-libertad-de-expresion-y-la-propiedad-intelectual-no-son-compatibles
 ---
 
@@ -26,6 +26,6 @@ wppost_name: podcast-la-libertad-de-expresion-y-la-propiedad-intelectual-no-son-
 </div>
 <p style="text-align: center;">Las leyes de propiedad intelectual, principalmente los aspectos de copyright y marcas registradas, son usadas y abusadas rutinariamente para coartar la libertad de expresión.</p>
 <p style="text-align: center;"><strong><a href="http://www.manzanamecanica.org/podcast/la_libertad_de_expresion_y_la_propiedad_intelectual_no_son_compatibles.html" target="_Blank">Más información sobre el podcast, guión, música, entrevistas en La Manzana Mecánica.</a></strong></p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg"><img class="size-full wp-image-1041" title="Manzana Mecánica" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg" alt="" width="160" height="267" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg"><img class="size-full wp-image-1041" title="Manzana Mecánica" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/images.jpeg" alt="" width="160" height="267" /></a></p>
 
 </div>

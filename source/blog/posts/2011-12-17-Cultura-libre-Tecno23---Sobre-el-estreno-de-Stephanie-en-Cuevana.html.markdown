@@ -7,8 +7,8 @@ tags:
 - federico-heinz
 - stephanie
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
 wppost_name: cultura-libre-tecno23-sobre-el-estreno-de-stepnahie-en-cuevana
 ---
 

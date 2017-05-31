@@ -13,12 +13,12 @@ tags:
 - proveedor
 - red
 - trafico
-image: http://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png
 wppost_name: peligra-la-neutralidad-en-la-red
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png"><img class="alignleft size-full wp-image-93" title="Neutralidad de la red" src="http://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png" alt="" width="200" height="200" /></a>Todo comenzó cuando un usuario de Comcast, proveedora de Internet en Estados Unidos, percibió que si se conectaba a servicios P2P (eMule, Ares, torrents y demás) la velocidad de su conexión caía o directamente quedaba desconectado .
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png"><img class="alignleft size-full wp-image-93" title="Neutralidad de la red" src="https://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png" alt="" width="200" height="200" /></a>Todo comenzó cuando un usuario de Comcast, proveedora de Internet en Estados Unidos, percibió que si se conectaba a servicios P2P (eMule, Ares, torrents y demás) la velocidad de su conexión caía o directamente quedaba desconectado .
 
 Come este usuario era alguien que sabia de redes pudo documentarlo e iniciar un proceso judicial contra el proveedor (en la Argentina Telecom hace algo parecido...)
 

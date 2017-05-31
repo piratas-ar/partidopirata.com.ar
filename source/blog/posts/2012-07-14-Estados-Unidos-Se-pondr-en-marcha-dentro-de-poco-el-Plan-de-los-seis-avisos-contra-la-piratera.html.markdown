@@ -11,14 +11,14 @@ tags:
 - riaa
 - seis-avisos
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/throttle.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/throttle-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/throttle.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/throttle-150x150.jpg
 wppost_name: estados-unidos-se-pondra-en-marcha-dentro-de-poco-el-plan-de-los-seis-avisos-contra-la-pirateria
 ---
 
 <strong><a href="https://torrentfreak.com/us-six-strikes-anti-piracy-scheme-will-roll-out-gradually-120713/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/throttle.jpg"><img class="alignright size-full wp-image-5237" title="throttle" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/throttle.jpg" alt="" width="200" height="200" /></a>Más de un año después MPAA y RIAA [grandes estudios de cine y discográficas] del anuncio del innovador acuerdo de  lucha contra la piratería con los proveedores de Internet de Estados Unidos, las primeras cartas de advertencia aún no se han enviado. Anteriormente, julio 2012 fue señalada como la fecha de inicio, pero los responsables aún no están listos para comenzar. Mientras TorrentFreak se ha enterado de que los diferentes ISP  iniciarán la puesta en práctica en diferentes momentos, sigue siendo un misterio que empresa estará espiando a los que comparten archivos.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/throttle.jpg"><img class="alignright size-full wp-image-5237" title="throttle" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/throttle.jpg" alt="" width="200" height="200" /></a>Más de un año después MPAA y RIAA [grandes estudios de cine y discográficas] del anuncio del innovador acuerdo de  lucha contra la piratería con los proveedores de Internet de Estados Unidos, las primeras cartas de advertencia aún no se han enviado. Anteriormente, julio 2012 fue señalada como la fecha de inicio, pero los responsables aún no están listos para comenzar. Mientras TorrentFreak se ha enterado de que los diferentes ISP  iniciarán la puesta en práctica en diferentes momentos, sigue siendo un misterio que empresa estará espiando a los que comparten archivos.
 
 En algún lugar en un futuro próximo el Centro de Información para el Copyright (<a href="http://www.copyrightinformation.org/alerts">CCI</a>) comenzará a rastrear a los 'piratas' en línea como parte de un acuerdo alcanzado entre los principales proveedores de Internet de Estados Unidos y  MPAA y RIAA.
 
@@ -52,4 +52,4 @@ A pesar de que las medidas que serán impuestas por los proveedores de Internet 
 
 Fíjense que son acuerdos entre privados, no hay acción de la Justicia, ni del Estado. Sólo privados que decidirán a quien castigar o no de forma privada.
 Puedo estar descargando algo legal vía Torrent, no importa mucho.
-Si quieren saber como funciona el sistema francés de los tres avisos, acá <strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast"> charlamos con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos en Francia. </a></strong>
+Si quieren saber como funciona el sistema francés de los tres avisos, acá <strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast"> charlamos con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos en Francia. </a></strong>

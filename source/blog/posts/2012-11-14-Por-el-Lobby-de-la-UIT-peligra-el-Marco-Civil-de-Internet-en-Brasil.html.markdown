@@ -10,8 +10,8 @@ tags:
 - marco-civil
 - presion
 - uit
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
 wppost_name: por-el-lobby-de-la-uit-peligra-el-marco-civil-de-internet-en-brasil
 ---
 
@@ -28,15 +28,15 @@ Aunque defienda oficialmente la votación la próxima semana en la Cámara, el p
 Molon no encuentra acuerdo ni siquiera en el propio gobierno: después de sufrir presión del ministro de las Comunicaciones, Paulo Bernardo, para que la reglamentación de la neutralidad fuese emprendida por la Agencia Nacional de Telecomunicaciones (Anatel) -- demasiado susceptible, según el informante, al lobby de los proveedores de internet --, incluído en el texto la determinación para que fuese hecha por decreto presidencial. El cambio fue recibido por integrantes de la oposición con restricciones. "Si el gobierno tuviera un perfil minimamente autoritario, le daremos demasiado poder a la presidenta", dijo Sávio.
 
 A lo largo de todo el día, el diputado se reunió con líderes de los partidos para aclarar los puntos sensibles. Pero, lejos del consenso, el gobierno evaluó que pondria en peligro una vez más una propuesta prioritaria, por fracaso de interlocución política. "A lo largo del día hice más de 20 reuniones para intentar aclarar todas las dudas, explicar todos los términos técnicos del texto. El texto es muy técnico, no hay otra manera porque se trata de un texto sobre internet. E, infelizmente, después de todas esas 20 reuniones de trabalho, no fue posible remover todas las resistencias y aclarar todas las dudas", dijo Molon.
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/7375/sobre-la-uit-regulando-internet-presionemos-para-que-no-se-haga">Acá aclarábamos lo que se está cocinando para controlar Internet</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/7375/sobre-la-uit-regulando-internet-presionemos-para-que-no-se-haga">Acá aclarábamos lo que se está cocinando para controlar Internet</a></strong></p>
 
 Ya lograron meter en el Freezer al Marco Civil de Brasil.
 En la Argentina no sabemos quién es el que irá a <em>representarnos</em> si alguien sabe, avísenos así presionamos, evitemos que entreguen Internet, piensen que si el 8N les dolió, no sería raro que la entreguen!
-Si saben quién irá <em> representándonos</em> avísenos en los comentarios<a href="http://partidopirata.com.ar/contacto"> o envíenos un e-mail.</a>
+Si saben quién irá <em> representándonos</em> avísenos en los comentarios<a href="https://partidopirata.com.ar/contacto"> o envíenos un e-mail.</a>
 
 <hr />
 
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" target="_blank">Acá las <em>preguntas y respuestas</em> </a> sobre el Marco Civil.</strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5875/sobre-el-marco-civil-de-internet-programa-de-la-tv-de-la-universidad-de-rio-grande-do-sul" rel="external nofollow">Sobre el Marco Civil de Internet, programa de la TV de la Universidad de Río Grande do Sul | Partido Pirata</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" target="_blank">Acá las <em>preguntas y respuestas</em> </a> sobre el Marco Civil.</strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5875/sobre-el-marco-civil-de-internet-programa-de-la-tv-de-la-universidad-de-rio-grande-do-sul" rel="external nofollow">Sobre el Marco Civil de Internet, programa de la TV de la Universidad de Río Grande do Sul | Partido Pirata</a></strong></li>
 </ul>

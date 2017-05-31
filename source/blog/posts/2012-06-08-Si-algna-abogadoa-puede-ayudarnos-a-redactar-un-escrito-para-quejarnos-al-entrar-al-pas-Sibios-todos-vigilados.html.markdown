@@ -10,8 +10,8 @@ tags:
 - richard-stallman
 - sibios
 - via-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/stallman-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/stallman-150x150.png
 wppost_name: si-alguna-abogadoa-puede-ayudarnos-a-redactar-un-escrito-para-quejarnos-al-entrar-al-pais-sibios-todos-vigilados
 ---
 
@@ -46,8 +46,8 @@ Es sólo para argentinos ya que a los extranjeros pueden decirle sencillamente q
 Acá hay dos notas para presentar en Ezeiza, Aeroparque y otros lugares donde quieran tomarnos compulsivamente nuestros datos biométricos.
 Están en pdf para que impriman dos , una la presenten ante la autoridad correspondiente y la otra les quede como <em>recibo</em>:
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">Nota para presentar en Ezeiza , Aeroparte y otros lugares donde nos pidan compulsivamente nuestros datos biométricos realizada por Ramiro.</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">Nota realizada por German</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">Nota para presentar en Ezeiza , Aeroparte y otros lugares donde nos pidan compulsivamente nuestros datos biométricos realizada por Ramiro.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">Nota realizada por German</a></strong></li>
 </ul>
 
 <hr />
@@ -89,7 +89,7 @@ Presionen en <em>play</em> para escucharlo sin descargar o
 
 Este es el escrito que presentó Ramiro al entrar al país quejándose por SIBIOS y la toma compulsiva de datos biométricos de todos:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg"><img class="size-medium wp-image-4163" title="protestaingresoezeiza" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg"><img class="size-medium wp-image-4163" title="protestaingresoezeiza" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza-225x300.jpg" alt="" width="225" height="300" /></a>
 
 
 <hr />
@@ -100,7 +100,7 @@ Buenos Aires, 23/04/2012
 
 Por medio de la presente doy disconformidad con el procedimiento de toma compulsiva de datos biométricos para la conformación de una Base de Datos sobre la cual no se me ha informado adecuadamente respecto de su finalidad, seguridad y garatntías  establecidad por ley.
 Entrego la información requerida bajo protesta.
-<a href="http://partidopirata.com.ar/4162/si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-ezeiza">Más información sobre SIBIOS </a>
+<a href="https://partidopirata.com.ar/4162/si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-ezeiza">Más información sobre SIBIOS </a>
 
 <hr />
 <p style="text-align: center;"><strong>Si algún/a abogado/a quiere redactar una nota para protestar al ingresar o egresar del país por la toma compulsiva de detos biométricos, por favor, pónganse en contacto con nosotrosasí lo compartimos con todos.</strong>

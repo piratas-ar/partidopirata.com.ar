@@ -11,8 +11,8 @@ tags:
 - mineria
 - recursos-naturales
 - represion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar-150x150.jpg
 wppost_name: los-paises-queremos-ser-duenos-de-los-recursos-naturales-para-que-ganemos-todos
 ---
 
@@ -44,7 +44,7 @@ Nada cambió. Ese mismo objeto del deseo, el subsuelo, se convierte en propiedad
 
 <hr />
 
-Para entender un poco más porque los bienes comunes se transformaron en<strong><em> recursos, en propiedad</em></strong> los invito a que vean<strong><a href="http://partidopirata.com.ar/4784/en-homenaje-a-elinor-ostrom"> esta serie sobre los bienes comunes que explica un poco mejor esa <em>evolución, </em></a> y comienza con la tierra, pero termina con Internet, derecho de autor, creación de un <em>público</em> pasivo y así siguiendo...</strong>
+Para entender un poco más porque los bienes comunes se transformaron en<strong><em> recursos, en propiedad</em></strong> los invito a que vean<strong><a href="https://partidopirata.com.ar/4784/en-homenaje-a-elinor-ostrom"> esta serie sobre los bienes comunes que explica un poco mejor esa <em>evolución, </em></a> y comienza con la tierra, pero termina con Internet, derecho de autor, creación de un <em>público</em> pasivo y así siguiendo...</strong>
 
 <hr />
 <p style="text-align: center;"><strong>Luego podremos entender quienes son los dueños de los <em>recursos naturales</em> según Cristina Kirchner.</strong></p>

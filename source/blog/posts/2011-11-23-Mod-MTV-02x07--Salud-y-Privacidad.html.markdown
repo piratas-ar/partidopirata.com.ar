@@ -19,8 +19,8 @@ tags:
 - steven-dean
 - tuur-van-balen
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
 wppost_name: mod-mtv-02x07-salud-y-privacidad
 ---
 
@@ -46,4 +46,4 @@ Ronaldo Lemos coloca en la balanza salud y privacidad en la web. <strong>Ari Mei
 
 <hr />
 
-<div><a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg"><img class="alignleft size-full wp-image-954" title="Mod MTV" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="Mod MTV" width="223" height="69" /></a></div>
+<div><a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg"><img class="alignleft size-full wp-image-954" title="Mod MTV" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="Mod MTV" width="223" height="69" /></a></div>

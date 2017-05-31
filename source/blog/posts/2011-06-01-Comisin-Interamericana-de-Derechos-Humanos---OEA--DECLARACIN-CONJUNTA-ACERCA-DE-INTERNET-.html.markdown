@@ -8,12 +8,12 @@ tags:
 - divulgacion
 - oea
 - organizacion-de-estados-americanos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/oas_logo_gs.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/oas_logo_gs.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/oas_logo_gs.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/oas_logo_gs.jpg
 wppost_name: comision-interamericana-de-derechos-humanos-oea-declaracion-conjunta-acerca-de-internet
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/06/oas_logo_gs.jpg"><img class="aligncenter size-full wp-image-1095" title="oas_logo_gs" src="http://partidopirata.com.ar/wp-content/uploads/2011/06/oas_logo_gs.jpg" alt="" width="64" height="64" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/06/oas_logo_gs.jpg"><img class="aligncenter size-full wp-image-1095" title="oas_logo_gs" src="https://partidopirata.com.ar/wp-content/uploads/2011/06/oas_logo_gs.jpg" alt="" width="64" height="64" /></a>
 
 <hr />
 

@@ -10,8 +10,8 @@ tags:
 - federal
 - noticias
 - partido-pirata-aleman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/Piraten-Partei-Flagge-Logo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/Piraten-Partei-Flagge-Logo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/Piraten-Partei-Flagge-Logo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/Piraten-Partei-Flagge-Logo-150x150.jpg
 wppost_name: partido-pirata-aleman-en-la-cresta-de-la-ola-llego-al-10-de-intenciones-de-voto
 ---
 
@@ -20,7 +20,7 @@ wppost_name: partido-pirata-aleman-en-la-cresta-de-la-ola-llego-al-10-de-intenci
 
 Esta semana, el Partido Pirata alemán alcanzó un hito impresionante llegó a los dos dígitos en las encuestas para las elecciones nacionales. Con uno de cada diez alemanes que aprueba las ideas de los jóvenes del partido, los Piratas están en camino de ganar sería influencia en uno de los principales escenarios políticos del mundo.
 
-Con la histórica victoria en las elecciones del <strong><a href="http://partidopirata.com.ar/1846/el-partido-pirata-aleman-elige-diputados-en-el-parlamento-de-berlin-piratas-alemania-partidopirataaleman">Estado de Berlín al Parlamento</a></strong> hace tan sólo cuatro semanas , el Partido Pirata alemán continúa ganando impulso.
+Con la histórica victoria en las elecciones del <strong><a href="https://partidopirata.com.ar/1846/el-partido-pirata-aleman-elige-diputados-en-el-parlamento-de-berlin-piratas-alemania-partidopirataaleman">Estado de Berlín al Parlamento</a></strong> hace tan sólo cuatro semanas , el Partido Pirata alemán continúa ganando impulso.
 
 Las encuestas recientes muestran que las intenciones de votos para las Elecciones Federales del Partido Pirata es dos dígitos en todo el país. Con un 10 por ciento del total de votos, los Piratas se convertirían en el tercer partido más grande en el país si las elecciones federales se realizaran esta semana.
 
@@ -44,4 +44,4 @@ Aunque tenga sólo cinco años de vida, el Partido Pirata Alemán ya ha consegui
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg"><img class="aligncenter size-full wp-image-1847" title="berlin" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg" alt="" width="550" height="368" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg"><img class="aligncenter size-full wp-image-1847" title="berlin" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg" alt="" width="550" height="368" /></a>

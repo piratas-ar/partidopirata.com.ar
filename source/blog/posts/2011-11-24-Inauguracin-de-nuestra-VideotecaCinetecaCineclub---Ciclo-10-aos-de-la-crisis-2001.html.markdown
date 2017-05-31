@@ -12,8 +12,8 @@ tags:
 - videclub
 - multimedia
 - videoteca
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/argentina-economy-crisis.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/argentina-economy-crisis-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/argentina-economy-crisis.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/argentina-economy-crisis-150x150.jpg
 wppost_name: inauguracion-de-nuestra-videotecacinetecacineclub-ciclo-10-anos-de-la-crisis-2001
 ---
 

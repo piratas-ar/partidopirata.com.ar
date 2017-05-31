@@ -8,12 +8,12 @@ tags:
 - material-para-difusion
 - internet-brasilena
 - marco-civil
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
 wppost_name: brasil-marco-civil-de-internet-derechos-y-deberes-en-el-uso-de-internet
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg"><img class="size-full wp-image-2731" title="marcocivil" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg" alt="" width="256" height="320" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg"><img class="size-full wp-image-2731" title="marcocivil" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg" alt="" width="256" height="320" /></a>
 
 
 El Marco Civil de Internet en Brasil es un proyecto de Ley que procura establecer derechos y deberes en el uso de Internet en Brasil.

@@ -13,8 +13,8 @@ tags:
 - tuur-van-balen
 - multimedia
 - yury-gitman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
 wppost_name: mod-mtv-02x02-biotecnologia
 ---
 
@@ -62,4 +62,4 @@ Me hubiera gustado que se cuestionara un poco el concepto de <em>modernidad</em>
 ¿Hacer un conejo que brilla en la oscuridad es arte?. ¿Todo lo que está implicando la biotecnología con sus patentes en el Sur, en nuestros países está legitimado porque es posible?
 Tal vez pensar un poco más, cuestionarse si todo lo posible hay que hacerlo porque es posible.
 <p style="text-align: center;">Un libro posible:<strong><a href="http://partido-pirata.blogspot.com/2010/10/la-capitalizacion-de-la-naturaleza-y.html"> La Capitalización de la Naturaleza.</a></strong></p>
-<strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg"><img class="aligncenter size-full wp-image-954" title="Mod MTV" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="" width="223" height="69" /></a>
+<strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg"><img class="aligncenter size-full wp-image-954" title="Mod MTV" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="" width="223" height="69" /></a>

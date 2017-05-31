@@ -7,12 +7,12 @@ tags:
 - divulgacion
 - resistir
 - sinde
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa.jpg
 wppost_name: manual-de-desobediencia-a-la-ley-sinde
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa.jpg"><img class="aligncenter size-full wp-image-1006" title="Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa.jpg" alt="" width="200" height="283" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa.jpg"><img class="aligncenter size-full wp-image-1006" title="Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/Manual-de-desobediencia-a-la-Ley-Sinde_portada_completa.jpg" alt="" width="200" height="283" /></a>
 
 <strong>de Hacktivistas.net</strong>
 

@@ -18,7 +18,7 @@ wppost_name: mas-numerologia-pirata-gobierno-britanico-reconoce-que-su-ley-%e2%8
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">En esta entrada comentábamos sobre los números que se esgrimen en el <em>combate</em> a la piratería.</a></strong>
+<strong><a href="https://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">En esta entrada comentábamos sobre los números que se esgrimen en el <em>combate</em> a la piratería.</a></strong>
 
 Ahora<strong><a href="http://alt1040.com/2011/11/gobierno-britanico-reconoce-que-su-ley-anti-pirateria-se-creo-sin-evidencia" target="_blank"> leemos:</a></strong>
 
@@ -49,7 +49,7 @@ Descarga= venta perdida
 Seguirán inflando e inflando los números para hacer lobby con nuestros legisladores y políticos.
 
 Llegó el momento de nosotros hacer nuestro lobby también!!
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">La entrada sobre la <em>numerología pirata</em> en Brasil.</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">La entrada sobre la <em>numerología pirata</em> en Brasil.</a></strong></p>
 
 
 <hr />

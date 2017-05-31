@@ -12,8 +12,8 @@ tags:
 - grupo-de-reflexion-rural
 - jorge-rulli
 - monsanto
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/chart-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/chart-115x115.png
 wppost_name: horizonte-sur-analizando-el-discurso-de-la-presidente-cristina-kirchner-en-nueva-york
 ---
 
@@ -22,7 +22,7 @@ wppost_name: horizonte-sur-analizando-el-discurso-de-la-presidente-cristina-kirc
 <a href="http://www.ivoox.com/horizonte-sur-del-16-junio-2012_md_1289941_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presione en <em>descargar</em> <a href="http://www.ivoox.com/horizonte-sur-del-16-junio-2012-audios-mp3_rf_1289941_1.html" target="_blank">En el siguiente link.</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png"><img class="size-full wp-image-4793" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png" alt="" width="150" height="150" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png"><img class="size-full wp-image-4793" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/chart.png" alt="" width="150" height="150" /></a>
 
 
 <hr />
@@ -40,6 +40,6 @@ En este programa analizan el discurso de Cristina Kirchner en el Council of Amer
 <div style="text-align: center;">
 
 <strong><a href="http://www.pararelmundo.com/" target="_blank">Blog "Parar el Mundo"</a></strong>
-<strong> <a href="http://partidopirata.com.ar/4781/cristina-fernandez-de-kirchner-en-el-comite-de-colonizacion">El discurso de Cristina Kirchner del 15 de Junio.</a></strong>
+<strong> <a href="https://partidopirata.com.ar/4781/cristina-fernandez-de-kirchner-en-el-comite-de-colonizacion">El discurso de Cristina Kirchner del 15 de Junio.</a></strong>
 
 </div>

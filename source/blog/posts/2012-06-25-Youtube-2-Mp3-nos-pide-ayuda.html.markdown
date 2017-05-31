@@ -8,8 +8,8 @@ tags:
 - servicio-discontinuado
 - youtube
 - youtube-2-mp3
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/logo.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/logo-150x59.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/logo.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/logo-150x59.gif
 wppost_name: youtube-2-mp3-nos-pide-ayuda
 ---
 
@@ -59,7 +59,7 @@ Philip</em>
 
 <hr />
 
-<a href="http://www.music-clips.net/">Music-Clips</a> otro servicio que permitía obtener el audio de un video en youtube también recició una carta solicitando que dejen de utilizar ese servicio:<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/music-clips-youtube-mp3.jpg"><img class="aligncenter size-medium wp-image-4965" title="music-clips-youtube-mp3" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/music-clips-youtube-mp3-300x210.jpg" alt="" width="300" height="210" /></a>
+<a href="http://www.music-clips.net/">Music-Clips</a> otro servicio que permitía obtener el audio de un video en youtube también recició una carta solicitando que dejen de utilizar ese servicio:<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/music-clips-youtube-mp3.jpg"><img class="aligncenter size-medium wp-image-4965" title="music-clips-youtube-mp3" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/music-clips-youtube-mp3-300x210.jpg" alt="" width="300" height="210" /></a>
 
 <hr />
 

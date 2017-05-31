@@ -10,8 +10,8 @@ tags:
 - cultura-libre
 - demoscene
 - taz
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/ftw-panflet.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/ftw-panflet-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/ftw-panflet.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/ftw-panflet-150x150.jpg
 wppost_name: ftw-demoscene-8bits-asciiart-charlas-y-mas
 ---
 
@@ -20,7 +20,7 @@ Se viene el primer FTW, festival de produccion y dialogo sobre politicas neurodi
 Promete demos, ascii-art, musica 8 bits y cualquier otra frikeada que se le ocurra, un espectaculo para llevar a la nona.
 
 Estan advertidos, 1 de Dic @ Hacklab Barracas (Aristobulo del valle 1851, abajo de la bandera pirata)
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/ftw-panflet2.jpg"><img class="size-full wp-image-7579 aligncenter" title="ftw-panflet2" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/ftw-panflet2.jpg" alt="" width="529" height="791" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/ftw-panflet2.jpg"><img class="size-full wp-image-7579 aligncenter" title="ftw-panflet2" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/ftw-panflet2.jpg" alt="" width="529" height="791" /></a></p>
 
 <pre>——-//———————————[*]—————————-&gt;&gt;&gt;&gt;&gt;
 

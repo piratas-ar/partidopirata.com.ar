@@ -15,7 +15,7 @@ thumb:
 wppost_name: reportaje-a-fabricio-do-canto-del-partido-pirata-en-berlin
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg"><img title="Piraten" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg" alt="" width="511" height="707" /></a><em><strong></strong></em></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg"><img title="Piraten" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg" alt="" width="511" height="707" /></a><em><strong></strong></em></p>
 <p style="text-align: center;"><em><strong>Gaúcho</strong>. Tiene una tienda de mate, está casado con una hindú y tocó en un banda punk IMAGEN: DIVULGACIÓN</em></p>
 <em></em>
 <a href="http://blogs.estadao.com.br/link/o-infiltrado/" target="_blank"><strong>Fuente Suplemento Link "O Estado de São Paulo</strong>"</a>
@@ -28,7 +28,7 @@ Fue durante una protesta en las calles de Berlín, el año pasado, que el brasil
 
 Los piratas arañaron el 9% de los votos para las elecciones regionales de Berlín – eso les dió 15 asientos en el Parlamento. Una victoria que ni ellos, ni los políticos tradicionales, imaginaban. Fue el cuarto partido más votado – atrás apenas de la Unión Democrata Cristiana (CDU), de la canciller Angela Merkel, el Partido Verde y La Izquierda. “La principal fuerza del Partido Pirata en esas elecciones fue la transparencia, además de la insatisfacción con la política que acá se está haciendo”, explica Canto.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/Piratas.jpg"><img title="Piratas" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/Piratas.jpg" alt="Votación en el Partido Pirata Alemán." width="590" height="372" /></a><em><strong>HUB</strong>. Miembros del Partido Pirata en Berlín votan durante una reunión. Ellos tuvieron 9% de los votos en las elecciones regionales FOTO: DIVULGACIÓN</em>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/Piratas.jpg"><img title="Piratas" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/Piratas.jpg" alt="Votación en el Partido Pirata Alemán." width="590" height="372" /></a><em><strong>HUB</strong>. Miembros del Partido Pirata en Berlín votan durante una reunión. Ellos tuvieron 9% de los votos en las elecciones regionales FOTO: DIVULGACIÓN</em>
 
 El voto en Alemania no es obligatorio. Por eso, la insatisfacción con la política provocaba una apatia que se reflejaba en el alto nivel de abstención en las urnas. “Las personas estaban tan descontentas que más de la mitad no iba a votar. Y lo que pasó fue que las personas fueron a votar porque vieron una alternativa diferente.”
 
@@ -54,8 +54,8 @@ La entrevista es interrumpida por su hija, que llega pidiendo un beso y un abraz
 <a href="http://blogs.estadao.com.br/link/o-infiltrado/" target="_blank"><strong>Fuente Suplemento Link "O Estado de São Paulo</strong>"</a>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3833/podcast-con-fabricio-do-canto-del-partido-pirata-aleman">Podcast con Fabricio do Canto</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1837/podcast-con-florian-del-partido-pirata-aleman-elecciones-municipales-en-alemania">Acá charlamos con Florián del Partido Pirata Alemán.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3833/podcast-con-fabricio-do-canto-del-partido-pirata-aleman">Podcast con Fabricio do Canto</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1837/podcast-con-florian-del-partido-pirata-aleman-elecciones-municipales-en-alemania">Acá charlamos con Florián del Partido Pirata Alemán.</a></strong></p>
 
 
 <hr />

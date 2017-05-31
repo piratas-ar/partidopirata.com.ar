@@ -8,12 +8,12 @@ tags:
 - divulgacion
 - rick
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Gold-Heart-Scale.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Gold-Heart-Scale.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Gold-Heart-Scale.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Gold-Heart-Scale.jpg
 wppost_name: historia-del-copyright-parte-5-por-rick-falkvinge-derechos-morales
 ---
 
-<strong><a href="http://partido-pirata.blogspot.com/2011/04/historia-del-copyright-parte-4-por-rick.html"></a><a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/Gold-Heart-Scale.jpg"><img class="aligncenter size-medium wp-image-724" title="Gold-Heart-Scale" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/Gold-Heart-Scale-300x168.jpg" alt="" width="300" height="168" /></a><a href="http://partidopirata.com.ar/651/historia-del-copyright-parte-4-por-rick-falkvinge-los-estados-unidos-y-las-bibliotecas">Antes: Estados Unidos y las Bibliotecas.</a></strong>
+<strong><a href="http://partido-pirata.blogspot.com/2011/04/historia-del-copyright-parte-4-por-rick.html"></a><a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/Gold-Heart-Scale.jpg"><img class="aligncenter size-medium wp-image-724" title="Gold-Heart-Scale" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/Gold-Heart-Scale-300x168.jpg" alt="" width="300" height="168" /></a><a href="https://partidopirata.com.ar/651/historia-del-copyright-parte-4-por-rick-falkvinge-los-estados-unidos-y-las-bibliotecas">Antes: Estados Unidos y las Bibliotecas.</a></strong>
 
 <a href="http://falkvinge.net/2011/02/14/history-of-copyright-part-5-moral-rights/" target="_blank">Original en inglés.</a>
 
@@ -43,13 +43,13 @@ También  es importante observar que frecuentemente esos cuatro aspectos son  de
 
 Los Estados Unidos  eram contrarios a los derechos morales, hablando de eso. Ellos no firmaron la  Convención de Berna hasta el momento en que se dieron cuenta de que podrían  usarla para fortalecerse en una disputa contra Toyota, cien años  después. Hablaremos de eso en la séptima y última parte de la serie.
 
-<strong><a href="http://partidopirata.com.ar/651/historia-del-copyright-parte-4-por-rick-falkvinge-los-estados-unidos-y-las-bibliotecas">Antes: Estados Unidos y las Bibliotecas.</a></strong>
+<strong><a href="https://partidopirata.com.ar/651/historia-del-copyright-parte-4-por-rick-falkvinge-los-estados-unidos-y-las-bibliotecas">Antes: Estados Unidos y las Bibliotecas.</a></strong>
 <h3><a rel="bookmark" href="../755/historia-del-copyright-capitulo-7-secuestrado-por-pfizer">Siguiente: Secuestrado por la industria fonográfica</a></h3>
 <p style="text-align: center;"><a href="http://falkvinge.net/2011/02/14/history-of-copyright-part-5-moral-rights/" target="_blank">Original en inglés.</a><strong> </strong></p>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge">Índice General de la Historia del Copyright por Rick Falkvinge.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge">Índice General de la Historia del Copyright por Rick Falkvinge.</a></strong></p>
 
 
 <hr />

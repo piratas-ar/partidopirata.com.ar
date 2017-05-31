@@ -11,17 +11,17 @@ tags:
 - sadaic
 - senado
 - tatiana-de-mello-dias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae-150x150.jpg
 wppost_name: brasil-el-derecho-de-autor-hoy-es-anacronico-y-corrupto
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg"><img class=" wp-image-4285 " title="randolfe-ae" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg" alt="" width="273" height="186" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg"><img class=" wp-image-4285 " title="randolfe-ae" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/randolfe-ae.jpg" alt="" width="273" height="186" /></a>
 
 
 <strong><a href="http://blogs.estadao.com.br/link/o-direito-autoral-hoje-e-anacronico-e-corrupto/" target="_blank">Fuente Suplemento <em>Link</em> de O Estado de São Paulo</a></strong>
 
-<strong><a href="http://partidopirata.com.ar/4213/brasil-comision-parlamentaria-de-inviestigacion-del-ecad-sadaic-brasileno-concluye-pidiendo-mas-fiscalizacion-al-organismo-y-cambios-en-la-gestion">Sobre la Comisión Parlamentaria de Investigación</a></strong> sobre el ECAD, el SADAIC brasileño.
+<strong><a href="https://partidopirata.com.ar/4213/brasil-comision-parlamentaria-de-inviestigacion-del-ecad-sadaic-brasileno-concluye-pidiendo-mas-fiscalizacion-al-organismo-y-cambios-en-la-gestion">Sobre la Comisión Parlamentaria de Investigación</a></strong> sobre el ECAD, el SADAIC brasileño.
 
 Por Tatiana de Mello Dias
 
@@ -36,7 +36,7 @@ Si, nuestro modelo coincide. Queremos primero la institución de una instancia r
 La actual (9.610/1998) es anacrónica. es una ley de los años 70, cuando no había internet y nuevas tecnologias. Hoy (jueves), estaba con los músicos Leoni y Gustavo Anitelli, y ambos tienen una sociedad para un proyecto online en que el ciudadano pueda acceder letras de música, tablaturas para o guitarra. Y eso es algo que no existiria con la actual ley. Ella no dialoga con esas realidades. Es una burla de un tiempo que el derecho autoral hoy no reconoce más con un momento de la historia nacional, los años 90, en que un Frankenstein, el Ecad [Escritorio Central de Arrecadação de Direitos, el SADAIC brasileño], empezó a existir sin ninguna fiscalización.
 
 <strong>¿El modelo de un organismo central para recaudar y distribuir convive con internet?</strong>
-No y es por eso que la ley tiene que cambiar. Por eso nuestra ley es la quinta peor del mundo [<a href="http://partidopirata.com.ar/4235/somos-subcampeones-la-segunda-peor-ley-de-derecho-de-autor-del-mundo">la Argentina es la segunda peor del mundo</a>], según la (federación) Consumers International. No cabe a una entidad el monopolio de recaudación y distribución. Podemos incluso mantener al Ecad, pero él precisa limitarse a recaudar y distribuir. No puede ser el único detentor de derechos.
+No y es por eso que la ley tiene que cambiar. Por eso nuestra ley es la quinta peor del mundo [<a href="https://partidopirata.com.ar/4235/somos-subcampeones-la-segunda-peor-ley-de-derecho-de-autor-del-mundo">la Argentina es la segunda peor del mundo</a>], según la (federación) Consumers International. No cabe a una entidad el monopolio de recaudación y distribución. Podemos incluso mantener al Ecad, pero él precisa limitarse a recaudar y distribuir. No puede ser el único detentor de derechos.
 
 <strong>¿Sin el Ecad, quién establecerá las reglas sobre quién paga, quién cobra y los valores?</strong>
 La Secretaria de Derecho Autoral, en el Ministerio de Justicia, y eso será sometido al Consejo. es un cambio profundo. El trabajo en la secretaria será fiscalizado, todo lo que sea recaudado y distribuído será divulgado. También proponemos el fin de la recaudación por muestras. Eso, si de hecho lo conseguimos, será el fin de lo que cobran las radios para pasar canciones.

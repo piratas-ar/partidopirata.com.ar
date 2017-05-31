@@ -9,12 +9,12 @@ tags:
 - maquina-de-turing
 - rompiendo-codigos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-150x150.jpg
 wppost_name: breaking-the-code-rompiendo-codigos-telefilme-sobre-alan-turing
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg"><img class="aligncenter size-medium wp-image-3086" alt="Estampilla Turing" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-300x53.jpg" width="300" height="53" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg"><img class="aligncenter size-medium wp-image-3086" alt="Estampilla Turing" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-300x53.jpg" width="300" height="53" /></a>
 
 <hr />
 
@@ -44,7 +44,7 @@ El año pasado fue el "Año Alan Turing" ya que se cumplieron 100 años de su na
 
 Por eso intentamos impulsar que alguien realizara los subtítulos en español del telefilm-Breaking the Code-Rompiendo Códigos, del dramaturog Hugh Whitemore, sobre la vida de Alan Turing. Que se centra en el terrible tratamiento al que Turing tuvo que someterse por ser homosexual en una época en que en Gran Bretaña la homosexualidad estaba <em>prohíbida</em>.
 
-<strong><a href="http://partidopirata.com.ar/2012/02/06/reivindicando-a-alan-turing-posible-humilde-homenaje/">La convocatoria que dejamos en su momento en nuestro blog:</a></strong>
+<strong><a href="https://partidopirata.com.ar/2012/02/06/reivindicando-a-alan-turing-posible-humilde-homenaje/">La convocatoria que dejamos en su momento en nuestro blog:</a></strong>
 
 "Una petición anterior [solicitando el perdón póstumo a Alan Turing] , organizado por el experto en seguridad informática y autor, John Graham-Cumming en 2009 llevó al entonces primer ministro británico, Gordon Brown, a la emisión de una disculpa póstuma inequívoca al señor Turing en nombre del Gobierno, describiendo su tratamiento como “horrible” y “totalmente desleal “.
 

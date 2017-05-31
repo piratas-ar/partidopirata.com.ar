@@ -13,8 +13,8 @@ tags:
 - qom
 - represion
 - tierra
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios-150x150.jpg
 wppost_name: apoyo-a-la-lucha-de-indio-colalao-y-nam-qom
 ---
 

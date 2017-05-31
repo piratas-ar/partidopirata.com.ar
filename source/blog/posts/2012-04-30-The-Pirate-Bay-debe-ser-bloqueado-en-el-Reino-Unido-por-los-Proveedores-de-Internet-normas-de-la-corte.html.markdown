@@ -9,14 +9,14 @@ tags:
 - denuncias
 - reino-unido
 - the-pirate-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: the-pirate-bay-debe-ser-bloqueado-en-el-reino-unido-por-los-proveedores-de-innternet-normas-de-la-corte
 ---
 
 <a href="https://twitter.com/#!/nicoffff" target="_blank">Nos lo avisa Nicoff vía twitter.</a>
 
-<strong><a href="http://www.bbc.com/news/technology-17894176#TWEET134932" target="_blank">Fuente BBC</a><a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a></strong>
+<strong><a href="http://www.bbc.com/news/technology-17894176#TWEET134932" target="_blank">Fuente BBC</a><a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a></strong>
 El sitio de intercambio de archivos The Pirate Bay debe ser bloqueado por los proveedores de servicios de Internet en el Reino Unido, lo sentenció el Tribunal Supremo.
 
 El website aloja enlaces para descargar gratuitamente música  y vídeos pirateados en su mayoría.

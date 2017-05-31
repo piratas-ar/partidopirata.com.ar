@@ -11,8 +11,8 @@ tags:
 - mali
 - neocolonialismo
 - uranio
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon-150x150.png
 wppost_name: guerras-contra-el-terrorismo-uranio-y-neocolonialismo-exposicion-en-el-parlamento-belga
 ---
 

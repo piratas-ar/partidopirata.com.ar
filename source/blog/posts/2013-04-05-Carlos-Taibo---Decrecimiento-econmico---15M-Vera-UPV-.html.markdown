@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - radio-2
 - vivir-bien
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/decrecimiento.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/decrecimiento-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/decrecimiento.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/decrecimiento-150x150.jpg
 wppost_name: carlos-taibo-decrecimiento-economico-15m-vera-upv
 ---
 
@@ -31,7 +31,7 @@ Pensando en los próximos y, lamentáblemente, largamente anunciados desastres y
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/carlos-taibo-decrecimiento-economico-15m-vera_md_1923958_1.mp3" target="_blank">Si quieren descargar el archivo del audio de la conferencia</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart3.png"><img class="size-full wp-image-9011" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart3.png"><img class="size-full wp-image-9011" alt="Código QR de la dirección del archivo mp3" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 
 &nbsp;
@@ -40,7 +40,7 @@ Pensando en los próximos y, lamentáblemente, largamente anunciados desastres y
 
 Acá está el libro de Raúl Taibo Decrecimiento, Crisis, Capitalismo <strong><a href="http://estaleiroeditora.blogaliza.org/files/2010/09/descrecimento_web.pdf" target="_blank">pero está en portugués, es un pdf</a> </strong>si lo encuentran en español por ahí avisen!
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/decrecimiento.jpg"><img class="aligncenter size-medium wp-image-9012" alt="decrecimiento" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/decrecimiento-300x155.jpg" width="300" height="155" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/decrecimiento.jpg"><img class="aligncenter size-medium wp-image-9012" alt="decrecimiento" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/decrecimiento-300x155.jpg" width="300" height="155" /></a>
 
 &nbsp;
 

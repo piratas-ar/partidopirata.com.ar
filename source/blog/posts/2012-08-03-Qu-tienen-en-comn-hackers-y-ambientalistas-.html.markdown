@@ -11,8 +11,8 @@ tags:
 - patentamiento
 - patentes
 - semillas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl-150x90.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl-150x90.jpg
 wppost_name: que-tienen-en-comun-hackers-y-ambientalistas
 ---
 

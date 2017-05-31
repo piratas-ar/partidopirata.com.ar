@@ -11,14 +11,14 @@ tags:
 - torguard
 - torrentfreak
 - vpn
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/paypal.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/paypal-150x118.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/paypal.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/paypal-150x118.png
 wppost_name: paypal-bloquea-proveedor-vpn-amigable-con-torrents
 ---
 
 <strong><a href="https://torrentfreak.com/paypal-bans-bittorrent-friendly-vpn-provider-120622/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-PayPal es ampliamente conocido por su postura agresiva hacia los sitios de BitTorrent y los servicios de intercambio de archivos, y esta política se ha extendido ahora a los proveedores de VPN. a TorGuard, una empresa que ofrece servicios de VPN y proxy, se le prohibió el uso del procesador de pago a causa de su asociación con "BitTorrent". Como resultado, miles de dólares pertenecientes a la empresa han sido congelados.<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/paypal.png"><img class="alignright size-full wp-image-4908" title="paypal" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/paypal.png" alt="" width="200" height="118" /></a>
+PayPal es ampliamente conocido por su postura agresiva hacia los sitios de BitTorrent y los servicios de intercambio de archivos, y esta política se ha extendido ahora a los proveedores de VPN. a TorGuard, una empresa que ofrece servicios de VPN y proxy, se le prohibió el uso del procesador de pago a causa de su asociación con "BitTorrent". Como resultado, miles de dólares pertenecientes a la empresa han sido congelados.<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/paypal.png"><img class="alignright size-full wp-image-4908" title="paypal" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/paypal.png" alt="" width="200" height="118" /></a>
 
 En respuesta a las nuevas iniciativas de vigilancia de Internet hay un creciente interés en los servicios de protección de la intimidad, tales como redes privadas virtuales <a href="http://torrentfreak.com/which-vpn-providers-really-take-anonymity-seriously-111007/">[VPNs] y proxies</a>.
 

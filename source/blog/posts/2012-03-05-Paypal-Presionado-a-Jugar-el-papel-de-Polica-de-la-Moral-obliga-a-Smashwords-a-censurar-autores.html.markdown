@@ -9,8 +9,8 @@ tags:
 - paypal
 - tarjetas-de-credito
 - techdirt
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
 wppost_name: paypal-presionado-a-jugar-el-papel-de-policia-de-la-moral-obliga-a-smashwords-a-censurar-autores
 ---
 

@@ -9,8 +9,8 @@ tags:
 - notificacion-y-borrado
 - taringa
 - techdirt
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa-115x115.jpg
 wppost_name: los-peligros-del-notice-and-take-down-o-notificacion-y-retiro
 ---
 
@@ -25,7 +25,7 @@ Ese sistema está produciendo muchísimos abusos por parte de los que dicen que 
 En Google, por ejemplo:
 
 "La ola masiva de soliditud de borrados de enlaces por la DMCA[ley de copyright de EE.UU.]  enviadas por los titulares de derechos a Google en los últimos meses está creciendo a un ritmo asombroso. Durante el mes pasado, el número de solicitudes recibidas para borrar links por el  gigante de las búsquedas se duplicó a casi 1,5 millones de URLs por semana. Para poner esto en perspectiva, hace exactamente un año el número de solicitudes de borrado de  URL eran sólo 131.577 por semana, con un incremento de 1.137%."
-<a href="http://partidopirata.com.ar/6168/las-solicitudes-a-google-para-borrar-respuestas-subieron-hasta-un-100-en-un-mes-y-1137-desde-2011"> Las solicitudes a Google para borrar respuestas subieron hasta un 100% en un mes y 1137% desde 2011</a>
+<a href="https://partidopirata.com.ar/6168/las-solicitudes-a-google-para-borrar-respuestas-subieron-hasta-un-100-en-un-mes-y-1137-desde-2011"> Las solicitudes a Google para borrar respuestas subieron hasta un 100% en un mes y 1137% desde 2011</a>
 
 En general existe una desproporción entre el poder de un lado, estudios de cine, discográficas, editoriales y e lde un simple usuario.
 

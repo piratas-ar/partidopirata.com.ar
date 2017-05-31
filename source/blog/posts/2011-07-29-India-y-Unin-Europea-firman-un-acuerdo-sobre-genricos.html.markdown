@@ -9,12 +9,12 @@ tags:
 - india
 - medicamentos
 - union-europea
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/medicamentos-genericos.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/medicamentos-genericos.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/medicamentos-genericos.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/medicamentos-genericos.jpg
 wppost_name: india-y-union-europea-firman-un-acuerdo-sobre-genericos
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/07/medicamentos-genericos.jpg"><img class="aligncenter size-medium wp-image-1528" title="medicamentos-genericos" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/medicamentos-genericos-300x204.jpg" alt="" width="300" height="204" /></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/07/medicamentos-genericos.jpg"><img class="aligncenter size-medium wp-image-1528" title="medicamentos-genericos" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/medicamentos-genericos-300x204.jpg" alt="" width="300" height="204" /></a>
 <strong><a href="http://www.bea.org.ar/2011/02/lo-que-vendra-los-tlc-que-firma-la-union-europea/#more-1370" target="_blank">Pensando en el posible acuerdo Mercosur - Unión Europea</a> lo que está negociando la India y la Unión:</strong></p>
 <strong><a href="http://www.estadao.com.br/estadaodehoje/20110729/not_imp751507,0.php" target="_blank">Fuente Diario "O Estado de São Paulo"</a></strong>
 
@@ -46,7 +46,7 @@ Polémica. Para la ONG Médicos Sin Frontera, aceptar un acuerdo es prematuro, p
 
 Pensemos entonces qué es lo que se está negociando en la Unión Europea. Sobre todo el posible acuerdo Unión Europea- Mercosur.
 
-Algo más sobre los acuerdos comerciales y los derechos de autor en esta charla con<strong> <a href="http://partidopirata.com.ar/1518/charla-con-geraldine-juarez-de-mexico-sobre-el-acta-y-formas-de-organizarse-para-oponerse-a-lo-que-viene">Geraldine Juárez de México.</a></strong>
+Algo más sobre los acuerdos comerciales y los derechos de autor en esta charla con<strong> <a href="https://partidopirata.com.ar/1518/charla-con-geraldine-juarez-de-mexico-sobre-el-acta-y-formas-de-organizarse-para-oponerse-a-lo-que-viene">Geraldine Juárez de México.</a></strong>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><strong><a href="http://www.bea.org.ar/2011/02/lo-que-vendra-los-tlc-que-firma-la-union-europea/#more-1370" target="_blank">Sobre el acuerdo Mercosur - Unión Europea</a> </strong></p>
 

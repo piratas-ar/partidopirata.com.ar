@@ -9,8 +9,8 @@ tags:
 - noticias
 - traduccion
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
 wppost_name: mirrors-de-wikileaks
 ---
 

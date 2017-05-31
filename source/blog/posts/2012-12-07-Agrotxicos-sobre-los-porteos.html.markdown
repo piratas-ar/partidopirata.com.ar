@@ -10,8 +10,8 @@ tags:
 - nube-toxica
 - paren-de-fumigar
 - union-carbide
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: agrotoxicos-sobre-los-portenos
 ---
 
@@ -51,6 +51,6 @@ El verdadero responsable es un modelo agrícola altamente dependiente de insumos
 
 Evidentemente el argumento del “hambre en el mundo” ya no resiste el menor análisis. Llevan 70 años argumentando quecon los agrotóxicos se solucionaría el hambre en el mundo. Las plagas siguen igual que antes. Y las personas, enfermas.
 “Levemente tóxico” se leía en los script de los canales informativos. ¿Levemente tóxico? ¿Existe tal cosa? Quizás salte finalmente la penosa alarma cuando haya personas “levemente muertas”.
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/7606/3-de-diciembre-dia-mundial-por-el-no-uso-de-plaguicidas">Bophal?? Noo..Buenos Aires...</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/7606/3-de-diciembre-dia-mundial-por-el-no-uso-de-plaguicidas">Bophal?? Noo..Buenos Aires...</a></strong></p>
 <p style="text-align: center;"><strong>...¡PAREN DE FUMIGAR..PAREN DE ENFERMAR...PAREN DE MATAR...!</strong></p>
 <p style="text-align: center;"><strong>Por favor difundir...Gracias...!Mechi</strong></p>

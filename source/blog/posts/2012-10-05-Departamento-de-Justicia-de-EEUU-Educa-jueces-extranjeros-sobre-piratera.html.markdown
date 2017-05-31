@@ -12,8 +12,8 @@ tags:
 - lobby
 - megaupload
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/doj.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/doj-150x100.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/doj.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/doj-150x100.png
 wppost_name: departamento-de-justicia-de-ee-uu-educa-jueces-extranjeros-sobre-pirateria
 ---
 
@@ -23,7 +23,7 @@ El Departamento de Justicia de EE.UU. está ampliando su batalla contra la pirat
 
 Esta semana, el Departamento de Justicia de EE.UU. otorgó<a href="http://www.justice.gov/opa/pr/2012/October/12-ag-1198.html">u$s2.4 millones en subvenciones</a> para que continúe en curso su "guerra contra la piratería".
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/doj.png"><img class="alignright size-full wp-image-6742" title="Departamento de Justicia de EE.UU." src="http://partidopirata.com.ar/wp-content/uploads/2012/10/doj.png" alt="" width="200" height="100" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/doj.png"><img class="alignright size-full wp-image-6742" title="Departamento de Justicia de EE.UU." src="https://partidopirata.com.ar/wp-content/uploads/2012/10/doj.png" alt="" width="200" height="100" /></a>
 
 El dinero va a hacer posible que los departamentos de policía le dediquen más personal a luchar contra el "robo" de la propiedad intelectual , y a contrarrestar la reclamada devastación de las vidas individuales y las empresas legítimas que viene con él.
 "Sin duda, estas nuevas inversiones llegan en un momento crítico. A medida que nuestro país continúa recuperándose de una  generación de desafíos económicos, la necesidad de defender los derechos de propiedad intelectual - y proteger a los estadounidenses del robo de su propiedad intelectual - nunca ha sido más urgente ", <a href="http://www.justice.gov/iso/opa/ag/speeches/2012/ag-speech-121003.html">dijo</a> el Fiscal General Eric Holder.

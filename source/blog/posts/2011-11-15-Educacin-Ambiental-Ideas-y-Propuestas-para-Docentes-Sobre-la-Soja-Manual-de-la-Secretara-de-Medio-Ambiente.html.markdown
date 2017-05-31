@@ -10,8 +10,8 @@ tags:
 - medio-ambiente
 - monsanto
 - soja
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/soja.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/soja-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/soja.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/soja-150x150.jpg
 wppost_name: educacion-ambiental-ideas-y-propuestas-para-docentes-sobre-la-soja-manual-de-la-secretaria-de-medio-ambiente
 ---
 
@@ -64,7 +64,7 @@ Como no sabemos cuánto durarán, también los encuentran también en:
 </ol>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2258/un-manual-oficial-advierte-que-la-mineria-destruye-y-contamina">Acá estaba lo que decía Clarín sobre los capítulos dedicados a la minería a cielo abierto.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2258/un-manual-oficial-advierte-que-la-mineria-destruye-y-contamina">Acá estaba lo que decía Clarín sobre los capítulos dedicados a la minería a cielo abierto.</a></strong></p>
 <p style="text-align: center;"><strong></strong><strong><a href="http://www.clarin.com/zona/oficial-advierte-mineria-destruye-contamina_0_590341149.html" target="_blank"> Acá la nota de Clarín</a></strong> ahora a Clarín no le llamó la atención lo de la<strong> soja</strong>, si lo de la minería a cielo abierto...</p>
 
 
@@ -84,4 +84,4 @@ Como no sabemos cuánto durarán, también los encuentran también en:
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg"><img class="size-full wp-image-191 aligncenter" title="mercado_de_libros" src="http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg" alt="" width="400" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg"><img class="size-full wp-image-191 aligncenter" title="mercado_de_libros" src="https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg" alt="" width="400" height="300" /></a>

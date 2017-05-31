@@ -11,8 +11,8 @@ tags:
 - privacidad
 - proyecto-de-ley
 - telecomunicaciones
-image: http://partidopirata.com.ar/wp-content/uploads/2014/11/argentina-digital.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/11/argentina-digital-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2014/11/argentina-digital.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/11/argentina-digital-150x150.png
 wppost_name: recomendaciones-para-el-exito-de-argentina-digital
 ---
 

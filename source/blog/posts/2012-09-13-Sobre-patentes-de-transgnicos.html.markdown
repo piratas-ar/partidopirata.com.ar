@@ -13,8 +13,8 @@ tags:
 - pueblos-fumigados
 - rio-grande-do-sul
 - soja
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto-150x150.jpg
 wppost_name: sobre-patentes-de-transgenicos
 ---
 
@@ -32,7 +32,7 @@ wppost_name: sobre-patentes-de-transgenicos
 <p align="JUSTIFY">Dado que los agricultores y las poblaciones linderas a explotaciones rurales</p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754.jpg"><img class="size-full wp-image-6467" title="biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754.jpg" alt="" width="610" height="535" /></a> Alimentos Transgénicos,
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754.jpg"><img class="size-full wp-image-6467" title="biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754.jpg" alt="" width="610" height="535" /></a> Alimentos Transgénicos,
 
 <p align="JUSTIFY">no ganan en sus demandas contra Monsanto, es natural que cuando <a href="http://noticiasdeabajo.wordpress.com/2012/06/03/los-agricultores-mexicanos-logran-bloquear-una-ley-que-pretendia-privatizar-plantas-y-semillas/">sí lo hacen sea motivo de alegría y celebración</a>. En estos momentos, los agricultores de Brasil están de enhorabuena porque han ganado el caso contra la multinacional norteamericana en un asunto de derechos que suponían una injusticia.</p>
 <p align="JUSTIFY">En Brasil, cinco millones de agricultores, grandes y pequeños, se unieron para presentar una demanda colectiva contra Monsanto, hace ya cuatro años. La han ganado, aunque Monsanto todavía puede apelar ante la Corte Suprema del país. Las multinacional estadounidense exigía el 2% para acceder a los derechos de cultivo, aunque las patentes ya hubiesen expirado hace mucho tiempo. Brasil es el segundo mayor productor de soja del mundo y una abrumadora mayoría de agricultores utilizan las semillas transgénicas de Monsanto.</p>

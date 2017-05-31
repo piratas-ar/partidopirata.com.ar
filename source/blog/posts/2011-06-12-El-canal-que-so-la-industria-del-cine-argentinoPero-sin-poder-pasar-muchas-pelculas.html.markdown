@@ -8,12 +8,12 @@ tags:
 - incaa
 - incaa-tv
 - mica-2011
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/logo.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/logo.png
 wppost_name: el-canal-que-sono-la-industria-del-cine-argentino-pero-sin-poder-pasar-muchas-peliculas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/06/logo.png"><img class="aligncenter size-medium wp-image-1173" title="logo" src="http://partidopirata.com.ar/wp-content/uploads/2011/06/logo-300x130.png" alt="" width="300" height="130" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/06/logo.png"><img class="aligncenter size-medium wp-image-1173" title="logo" src="https://partidopirata.com.ar/wp-content/uploads/2011/06/logo-300x130.png" alt="" width="300" height="130" /></a>
 
 <strong><a href="http://partido-pirata.blogspot.com/2011/06/mica-derecho-de-autor-e-industrias.html" target="_blank">Al final del debate sobre derecho de autor en el MICA 2011-Mercado de Industrias Culturales</a> </strong>un director de cine dice que los verdaderos piratas son los que vendieron de por vida los derechos de varias películas argentinas.
 

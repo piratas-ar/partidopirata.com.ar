@@ -15,15 +15,15 @@ tags:
 - pirata
 - protestas
 - tunez
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/piratatunez-300x300.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/piratatunez-300x300.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/piratatunez-300x300.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/piratatunez-300x300.jpg
 wppost_name: miembros-del-partido-pirata-de-tunez-detenidos
 ---
 
 <em>Comunicado de prensa</em>
 <strong>Partidos Piratas alrededor del mundo condenan los injustos arrestos en Túnez de miembros del Partido Pirata y activistas por la libertad de expresión.</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/01/piratatunez.jpg"><img class="alignleft size-medium wp-image-409" title="Partido Pirata de Túnez" src="http://partidopirata.com.ar/wp-content/uploads/2011/01/piratatunez-300x300.jpg" alt="" width="300" height="300" /></a>Desde mediados de diciembre del 2010, olas de protestas han recorrido Túnez en las que, alrededor del país, la gente ha expresado su descontento con el gobierno de Zineel-Abidine Ben Ali, el actual presidente.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/01/piratatunez.jpg"><img class="alignleft size-medium wp-image-409" title="Partido Pirata de Túnez" src="https://partidopirata.com.ar/wp-content/uploads/2011/01/piratatunez-300x300.jpg" alt="" width="300" height="300" /></a>Desde mediados de diciembre del 2010, olas de protestas han recorrido Túnez en las que, alrededor del país, la gente ha expresado su descontento con el gobierno de Zineel-Abidine Ben Ali, el actual presidente.
 
 Los Partidos Piratas de varios paises [1] deploran las reacciones violentas de las agencias de la ley contra los tunecinos y denuncian los arrestos y desapariciones de varios bloggeros, artistas, activistas y disidentes politicos en Túnez.
 

@@ -10,8 +10,8 @@ tags:
 - posperiodista
 - rio-20
 - tecnopolitica
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/ve857ltzzkfz66m4s70w_reasonably_small.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/ve857ltzzkfz66m4s70w_reasonably_small-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/ve857ltzzkfz66m4s70w_reasonably_small.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/ve857ltzzkfz66m4s70w_reasonably_small-115x115.png
 wppost_name: conversando-con-bernardo-gutierrez
 ---
 
@@ -20,7 +20,7 @@ wppost_name: conversando-con-bernardo-gutierrez
 <strong> <a href="http://www.ivoox.com/con-bernardo-gutierrez_md_1407361_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a></strong>
 <strong> Si el link anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/con-bernardo-gutierrez-audios-mp3_rf_1407361_1.html" target="_blank">en este enlace.</a></strong></center>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart1.png"><img class="size-full wp-image-6323" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart1.png"><img class="size-full wp-image-6323" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />
@@ -61,7 +61,7 @@ Action Man -Para que salgamos todos!!
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los otros podcast del Partido Pirata Argentino.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los otros podcast del Partido Pirata Argentino.</a></strong></p>
 
 
 <hr />

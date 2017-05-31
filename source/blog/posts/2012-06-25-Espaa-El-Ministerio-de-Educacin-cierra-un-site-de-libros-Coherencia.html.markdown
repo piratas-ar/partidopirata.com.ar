@@ -9,12 +9,12 @@ tags:
 - espana
 - vagos
 - vagos-es-ley-sinde
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/vagos-logo-v4.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/vagos-logo-v4-150x73.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/vagos-logo-v4.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/vagos-logo-v4-150x73.gif
 wppost_name: espana-el-ministerio-de-educacion-cierra-un-site-de-libros-coherencia
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/vagos-logo-v4.gif"><img class="alignright size-full wp-image-4949" title="vagos-logo-v4" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/vagos-logo-v4.gif" alt="Logo de Vagos" width="296" height="73" /></a><strong><a href="https://twitter.com/#Scotta82" target="_blank">Nos lo avisa Alejando vía twitter.</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/vagos-logo-v4.gif"><img class="alignright size-full wp-image-4949" title="vagos-logo-v4" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/vagos-logo-v4.gif" alt="Logo de Vagos" width="296" height="73" /></a><strong><a href="https://twitter.com/#Scotta82" target="_blank">Nos lo avisa Alejando vía twitter.</a></strong>
 <strong> Si van al site de <a href="http://www.vagos.es/forum.php" target="_blank">Vagos.es</a></strong>
 <strong> Encontrán el siguiente anuncio:</strong>
 
@@ -32,10 +32,10 @@ Fuente <strong><a href="http://www.vagos.es/forum.php" target="_blank">Vagos.es<
 <hr />
 
 El Ministerio de Educación y la institución que <em>cuida</em> de los <strong><em>Derechos Reprográficos</em> en España</strong> cierran un site. Así que es posible suponer que habría muchos enlaces (el site no almacenaba nada, sólo tenía enlaces) a libros.
-Como en la Argentina con la denuncia a Taringa, como en Brasil con <strong><a href="http://partidopirata.com.ar/tag/livros-de-humanas">Livros de Humanas</a></strong> son los que reciben algo con el comercio de los libros los que salen a trabar y censurar.
+Como en la Argentina con la denuncia a Taringa, como en Brasil con <strong><a href="https://partidopirata.com.ar/tag/livros-de-humanas">Livros de Humanas</a></strong> son los que reciben algo con el comercio de los libros los que salen a trabar y censurar.
 Es imposible no pensar en las hogueras de libros de los gobiernos autoritarios. Ahora no es el dictador de turno quien está quemándolos sino instituciones que ven que su modelo de negocios está totalmente superado.
 Recuerden siempre que el autor les importa muy muy poco a estas instituciones.
-<strong><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">Si en la Argentina hasta hay un proyecto de ley para que el Estado les pague una jubilación </a></strong>....(el famoso <em>Derecho de autor</em> no les alcanza para vivir a una gran mayoría)
+<strong><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">Si en la Argentina hasta hay un proyecto de ley para que el Estado les pague una jubilación </a></strong>....(el famoso <em>Derecho de autor</em> no les alcanza para vivir a una gran mayoría)
 
 Ahora el Ministerio de Educación apoyando que se cierren lugares de libros...
 

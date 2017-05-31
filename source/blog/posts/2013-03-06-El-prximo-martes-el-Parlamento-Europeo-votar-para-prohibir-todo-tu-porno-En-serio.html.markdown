@@ -8,8 +8,8 @@ tags:
 - imagen-de-la-mujer
 - pornografia
 - union-europea
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: el-proximo-martes-el-parlamento-europeo-votara-para-prohibir-todo-tu-porno-en-serio
 ---
 

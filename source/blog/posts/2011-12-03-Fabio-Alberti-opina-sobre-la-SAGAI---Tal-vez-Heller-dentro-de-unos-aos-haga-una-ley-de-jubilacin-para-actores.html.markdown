@@ -9,8 +9,8 @@ tags:
 - fabio-alberti
 - sagai
 - sociedades-de-gestion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/biondi_laberinto.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/biondi_laberinto-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/biondi_laberinto.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/biondi_laberinto-150x150.png
 wppost_name: fabio-alberti-opina-sobre-la-sagai-tal-vez-heller-dentro-de-unos-anos-haga-una-ley-de-jubilacion-para-actores
 ---
 
@@ -69,7 +69,7 @@ Toda la entrevista a Fabio Alberti en el programa "Yo No Bajo"
 Tal vez Fabio Alberti y otros artistas deberían pensar qué intereses son los que representan las entidades de gestión.
 
 Por lo que dice Fabio Alberti, la SAGAI no defiende sus intereses, para algunos (o tal vez muchos) músicos SADAIC tampoco los representa, así como Argentores no representa a los escritores.
-<p style="text-align: center;">No sería extraño que dentro de algunos años algún diputado, no se si Heller, presente un proyecto de ley para dar una jubilación a los actores que no la tengan ,<strong><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii" target="_blank"> así como se presentó el proyecto de ley para darles una jubilación a los escritores que no la tengan.</a></strong></p>
+<p style="text-align: center;">No sería extraño que dentro de algunos años algún diputado, no se si Heller, presente un proyecto de ley para dar una jubilación a los actores que no la tengan ,<strong><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii" target="_blank"> así como se presentó el proyecto de ley para darles una jubilación a los escritores que no la tengan.</a></strong></p>
 <p style="text-align: center;"><strong>¿No será hora de repensar las sociedades de gestión?, ¿de repensar estos "<em>derechos" </em>?</strong></p>
 &nbsp;
 
@@ -97,4 +97,4 @@ Sabemos todo lo que se emite de TV argentina en USA!!! .. La balanza será negat
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/biondi_laberinto.png"><img class="aligncenter size-full wp-image-2476" title="biondi_laberinto" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/biondi_laberinto.png" alt="Laberinto de derechos" width="462" height="424" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/biondi_laberinto.png"><img class="aligncenter size-full wp-image-2476" title="biondi_laberinto" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/biondi_laberinto.png" alt="Laberinto de derechos" width="462" height="424" /></a>

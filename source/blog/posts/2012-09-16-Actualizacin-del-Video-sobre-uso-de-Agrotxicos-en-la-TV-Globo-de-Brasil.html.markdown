@@ -19,8 +19,8 @@ tags:
 - pequenos-agricultores
 - tv-globo
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto-150x150.jpg
 wppost_name: actualizacion-del-video-sobre-uso-de-agrotoxicos-en-la-tv-globo-de-brasil
 ---
 
@@ -42,7 +42,7 @@ wppost_name: actualizacion-del-video-sobre-uso-de-agrotoxicos-en-la-tv-globo-de-
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/vlcsnap-2012-09-16-16h59m20s56.png"><img class="size-full wp-image-6498" title=" Aldair Gomes Costa, gerente da empresa," src="http://partidopirata.com.ar/wp-content/uploads/2012/09/vlcsnap-2012-09-16-16h59m20s56.png" alt="" width="480" height="360" /></a> <strong>José Aldair Gomes Costa, gerente agrícola de la empresa acusado de mandar a matar a José María Xavier</strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/vlcsnap-2012-09-16-16h59m20s56.png"><img class="size-full wp-image-6498" title=" Aldair Gomes Costa, gerente da empresa," src="https://partidopirata.com.ar/wp-content/uploads/2012/09/vlcsnap-2012-09-16-16h59m20s56.png" alt="" width="480" height="360" /></a> <strong>José Aldair Gomes Costa, gerente agrícola de la empresa acusado de mandar a matar a José María Xavier</strong>
 
 
 En el final de la segunda parte nos enteramos que a José María Xavier lo mataron y que uno de los acusados es<strong> José Aldair Gomes Costa</strong>, gerente agrícola de la empresa.
@@ -75,7 +75,7 @@ Pensemos en otras alternativas, así la cosa no puede funcionar, o funcionará c
 El programa también habla de cantidades mínimas de agrotóxicos que son permitidas en el agua, pero no dice nada sobre lo que produce la ingesta cotidiana de esos productos en nuestro organismo.
 <p style="text-align: center;"><strong>¿Qué pasa si uno es envenenado de a poco con estos productos?</strong></p>
 <p style="text-align: center;"><strong>Y pensando en lo que dice en el primer video el conductor, de una "guerra" que se combate con armas, la idea de la agricultura como guerra, algo así es lo que se planteaba en este documental</strong>:</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6277/soluciones-locales-para-un-desorden-global-documental-para-el-fin-de-semana">Soluciones Globales para un desastre local</a> con las alternativas para zafar de ese concepto!</strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6277/soluciones-locales-para-un-desorden-global-documental-para-el-fin-de-semana">Soluciones Globales para un desastre local</a> con las alternativas para zafar de ese concepto!</strong></p>
 
 
 <hr />
@@ -96,4 +96,4 @@ Ahora si ven al programa descubrirán que no es tan así el sistema modelo...O q
 
 <hr />
 <p style="text-align: center;"><strong>Este es el <em>modelo</em> que imponen en nuestro país empresas como Monsanto por eso convocamos para mañana al :</strong>
-<strong> <a href="http://partidopirata.com.ar/6393/el-17-de-setiembre-dia-de-accion-mundial-contra-monsanto">Día de Acción Mundial Contra Monsanto, fíjense las actividades en Buenos Aires, Córdoba y Tucumán.</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/6393/el-17-de-setiembre-dia-de-accion-mundial-contra-monsanto">Día de Acción Mundial Contra Monsanto, fíjense las actividades en Buenos Aires, Córdoba y Tucumán.</a></strong></p>

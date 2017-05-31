@@ -12,8 +12,8 @@ tags:
 - profesor-seralini
 - somos-todos-conejillos-de-indias
 - transgenicos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/affiche-tous-cobayes.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/affiche-tous-cobayes-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/affiche-tous-cobayes.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/affiche-tous-cobayes-150x150.jpg
 wppost_name: todos-somos-conejillos-de-indias-tous-cobayes-documental-de-jean-paul-jaud
 ---
 
@@ -66,9 +66,9 @@ Nuestros Hijos Nos Acusarán :</center><iframe src="http://www.youtube.com/embed
 <p style="text-align: center;"><strong>Ppirataargentino#gmail.com</strong>
 <strong> (reemplacen # por @)</strong>
 <strong> O dejen el link en los comentarios e intentaremos armar un equipo para hacerle los subtítulos.</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6628/alerta-organismos-geneticamente-modificados-documental"> Otro documental, este si con subtítulos, sobre el tema.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6628/alerta-organismos-geneticamente-modificados-documental"> Otro documental, este si con subtítulos, sobre el tema.</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/affiche-tous-cobayes.jpg"><img class="size-full wp-image-6610 aligncenter" title="affiche-tous-cobayes" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/affiche-tous-cobayes.jpg" alt="" width="640" height="480" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/affiche-tous-cobayes.jpg"><img class="size-full wp-image-6610 aligncenter" title="affiche-tous-cobayes" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/affiche-tous-cobayes.jpg" alt="" width="640" height="480" /></a>

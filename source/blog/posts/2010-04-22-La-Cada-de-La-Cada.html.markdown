@@ -16,8 +16,8 @@ tags:
 - parodia
 - use
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/censored-youtube.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/censored-youtube.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/censored-youtube.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/censored-youtube.jpg
 wppost_name: la-caida-de-la-caida
 ---
 

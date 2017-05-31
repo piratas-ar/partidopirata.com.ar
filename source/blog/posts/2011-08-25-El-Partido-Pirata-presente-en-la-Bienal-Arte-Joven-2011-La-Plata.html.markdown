@@ -13,8 +13,8 @@ tags:
 - ley-lleras
 - musica
 - sinde
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/logo-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/logo-150x150.png
 wppost_name: el-partido-pirata-presente-en-la-bienal-arte-joven-2011-la-plata
 ---
 

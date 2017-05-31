@@ -8,8 +8,8 @@ tags:
 - no-a-las-rejas
 - parque-centenario
 - rejas-en-el-parque-centenario
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/sentencia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/sentencia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/sentencia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/sentencia-150x150.jpg
 wppost_name: comunicado-de-prensa-de-la-asamblea-del-parque-centenario-en-defensa-del-espacio-publico
 ---
 
@@ -92,6 +92,6 @@ para sumar adhesiones -&gt; <a href="mailto:parquesinrejas@gmail.com">parquesinr
 
 Medida Precautoria dictada por la justicia:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/sentencia.jpg"><img class="aligncenter size-full wp-image-8346" alt="sentencia" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/sentencia.jpg" width="600" height="800" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/sentencia.jpg"><img class="aligncenter size-full wp-image-8346" alt="sentencia" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/sentencia.jpg" width="600" height="800" /></a>
 
 &nbsp;

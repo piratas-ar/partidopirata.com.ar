@@ -11,8 +11,8 @@ tags:
 - privacidad-fuera-de-linea
 - privacidad-online
 - rick-falkinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/letters.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/letters-150x147.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/letters.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/letters-150x147.jpg
 wppost_name: por-que-los-valores-de-la-privacidad-fuera-de-internet-deben-sobrevivir-en-la-era-digital
 ---
 
@@ -20,7 +20,7 @@ wppost_name: por-que-los-valores-de-la-privacidad-fuera-de-internet-deben-sobrev
 
 Siempre que los piratas demandan el derecho de enviar cualquier cosa a quien sea sin ser rastreados, de alguna manera somos acusados de querer cosas gratis. Eso no es verdad. Lo que pedimos es más simple: pedimos que las leyes se apliquen de igual forma online y offline; pedimos que nuestros hijos hereden las libertades civiles por las que nuestros padres pelearon, sangraron y muchas veces murieron por darnos. Es un pedido completamente razonable.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/letters.jpg"><img class="alignright size-full wp-image-7244" title="letters" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/letters.jpg" alt="" width="222" height="147" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/letters.jpg"><img class="alignright size-full wp-image-7244" title="letters" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/letters.jpg" alt="" width="222" height="147" /></a>
 
 Echemos un vistazo a la carta clásica para ilustrar esto. La carta física, consistente de un sobre, un papel escrito y doblado dentro del sobre, y una estampilla. Así era la comunicación personal en el mundo fuera de línea de nuestros padres, y fue consagrada con ciertas libertades civiles. Voy a enfocarme en cuatro de ellas.
 

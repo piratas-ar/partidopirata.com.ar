@@ -9,8 +9,8 @@ tags:
 - estados-unidos
 - leonardo-brant
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
 wppost_name: ctrl-v-documental-que-puede-ayudarnos-a-entender-un-poco-mas-el-caso-cuevana
 ---
 
@@ -55,12 +55,12 @@ Y es inevitable no pensar que son la HBO y Ted Turner (con I-Sat) los que salier
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2308/sopa-toda-la-internet-mundial-bajo-juridisccion-de-estados-unidos">También el documental explica porqué tanta presión de Hollywood por presionar Internet</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2308/sopa-toda-la-internet-mundial-bajo-juridisccion-de-estados-unidos">También el documental explica porqué tanta presión de Hollywood por presionar Internet</a></strong></p>
 <p style="text-align: center;"></p>
-<strong><a href="http://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copiad, Malditos!, primer documental del ciclo.</a>
-<a href="http://partidopirata.com.ar/4752/siguiendo-con-el-ciclo-copy-right-patents-absurdity-y-arduino-el-documental">Los documentales de la semana pasada del ciclo Copy, right?</a>
+<strong><a href="https://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copiad, Malditos!, primer documental del ciclo.</a>
+<a href="https://partidopirata.com.ar/4752/siguiendo-con-el-ciclo-copy-right-patents-absurdity-y-arduino-el-documental">Los documentales de la semana pasada del ciclo Copy, right?</a>
 <a href="http://baixacultura.org/2012/06/08/ciclo-copy-right-em-sao-paulo/" target="_blank">Más información del ciclo en el site <em>Baixa Cultura</em></a></strong>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="aligncenter size-full wp-image-2318" title="Cuevana" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="aligncenter size-full wp-image-2318" title="Cuevana" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a>

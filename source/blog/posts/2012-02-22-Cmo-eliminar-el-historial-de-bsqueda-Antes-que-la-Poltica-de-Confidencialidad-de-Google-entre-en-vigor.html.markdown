@@ -23,22 +23,22 @@ El 1 de marzo, Google pondrá en práctica su nueva<a href="https://www.google.c
 
 Pasos para eliminar su historial web y detener la recopilación en el futuro:
 <ol>
-	<li style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.14.35-PM.png"><img class="aligncenter size-large wp-image-3242" title="Página principal de Gmail" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.14.35-PM-1024x605.png" alt="" width="620" height="366" /></a><strong>Entre en su cuenta de algún servicio de Google, Gmail, Youtube, etc.</strong>
+	<li style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.14.35-PM.png"><img class="aligncenter size-large wp-image-3242" title="Página principal de Gmail" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.14.35-PM-1024x605.png" alt="" width="620" height="366" /></a><strong>Entre en su cuenta de algún servicio de Google, Gmail, Youtube, etc.</strong>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.10-PM2.png"><img class="aligncenter size-large wp-image-3243" title="Página del Historial de Google" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.10-PM2-1024x605.png" alt="" width="620" height="366" /></a></li>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.10-PM2.png"><img class="aligncenter size-large wp-image-3243" title="Página del Historial de Google" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.10-PM2-1024x605.png" alt="" width="620" height="366" /></a></li>
 	<li style="text-align: center;">Entre en la opción de historial:   <a href="https://www.google.com/history/?hl=es" target="_blank">https://www.google.com/history/?hl=es </a> Si no puede acceder a su historial a través de ese enlace busque en Google https://www.google.com/history/?hl=es
 
 <hr />
 
 </li>
-	<li style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.42-PM3.png"><img class="aligncenter size-large wp-image-3244" title="Borrar el historial" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.42-PM3-1024x605.png" alt="" width="620" height="366" /></a><strong>Si hay algo registrado elija borrar el historial, sino:</strong>
+	<li style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.42-PM3.png"><img class="aligncenter size-large wp-image-3244" title="Borrar el historial" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.42-PM3-1024x605.png" alt="" width="620" height="366" /></a><strong>Si hay algo registrado elija borrar el historial, sino:</strong>
 
 <hr />
 
 </li>
-	<li style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.17.05-PM4.png"><img class="aligncenter size-large wp-image-3245" title="No Gracias" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.17.05-PM4-1024x605.png" alt="" width="620" height="366" /></a><strong>Elija la opción "No Gracias", así estará deteniendo la recopilación de datos de su historial de Google, salvo si decide habilitarlo nuevamente.</strong>
+	<li style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.17.05-PM4.png"><img class="aligncenter size-large wp-image-3245" title="No Gracias" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.17.05-PM4-1024x605.png" alt="" width="620" height="366" /></a><strong>Elija la opción "No Gracias", así estará deteniendo la recopilación de datos de su historial de Google, salvo si decide habilitarlo nuevamente.</strong>
 
 <hr />
 
@@ -50,7 +50,7 @@ Si tiene varias cuentas en Google deberá hacer lo mismo en cada una  por separ
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3270/como-borrar-el-historial-de-los-videos-y-el-historial-de-busquedas-en-su-cuenta-de-youtube-antes-que-el-cambio-en-la-politica-de-confidencialidad-de-google-entre-en-vigor">Como borrar el historial de reproducciones y de búsquedas de video en mi cuenta de Youtube.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3270/como-borrar-el-historial-de-los-videos-y-el-historial-de-busquedas-en-su-cuenta-de-youtube-antes-que-el-cambio-en-la-politica-de-confidencialidad-de-google-entre-en-vigor">Como borrar el historial de reproducciones y de búsquedas de video en mi cuenta de Youtube.</a></strong></p>
 
 
 <hr />

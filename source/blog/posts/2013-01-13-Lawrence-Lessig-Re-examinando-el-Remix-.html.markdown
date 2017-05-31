@@ -8,8 +8,8 @@ tags:
 - fair-uses
 - lawrence-lessig
 - usos-amigables
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/lessig-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/lessig-150x150.jpg
 wppost_name: lawrence-lessig-re-examinando-el-remix
 ---
 

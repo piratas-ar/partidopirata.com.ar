@@ -9,8 +9,8 @@ tags:
 - joost-smiers
 - marieke-van-schijndel
 - no-copyright
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/chart7.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/chart7-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/chart7.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/chart7-115x115.png
 wppost_name: imagine-no-copyright-por-joost-smiers-y-marieke-van-schijndel
 ---
 
@@ -30,5 +30,5 @@ Si quieren escuchar el audio de la conferencia:
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/imagine-no-copyright-conferencia-joost-smiers-audios-mp3_rf_1449481_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart7.png"><img class="size-full wp-image-6621" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart7.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart7.png"><img class="size-full wp-image-6621" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart7.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 

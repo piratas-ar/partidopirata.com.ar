@@ -9,12 +9,12 @@ tags:
 - tweets
 - twitter
 - venta
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/twitter-money.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/twitter-money-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/twitter-money.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/twitter-money-150x150.jpg
 wppost_name: twitter-esta-vendiendo-tweets-antiguos-a-empresas-de-marketing
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/twitter-money.jpg"><img class="aligncenter size-full wp-image-3369" title="twitter-money" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/twitter-money.jpg" alt="" width="550" height="413" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/twitter-money.jpg"><img class="aligncenter size-full wp-image-3369" title="twitter-money" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/twitter-money.jpg" alt="" width="550" height="413" /></a>
 <strong><a href="http://blogs.estadao.com.br/rodrigo-martins/2012/02/28/twitter-esta-vendendo-tweets-antigos-para-empresas-de-marketing/" target="_blank">Fuente Rodrigo Martins</a></strong>
 
 ¿Privacidade? Twitter está intentando varias maneras de ganar dinero. Empezó primero empezó a vender publicidad. Y ahora está vendiendo tweets antiguos de los usuarios – con hasta dos años – a empresas de publicidad, informa <a href="http://mashable.com/2012/02/28/twitter-is-selling-old-tweets/" target="_blank">Mashable</a>.

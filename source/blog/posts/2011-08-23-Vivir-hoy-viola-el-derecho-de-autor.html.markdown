@@ -10,12 +10,12 @@ tags:
 - lista-de-correo
 - noticias
 - vida-cotidiana
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/capitan_cavernicola.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/capitan_cavernicola.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/capitan_cavernicola.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/capitan_cavernicola.png
 wppost_name: vivir-hoy-viola-el-derecho-de-autor
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/capitan_cavernicola.png"><img class="aligncenter size-full wp-image-1679" title="capitan_cavernicola" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/capitan_cavernicola.png" alt="" width="343" height="246" /></a><strong>Enviado a nuestra<a href="http://partido-pirata.blogspot.com/2011/04/la-forma-mas-comun-que-tenemos-de.html" target="_blank"> lista de correo</a> por<a href="http://lists.partidopirata.com.ar/pipermail/general-partidopirata.com.ar/2011-August/010170.html" target="_blank"> Franco</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/capitan_cavernicola.png"><img class="aligncenter size-full wp-image-1679" title="capitan_cavernicola" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/capitan_cavernicola.png" alt="" width="343" height="246" /></a><strong>Enviado a nuestra<a href="http://partido-pirata.blogspot.com/2011/04/la-forma-mas-comun-que-tenemos-de.html" target="_blank"> lista de correo</a> por<a href="http://lists.partidopirata.com.ar/pipermail/general-partidopirata.com.ar/2011-August/010170.html" target="_blank"> Franco</a></strong>
 
 <strong> <a href="http://www.derechoaleer.org/2011/08/derechos-de-autor-o-como-convertir-vida-delito.html" target="_blank">Traducción por "Derecho a Leer"</a></strong>
 

@@ -13,8 +13,8 @@ tags:
 - pisa
 - recursos-naturales
 - soja
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/Bandeau904x81.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/Bandeau904x81-150x81.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/Bandeau904x81.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/Bandeau904x81-150x81.png
 wppost_name: sobre-la-explotacion-de-los-recursos-naturales-y-el-nivel-de-educacion-de-un-pais
 ---
 
@@ -51,5 +51,5 @@ Entre los contraejemplos, de acuerdo con las tablas presentadas para ilustrar el
 
 <hr />
 <p style="text-align: center;">Y todavía seguirán apostando a la soja y a la minería a cielo abierto...</p>
-<p style="text-align: center;"><strong>Si quieren enviarnos la traducción del artículo de <a href="http://oecdeducationtoday.blogspot.com.br/2012/03/knowledge-and-skills-are-infinite-oil.html" target="_blank">Andreas Schleicher</a> pónganse en <a href="http://partidopirata.com.ar/contacto">contacto con nosotros.</a></strong></p>
+<p style="text-align: center;"><strong>Si quieren enviarnos la traducción del artículo de <a href="http://oecdeducationtoday.blogspot.com.br/2012/03/knowledge-and-skills-are-infinite-oil.html" target="_blank">Andreas Schleicher</a> pónganse en <a href="https://partidopirata.com.ar/contacto">contacto con nosotros.</a></strong></p>
 <p style="text-align: center;">Salvo que crean que nosotros nos parecemos más a Canadá , Australia o Noruega..</p>

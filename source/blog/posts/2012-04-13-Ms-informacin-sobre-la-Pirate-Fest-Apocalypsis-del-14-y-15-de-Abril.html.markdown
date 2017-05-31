@@ -8,8 +8,8 @@ tags:
 - pirate-fest
 - pirate-fest-apocalypsis
 - programa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/folleto-final.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/folleto-final-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/folleto-final.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/folleto-final-150x150.png
 wppost_name: mas-informacion-sobre-la-pirate-fest-apocalypsis-del-14-y-15-de-abril
 ---
 
@@ -32,7 +32,7 @@ wppost_name: mas-informacion-sobre-la-pirate-fest-apocalypsis-del-14-y-15-de-abr
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3958/como-llegar-al-pirate-fest-2012-apocalypsis">Mapa para saber cómo llegar a la Pirate Fest</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3958/como-llegar-al-pirate-fest-2012-apocalypsis">Mapa para saber cómo llegar a la Pirate Fest</a></strong></p>
 
 
 <hr />
@@ -90,8 +90,8 @@ Video y sonido en tiempo real con intervenciones análogo-digitales
 <a href="http://www.bibliobarracas.com.ar/eventos-2012/piratefest-apocalypsis-14-y-15-de-abril/" target="_blank">Más información en la Biblioteca de Barracas</a>
 
 <hr />
-<p style="text-align: center;"><img class="aligncenter" title="Pirate Fest" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/PirateFestIII-page-001.jpg" alt="" width="446" height="631" /><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/PirateFestIII-page-001.jpg">Click para agrandar</a></strong></p>
+<p style="text-align: center;"><img class="aligncenter" title="Pirate Fest" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/PirateFestIII-page-001.jpg" alt="" width="446" height="631" /><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/PirateFestIII-page-001.jpg">Click para agrandar</a></strong></p>
 
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/folleto-final.png"><img class="aligncenter  wp-image-3852" title="folleto-final" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/folleto-final.png" alt="" width="512" height="266" />Click para agrandar</a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/folleto-final.png"><img class="aligncenter  wp-image-3852" title="folleto-final" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/folleto-final.png" alt="" width="512" height="266" />Click para agrandar</a></p>

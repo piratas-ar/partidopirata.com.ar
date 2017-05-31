@@ -8,8 +8,8 @@ tags:
 - heridos-de-bala
 - policia-metropolitana
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
 wppost_name: conferencia-de-prensa-miercoles-10-de-abril-los-heridos-de-bala-de-plomo-buscan-responsables
 ---
 

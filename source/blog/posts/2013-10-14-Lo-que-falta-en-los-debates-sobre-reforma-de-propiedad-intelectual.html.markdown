@@ -3,12 +3,12 @@ title: Lo que falta en los debates sobre reforma de propiedad intelectual
 date: '2013-10-14'
 tags:
 - copyright-2
-image: http://partidopirata.com.ar/wp-content/uploads/2013/10/6915188757_b176fbdf0f.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/10/6915188757_b176fbdf0f-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/10/6915188757_b176fbdf0f.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/10/6915188757_b176fbdf0f-150x150.jpg
 wppost_name: lo-que-falta-en-los-debates-sobre-reforma-de-propiedad-intelectual
 ---
 
-Hace unos días fuimos a un <a href="http://www.vialibre.org.ar/2013/10/10/elementos-para-una-reforma-del-derecho-de-autor/">debate</a> organizado por Via Libre, sobre reforma de la ley de propiedad intelectual. Estuvo entretenido, hubieron varios puntos interesantes (<a href="http://partidopirata.com.ar/2013/10/11/se-inicia-el-debate-sobre-la-reforma-de-la-ley-de-propiedad-intelectual/">aca</a> esta el resumen)
+Hace unos días fuimos a un <a href="http://www.vialibre.org.ar/2013/10/10/elementos-para-una-reforma-del-derecho-de-autor/">debate</a> organizado por Via Libre, sobre reforma de la ley de propiedad intelectual. Estuvo entretenido, hubieron varios puntos interesantes (<a href="https://partidopirata.com.ar/2013/10/11/se-inicia-el-debate-sobre-la-reforma-de-la-ley-de-propiedad-intelectual/">aca</a> esta el resumen)
 
 Un par de días después, veo <a href="http://asociacionmigre.com.ar/mirada-de-autor/la-victima-acudio-a-la-cita_5">esta</a> nota de la fundación MIGRE, que me sorprendió mucho, porque muestra al evento como algo muy distinto a lo que fue.
 

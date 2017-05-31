@@ -11,8 +11,8 @@ tags:
 - nube
 - skydrive
 - terminos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/skydrive1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/skydrive1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/skydrive1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/skydrive1-150x150.jpg
 wppost_name: la-nube-de-msn-skydrive-fiscaliza-los-archivos-de-los-usuarios
 ---
 
@@ -20,7 +20,7 @@ wppost_name: la-nube-de-msn-skydrive-fiscaliza-los-archivos-de-los-usuarios
 
 <em>Microsoft suspende cuentas particulares de su servicio de almacenamiento en la nube</em>
 
-Los servicios de almacenamiento en la nube son una buena opción para guardar y compartir archivos. Pero por lo menos uno de ellos,  SkyDrive, de Microsoft, puede no ser tan seguro – y privado – como un pendrive. <a href="http://bitelia.com/2012/07/skydrive-almacenamiento-terminos-uso">La empresa fiscaliza lo que los usuarios cuelgan en sus cuentas particulares</a>.<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/skydrive1.jpg"><img class="size-full wp-image-5429 alignright" title="skydrive1" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/skydrive1.jpg" alt="" width="390" height="265" />
+Los servicios de almacenamiento en la nube son una buena opción para guardar y compartir archivos. Pero por lo menos uno de ellos,  SkyDrive, de Microsoft, puede no ser tan seguro – y privado – como un pendrive. <a href="http://bitelia.com/2012/07/skydrive-almacenamiento-terminos-uso">La empresa fiscaliza lo que los usuarios cuelgan en sus cuentas particulares</a>.<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/skydrive1.jpg"><img class="size-full wp-image-5429 alignright" title="skydrive1" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/skydrive1.jpg" alt="" width="390" height="265" />
 </a>
 
 <dl id="attachment_5429" class="wp-caption alignright" style="width: 400px;"><dd class="wp-caption-dd">Dirk Salm, que tuvo sus fotos de desnudo parciales borradas</dd></dl>&nbsp;

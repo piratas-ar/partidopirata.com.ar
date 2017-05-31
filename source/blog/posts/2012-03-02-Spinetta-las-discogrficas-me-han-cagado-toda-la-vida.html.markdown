@@ -6,12 +6,12 @@ tags:
 - discograficas
 - luis-alberto-spinetta
 - piratas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/Luis-A-Spinetta.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/Luis-A-Spinetta-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/Luis-A-Spinetta.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/Luis-A-Spinetta-150x150.jpg
 wppost_name: spinetta-las-discograficas-me-han-cagado-toda-la-vida
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/Luis-A-Spinetta.jpg"><img class="size-full wp-image-3351 alignleft" title="Luis A Spinetta" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/Luis-A-Spinetta.jpg" alt="" width="339" height="386" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/Luis-A-Spinetta.jpg"><img class="size-full wp-image-3351 alignleft" title="Luis A Spinetta" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/Luis-A-Spinetta.jpg" alt="" width="339" height="386" /></a>
 
 Spinetta sobre las discográficas:
 <blockquote>– A mí me han cagado toda la vida, me pintan en la espalda un blanco, me paran

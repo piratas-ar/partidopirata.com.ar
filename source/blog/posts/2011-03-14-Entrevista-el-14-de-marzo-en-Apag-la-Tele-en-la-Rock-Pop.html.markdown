@@ -6,12 +6,12 @@ tags:
 - divulgacion
 - radio
 - rock-pop
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/apagala_tele.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/apagala_tele.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/apagala_tele.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/apagala_tele.jpg
 wppost_name: entrevista-el-14-de-marzo-en-apaga-la-tele-en-la-rock-pop
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/03/apagala_tele.jpg"><img class="alignleft size-full wp-image-572" title="Apagá la tele" src="http://partidopirata.com.ar/wp-content/uploads/2011/03/apagala_tele.jpg" alt="Progrma en la Fm Rock &amp; Pop" width="142" height="58" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/03/apagala_tele.jpg"><img class="alignleft size-full wp-image-572" title="Apagá la tele" src="https://partidopirata.com.ar/wp-content/uploads/2011/03/apagala_tele.jpg" alt="Progrma en la Fm Rock &amp; Pop" width="142" height="58" /></a>
 
 &nbsp;
 

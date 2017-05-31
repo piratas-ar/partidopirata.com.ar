@@ -7,8 +7,8 @@ tags:
 - material-para-difusion
 - la-quadrature-du-net
 - tratado-contra-la-falsificaci
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva-150x150.png
 wppost_name: acta-avanza-en-europa
 ---
 
@@ -34,12 +34,12 @@ El proceso de ratificación en el Parlamento ya se caracteriza por su falta de t
 
 A lo que creen que el ACTA es sólo una cosa de Europa, lean este párrafo sobre el proyecto de Ley Antiterrorista enviado por el Poder Ejectivo (o sea Cristina Kirhcner) al comienzo de su segundo mandato:
 <p style="text-align: center;">“El sábado 3, al hablar ante la asamblea de Carta Abierta, el titular de la Unidad de Información Financiera (UIF), José Sbatella, reconoció que estas reformas obedecen a la presión internacional y que de no aceptarlas, la Argentina corría el riesgo de ser excluida del GAFI y del G20. La decisión presidencial fue permanecer, “por la utilidad de estar en el G20”, donde Cristina pudo desactivar “la política que intentaba la baja de los precios de los commodities como la soja”. Pero quedarse en el G20 implica “cumplir con los estándares fijados”. Por eso, hace ya dos años, la presidente tomó la decisión política de modificar la legislación que fuera necesaria, dijo Sbatella.”</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2561/sobre-el-proyecto-de-ley-antiterrorista-analisis-de-horacio-verbitsky">Del análisis de Horacio Verbitsky sobre el proyecto de ley antiterrorista.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2561/sobre-el-proyecto-de-ley-antiterrorista-analisis-de-horacio-verbitsky">Del análisis de Horacio Verbitsky sobre el proyecto de ley antiterrorista.</a></strong></p>
 <a>
 Así que para vender soja no sería extraño que Cristina Kirchner decidiera enviar al parlamento el ACTA para que sea aprobado...</a>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png"><img class="aligncenter size-full wp-image-1929" title="acta-arma-destruccion-masiva" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png" alt="" width="560" height="352" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png"><img class="aligncenter size-full wp-image-1929" title="acta-arma-destruccion-masiva" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png" alt="" width="560" height="352" /></a>
 
 <hr />

@@ -9,8 +9,8 @@ tags:
 - denuncias
 - hernan-casciari
 - orsai
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/orsai.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/orsai-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/orsai.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/orsai-150x150.jpg
 wppost_name: liberenorsai-no-dejan-que-la-revista-orsai-salga-de-la-aduana
 ---
 
@@ -56,4 +56,4 @@ Con otro poco de suerte, nos entienden.
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/n2.png"><img class="aligncenter size-full wp-image-892" title="Orsai Nro. 2" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/n2.png" alt="Tapa de la revista Orsai Nro. 2" width="182" height="267" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/n2.png"><img class="aligncenter size-full wp-image-892" title="Orsai Nro. 2" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/n2.png" alt="Tapa de la revista Orsai Nro. 2" width="182" height="267" /></a>

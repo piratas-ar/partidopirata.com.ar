@@ -10,12 +10,12 @@ tags:
 - material-para-difusion
 - proteccion-de-datos
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/015458766-EXH00.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/015458766-EXH00-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/015458766-EXH00.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/015458766-EXH00-150x150.jpg
 wppost_name: brasil-ley-carolina-dieckmann-que-castiga-invasion-de-pcs-entra-en-vigor-tambien-castiga-el-ddos
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/015458766-EXH00.jpg"><img class="size-medium wp-image-8985" alt="Carolina Dieckmann nos llama a silencio.." src="http://partidopirata.com.ar/wp-content/uploads/2013/04/015458766-EXH00-300x225.jpg" width="300" height="225" /></a> Carolina Dieckmann nos llama a silencio..
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/015458766-EXH00.jpg"><img class="size-medium wp-image-8985" alt="Carolina Dieckmann nos llama a silencio.." src="https://partidopirata.com.ar/wp-content/uploads/2013/04/015458766-EXH00-300x225.jpg" width="300" height="225" /></a> Carolina Dieckmann nos llama a silencio..
 
 
 <b>La "Ley Carolina Dieckman" es algo así como lo que podría ser una "Ley Florencia Peña", es una actriz brasileña famosa que fue extorsionada luego que alguien entró en su e-mail y encontró algunas fotos de ella desnuda.</b>

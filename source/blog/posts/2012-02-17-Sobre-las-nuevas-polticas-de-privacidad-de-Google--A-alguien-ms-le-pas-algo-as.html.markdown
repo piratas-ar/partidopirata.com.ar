@@ -12,8 +12,8 @@ tags:
 - google
 - politica-de-privacidad
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-150x150.jpg
 wppost_name: sobre-las-nuevas-politicas-de-privacidad-de-google-a-alguien-mas-le-paso-algo-asi
 ---
 

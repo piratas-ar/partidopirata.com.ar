@@ -7,8 +7,8 @@ tags:
 - juegos-de-tronos
 - torrentfreak
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11-150x150.jpg
 wppost_name: hbo-game-of-thrones-la-pirateria-es-un-cumplido-no-se-pierde-ninguna-venta
 ---
 

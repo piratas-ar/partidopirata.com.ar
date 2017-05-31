@@ -11,8 +11,8 @@ tags:
 - partido-pirata-aleman
 - random-house
 - vendio-su-copyright
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/klick-mich-188x300.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/klick-mich-188x300-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/klick-mich-188x300.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/klick-mich-188x300-150x150.jpg
 wppost_name: sobre-el-caso-julia-schramm-la-pirata-alemana-que-vendio-su-derecho-de-autor
 ---
 
@@ -51,7 +51,7 @@ Esta declaración medio oficial no es lo suficiente muy probablementepara calmar
 <strong><a href="http://annatroberg.com/2012/09/21/politicians-get-away-with-murder-but-not-double-standards/" target="_blank">Fuente Anna Troberg</a></strong>
 <a href="http://juliaschramm.de/">Julia Schramm</a>,, quien está en la junta directiva del Piratenpartei alemán [Partido Pirata Alemán], <a href="http://www.spiegel.de/international/germany/a-856468.html">se ha</a> <a href="http://piratetimes.net/julia-schramm-and-dmca-takedowns-a-pirate-and-her-copyright/">metido</a> <a href="http://h%C3%A4n.fi/blog/2012/09/19/a-pirates-bargain/">en un</a>  <a href="http://www.spiegel.de/international/germany/pirate-party-member-julia-schramm-slammed-for-defending-copyright-a-856977.html">lío</a> que está, por desgracia también contagiando al Piratenpartei y a los piratas en general. Ha publicado el libro "Mich Klick: einer Bekenntnisse Internet Exhibitionistin" ("Click Me: Confesiones de una Exhibicionista de InternetThe Confessions of an Exhibitionist Internet") y ahora su editor está persiguiendo a la gente que comparte el libro en línea con un soplete.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/klick-mich-188x300.jpg"><img class="alignleft size-full wp-image-6571" title="klick-mich-188x300" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/klick-mich-188x300.jpg" alt="" width="188" height="300" /></a><strong>Los políticos pueden salirse con la suya, pero no salir con algo que se parece sospechosamente a una doble moral. Por desgracia, es bastante fácil de interpretar lo ocurrido como un ejemplo de doble moral. Los Piratas comparten libros de otras personas, pero cuando esta pirata encuentra a su libro compartido, va detrás de los que lo hacen.</strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/klick-mich-188x300.jpg"><img class="alignleft size-full wp-image-6571" title="klick-mich-188x300" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/klick-mich-188x300.jpg" alt="" width="188" height="300" /></a><strong>Los políticos pueden salirse con la suya, pero no salir con algo que se parece sospechosamente a una doble moral. Por desgracia, es bastante fácil de interpretar lo ocurrido como un ejemplo de doble moral. Los Piratas comparten libros de otras personas, pero cuando esta pirata encuentra a su libro compartido, va detrás de los que lo hacen.</strong>
 
 Yo solía ser la jefa de la rama sueca de una editorial Nórdica. He negociado acuerdos de publicación para el mercado sueco y ofertas conjuntas de publicación para el mercado sueco, noruego, finlandés y danés. Lo he visto todo antes. Cuando una pirata me dijo con entusiasmo que había recibido un adelanta de 100 000 Euros de la editorial Schramm  para escribir sobre su vida online, y sobre el Partido Pirata, pensé: "Ya veo, ¿han pagado para revelar cuál escándalo?" Normalmente no gastan 100 000 euros en un autor desconocido. Ellos lo hicieron, sin embargo, pagaron 100 000 euros a alguien para entregar algo jugoso sobre un nuevo movimiento que ha tenido un gran éxito, sobre todo si se percibe al movimiento como una amenaza para su propio negocio.
 

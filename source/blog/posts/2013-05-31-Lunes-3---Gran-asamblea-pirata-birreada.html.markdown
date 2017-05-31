@@ -9,8 +9,8 @@ tags:
 - destacados
 - partido-pirata
 - reunion-eventos
-image: http://partidopirata.com.ar/wp-content/uploads/2013/05/640px-Landsgemeinde_Glarus_2006.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/05/640px-Landsgemeinde_Glarus_2006-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/05/640px-Landsgemeinde_Glarus_2006.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/05/640px-Landsgemeinde_Glarus_2006-150x150.jpg
 wppost_name: lunes-3-gran-asamblea-pirata-birreada
 ---
 
@@ -28,5 +28,5 @@ Si tienen ganas traigan algo para picar o beber.
 
 <strong>Abierto a todos y todas</strong>
 
-<a href="http://partidopirata.com.ar/ai1ec_event/asamblea-general-pirata/">Más datos del evento, dirección y orden del día aquí</a>
+<a href="https://partidopirata.com.ar/ai1ec_event/asamblea-general-pirata/">Más datos del evento, dirección y orden del día aquí</a>
 

@@ -12,8 +12,8 @@ tags:
 - modelo-capitalista
 - repensar-el-modelo
 - tencologia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/mineria-2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/mineria-2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/mineria-2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/mineria-2-150x150.jpg
 wppost_name: sangre-en-el-celular-para-pensar-nuestros-consumos-y-la-mineria
 ---
 

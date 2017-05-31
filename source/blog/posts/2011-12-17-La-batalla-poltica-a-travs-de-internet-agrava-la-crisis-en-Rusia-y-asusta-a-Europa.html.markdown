@@ -11,8 +11,8 @@ tags:
 - rebelion
 - redes
 - rusia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/image_gallery.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/image_gallery-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/image_gallery.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/image_gallery-150x150.jpg
 wppost_name: la-batalla-politica-a-traves-de-internet-agrava-la-crisis-en-rusia-y-asusta-a-europa
 ---
 

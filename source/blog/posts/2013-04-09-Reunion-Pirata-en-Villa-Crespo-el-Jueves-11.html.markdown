@@ -5,12 +5,12 @@ tags:
 - eventos
 - material-para-difusion
 - reunion-eventos
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion-Pirata-Villa-Crespo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion-Pirata-Villa-Crespo-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion-Pirata-Villa-Crespo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion-Pirata-Villa-Crespo-150x150.png
 wppost_name: reunion-pirata-en-villa-crespo-el-jueves-11
 ---
 
-<pre><a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion-Pirata-Villa-Crespo.png"><img class="aligncenter  wp-image-9071" alt="Reunion Pirata Villa Crespo" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion-Pirata-Villa-Crespo.png" width="544" height="259" /></a></pre>
+<pre><a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion-Pirata-Villa-Crespo.png"><img class="aligncenter  wp-image-9071" alt="Reunion Pirata Villa Crespo" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion-Pirata-Villa-Crespo.png" width="544" height="259" /></a></pre>
 <h2><span style="text-decoration: underline;">¡Desembarcamos en Villa Crespo! </span></h2>
 Este Jueves, a partir de las 18 hasta que las velas no ardan nos Reunimos en <strong>Villarroel 1126 piso 5 dpto C.</strong> (A 1 cuadra de Juan B. Justo y Corrientes)
 

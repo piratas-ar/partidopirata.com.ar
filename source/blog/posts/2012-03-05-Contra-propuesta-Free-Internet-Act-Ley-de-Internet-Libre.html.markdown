@@ -7,8 +7,8 @@ tags:
 - libertad-en-internet
 - propuesta-popular
 - reddit
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/mKIpTiYFpH1VdNgf.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/mKIpTiYFpH1VdNgf.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/mKIpTiYFpH1VdNgf.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/mKIpTiYFpH1VdNgf.png
 wppost_name: contra-propuesta-free-internet-act-ley-de-internet-libre
 ---
 

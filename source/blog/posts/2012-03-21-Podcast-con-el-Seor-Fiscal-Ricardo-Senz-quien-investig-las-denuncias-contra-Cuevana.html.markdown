@@ -11,15 +11,15 @@ tags:
 - podcasts
 - ricardo-saenz
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350-150x150.png
 wppost_name: podcast-con-el-senor-fiscal-ricardo-saenz-quien-investigo-las-denuncias-contra-cuevana
 ---
 
 <ul>
 	<li><strong><a href="http://ricardosaenz.com.ar/" target="_blank">Site del Dr. Ricardo Sáenz</a></strong></li>
 	<li><strong><a href="https://twitter.com/#!/saenzricardo" target="_blank">Twitter del Dr. Ricardo Sáenz</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/3572/sobre-el-caso-cuevana-entrevista-al-fiscal-que-elevo-una-denuncia-penal-contra-el-site">Entrevista al Dr. Ricardo Sáenz en el programa de TV A10</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/3572/sobre-el-caso-cuevana-entrevista-al-fiscal-que-elevo-una-denuncia-penal-contra-el-site">Entrevista al Dr. Ricardo Sáenz en el programa de TV A10</a></strong></li>
 </ul>
 <p style="text-align: center;"><strong> Gracias al Dr. Ricardo Sáenz por su disposición!</strong></p>
 
@@ -77,12 +77,12 @@ En la entrevista en A24 uno de los periodistas pregunta por qué no se cierra el
 <p style="text-align: center;"><object id="player1121358" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1121358_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1121358" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1121358_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object>
 <strong>Presione en <em>play</em> para escucharlo sin descargar o :</strong>
 <strong> <a href="http://www.ivoox.com/charla-fiscal-ricardo-saenz-sobre-el_md_1121358_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/557/precios-altos-transforman-a-paises-emergentes-en-piratas">El estudio sobre el precio de los productos culturales en los países emergentes versus Estados Unidos.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/557/precios-altos-transforman-a-paises-emergentes-en-piratas">El estudio sobre el precio de los productos culturales en los países emergentes versus Estados Unidos.</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png"><img class="aligncenter size-full wp-image-3589" title="Ricardo Sáenz" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png" alt="" width="515" height="350" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png"><img class="aligncenter size-full wp-image-3589" title="Ricardo Sáenz" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png" alt="" width="515" height="350" /></a>
 
 <hr />
 <p style="text-align: center;">Escuchamos a :

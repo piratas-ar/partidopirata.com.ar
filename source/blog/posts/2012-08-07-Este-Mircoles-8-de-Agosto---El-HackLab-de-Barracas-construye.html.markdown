@@ -7,12 +7,12 @@ tags:
 - material-para-difusion
 - hacklab
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/0.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/0-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/0.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/0-150x150.png
 wppost_name: este-miercoles-8-de-agosto-el-hacklab-de-barracas-construye
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/0.png"><img class="aligncenter size-medium wp-image-5815" title="0" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/0-300x225.png" alt="" width="300" height="225" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/0.png"><img class="aligncenter size-medium wp-image-5815" title="0" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/0-300x225.png" alt="" width="300" height="225" /></a>
 
 &nbsp;
 <pre>[00]Este Miércoles 8 de Agosto desde las 13:00hs todos invitados al HackLab de la biblioteca popular de Barracas - Aristóbulo del Valle

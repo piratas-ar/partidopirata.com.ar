@@ -8,12 +8,12 @@ tags:
 - noticias
 - sellos-independientes
 - sony
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/incendiolondres.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/incendiolondres.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/incendiolondres.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/incendiolondres.jpg
 wppost_name: no-tan-distintos-o-los-sellos-independientes-y-su-politica-de-ventas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/incendiolondres.jpg"><img class="aligncenter size-medium wp-image-1595" title="incendiolondres" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/incendiolondres-300x197.jpg" alt="" width="300" height="197" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/incendiolondres.jpg"><img class="aligncenter size-medium wp-image-1595" title="incendiolondres" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/incendiolondres-300x197.jpg" alt="" width="300" height="197" /></a>
 <strong><a href="http://lists.partidopirata.com.ar/pipermail/general-partidopirata.com.ar/2011-August/009808.html" target="_blank">Circuló en nuestra lista de correo.</a></strong>
 Encontré esta noticia:<em> <a href="http://www.musicindie.com/news/1131">Parece que quemaron una bodega llena de material de discograficas y entre ellas estaban la mayoria de las disqueras "indies". </a></em><em> Parece que quemaron una bodega llena de material de discograficas y </em><em> entre ellas estaban la mayoria de las disqueras "indies". Puede ser</em><em> una buena manera en que las disqueras indies dejen el modelo físico y </em><em> se pasen del todo al virtual, como las netlabels. Una de las disqueras</em><em> que se le quemaron las cositas fue a Ninjatune que es mi disquera </em><em> "prefrerida"... </em><em> </em>
 

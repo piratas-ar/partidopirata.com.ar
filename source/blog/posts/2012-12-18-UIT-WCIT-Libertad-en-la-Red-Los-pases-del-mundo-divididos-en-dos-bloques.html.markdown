@@ -11,14 +11,14 @@ tags:
 - manzana-mecanica
 - privacidad
 - wcit
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/signatarios-itu-tratado.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/signatarios-itu-tratado-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/signatarios-itu-tratado.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/signatarios-itu-tratado-150x150.png
 wppost_name: uit-wcit-libertad-en-la-red-los-paises-del-mundo-divididos-en-dos-bloques
 ---
 
 <p style="text-align: right;"><a href="https://www.accessnow.org/blog/2012/12/14/wcit-watch-disaster-averted-but-still-a-lot-not-to-like-in-the-new-itrs" target="_blank"><strong>AccessNow</strong></a>  -   <a href="http://manzanamecanica.org/2012/12/libertad_en_internet_los_paises_del_mundo_divididos_en_dos_bloques.html" target="_blank"><strong>Manzana Mecánica
 </strong></a></p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/signatarios-itu-tratado.png"><img class="alignright size-medium wp-image-7905" title="signatarios-itu-tratado" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/signatarios-itu-tratado-300x163.png" alt="" width="300" height="163" /></a>El resultado más importante de la conferencia de la ITU en Dubai es un nuevo tratado que otorga a este organismo de las Naciones Unidas más competencias sobre Internet. El proceso secreto que llevó a la redacción de este tratado, la reunión donde se discutió y el contenido mismo del tratado han sido ampliamente criticados por organizaciones por la defensa de la libertad en Internet y por empresas como <a href="http://www.google.com/intl/en/takeaction/whats-at-stake/">Google</a>, entre otras.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/signatarios-itu-tratado.png"><img class="alignright size-medium wp-image-7905" title="signatarios-itu-tratado" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/signatarios-itu-tratado-300x163.png" alt="" width="300" height="163" /></a>El resultado más importante de la conferencia de la ITU en Dubai es un nuevo tratado que otorga a este organismo de las Naciones Unidas más competencias sobre Internet. El proceso secreto que llevó a la redacción de este tratado, la reunión donde se discutió y el contenido mismo del tratado han sido ampliamente criticados por organizaciones por la defensa de la libertad en Internet y por empresas como <a href="http://www.google.com/intl/en/takeaction/whats-at-stake/">Google</a>, entre otras.
 
 Afortunadamente, <a href="https://www.documentcloud.org/documents/540516-copy-of-wcitsignatories-dataextract.html">un grupo de más de 80 países decidió no firmar</a> el tratado. Algunos comentaristas resumen el resultado como una tensión entre dos bloques de países: un bloque liderado por EEUU y Europa de los países que quieren más libertad en Internet, y otro bloque liderado por Rusia, China, y países del mundo árabe que quieren más control de los gobiernos en Internet.
 

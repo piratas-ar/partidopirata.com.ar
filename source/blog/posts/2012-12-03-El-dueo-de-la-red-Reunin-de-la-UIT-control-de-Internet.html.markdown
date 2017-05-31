@@ -12,8 +12,8 @@ tags:
 - telecomunicaciones
 - teleffonica
 - uit
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
 wppost_name: el-dueno-de-la-red-reunion-de-la-uit-control-de-internet
 ---
 
@@ -37,7 +37,7 @@ Esas son algunas preguntas que serán discutidas a partir de hoy por 193 países
 
 En las próximas dos semanas, los gobiernos se reúnen para actualizar las reglas de las telecomunicaciones. La última vez que eso pasó fue en 1988. Desde entonces, pasaron muchas cosas – empezando por la internet comercial. La conferencia actualizará los patrones internacionales para el sector, lo que despierta la preocupación de organizaciones civiles y de empresas de internet.
 
-Uno de los miedos provienen de la sospecha de que la UIT estaria intentando asumir el control de la red, lo que haria que las reglas fuesen definidas por políticos y no por técnicos. Ella lo niega. Pero documentos filtrados muestran que existe la intención de cambiar la manera como internet es gerenciada hoy. “Decidimos publicar los documentos para que cualquiera pudiese ver lo que está en juego”, dice Jerry Brito, del site WCITLeaks<em> (<a href="http://partidopirata.com.ar/7613/filtramos-para-que-todos-vean-lo-que-es-discutido-sobre-wcitleaks-el-futuro-de-internet">lea la entrevista</a>).</em>
+Uno de los miedos provienen de la sospecha de que la UIT estaria intentando asumir el control de la red, lo que haria que las reglas fuesen definidas por políticos y no por técnicos. Ella lo niega. Pero documentos filtrados muestran que existe la intención de cambiar la manera como internet es gerenciada hoy. “Decidimos publicar los documentos para que cualquiera pudiese ver lo que está en juego”, dice Jerry Brito, del site WCITLeaks<em> (<a href="https://partidopirata.com.ar/7613/filtramos-para-que-todos-vean-lo-que-es-discutido-sobre-wcitleaks-el-futuro-de-internet">lea la entrevista</a>).</em>
 
 Los documentos muestran que parte de la preocupación no era exagerada. <a href="http://www.partidopirata.com.ar/7451/rusia-le-exige-a-la-onu-un-amplio-papel-en-la-gobernanza-de-internet-revela-filtracion">Rusia envió una propuesta</a> para que los países puean regular internet en sus territorios. Los Estados árabes quieren que los países puedan controlar “nombres, numeraciones, direccionamientos y recursos de identificación”.
 

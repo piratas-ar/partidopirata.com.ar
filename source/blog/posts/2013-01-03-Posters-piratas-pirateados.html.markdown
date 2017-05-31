@@ -7,8 +7,8 @@ tags:
 - imagenes
 - piratas
 - posters
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/La_propiedad_intelectual_es_el_robo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/La_propiedad_intelectual_es_el_robo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/La_propiedad_intelectual_es_el_robo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/La_propiedad_intelectual_es_el_robo-150x150.jpg
 wppost_name: posters-piratas-pirateados
 ---
 

@@ -7,18 +7,18 @@ tags:
 - campanas
 - guerrilla-open-access
 - liberar-a-aaron
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/support_aaron.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/support_aaron.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/support_aaron.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/support_aaron.png
 wppost_name: aaron-swartz-y-el-manifiesto-de-la-guerrilla-open-access
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/support_aaron.png"><img class="aligncenter size-medium wp-image-1608" title="support_aaron" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/support_aaron-154x300.png" alt="" width="154" height="300" /></a>Aaron Swartz, creador de DemandProgress, enfrenta 35 años de prisión por descargar 4 millones de papers de la red académica paga JSTOR. El gobierno de los Estados Unidos lo acusa de <em>“tener la intención de compartirlos”</em>.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/support_aaron.png"><img class="aligncenter size-medium wp-image-1608" title="support_aaron" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/support_aaron-154x300.png" alt="" width="154" height="300" /></a>Aaron Swartz, creador de DemandProgress, enfrenta 35 años de prisión por descargar 4 millones de papers de la red académica paga JSTOR. El gobierno de los Estados Unidos lo acusa de <em>“tener la intención de compartirlos”</em>.
 
 <strong>Antes habíamos dejado dos entradas sobre Aaron:</strong>
 <ul>
 <ul>
-	<li><a href="http://partidopirata.com.ar/1498/aaron-swartz-sobre-las-redes-p2p-napster-e-internet">Aaron Swartz- Sobre las Redes P2P , Napster, DRM e Internet.</a> Video con una declaración de Aaron.</li>
-	<li><a href="http://partidopirata.com.ar/1463/aaron-swartz-acusado-de-descargar-demasiados-papers">Formas de apoyar la causa de Aaron.</a></li>
+	<li><a href="https://partidopirata.com.ar/1498/aaron-swartz-sobre-las-redes-p2p-napster-e-internet">Aaron Swartz- Sobre las Redes P2P , Napster, DRM e Internet.</a> Video con una declaración de Aaron.</li>
+	<li><a href="https://partidopirata.com.ar/1463/aaron-swartz-acusado-de-descargar-demasiados-papers">Formas de apoyar la causa de Aaron.</a></li>
 </ul>
 </ul>
 &nbsp;
@@ -50,7 +50,7 @@ Tenemos que tomar la información, esté donde esté almacenada, hacer nuestras 
 Si sumamos a muchos, no vamos a apenas enviar un fuerte mensaje de oposición a la privatización del conocimiento – vamos a transformar esa privatización en algo del pasado. ¿Querés unirte a nosotros?
 <p style="text-align: center;">Aaron Swartz
 Julio 2008, Eremo, Italia.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1463/aaron-swartz-acusado-de-descargar-demasiados-papers">Formas de apoyar a Aaron Swartz</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1463/aaron-swartz-acusado-de-descargar-demasiados-papers">Formas de apoyar a Aaron Swartz</a></strong></p>
 
 
 <hr />

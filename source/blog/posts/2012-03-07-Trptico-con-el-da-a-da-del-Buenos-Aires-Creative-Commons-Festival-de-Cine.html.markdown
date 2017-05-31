@@ -7,8 +7,8 @@ tags:
 - material-para-difusion
 - informacion
 - triptico
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/triptico-programa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/triptico-programa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/triptico-programa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/triptico-programa-150x150.jpg
 wppost_name: triptico-con-el-dia-a-dia-del-buenos-aires-creative-commons-festival-de-cine
 ---
 

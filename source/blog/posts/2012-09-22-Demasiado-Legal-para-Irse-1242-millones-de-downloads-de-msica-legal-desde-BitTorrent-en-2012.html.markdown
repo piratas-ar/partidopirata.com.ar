@@ -10,8 +10,8 @@ tags:
 - musicmetric
 - relacion-artistas-con-su-publico
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/dots.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/dots-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/dots.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/dots-150x150.jpg
 wppost_name: demasiado-legal-para-irse-124-2-millones-de-downloads-de-musica-legal-desde-bittorrent-en-2012
 ---
 
@@ -47,8 +47,8 @@ Los más de 124 millones de descargas es una cifra enorme y difícil de visualiz
 
 <a href="http://featuredcontent.utorrent.com/too-legit/">Divíertanse desplazándose</a>, y luego multipliquen ese tiempo por 180l para tener una idea de 6 meses de descargas.
 <h5 style="text-align: center;">Demasiado legales, vean el <a href="http://featuredcontent.utorrent.com/too-legit/">efecto total acá</a></h5>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/dots.jpg"><img class="aligncenter size-full wp-image-6586" title="dots" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/dots.jpg" alt="" width="499" height="527" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/dots.jpg"><img class="aligncenter size-full wp-image-6586" title="dots" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/dots.jpg" alt="" width="499" height="527" /></a>
 
 <hr />
 
-Así como <a href="http://partidopirata.com.ar/6579/ensemble-of-early-music-collegium-vocale-con-creative-commons">mostramos en el post anterior </a>que los músicos de Collegium Vocale colgaron sus cds con Creative Commons vemos que cada vez más los artistas se dan cuenta que hay otras formas de poder vivir de sus creaciones!
+Así como <a href="https://partidopirata.com.ar/6579/ensemble-of-early-music-collegium-vocale-con-creative-commons">mostramos en el post anterior </a>que los músicos de Collegium Vocale colgaron sus cds con Creative Commons vemos que cada vez más los artistas se dan cuenta que hay otras formas de poder vivir de sus creaciones!

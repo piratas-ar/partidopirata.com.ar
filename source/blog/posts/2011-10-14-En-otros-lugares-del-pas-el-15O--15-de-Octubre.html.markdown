@@ -5,12 +5,12 @@ tags:
 - 15-de-octubre
 - 15o
 - eventos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1-150x150.png
 wppost_name: en-otros-lugares-del-pais-el-15o-15-de-octubre
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png"><img class="aligncenter size-full wp-image-2017" title="15O - unidos por el cambio global" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png" alt="" width="543" height="545" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png"><img class="aligncenter size-full wp-image-2017" title="15O - unidos por el cambio global" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png" alt="" width="543" height="545" /></a>
 <ol>
 	<li>
 <pre><strong>NEUQUEN</strong> SE UNE Revolución Mundial - 15 de octubre de 2011
@@ -93,7 +93,7 @@ cuenta que estamos tod@s en la misma.*
 <pre>*<strong>Mar del Plata</strong>*
 *<a href="https://www.facebook.com/Democracia.Real.YA.MDQ*" target="_blank">https://www.facebook.com/Democracia.Real.YA.MDQ*</a>
 *<a href="https://www.facebook.com/event.php?eid=126221370816886" target="_blank">https://www.facebook.com/event.php?eid=126221370816886</a>
-<strong><a href="http://partidopirata.com.ar/2029/el-15o-en-mar-del-plata-15-de-octubre">Más sobre el 15 de Octubre en Mar del Plata</a></strong></pre>
+<strong><a href="https://partidopirata.com.ar/2029/el-15o-en-mar-del-plata-15-de-octubre">Más sobre el 15 de Octubre en Mar del Plata</a></strong></pre>
 </li>
 </ol>
 <p style="text-align: center;"><strong>Si conoce algún otro lugar en donde se realizará la marcha y no está en este listado avísenos en los comentarios así lo publicamos!!</strong></p>

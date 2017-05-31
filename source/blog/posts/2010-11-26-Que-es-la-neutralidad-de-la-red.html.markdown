@@ -19,8 +19,8 @@ tags:
 - telecomunicaciones
 - usuario
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red.jpg
 wppost_name: que-es-la-neutralidad-de-la-red
 ---
 

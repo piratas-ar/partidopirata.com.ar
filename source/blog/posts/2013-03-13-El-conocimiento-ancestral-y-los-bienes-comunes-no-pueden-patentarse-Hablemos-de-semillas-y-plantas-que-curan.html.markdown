@@ -3,8 +3,8 @@ title: El conocimiento ancestral y los bienes comunes no pueden patentarse!. Hab
   de semillas y plantas que curan
 date: '2013-03-13'
 tags: []
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/india-y-choclo.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/india-y-choclo-150x150.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/india-y-choclo.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/india-y-choclo-150x150.gif
 wppost_name: el-conocimiento-ancestral-y-los-bienes-comunes-no-pueden-patentarse
 ---
 

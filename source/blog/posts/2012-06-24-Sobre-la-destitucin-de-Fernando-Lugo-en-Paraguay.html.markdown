@@ -13,7 +13,7 @@ thumb:
 wppost_name: sobre-la-destitucion-de-fernando-lugo-en-paraguay
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja.jpg"><img class="size-medium wp-image-4922" title="RepublicaSoja" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja-300x161.jpg" alt="" width="300" height="161" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja.jpg"><img class="size-medium wp-image-4922" title="RepublicaSoja" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja-300x161.jpg" alt="" width="300" height="161" /></a>
 
 
 Sobre la destitución de Lugo en Paraguay leemos:
@@ -96,7 +96,7 @@ Encontramos además esta información sobre otra posible causa para destituir a 
 <div><strong><a href="http://www.estrella-verde.com/2012/06/monsanto-detras-del-golpe-de-estado-en.html" target="_blank">Fuente <em>Estrella Verde</em></a></strong></div>
 <div></div>
 </div>
-Si alguien vive en Paraguay o conoce bien lo que está pasando por allá <strong><a href="http://partidopirata.com.ar/contacto">escríbanos </a></strong>así armamos un podcast intentando entender qué es lo que está pasando.
+Si alguien vive en Paraguay o conoce bien lo que está pasando por allá <strong><a href="https://partidopirata.com.ar/contacto">escríbanos </a></strong>así armamos un podcast intentando entender qué es lo que está pasando.
 
 Nosotros le escribimos a <strong><a href="http://www.martinalmada.org/" target="_blank">Martín Almada</a></strong> para preguntarle sobre lo que está pasando en Paraguay hoy.
 

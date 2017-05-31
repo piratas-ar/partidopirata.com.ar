@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - suecia
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1-100x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1-100x115.jpg
 wppost_name: los-fundadores-de-the-pirate-bay-apelan-al-tribunal-de-derechos-humanos
 ---
 
@@ -21,7 +21,7 @@ Con los años ha habido docenas de anuncios de The Pirate Bay, a menudo predicie
 
 Aunque muchos no han llegado a buen término debido a influencias externas, tales como fiestas salvajes, una cosa ha sido confirmada - la promesa de años de  lucha hasta el amargo final.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg"><img class="size-full wp-image-4875" title="petersunde1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg" alt="" width="100" height="120" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg"><img class="size-full wp-image-4875" title="petersunde1" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/petersunde1.jpg" alt="" width="100" height="120" /></a>
 
 
 El sitio ha estado en nuevas manos desde hace algún tiempo, pero para los  cofundadores Peter Sunde y Fredrik Neij no está terminada la historia de  Pirata Bay no va a desaparecer.
@@ -32,7 +32,7 @@ Sunde tenía que comenzar su sentencia de cárcel de ocho meses en las instalaci
 
 En mayo, Sunde pasó presntó una <a href="http://torrentfreak.com/pirate-bay-founder-peter-sunde-requests-pardon-120511/">petición de clemencia </a> con Neij <a href="http://torrentfreak.com/pirate-bay-founder-takes-case-to-european-court-120514/">anunciando</a> poco después de que iba a llevar su caso a Europa.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/tiamo1.jpg"><img class="alignright size-full wp-image-4876" title="tiamo1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/tiamo1.jpg" alt="" width="100" height="120" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/tiamo1.jpg"><img class="alignright size-full wp-image-4876" title="tiamo1" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/tiamo1.jpg" alt="" width="100" height="120" /></a>
 
 Ahora parece que tanto Neij y Sunde, están apuntando a una audiencia en el Tribunal Europeo de Derechos Humanos.
 

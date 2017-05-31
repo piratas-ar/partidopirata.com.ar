@@ -9,12 +9,12 @@ tags:
 - juicio-a-cuevana
 - lanata
 - proceso-a-cuevana
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
 wppost_name: confirman-el-proceso-de-i-sat-contra-cuevana
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="aligncenter size-full wp-image-2318" title="Cuevana" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a><strong>Según lo que informa<a href="http://fortunaweb.com.ar/2011-11-29-73401-la-medida-cautelar-de-i-sat-c-cuevana-completa/2/" target="_blank"> Fortunaweb:</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="aligncenter size-full wp-image-2318" title="Cuevana" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a><strong>Según lo que informa<a href="http://fortunaweb.com.ar/2011-11-29-73401-la-medida-cautelar-de-i-sat-c-cuevana-completa/2/" target="_blank"> Fortunaweb:</a></strong>
 
 "La medida precautoria que impide a los usuarios del sitio de descargas acceder a las series de Steven Spielberg y la miniserie de Jorge Lanata a través de ese portal."
 

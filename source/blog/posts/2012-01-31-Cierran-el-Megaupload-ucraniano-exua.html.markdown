@@ -9,8 +9,8 @@ tags:
 - filesharing
 - megaupload
 - ucrania
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/images-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/images-150x150.jpg
 wppost_name: cierran-el-megaupload-ucraniano-ex-ua
 ---
 
@@ -40,4 +40,4 @@ Suscríbanse en nuestra <strong><a href="../wiki/index.php?title=Como_Participa
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/images.jpg"><img class="aligncenter size-full wp-image-3030" title="Ex.UA" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/images.jpg" alt="" width="240" height="180" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/images.jpg"><img class="aligncenter size-full wp-image-3030" title="Ex.UA" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/images.jpg" alt="" width="240" height="180" /></a>

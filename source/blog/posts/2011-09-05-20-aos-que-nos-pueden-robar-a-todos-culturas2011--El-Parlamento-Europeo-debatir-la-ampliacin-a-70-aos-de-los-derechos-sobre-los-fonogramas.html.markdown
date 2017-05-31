@@ -9,12 +9,12 @@ tags:
 - fonogramas
 - monopolio
 - parlamento-europeo
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png
 wppost_name: 20-anos-que-nos-pueden-robar-a-todos-culturas2011-el-parlamento-europeo-debatira-la-ampliacion-a-70-anos-de-los-derechos-sobre-los-fonogramas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png"><img class="aligncenter size-full wp-image-1770" title="s3030" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png" alt="" width="400" height="337" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png"><img class="aligncenter size-full wp-image-1770" title="s3030" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png" alt="" width="400" height="337" /></a>
 Imagen realizada por<a href="http://www.derechoaleer.org/" target="_blank"> "Derecho a Leer" </a>por la aprobación de los 20 años más de monopolio sobre los fonogramas en la Argentina. (<a href="http://partido-pirata.blogspot.com/2009/11/veinte-anos-robados-al-pueblo.html" target="_blank">algo más en esta entrada de nuestro blog no oficial.</a>)
 
 Ahora es el Parlamento Europeo el que se apresta a quitarnos a todos 20 años de dominio público:
@@ -48,7 +48,7 @@ Son sólo business, lástima que nos roban a todos. Que lo que a ellos no les in
 </ul>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1777/se-confirma-el-robo-de-20-anos-de-dominio-publico-en-europa-the-beatles-extension">Lamentablemente el Parlamento Europeo aprobó la ampliación en 70 años del monopolio sobre los fonogramas.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1777/se-confirma-el-robo-de-20-anos-de-dominio-publico-en-europa-the-beatles-extension">Lamentablemente el Parlamento Europeo aprobó la ampliación en 70 años del monopolio sobre los fonogramas.</a></strong></p>
 
 
 <hr />

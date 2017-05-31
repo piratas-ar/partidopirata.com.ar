@@ -8,12 +8,12 @@ tags:
 - libros-divulgacion
 - piratas
 - roberto-arlt
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/220px-Roberto_Arlt_1935.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/220px-Roberto_Arlt_1935-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/220px-Roberto_Arlt_1935.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/220px-Roberto_Arlt_1935-150x150.jpg
 wppost_name: aspiro-a-ser-diputado-roberto-arlt
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/220px-Roberto_Arlt_1935.jpg"><img class="size-full wp-image-3062 alignleft" title="Roberto Arlt (1935)" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/220px-Roberto_Arlt_1935.jpg" alt="" width="220" height="342" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/220px-Roberto_Arlt_1935.jpg"><img class="size-full wp-image-3062 alignleft" title="Roberto Arlt (1935)" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/220px-Roberto_Arlt_1935.jpg" alt="" width="220" height="342" /></a>
 
 
 Señores:

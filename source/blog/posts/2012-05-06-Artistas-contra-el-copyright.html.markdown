@@ -6,12 +6,12 @@ tags:
 - derecho-de-autor
 - material-para-difusion
 - tatiana-de-mello-dias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat-150x150.jpg
 wppost_name: artistas-contra-el-copyright
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat.jpg"><img class="size-medium wp-image-4361" title="chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat-300x234.jpg" alt="" width="300" height="234" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat.jpg"><img class="size-medium wp-image-4361" title="chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/chronique-calimaq-8-rien-est-a-nous-cc-owni-M-Boucharlat-300x234.jpg" alt="" width="300" height="234" /></a>
 
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/os-artistas-contra-o-copyright/" target="blank">Fuente Tatiana de Mello Dias</a></strong>
@@ -24,7 +24,7 @@ No siempre.
 
 Empezando con un poema francés del siglo 19, el site <a href="http://owni.eu/2012/03/21/artists-against-copyright-intellectual-property/">Owni.eu hizo una lista</a> de algunos de los artistas que son a favor del libre intercambio. Y el poema, escrito por Henri-Frederic Amiel en 1880, explica el porqué:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/rep1-290x300.jpg"><img class="aligncenter size-full wp-image-4362" title="rep1-290x300" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/rep1-290x300.jpg" alt="" width="290" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/rep1-290x300.jpg"><img class="aligncenter size-full wp-image-4362" title="rep1-290x300" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/rep1-290x300.jpg" alt="" width="290" height="300" /></a>
 
 <em>Vos decís: ‘ese pensamiento es mío’. No, mi hermano,
 Está en vos, nada es tuyo
@@ -61,5 +61,5 @@ El director francés decía no reconocer la propiedad intelectual. En su pelícu
 
 <strong>Nina Paley</strong>
 La ilustradora y activista de la cultura libre inventó una licencia propia para publicar su libro Mimi &amp; Eunice: a Copyheart. Es una renuncia completa de los derechos sobre su obra. Para continuar viviendo como artista, Nina usa modelos alternativos de financiamiento – donaciones o crowdfunding.
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/ninap.png"><img class="aligncenter size-medium wp-image-4363" title="ninap" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/ninap-300x93.png" alt="Nina Paley" width="300" height="93" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/ninap.png"><img class="aligncenter size-medium wp-image-4363" title="ninap" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/ninap-300x93.png" alt="Nina Paley" width="300" height="93" /></a></p>
 Sólo que hablar no garantiza que las obras sean realmente libres de derechos de autor – o sean usadas para el bien común. Las películas de Godard, por ejemplo, están protegidas – los derechos pertencen todavía a los productores. Los posters de mayo de 1968 tuvieron un problema opuesto: una rede de supermercados francesa se aprovechó de la libre distribución y se aproprió de algunas obras.

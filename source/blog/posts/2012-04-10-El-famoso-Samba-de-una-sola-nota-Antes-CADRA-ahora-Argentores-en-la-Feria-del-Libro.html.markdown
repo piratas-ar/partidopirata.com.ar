@@ -11,8 +11,8 @@ tags:
 - presion
 - sociedades-de-gestion
 - tito-cossa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
 wppost_name: el-famoso-samba-de-una-sola-nota-antes-cadra-ahora-argentores-en-la-feria-del-libro
 ---
 
@@ -22,7 +22,7 @@ Samba de una sola nota</center>&nbsp;
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/3790/x-jornada-de-derecho-de-autor-en-el-mundo-editorial-en-la-feria-del-libro-de-buenos-aires">Así como la CADRA dará su <del datetime="2012-04-11T01:27:53+00:00">lobby</del>, conferencias sobre Derecho de Autor en el Mundo Editorial</a></strong>
+<strong><a href="https://partidopirata.com.ar/3790/x-jornada-de-derecho-de-autor-en-el-mundo-editorial-en-la-feria-del-libro-de-buenos-aires">Así como la CADRA dará su <del datetime="2012-04-11T01:27:53+00:00">lobby</del>, conferencias sobre Derecho de Autor en el Mundo Editorial</a></strong>
 
 Ahora <strong><a href="http://www.argentores.org.ar/08_actividades_novedades/2012/03-21-12_feria.htm" target="_blank">Argentores </a></strong>también nos presenta su <del datetime="2012-04-11T01:27:53+00:00">lobby</del>, mesas.
 
@@ -75,7 +75,7 @@ La evidencia más fuerte de que los autores no viven de sus derechos es el proye
 Es llamativo que todos estos escritores son de la era pre internet, no es que murieron en la indigencia porque en Internet le subían sus obras y así no podían vivir.
 
 "La autora de Las grietas de Jara agrega que esa “ignorancia especulativa” habilita a que haya editoriales “que sólo te publican si firmás un contrato por toda tu vida, más setenta años de tus descendientes, lo que técnicamente implica un estado de esclavitud; medios que te piden columnas o notas de ‘onda’, empresas que te piden participar ad honorem en eventos con los que ellos lucran. Y todo esto se basa en partir de la idea de que un escritor escribe porque le gusta o porque no tiene más remedio. Y eso es cierto, pero en ningún caso para que otro haga negocio con esa bendición o esa condena”."
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">Más en "De Qué No Viven los Escritores</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">Más en "De Qué No Viven los Escritores</a></strong></p>
 <p style="text-align: center;">  Sobre lo como<em> defiende</em> Argentores a sus afiliados:</p>
 <p style="text-align: center;">"Porque el negocio tiene que seguir siendo lógico para todos, no puede ser que nosotros generemos contenidos y tengamos que ceder a perpetuidad nuestros derechos. No es legal. Y en esa búsqueda estamos solos porque Argentores nos ha dejado de lado, arreglando como podemos con los productores en soledad. Somos muchos los que queremos rever cuestiones más armónicas para todas las partes. Cuando digo “somos muchos” hablo de autores y de productores, los unos no existimos sin los otros. No estamos enfrentados a los productores, pero necesitamos que escuchen algún tipo de acercamiento para que todos trabajemos en paz."</p>
 <p style="text-align: center;"><strong><a href="http://www.pagina12.com.ar/diario/suplementos/espectaculos/8-23917-2011-12-26.html" target="_blank">Fuente Página 12.</a></strong></p>
@@ -133,4 +133,4 @@ A eso es a lo que de verdad temen: no a la “piratería”, sino a un nuevo esc
 Y Argentores, SADAIC, CAPIF, SAGAI, CADRA,  le temen a que puedan hacer menos caja, o a que la gente sus asociados finalmente se harten de ellos.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">Nuestros Volantes de la Feria del Libro para descargar y repartir en ella.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">Nuestros Volantes de la Feria del Libro para descargar y repartir en ella.</a></strong></p>

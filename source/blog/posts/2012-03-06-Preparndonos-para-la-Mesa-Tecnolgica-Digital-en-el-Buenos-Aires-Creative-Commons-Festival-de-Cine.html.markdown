@@ -10,12 +10,12 @@ tags:
 - festival-de-cine
 - mario-pergolini
 - mesa-tecnologica-digital
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
 wppost_name: preparandonos-para-la-mesa-tecnologica-digital-en-el-buenos-aires-creative-commons-festival-de-cine
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg"><img class="alignleft  wp-image-3335" title="Festival Creative Commons" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg" alt="" width="459" height="321" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg"><img class="alignleft  wp-image-3335" title="Festival Creative Commons" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg" alt="" width="459" height="321" /></a>
 
 &nbsp;
 

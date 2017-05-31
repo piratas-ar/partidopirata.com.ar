@@ -9,17 +9,17 @@ tags:
 - trabas
 - videos
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/vallas2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/vallas2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/vallas2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/vallas2-150x150.jpg
 wppost_name: carrera-de-vallas-youtube-vs-complementos-de-firefox-para-descargar-videos
 ---
 
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6046/superamos-la-valla-si-no-les-funciona-el-download-helper-para-bajar-videos-de-youtube">Acá encontraron una solución al problema de Download Helper</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6046/superamos-la-valla-si-no-les-funciona-el-download-helper-para-bajar-videos-de-youtube">Acá encontraron una solución al problema de Download Helper</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif"><img class="alignright size-full wp-image-5997" title="smiley" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif" alt="" width="109" height="75" /></a>Parece que Youtube decidió complicar las cosas con los complementos que ayudan a descargar los videos que están almacenados ahí.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif"><img class="alignright size-full wp-image-5997" title="smiley" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif" alt="" width="109" height="75" /></a>Parece que Youtube decidió complicar las cosas con los complementos que ayudan a descargar los videos que están almacenados ahí.
 
 El más popular complemento para descargar videos, <a href="https://addons.mozilla.org/es/firefox/addon/video-downloadhelper/" target="_blank">Download Helper</a> no está funcioando bien. Tampoco otros complementos como <a href="http://www.ant.com/video-downloader" target="_blank">Ant Video</a> están funcionando bien.
 Siendo que ambos si funcionan en otros sites de videos como<a href="http://www.dailymotion.com/" target="_blank"> Dailymotion </a>o <a href="http://vimeo.com/" target="_blank">Vimeo.</a>
@@ -36,7 +36,7 @@ Fíjense lo que colocaron <a href="http://www.configurarequipos.com/respuestas/p
 Lo que me ocurre es que al intentar descargar el vídeo con alguno de estos complementos, se demora iniciando lo descargar y luego me baja un archivo de 0 Kb de peso. "
 <p style="text-align: center;"><strong>Más argumentos para instalar un sistema operativo libre, pero , pensemos también, en los que no lo usan. Por que se compraron una notebook y vino con Windows, porque tienen miedo de cambiarle el sistema, por tantas cosas.,</strong></p>
 <p style="text-align: center;"><strong>Recomendemos el uso de software liber pero entendamos y comprendamos a quienes no lo usan.</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4460/cory-doctorow-el-problema-de-los-nerds-y-la-politica">Recordemos esta nota de Cory Doctorow!</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4460/cory-doctorow-el-problema-de-los-nerds-y-la-politica">Recordemos esta nota de Cory Doctorow!</a></strong></p>
 <p style="text-align: center;"><strong><a href="http://bugzilla.downloadhelper.net/show_bug.cgi?id=436" target="_blank">En este foro dejaron una posible solución al tema de Download Helper</a></strong></p>
 
 
@@ -44,7 +44,7 @@ Lo que me ocurre es que al intentar descargar el vídeo con alguno de estos comp
 
 Recordemos que <strong>Youtube </strong> ya trabó el servicio que ofrecía el site <a href="http://www.youtube-mp3.org/es" target="_blank">http://www.youtube-mp3.org/es</a> que ofrecía un enlace para descargar el audio de los videos de Youtube
 
-<a href="http://partidopirata.com.ar/4961/youtube-2-mp3-nos-pide-ayuda">Dejamos una petición organizada por ese site para que <strong>Youtube</strong> permita que ese site siga ofreciendo ese servicio.</a>
+<a href="https://partidopirata.com.ar/4961/youtube-2-mp3-nos-pide-ayuda">Dejamos una petición organizada por ese site para que <strong>Youtube</strong> permita que ese site siga ofreciendo ese servicio.</a>
 
 Es muy interesante lo que dice ese site sobre los diferentes servicios que Google (propiestaria de <strong>Youtube</strong>) que utilizan elementos de otros sites:
 
@@ -56,7 +56,7 @@ Otro gran servicio, pero hay autores y editoriales que no quieren ver sus libros
 <p style="text-align: center;"><a href="https://www.change.org/petitions/youtube-googlede-allow-third-party-recording-tools-for-youtube-freedomonyoutube" target="_blank">Si quieren firmar la petición de Youtube 2 mp3 para que les permitan ofrecer su servicio.</a>
 <strong>
 Y, es obvio, que cada vez más tenemos que dejar de usar servicios de Google!</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5883/google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-busquedas">Como lo que está haciendo el buscador de castigar en los resultados a sites que aparecen con muchas denuncias por piratería!</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5883/google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-busquedas">Como lo que está haciendo el buscador de castigar en los resultados a sites que aparecen con muchas denuncias por piratería!</a></strong></p>
 <p style="text-align: center;"><strong>Dejemos de usar los productos de Google es la única solución!</strong></p>
 
 

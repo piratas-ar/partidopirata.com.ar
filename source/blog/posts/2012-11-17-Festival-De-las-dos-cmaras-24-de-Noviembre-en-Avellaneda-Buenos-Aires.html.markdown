@@ -7,12 +7,12 @@ tags:
 - dos-camaras
 - escuela-de-cine
 - festival
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/festival-de-las-dos-camaras.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/festival-de-las-dos-camaras-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/festival-de-las-dos-camaras.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/festival-de-las-dos-camaras-150x150.jpg
 wppost_name: festival-de-las-dos-camaras-24-de-noviembre-en-avellaneda-buenos-aires
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/festival-de-las-dos-camaras.jpg"><img class="aligncenter size-large wp-image-7447" title="festival de las dos camaras" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/festival-de-las-dos-camaras-754x1024.jpg" alt="" width="620" height="842" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/festival-de-las-dos-camaras.jpg"><img class="aligncenter size-large wp-image-7447" title="festival de las dos camaras" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/festival-de-las-dos-camaras-754x1024.jpg" alt="" width="620" height="842" /></a>
 
 <hr />
 

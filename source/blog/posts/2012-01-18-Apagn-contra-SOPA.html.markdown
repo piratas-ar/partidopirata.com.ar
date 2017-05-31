@@ -11,8 +11,8 @@ tags:
 - leyes
 - pipa
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/mafalda-sopa-banner-720.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/mafalda-sopa-banner-720-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/mafalda-sopa-banner-720.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/mafalda-sopa-banner-720-150x150.png
 wppost_name: apagon-contra-sopa
 ---
 

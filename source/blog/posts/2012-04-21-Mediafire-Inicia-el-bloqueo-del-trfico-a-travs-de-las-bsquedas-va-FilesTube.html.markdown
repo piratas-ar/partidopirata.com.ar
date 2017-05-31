@@ -10,15 +10,15 @@ tags:
 - mediafire
 - redes-p2p
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/mediafire1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/mediafire1-150x73.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/mediafire1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/mediafire1-150x73.jpg
 wppost_name: mediafire-inicia-el-bloqueo-del-trafico-a-traves-de-las-busquedas-via-filestube
 ---
 
 <strong><a href="https://torrentfreak.com/mediafire-starts-blocking-filestube-links-120422/" target="_blank">Fuente Torrentfreak.</a></strong>
 
 En una semana, donde " las prácticas razonables" de los cyberlockers estaban en la agenda, el  servicio de alojamiento Mediafire decidió bloquear todo el tráfico entrante desde el popular motor búsqueda  FilesTube. Al comentar sobre el movimiento de Mediafire su co-fundador explica que era un paso lógico ya que su servicio no fue diseñado para ser indexado en público
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/mediafire1.jpg"><img class="alignright size-full wp-image-4143" title="mediafire1" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/mediafire1.jpg" alt="" width="225" height="73" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/mediafire1.jpg"><img class="alignright size-full wp-image-4143" title="mediafire1" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/mediafire1.jpg" alt="" width="225" height="73" /></a>
 
 Con millones de visitantes diarios <a href="http://filestube.com/">FilesTube</a> es uno de los sitios web más visitados en Internet.
 
@@ -42,13 +42,13 @@ El bloqueo a FilesTube evita que los usuarios accedan a Mediafire, pero no impid
 
 FilesTube <a href="http://www.facebook.com/photo.php?fbid=10150964687404746&amp;set=a.10150964686869746.528216.135577699745&amp;type=1&amp;theater">dejó en claro</a> esta solución en su página en Facebook.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/blocked1.png"><img class="size-medium wp-image-4144" title="blocked1" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/blocked1-300x107.png" alt="" width="300" height="107" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/blocked1.png"><img class="size-medium wp-image-4144" title="blocked1" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/blocked1-300x107.png" alt="" width="300" height="107" /></a>
 
 
 <strong><a href="https://torrentfreak.com/mediafire-starts-blocking-filestube-links-120422/" target="_blank">Fuente Torrentfreak.</a></strong>
 
 <hr />
 
-Los ciberlockers están nerviosos desde lo de Megaupload. Intentemos aprender o reaprender a usar <strong><a href="http://partidopirata.com.ar/wiki/index.php?title=Guia_P2P">redes P2P</a></strong> y a cuidar nuestra privacidad. Las cosas serán un poco más difíciles pero conquistaremos nuestra libertad y no dependeremos de tantos intermediarios.
+Los ciberlockers están nerviosos desde lo de Megaupload. Intentemos aprender o reaprender a usar <strong><a href="https://partidopirata.com.ar/wiki/index.php?title=Guia_P2P">redes P2P</a></strong> y a cuidar nuestra privacidad. Las cosas serán un poco más difíciles pero conquistaremos nuestra libertad y no dependeremos de tantos intermediarios.
 
 <hr />

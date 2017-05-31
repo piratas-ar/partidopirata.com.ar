@@ -9,8 +9,8 @@ tags:
 - denuncias
 - material-para-difusion
 - pornografia
-image: http://partidopirata.com.ar/wp-content/uploads/2014/07/sandra-censor.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/07/sandra-censor-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2014/07/sandra-censor.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/07/sandra-censor-150x150.jpg
 wppost_name: '9524'
 ---
 
@@ -99,7 +99,7 @@ Este proyecto de ley no solo no cumple con su propósito sino que pone en riesgo
 	<li id="fn11"><a href="https://torrentfreak.com/finnish-court-censors-website-that-criticizes-censorship-130826/">https://torrentfreak.com/finnish-court-censors-website-that-criticizes-censorship-130826/</a><a href="#fnref11">↩</a></li>
 	<li id="fn12"><a href="http://torrentfreak.com/hollywood-fails-to-add-torrent-sites-to-child-abuse-filter-140704/">http://torrentfreak.com/hollywood-fails-to-add-torrent-sites-to-child-abuse-filter-140704/</a><a href="#fnref12">↩</a></li>
 	<li id="fn13"><a href="http://www.wikileaks.org/wiki/Leaked_Australian_blacklist_reveals_banned_sites">http://www.wikileaks.org/wiki/Leaked_Australian_blacklist_reveals_banned_sites</a><a href="#fnref13">↩</a></li>
-	<li id="fn14"><a href="http://partidopirata.com.ar/2014/07/01/una-medida-desproporcionada-e-inutil/">http://partidopirata.com.ar/2014/07/01/una-medida-desproporcionada-e-inutil/</a><a href="#fnref14">↩</a></li>
+	<li id="fn14"><a href="https://partidopirata.com.ar/2014/07/01/una-medida-desproporcionada-e-inutil/">https://partidopirata.com.ar/2014/07/01/una-medida-desproporcionada-e-inutil/</a><a href="#fnref14">↩</a></li>
 	<li id="fn15"><a href="http://www.infojus.gob.ar/legislacion/constitucion-nacional-1853.htm;jsessionid=1xb3ipsy3k0kie6iif8g2qt3p?0">http://www.infojus.gob.ar/legislacion/constitucion-nacional-1853.htm;jsessionid=1xb3ipsy3k0kie6iif8g2qt3p?0</a><a href="#fnref15">↩</a></li>
 	<li id="fn16"><a href="http://www.enriquedans.com/2013/08/el-anonimato-como-derecho.html">http://www.enriquedans.com/2013/08/el-anonimato-como-derecho.html</a><a href="#fnref16">↩</a></li>
 	<li id="fn17"><a href="http://www.unicef.org/protection/57929_60984.html">http://www.unicef.org/protection/57929_60984.html</a><a href="#fnref17">↩</a></li>

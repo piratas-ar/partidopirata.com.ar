@@ -10,8 +10,8 @@ tags:
 - guerra
 - sopa
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
 wppost_name: cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general
 ---
 
@@ -38,9 +38,9 @@ Para quienes el nombre todavía les resulte desconocido, aquí la <a href="http:
 </ul>
 <p style="text-align: center;"><strong>Envíennos los subtítulos revisados a:</strong></p>
 <p style="text-align: center;"><strong>Ppirataargentino#gmail.com</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2308/sopa-toda-la-internet-mundial-bajo-juridisccion-de-estados-unidos">Sobre el proyecto de ley SOPA </a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2308/sopa-toda-la-internet-mundial-bajo-juridisccion-de-estados-unidos">Sobre el proyecto de ley SOPA </a></strong></p>
 <p style="text-align: center;"><strong><a href="http://www.fabio.com.ar/verpost.php?id_noticia=4825" target="_blank">Del Jardín a la Muralla China en el blog de Fabio.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5147/cory-doctorow-en-la-reunion-del-partido-pirata-internacional-en-praga-2012">Otra conferencia de Cory Doctorow en la reunión del Partido Pirata Internacional en Praga en abril del 2012.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5147/cory-doctorow-en-la-reunion-del-partido-pirata-internacional-en-praga-2012">Otra conferencia de Cory Doctorow en la reunión del Partido Pirata Internacional en Praga en abril del 2012.</a></strong></p>
 
 
 <hr />

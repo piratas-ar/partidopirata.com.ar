@@ -14,8 +14,8 @@ thumb:
 wppost_name: contra-la-extorsion-del-canon-por-fotocopias-en-la-uba
 ---
 
-<p style="text-align: center;"><img class="aligncenter" title="Volante sobre el acuerdo CADRA-Universidad de Buenos Aires" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-1024x726.png" alt="" width="572" height="405" />
-<strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-1024x726.png" target="_blank">Click para Agrandar</a></strong>
+<p style="text-align: center;"><img class="aligncenter" title="Volante sobre el acuerdo CADRA-Universidad de Buenos Aires" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-1024x726.png" alt="" width="572" height="405" />
+<strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-1024x726.png" target="_blank">Click para Agrandar</a></strong>
 <strong> Volante realizado por <a href="http://www.derechoaleer.org/2011/10/semana-de-eventos-cultura-libre-.html" target="_blank">Derecho a Leer</a></strong></p>
 
 

@@ -11,12 +11,12 @@ tags:
 - musica
 - propiedad-intelectual
 - red-panal
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/images4.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/images4.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/images4.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/images4.jpeg
 wppost_name: tus-ideas-son-mias-audio-de-la-charla-entre-julio-raffo-legislador-porteno-por-proyecto-sur-y-matias-lenny-musico-y-miembro-de-red-panal
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/images4.jpeg"><img class="alignleft size-full wp-image-838" title="images4" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/images4.jpeg" alt="" width="150" height="150" /></a>Áudio del programa "<a href="https://marencoche.wordpress.com/2011/04/27/tus-ideas-son-mias/" target="_blank">La Mar en Coche</a>" de la charla entre Julio Raffo, legislador porteño por Proyecto Sur y Matias Lenny, músico y miembro de Red Panal.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/images4.jpeg"><img class="alignleft size-full wp-image-838" title="images4" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/images4.jpeg" alt="" width="150" height="150" /></a>Áudio del programa "<a href="https://marencoche.wordpress.com/2011/04/27/tus-ideas-son-mias/" target="_blank">La Mar en Coche</a>" de la charla entre Julio Raffo, legislador porteño por Proyecto Sur y Matias Lenny, músico y miembro de Red Panal.
 
 &nbsp;
 

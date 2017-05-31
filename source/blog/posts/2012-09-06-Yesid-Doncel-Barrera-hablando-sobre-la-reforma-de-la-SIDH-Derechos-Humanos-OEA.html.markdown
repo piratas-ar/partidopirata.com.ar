@@ -10,8 +10,8 @@ tags:
 - podcasts
 - sistema-interamericano-de-derechos-humanos
 - yesid-doncel-barrera
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/logooasSPA.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/logooasSPA-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/logooasSPA.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/logooasSPA-150x150.jpg
 wppost_name: yesid-doncel-barrera-hablando-sobre-la-reforma-de-la-sidh-derechos-humanos-oea
 ---
 

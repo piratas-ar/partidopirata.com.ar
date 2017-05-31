@@ -10,8 +10,8 @@ tags:
 - republica
 - subtitulos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/mid-Eben_Moglen_-_From_the_birth_of_printing_to_industrial_culture_the_root_of_copyright.ogv.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/mid-Eben_Moglen_-_From_the_birth_of_printing_to_industrial_culture_the_root_of_copyright.ogv-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/mid-Eben_Moglen_-_From_the_birth_of_printing_to_industrial_culture_the_root_of_copyright.ogv.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/mid-Eben_Moglen_-_From_the_birth_of_printing_to_industrial_culture_the_root_of_copyright.ogv-150x150.jpg
 wppost_name: eben-moglen-por-que-la-libertad-de-pensamiento-requiere-medios-de-comunicacion-libres-y-por-que-medios-de-comunicacion-libres-requieren-de-una-tecnologia-libre
 ---
 
@@ -25,7 +25,7 @@ wppost_name: eben-moglen-por-que-la-libertad-de-pensamiento-requiere-medios-de-c
 	<li><strong><a href="https://rapidshare.com/files/2108126907/ebenmoglen.srt" target="_blank">Si quieren descargar una primera versión de los subtítulos en inglés para revisar</a> Si quieren editarlos los pueden abrir con el block de notas.</strong></li>
 </ul>
 La idea es hacer buenos subtítulos en inglés de la conferencia y luego traducirlo al español.
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/contacto" target="_blank">Si quieren ayudarnos pueden escribirnos </a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/contacto" target="_blank">Si quieren ayudarnos pueden escribirnos </a></strong></p>
 
 
 <hr />

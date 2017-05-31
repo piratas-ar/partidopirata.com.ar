@@ -9,12 +9,12 @@ tags:
 - licencias
 - licencias-libres
 - noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg
 wppost_name: las-predicciones-de-lawrence-entrevista-a-lawrence-lessig-creative-commons
 ---
 
-<strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg"><img class="aligncenter size-full wp-image-1692" title="lessig" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg" alt="" width="500" height="336" /></a><a href="http://www.estadao.com.br/noticias/impresso,as-antevisoes-de-lawrence-lessig-,762804,0.htm" target="_blank">Fuente O Estado de São Paulo"</a></strong>
+<strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg"><img class="aligncenter size-full wp-image-1692" title="lessig" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/lessig.jpg" alt="" width="500" height="336" /></a><a href="http://www.estadao.com.br/noticias/impresso,as-antevisoes-de-lawrence-lessig-,762804,0.htm" target="_blank">Fuente O Estado de São Paulo"</a></strong>
 
 <hr />
 

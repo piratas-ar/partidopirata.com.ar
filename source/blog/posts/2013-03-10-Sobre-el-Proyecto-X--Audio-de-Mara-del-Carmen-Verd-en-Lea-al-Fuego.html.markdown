@@ -8,8 +8,8 @@ tags:
 - radio-2
 - sibios
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
 wppost_name: sobre-el-proyecto-x-audio-de-maria-del-carmen-verdu
 ---
 
@@ -19,14 +19,14 @@ Segmento del programa Leña al Fuego del 9 de Marzo con la participación de Mar
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/maria-del-carmen-verdu-lena-al-fuego_md_1855083_1.mp3" target="_blank">Si quieren descargar el archvio mp3</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart5.png"><img class="size-full wp-image-8712" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart5.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/chart5.png"><img class="size-full wp-image-8712" alt="Código QR de la dirección del archivo mp3" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/chart5.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 
 <hr />
 
 <ul>
 	<li><strong><a href="http://partido-pirata.blogspot.com/2013/03/lena-al-fuego-del-9-de-marzo.html" target="_blank">Si quieren escuchar o descargar todo el programa Leña al Fuego del 9 de Marzo.</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/8676/sibios-un-genial-complemento-para-el-proyecto-x">Sobre SIBIOS el complemento ideal del Proyecto X.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/8676/sibios-un-genial-complemento-para-el-proyecto-x">Sobre SIBIOS el complemento ideal del Proyecto X.</a></strong></li>
 </ul>
 
 <hr />

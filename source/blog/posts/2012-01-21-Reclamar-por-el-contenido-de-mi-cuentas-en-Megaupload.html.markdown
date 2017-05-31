@@ -9,12 +9,12 @@ tags:
 - megaupload
 - proceso
 - reclamacion-del-contenido
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
 wppost_name: reclamar-por-el-contenido-de-mi-cuentas-en-megaupload
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg"><img class="aligncenter size-full wp-image-2427" title="megaupload" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg" alt="Logo de Megaupload" width="180" height="154" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg"><img class="aligncenter size-full wp-image-2427" title="megaupload" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg" alt="Logo de Megaupload" width="180" height="154" /></a>
 
 <strong>No todas las cuentas de Megaupload tenían material con derecho de autor, nosotros habíamos subido un documental con Creative Commons, desde España llega la siguiente información:</strong>
 

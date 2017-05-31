@@ -10,8 +10,8 @@ tags:
 - grandes-datos
 - intimidad
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/wpid-Photo-2012-04-26-1117-AM.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/wpid-Photo-2012-04-26-1117-AM-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/wpid-Photo-2012-04-26-1117-AM.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/wpid-Photo-2012-04-26-1117-AM-150x150.jpg
 wppost_name: grandes-datos-es-un-asunto-de-los-derechos-civiles-de-nuestra-generacion-y-no-lo-sabemos
 ---
 
@@ -23,7 +23,7 @@ Lo que realmente mueve los llamados grandes datos no es el volumen de informaci�
 
 Durante décadas, ha habido una tensión fundamental entre los tres atributos de las bases de datos. Puedes tener los datos de forma rápida, puedes tener grandes datos, o  puedes tenerlos variados. El problema es, no puedes tenerlos los tres a la vez.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/big-data-triangle.png"><img class=" wp-image-5696" title="big-data-triangle" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/big-data-triangle.png" alt="" width="384" height="270" /></a> Triángulo de los grandes datos.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/big-data-triangle.png"><img class=" wp-image-5696" title="big-data-triangle" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/big-data-triangle.png" alt="" width="384" height="270" /></a> Triángulo de los grandes datos.
 
 
 La primera vez que escuché esto como "las tres V de los datos": volumen, variedad y velocidad. Tradicionalmente, conseguir dos fue fácil, pero conseguir los tres era muy, muy, muy caro.
@@ -42,7 +42,7 @@ Y esto es una cosa peligrosa.
 
 Cuando los gerentes de los bancos trataron de restringir los préstamos a los residentes de ciertas áreas (conocido como línea roja) El Congreso intervino para detenerlo (con la Ley de Vivienda Justa de 1968.) Ellos fueron capaces de legislar en contra de la discriminación, por lo que es ilegal cambiar la política de préstamos sobre la base de de la raza de alguien.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/Home_Owners_Loan_Corporation_Philadelphia_redlining_map.jpeg"><img class="aligncenter size-full wp-image-5697" title="Home_Owners_Loan_Corporation_Philadelphia_redlining_map" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/Home_Owners_Loan_Corporation_Philadelphia_redlining_map.jpeg" alt="" width="746" height="565" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/Home_Owners_Loan_Corporation_Philadelphia_redlining_map.jpeg"><img class="aligncenter size-full wp-image-5697" title="Home_Owners_Loan_Corporation_Philadelphia_redlining_map" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/Home_Owners_Loan_Corporation_Philadelphia_redlining_map.jpeg" alt="" width="746" height="565" /></a>
 
 "Personalización" es otra palabra para la discriminación. No estamos discriminando si nosotros, diseñamos cosas adaptadas a usted, basado en lo que sabemos acerca de usted, ¿verdad? Eso es  sólo mejor servicio.
 
@@ -60,9 +60,9 @@ Si recopilo información sobre la música que escuchás, puedes asumir que voy a
 
 ¿Quieres otro ejemplo? Echa un vistazo a los <a href="http://solveforinteresting.com/private-data-in-public-ways/">Datos Privados en las Vías Públicas</a>, algo que escribí hace unos meses, después de ver una charla en Big Data Londres, que explica cómo la información del apellido publicamente disponible se puede utilizar para generar mapas de contorno raciales:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/wpid-Photo-2012-04-26-1117-AM.jpg"><img class="aligncenter  wp-image-5698" title="wpid-Photo-2012-04-26-1117-AM" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/wpid-Photo-2012-04-26-1117-AM.jpg" alt="" width="904" height="579" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/wpid-Photo-2012-04-26-1117-AM.jpg"><img class="aligncenter  wp-image-5698" title="wpid-Photo-2012-04-26-1117-AM" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/wpid-Photo-2012-04-26-1117-AM.jpg" alt="" width="904" height="579" /></a>
 
-En esta<a href="http://partidopirata.com.ar/5598/conferencia-ted-de-malte-spitz-tu-compania-de-telefonos-te-esta-vigilando"> charla TED de Malte Spitz </a>hace un gran trabajo explicando los retos de los ciudadanos ante el seguimiento de la actualidad, y se especula sobre si el Muro de Berlín  hubiera caído si la Stasi tenía acceso a los registros telefónicos en la forma en que los gobiernos de hoy en día lo hacen.
+En esta<a href="https://partidopirata.com.ar/5598/conferencia-ted-de-malte-spitz-tu-compania-de-telefonos-te-esta-vigilando"> charla TED de Malte Spitz </a>hace un gran trabajo explicando los retos de los ciudadanos ante el seguimiento de la actualidad, y se especula sobre si el Muro de Berlín  hubiera caído si la Stasi tenía acceso a los registros telefónicos en la forma en que los gobiernos de hoy en día lo hacen.
 
 Entonces, ¿cómo regular la forma en que se utilizan los datos?
 

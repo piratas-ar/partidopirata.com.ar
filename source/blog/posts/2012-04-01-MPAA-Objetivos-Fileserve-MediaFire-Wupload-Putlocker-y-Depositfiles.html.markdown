@@ -15,8 +15,8 @@ tags:
 - mpaa
 - putlocker
 - wupload
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers-150x150.jpg
 wppost_name: mpaa-objetivos-fileserve-mediafire-wupload-putlocker-y-depositfiles
 ---
 
@@ -33,7 +33,7 @@ El estudio de cine afirma que estos  cyberlockers "delincuentes" recibieron 41 
 &nbsp;
 
 .
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg"><img class="aligncenter size-full wp-image-3710" title="Lista para borrar cyberlockers" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg" alt="" width="610" height="442" /></a><strong>La lista de ciberlockers para borrar</strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg"><img class="aligncenter size-full wp-image-3710" title="Lista para borrar cyberlockers" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg" alt="" width="610" height="442" /></a><strong>La lista de ciberlockers para borrar</strong></p>
 En los últimos meses la MPAA ha criticado el modelo de negocio de estos y otros cyberlockers en muchas ocasiones.
 
 En noviembre pasado, por ejemplo, tenemos en nuestras manos <a href="http://torrentfreak.com/mpaa-lashes-out-against-rogue-cyberlockers-111101/">una hoja</a> de MPAA titulado "Es todo por el dinero: "El Modelo de negocios de los cyberlockers" con una visión general de algunos de sus programas de afiliados. De acuerdo con la MPAA estos programas motivan a los usuarios a compartir material con derechos, promoviendo así la piratería.

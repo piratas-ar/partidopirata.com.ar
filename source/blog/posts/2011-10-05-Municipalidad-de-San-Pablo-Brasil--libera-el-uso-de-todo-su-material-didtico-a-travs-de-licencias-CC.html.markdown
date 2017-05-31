@@ -10,14 +10,14 @@ tags:
 - municipalidad-de-san-pablo
 - noticias
 - san-pablo
-image: http://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo-150x150.jpg
 wppost_name: municipalidad-de-san-pablo-brasil-libera-el-uso-de-todo-su-material-didatico-a-traves-de-licencias-ccc
 ---
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo.jpg"><img class="aligncenter size-full wp-image-19" title="cc-logo" src="http://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo.jpg" alt="Creative Commons" width="576" height="146" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo.jpg"><img class="aligncenter size-full wp-image-19" title="cc-logo" src="https://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo.jpg" alt="Creative Commons" width="576" height="146" /></a>
 <strong><a href="http://creativecommons.org.br/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=1" target="_blank">Fuente Creative Commons Brasil.</a></strong>
 Todos los recursos educativos producidos por la Municipalidad de San Pablo están ahora libres para download gratuito. El Intendente Gilberto Kasab firmó el decreto que hace disponibles a cualquier persona todo el contenido y material didáctico producido por la Secretaría Municipal de Educación, a través del uso de licencias Creative Commons.
 
@@ -34,6 +34,6 @@ Accese aqui al <a href="http://rea.net.br/2011/10/03/decreto-sobre-rea-em-vigor-
 <strong></strong><strong><a href="http://creativecommons.org.br/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=1" target="_blank">Fuente Creative Commons Brasil.</a></strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1856/the-power-of-open-y-mas-material-para-mostrar-que-con-licencias-abiertas-es-posible-ganar-dinero">Acá está el libro "The Power of Open" libre para su descarga sobre casos exitosos del uso de licencias libres </a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1856/the-power-of-open-y-mas-material-para-mostrar-que-con-licencias-abiertas-es-posible-ganar-dinero">Acá está el libro "The Power of Open" libre para su descarga sobre casos exitosos del uso de licencias libres </a></strong></p>
 <p style="text-align: center;">
 Macri , mientras tanto, criminaliza las luchas docentes y Cristina promete más derechos de autor y canon digital para todos....Con quien fuera ministro de educación como uno de los baluartes de ese canon...</p>

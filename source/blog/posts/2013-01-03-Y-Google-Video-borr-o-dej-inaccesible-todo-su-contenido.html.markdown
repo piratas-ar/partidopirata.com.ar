@@ -8,8 +8,8 @@ tags:
 - google-video
 - servicios-gratuitos
 - videos
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube-150x150.png
 wppost_name: y-google-video-borro-o-dejo-inaccesible-todo-su-contenido
 ---
 
@@ -31,15 +31,15 @@ Ahora, si quieren ver algún video que estaba alojado en Google Video se les rem
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/Google-Videos-Error.png"><img class="aligncenter size-full wp-image-8018" alt="Google Videos Error" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/Google-Videos-Error.png" width="635" height="170" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/Google-Videos-Error.png"><img class="aligncenter size-full wp-image-8018" alt="Google Videos Error" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/Google-Videos-Error.png" width="635" height="170" /></a>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube.png"><img class="aligncenter size-full wp-image-8016" alt="YouTube" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube.png" width="642" height="388" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube.png"><img class="aligncenter size-full wp-image-8016" alt="YouTube" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube.png" width="642" height="388" /></a>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube2.png"><img class="aligncenter size-full wp-image-8017" alt="YouTube2" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube2.png" width="643" height="390" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube2.png"><img class="aligncenter size-full wp-image-8017" alt="YouTube2" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/YouTube2.png" width="643" height="390" /></a>
 
 <hr />
 

@@ -10,12 +10,12 @@ tags:
 - presentacion-del-libro
 - redvolucion
 - urbanismo
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/188164_282844108500389_599101702_n.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/188164_282844108500389_599101702_n-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/188164_282844108500389_599101702_n.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/188164_282844108500389_599101702_n-150x150.jpg
 wppost_name: presentacion-del-libro-copylove-revolucion-remezcla
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/188164_282844108500389_599101702_n.jpg"><img class="alignright size-full wp-image-7017" title="188164_282844108500389_599101702_n" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/188164_282844108500389_599101702_n.jpg" alt="" width="180" height="461" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/188164_282844108500389_599101702_n.jpg"><img class="alignright size-full wp-image-7017" title="188164_282844108500389_599101702_n" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/188164_282844108500389_599101702_n.jpg" alt="" width="180" height="461" /></a>
 <ul>
 	<li><strong>24 de Octubre</strong>
 <strong> </strong></li>
@@ -23,7 +23,7 @@ wppost_name: presentacion-del-libro-copylove-revolucion-remezcla
 	<li><strong>La Casona Iluminada, Corrientes 1979</strong></li>
 	<li><strong>Ciudad de Buenos Aires</strong></li>
 	<li><strong><a href="https://twitter.com/casonailuminada" target="_blank">Twitter de "La Casona Iluminada"</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/6322/conversando-con-bernardo-gutierrez">Acá estuvimos charlando con Bernardo</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/6322/conversando-con-bernardo-gutierrez">Acá estuvimos charlando con Bernardo</a></strong></li>
 </ul>
 <pre><strong><a href="https://rapidshare.com/files/3706890814/24H_BOOK.pdf" target="_blank">Si quieren descargar el libro</a></strong>   # &lt;<a href="https://twitter.com/search?q=%23CulturaDeRed&amp;src=hash" target="_blank">https://twitter.com/search?q=%23CulturaDeRed&amp;src=hash</a>&gt;
 24H: <a href="http://www.dpr-barcelona.com/index.php?/ongoing/24h/" target="_blank">http://www.dpr-barcelona.com/index.php?/ongoing/24h/</a>

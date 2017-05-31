@@ -9,12 +9,12 @@ tags:
 - denunciar
 - derechos-del-consumidor
 - megaupload
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/6729919585_e2c1894234.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/6729919585_e2c1894234-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/6729919585_e2c1894234.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/6729919585_e2c1894234-150x150.jpg
 wppost_name: pirates-de-catalunya-denuncia-conjunta-de-afectados-por-el-cierre-de-megaupload
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/6729919585_e2c1894234.jpg"><img class="aligncenter size-full wp-image-2903" title="6729919585_e2c1894234" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/6729919585_e2c1894234.jpg" alt="Megaupload borrado" width="500" height="333" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/6729919585_e2c1894234.jpg"><img class="aligncenter size-full wp-image-2903" title="6729919585_e2c1894234" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/6729919585_e2c1894234.jpg" alt="Megaupload borrado" width="500" height="333" /></a>
 <strong><a href="http://megaupload.pirata.cat/es/" target="_blank&quot;">Pirates de Catalunya</a></strong>
 
 <strong></strong>

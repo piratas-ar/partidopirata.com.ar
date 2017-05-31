@@ -10,8 +10,8 @@ tags:
 - modelo-toxico
 - monsanto
 - paren-de-fumigar
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31-150x150.jpg
 wppost_name: campana-escuelas-fumigadas-nunca-mas
 ---
 

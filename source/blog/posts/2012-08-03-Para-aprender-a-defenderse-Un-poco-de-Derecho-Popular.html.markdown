@@ -10,8 +10,8 @@ tags:
 - letra-p
 - libreria
 - robo
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/bafabbookstorenatgeo.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/bafabbookstorenatgeo-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/bafabbookstorenatgeo.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/bafabbookstorenatgeo-150x150.jpeg
 wppost_name: porque-no-comprar-en-librerias-cuspide
 ---
 

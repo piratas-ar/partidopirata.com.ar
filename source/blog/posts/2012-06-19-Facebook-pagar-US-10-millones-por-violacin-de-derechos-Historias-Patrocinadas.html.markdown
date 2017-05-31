@@ -13,8 +13,8 @@ tags:
 - privacidad
 - publicidad
 - salida-a-la-bolsa
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: facebook-pagara-us-10-millones-por-violacion-de-derechos-historias-patrocinadas
 ---
 

@@ -7,8 +7,8 @@ tags:
 - radio-2
 - rebeldes-stereotipos
 - revista-orsai
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/n2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/n2.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/n2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/n2.png
 wppost_name: entrevista-a-hernan-casciari-en-rebeldes-stereotipos
 ---
 

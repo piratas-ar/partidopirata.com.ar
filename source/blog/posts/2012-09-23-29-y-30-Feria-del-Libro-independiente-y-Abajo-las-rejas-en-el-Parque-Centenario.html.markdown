@@ -8,8 +8,8 @@ tags:
 - mauricio-macri
 - parque-centenario
 - rejas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/flia-xxi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/flia-xxi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/flia-xxi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/flia-xxi-150x150.jpg
 wppost_name: 29-y-30-feria-del-libro-independiente-y-abajo-las-rejas-en-el-parque-centenario
 ---
 
@@ -19,5 +19,5 @@ XXI Feria del Libro Independiente y Abajo las rejas del Parque Centenario el Sá
 
 El parque centenario, centro de encuentro de muchos enamorados, paseo dominguero de muchas familias, espacio de juego de muchos niños y artistas, lugar de trabajo de muchos artesanos, libreros, panaderos, pirulineros y etcéteras, que ya tiene su corazón más verde enjaulado desde hace tiempo, corazón del que somos echados todos los fines de semana desde las siete y media de la tarde los que con mucho cariño lo habitamos, ahora quiere ser aún más enrejado por la municipalidad, privándonos a todos no sólo de disfrutar uno de los pocos espacios verdes que tiene esta ciudad, sino también restringiendo el trabajo de muchas personas que todos los fines de semana se ganan la vida en el parque, por todo esto elegimos el Centenario para hacer la 21ava FLIa, feria del libro independiente y abajo las rejas.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/flia-xxi.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/09/flia-xxi.jpg" alt="" title="flia xxi" width="383" height="960" class="aligncenter size-full wp-image-6590" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/flia-xxi.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/09/flia-xxi.jpg" alt="" title="flia xxi" width="383" height="960" class="aligncenter size-full wp-image-6590" /></a>
 

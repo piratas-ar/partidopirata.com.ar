@@ -11,12 +11,12 @@ tags:
 - neuquen
 - propiedad-intelectual
 - workshop
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/avatar-workshopnetlabels.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/avatar-workshopnetlabels-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/avatar-workshopnetlabels.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/avatar-workshopnetlabels-150x150.png
 wppost_name: workshop-sobre-netlabels-y-propiedad-intelectual-sab-2104-neuquen
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/a3-workshopnetlabels-lacasa-b.png"><img class="aligncenter size-large wp-image-4126" title="a3-workshopnetlabels-lacasa-b" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/a3-workshopnetlabels-lacasa-b-724x1024.png" alt="" width="620" height="876" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/a3-workshopnetlabels-lacasa-b.png"><img class="aligncenter size-large wp-image-4126" title="a3-workshopnetlabels-lacasa-b" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/a3-workshopnetlabels-lacasa-b-724x1024.png" alt="" width="620" height="876" /></a>
 <p style="text-align: center;">--</p>
 Amigos, este sábado estaré dictando un workshop sobre Netlabels (creación, mantenimiento) para músicos independientes y todos aquellos que quieran conocer más acerca de la creación de un sello virtual y su manutención. Brindaremos conocimientos específicos sobre Propiedad Intelectual, Cultura Derivativa y muchos temas más que se describen en el siguiente temario:
 

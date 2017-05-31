@@ -9,8 +9,8 @@ tags:
 - hadopi
 - torrentfreak
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: hadopi-se-planea-aumentar-las-advertencias-por-el-intercambio-de-archivos-para-2013
 ---
 
@@ -21,7 +21,7 @@ A pesar de tener previsto un corte de su presupuesto de un 25%, la agencia anti-
 n 2010 France became one of the first countries to initiate a controversial “3 strikes” mechanism to deal with the issue of online media piracy.
 En 2010, Francia se convirtió en uno de los primeros países en iniciar un mecanismo polémica de "3 avisos" para hacerle frente al problema de la piratería online.
 
-[<strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Estuvimos hablando con Erik Walter sobre Hadopi, quien es oficial Hadopi ]</a></strong>
+[<strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Estuvimos hablando con Erik Walter sobre Hadopi, quien es oficial Hadopi ]</a></strong>
 
 El sistema considera que las empresas titulares de derechos monitoreen las redes de intercambio de archivos en caso de infracción de derechos de autor y que a las ISP infractoras presuntas se les transmitan las advertencias. El sistema, administrado por la agencia de Hadopi, tiene un objetivo declarado de convencer a los ciudadanos a comprar contenido desde lugares de venta oficiales y se enfrentan a castigos potenciales si reciben un "tercer strike".
 
@@ -49,4 +49,4 @@ Pero, por supuesto, estos datos Hadopi los logró a través de una encuesta, por
 
 Sea cual sea el resultado, Hadopi ve claramente el envío de más advertencias como la solución a cifras aún mejores para el año que viene.
 
-[<strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Estuvimos hablando con Erik Walter sobre Hadopi, quien es oficial Hadopi ]</a></strong>
+[<strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Estuvimos hablando con Erik Walter sobre Hadopi, quien es oficial Hadopi ]</a></strong>

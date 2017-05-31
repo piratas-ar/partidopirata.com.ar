@@ -9,8 +9,8 @@ tags:
 - modificacion-de-la-constitucion
 - podcasts
 - reikiavik
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia-150x150.jpg
 wppost_name: panorama-desde-islandia-podcast-con-aitor-desde-reikiavik
 ---
 

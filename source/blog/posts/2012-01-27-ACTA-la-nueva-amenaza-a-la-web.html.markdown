@@ -9,12 +9,12 @@ tags:
 - campanas
 - paremos-el-acta
 - tratado
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/2050_STOP-ACTA1_1_460x230.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/2050_STOP-ACTA1_1_460x230-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/2050_STOP-ACTA1_1_460x230.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/2050_STOP-ACTA1_1_460x230-150x150.png
 wppost_name: acta-la-nueva-amenaza-a-la-web
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/2050_STOP-ACTA1_1_460x230.png"><img class="aligncenter size-full wp-image-2983" title="Paremos el ACTA" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/2050_STOP-ACTA1_1_460x230.png" alt="" width="460" height="230" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/2050_STOP-ACTA1_1_460x230.png"><img class="aligncenter size-full wp-image-2983" title="Paremos el ACTA" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/2050_STOP-ACTA1_1_460x230.png" alt="" width="460" height="230" /></a>
 
 <strong>El ACTA es un tratado global que permitiría a las compañías censurar Internet.</strong> Negociado en secreto entre un puñado de países ricos y los grandes poderes corporativos, este acuerdo crearía un opaco organismo anti-falsificación que autorizaría la vigilancia, por parte de poderosos intereses privados, de todo lo que hacemos online. Este acuerdo también les permitiría imponer sanciones durísimas, incluyendo penas de prisión, contra cualquier persona que supuestamente perjudicase sus negocios.
 

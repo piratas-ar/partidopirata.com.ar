@@ -8,8 +8,8 @@ tags:
 - mod-mtv
 - ronaldo-lemos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
 wppost_name: mod-mtv-02x06-gobierno-digital
 ---
 
@@ -51,7 +51,7 @@ Acá intentamos saber si el Ministerio de Relaciones Exteriores iba o no a firma
 
 <hr />
 <p style="text-align: center;"><strong></strong><strong><a href="http://partido-pirata.blogspot.com/2011/10/mod-mtv-segunda-temporada.html">Índice con los Programas Mod MTV con los subtítulos en español.</a></strong></p>
-<p style="text-align: center;"><strong></strong><strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg"><img class="alignleft size-full wp-image-954" title="Mod MTV" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="Mod MTV" width="223" height="69" /></a></p>
+<p style="text-align: center;"><strong></strong><strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg"><img class="alignleft size-full wp-image-954" title="Mod MTV" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="Mod MTV" width="223" height="69" /></a></p>
 
 
 <hr />

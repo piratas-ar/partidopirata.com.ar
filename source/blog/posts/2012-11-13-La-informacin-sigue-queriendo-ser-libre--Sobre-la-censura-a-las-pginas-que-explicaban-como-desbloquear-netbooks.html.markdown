@@ -11,8 +11,8 @@ tags:
 - juicio
 - juzgado
 - netbooks
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: la-informacion-sigue-queriendo-ser-libre-sobre-la-censura-a-las-paginas-que-explicaban-como-desbloquear-netbooks
 ---
 
@@ -101,4 +101,4 @@ Eso es lo que se llama<strong> Neutralidad de la Red</strong> que el proveedor n
 
 <hr />
 <p style="text-align: center;"><strong>De todas maneras este post es un simple disparador, la idea es completarlo con el comentario de uds.</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/7353/por-que-alguien-querria-desbloquear-la-netbook-de-conectar-igualdad-las-del-gobierno">¿Por qué alguien que recibió la netbook de Conectar Igualdad querría desbloquearla?</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/7353/por-que-alguien-querria-desbloquear-la-netbook-de-conectar-igualdad-las-del-gobierno">¿Por qué alguien que recibió la netbook de Conectar Igualdad querría desbloquearla?</a></strong></p>

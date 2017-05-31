@@ -2,8 +2,8 @@
 title: Un chico gana un concurso de ecologia y rechaza el premio, un Ipod.
 date: '2013-01-04'
 tags: []
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/Captura-de-pantalla-completa-04012013-124121-p.m..jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/Captura-de-pantalla-completa-04012013-124121-p.m.-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/Captura-de-pantalla-completa-04012013-124121-p.m..jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/Captura-de-pantalla-completa-04012013-124121-p.m.-150x150.jpg
 wppost_name: un-chico-gana-un-concurso-de-ecologia-y-rechaza-el-premio-un-ipod
 ---
 

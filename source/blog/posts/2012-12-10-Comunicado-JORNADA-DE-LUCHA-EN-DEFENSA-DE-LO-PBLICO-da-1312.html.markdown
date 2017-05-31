@@ -11,8 +11,8 @@ tags:
 - entrega-de-la-ciudad
 - irsa
 - pacto-pro-k
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/Legislatura-de-la-Ciudad-Autónoma-de-Buenos-Aires.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/Legislatura-de-la-Ciudad-Aut%C3%B3noma-de-Buenos-Aires-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/Legislatura-de-la-Ciudad-Autónoma-de-Buenos-Aires.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/Legislatura-de-la-Ciudad-Aut%C3%B3noma-de-Buenos-Aires-150x150.png
 wppost_name: comunicado-jornada-de-lucha-en-defensa-de-lo-publico-dia-1312
 ---
 

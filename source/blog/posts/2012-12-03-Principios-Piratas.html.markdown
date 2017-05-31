@@ -2,8 +2,8 @@
 title: Principios Piratas
 date: '2012-12-03'
 tags: []
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1-150x150.png
 wppost_name: principios-piratas
 ---
 
@@ -11,7 +11,7 @@ wppost_name: principios-piratas
 <div id="bodyContent">
 <div id="contentSub"></div>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png"><img class="alignleft size-full wp-image-5519" alt="logo partido pirata de argentina" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png" width="300" height="271" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png"><img class="alignleft size-full wp-image-5519" alt="logo partido pirata de argentina" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png" width="300" height="271" /></a>
 
 Si en aquel mundo dominado por monopolios depredadores, por la esclavitud, la autocracia y el racismo, los Piratas se dieron a sí mismos igualdad, libertad, autodeterminación y auténtica convivencia multicultural, ignorando toda corrección política de su tiempo, entonces es que reivindicamos su bandera, su legado y su nombre.
 

@@ -9,12 +9,12 @@ tags:
 - jorge-coscia
 - libros
 - soberania-cultural
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia-150x149.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia-150x149.jpg
 wppost_name: que-es-soberania-cultural-declaracion-de-jorge-coscia
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873" title="225px-Coscia" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873" title="225px-Coscia" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>
 
 
 <hr />
@@ -37,5 +37,5 @@ En la misma nota Coscia dice que el Estado es el principal comprador de libros ,
 <p style="text-align: center;"><strong>¿Eso no sería<em> soberanía cultural</em>?</strong></p>
 <p style="text-align: center;">Que todo en lo que esté involucrado tenga un tipo de licencia diferente y no el derecho de autor duro, 70 años después de la muerte del autor...</p>
 <p style="text-align: center;"><strong>¿Qué más sería <em>soberanía cultural?</em></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor">El Canon Digital que tanto defiende Coscia, </a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor">El Canon Digital que tanto defiende Coscia, </a></strong></p>
 <p style="text-align: center;"><strong>¿Seria Soberanía Cultural?</strong></p>

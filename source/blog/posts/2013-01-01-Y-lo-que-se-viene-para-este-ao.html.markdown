@@ -9,8 +9,8 @@ tags:
 - el-experimento-argentino
 - miguel-bonasso
 - saqueos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/CFK-Peter-Munk.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/CFK-Peter-Munk-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/CFK-Peter-Munk.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/CFK-Peter-Munk-150x150.jpg
 wppost_name: y-lo-que-se-viene-para-este-ano
 ---
 

@@ -9,14 +9,14 @@ tags:
 - peores-del-mundo
 - subcamepeones
 - tratados-internacionales
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164-150x150.jpg
 wppost_name: lo-que-dice-el-informe-de-ipwatchlist-donde-somos-los-segundos-peores-ya-seremos-los-peores
 ---
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg"><img class="size-full wp-image-4236" title="watchlist1-300x164" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg" alt="" width="300" height="164" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg"><img class="size-full wp-image-4236" title="watchlist1-300x164" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/watchlist1-300x164.jpg" alt="" width="300" height="164" /></a>
 
 
 <hr />
@@ -60,7 +60,7 @@ Aunque coloquialmente se habla de un tipo de derecho de autor, los derechos de r
 estrictamente un “derecho conexo” o “afín”, en contraposición al “derecho” de los autores.
 <strong>La ampliación del plazo no tiene mucho sentido</strong>, excepto como medida para reforzar los balances financieros de las grandes
 compañías discográficas. Es más, los intérpretes obtendrán escasos beneficios económicos, ya que a la mayoría de ellos se les paga una cantidad fija por sus actuaciones y no percibirán nunca un céntimo de esos derechos. Ahora permanecerán bloqueadas dos décadas más grabaciones de música que habrían pasado a ser del dominio público y gratuitas para los consumidores, que habrían podido usarlas en grabaciones caseras, mezclas y películas de aficionados.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4235/somos-subcampeones-la-segunda-peor-ley-de-derecho-de-autor-del-mundo">Un podcast, programa de radio grabado</a> donde charlamos con la responsable del informe de la Argentina.</strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4235/somos-subcampeones-la-segunda-peor-ley-de-derecho-de-autor-del-mundo">Un podcast, programa de radio grabado</a> donde charlamos con la responsable del informe de la Argentina.</strong></p>
 <p style="text-align: center;"><strong><a href="http://www.fundacionambio.org/media_files/download/IPWatchlist-2012-SPAN.pdf">El informe en PDF.</a>
 </strong></p>
 

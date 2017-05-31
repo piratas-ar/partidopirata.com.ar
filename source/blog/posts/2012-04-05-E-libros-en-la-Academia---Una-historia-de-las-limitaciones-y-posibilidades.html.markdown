@@ -12,15 +12,15 @@ tags:
 - libros-universitarios
 - limitaciones-artificiales
 - universidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/300px-Domenico_Ghirlandaio_-_St_Jerome_in_his_study.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/300px-Domenico_Ghirlandaio_-_St_Jerome_in_his_study-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/300px-Domenico_Ghirlandaio_-_St_Jerome_in_his_study.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/300px-Domenico_Ghirlandaio_-_St_Jerome_in_his_study-150x150.jpg
 wppost_name: e-libros-en-la-academia-una-historia-de-las-limitaciones-y-posibilidades
 ---
 
 <strong><a href="http://scholarlykitchen.sspnet.org/2012/04/04/e-books-in-the-academy/" target="_blanK">Fuente Sholarly Kitchen</a></strong>
 <div>Posted by <a title="View all posts by Joseph Esposito" href="http://scholarlykitchen.sspnet.org/author/jesposito/" rel="author">Joseph Esposito</a> ⋅ <time datetime="2012-04-04T05:30:07+00:00" pubdate="">Apr 4, 2012</time></div>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/300px-Domenico_Ghirlandaio_-_St_Jerome_in_his_study.jpg"><img class="size-full wp-image-3799" title="San Jerónimo" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/300px-Domenico_Ghirlandaio_-_St_Jerome_in_his_study.jpg" alt="" width="300" height="465" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/300px-Domenico_Ghirlandaio_-_St_Jerome_in_his_study.jpg"><img class="size-full wp-image-3799" title="San Jerónimo" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/300px-Domenico_Ghirlandaio_-_St_Jerome_in_his_study.jpg" alt="" width="300" height="465" /></a>
 
 
 <div><strong>Filed Under</strong>  <a href="http://scholarlykitchen.sspnet.org/tag/abby-sellen/" rel="tag">Abby Sellen</a>, <a href="http://scholarlykitchen.sspnet.org/tag/amazon/" rel="tag">Amazon</a>, <a href="http://scholarlykitchen.sspnet.org/tag/bookselling/" rel="tag">Bookselling</a>, <a href="http://scholarlykitchen.sspnet.org/tag/ebooks/" rel="tag">ebooks</a>, <a href="http://scholarlykitchen.sspnet.org/tag/library-collections/" rel="tag">library collections</a></div>

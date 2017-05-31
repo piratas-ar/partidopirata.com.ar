@@ -14,13 +14,13 @@ tags:
 - leda-maria-paulani
 - morosos
 - nivel-de-morosidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Endeudados.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Endeudados-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Endeudados.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Endeudados-150x150.jpg
 wppost_name: brasil-credito-un-remedio-venenoso-sobre-el-exceso-de-credito-y-los-que-no-pueden-pagar
 ---
 
 <p style="text-align: center;"><strong>Con este artículo inauguramos la sección :</strong></p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Endeudados.jpg"><img class="alignright  wp-image-5067" title="Endeudados" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Endeudados.jpg" alt="" width="194" height="148" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/Endeudados.jpg"><img class="alignright  wp-image-5067" title="Endeudados" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/Endeudados.jpg" alt="" width="194" height="148" /></a>
 <p style="text-align: center;"><strong>Economía para Dummies de nuestro humilde blog...</strong></p>
 <strong><a href="http://www.estadao.com.br/noticias/impresso,credito-um-venenoso-remedio,894212,0.htm" target="_blank">Fuente "O Estado de São Paulo"</a></strong>
 

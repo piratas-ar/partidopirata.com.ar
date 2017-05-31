@@ -33,4 +33,4 @@ Gabriel Levinas, periodista de Plazademayo.com, integrante de Plataforma 2012, (
 www.prensaelalgarrobo.blogspot.com
 www.lavozdelalgarrobo.blogspot.com
 www.lavisiondelalgarrobo.blogspot.com
-<p style="text-align: center;"><!--more--><a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/no-a-la-mineria-a-cielo-abierto.jpg"><img class="alignnone size-full wp-image-3153" title="no-a-la-mineria-a-cielo-abierto" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/no-a-la-mineria-a-cielo-abierto.jpg" alt="" width="350" height="262" /></a></p>
+<p style="text-align: center;"><!--more--><a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/no-a-la-mineria-a-cielo-abierto.jpg"><img class="alignnone size-full wp-image-3153" title="no-a-la-mineria-a-cielo-abierto" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/no-a-la-mineria-a-cielo-abierto.jpg" alt="" width="350" height="262" /></a></p>

@@ -9,8 +9,8 @@ tags:
 - red-globo
 - trabajadores
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico-150x150.jpg
 wppost_name: programa-de-la-tv-brasilena-sobre-llas-consecuencias-del-uso-de-agrotoxicos
 ---
 
@@ -41,7 +41,7 @@ Origen de los programas en el site de la TV Globo:
 <a href="http://www.abrasco.org.br" target="_blank">Abrasco, Asociación Brasileña de Salud Colectiva</a></strong></p>
 <p style="text-align: center;"><strong>
 <a href="http://www.abrasco.org.br/UserFiles/File/ABRASCODIVULGA/2012/DossieAGT.pdf" target="_blank">El Dossier sobre agrotóxicos en Brasil, es un archivo pdf.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6486/actualizacion-del-video-sobre-uso-de-agrotoxicos-en-la-tv-globo-de-brasil">Acá actualizamos el post con la segunda parte del programa.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6486/actualizacion-del-video-sobre-uso-de-agrotoxicos-en-la-tv-globo-de-brasil">Acá actualizamos el post con la segunda parte del programa.</a></strong></p>
 
 
 <hr />

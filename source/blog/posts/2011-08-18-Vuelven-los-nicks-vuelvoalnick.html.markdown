@@ -13,8 +13,8 @@ tags:
 - privacidad
 - publicidad-dirigida
 - reino-unido
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/anonymous-bolsa-papel.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/anonymous-bolsa-papel-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/anonymous-bolsa-papel.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/anonymous-bolsa-papel-150x150.jpg
 wppost_name: vuelven-los-nicks-vuelvoalnick
 ---
 

@@ -8,12 +8,12 @@ tags:
 - material-grafico
 - pirate-fest
 - propaganda
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/pfa-folleto.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/pfa-folleto-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/pfa-folleto.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/pfa-folleto-150x150.png
 wppost_name: pirate-fest-apocalypsis-material-para-difusion
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/pfa-folleto.png"><img class="aligncenter  wp-image-3685" title="pfa-folleto" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/pfa-folleto.png" alt="" width="462" height="307" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/pfa-folleto.png"><img class="aligncenter  wp-image-3685" title="pfa-folleto" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/pfa-folleto.png" alt="" width="462" height="307" /></a></p>
 <p style="text-align: center;"><strong>Folleto diseñado por <em>Bazza/Ernesto Bazzano (el Bazza)</em></strong></p>
 
 <ul>
@@ -24,7 +24,7 @@ wppost_name: pirate-fest-apocalypsis-material-para-difusion
 
 <hr />
 
-<div style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/PirateFestIII-page-001.jpg"><img class="aligncenter  wp-image-3686" title="PirateFestIII-page-001" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/PirateFestIII-page-001.jpg" alt="Realizado por Ciro Múseres" width="475" height="670" /></a><strong>Folleto realizado por Ciro Múseres
+<div style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/PirateFestIII-page-001.jpg"><img class="aligncenter  wp-image-3686" title="PirateFestIII-page-001" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/PirateFestIII-page-001.jpg" alt="Realizado por Ciro Múseres" width="475" height="670" /></a><strong>Folleto realizado por Ciro Múseres
 <a href="https://twitter.com/#%21/untitledtext" target="_blank">Twitter de Ciro Múseres</a></strong></div>
 <ul>
 	<li><strong><a href="https://rapidshare.com/files/1104802453/PirateFest.pdf" target="_blank">I Folleto realizado por Ciro , para descargar, formato pdf</a></strong></li>

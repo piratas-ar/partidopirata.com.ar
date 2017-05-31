@@ -10,8 +10,8 @@ tags:
 - neuquen
 - podcasts
 - roca-blog-day
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
 wppost_name: charlando-con-federico-desde-neuquen-roca-blog-day
 ---
 
@@ -45,4 +45,4 @@ Nosotros fuimos invitados a participar a través de Federico Sánchez  <strong>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Los otros podcast del Partido Pirata Argentino</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Los otros podcast del Partido Pirata Argentino</a></strong></p>

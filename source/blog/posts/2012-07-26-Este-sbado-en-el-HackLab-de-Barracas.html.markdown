@@ -5,8 +5,8 @@ tags:
 - eventos
 - difusion
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/AFILIATE-PPAR.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/AFILIATE-PPAR-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/AFILIATE-PPAR.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/AFILIATE-PPAR-150x150.png
 wppost_name: este-sabado-en-el-hacklab-de-barracas
 ---
 

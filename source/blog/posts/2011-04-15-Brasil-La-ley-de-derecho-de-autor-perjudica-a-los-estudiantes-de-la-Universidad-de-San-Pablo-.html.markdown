@@ -10,12 +10,12 @@ tags:
 - libros
 - divulgacion
 - usp
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/caneca-grande.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/caneca-grande.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/caneca-grande.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/caneca-grande.jpg
 wppost_name: brasil-la-ley-de-derecho-de-autor-perjudica-a-los-estudiantes-de-la-universidad-de-san-pablo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/caneca-grande1.jpg"><img class="aligncenter size-medium wp-image-744" title="caneca grande" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/caneca-grande1-246x300.jpg" alt="" width="246" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/caneca-grande1.jpg"><img class="aligncenter size-medium wp-image-744" title="caneca grande" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/caneca-grande1-246x300.jpg" alt="" width="246" height="300" /></a>
 
 <hr />
 

@@ -10,8 +10,8 @@ tags:
 - suburbios
 - multimedia
 - villas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
 wppost_name: noalcanon-mod-mtv-10-dedicado-al-impacto-de-la-tecnologia-en-las-periferias
 ---
 

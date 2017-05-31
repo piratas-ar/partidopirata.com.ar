@@ -9,12 +9,12 @@ tags:
 - protestar
 - protestar-juntos
 - zaanga
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/zangas.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/zangas-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/zangas.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/zangas-150x150.jpg
 wppost_name: brasil-startup-quiere-fortalecer-a-los-consumidores
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/zangas.jpg"><img class="alignright size-full wp-image-4997" title="zangas" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/zangas.jpg" alt="Principales &quot;Zangas&quot; en Brasil" width="253" height="297" /></a><strong><a href="http://blogs.estadao.com.br/link/startup-reune-consumidores-insatisfeitos/" target="_blank">Fuente "O Estado de São Paulo"</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/zangas.jpg"><img class="alignright size-full wp-image-4997" title="zangas" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/zangas.jpg" alt="Principales &quot;Zangas&quot; en Brasil" width="253" height="297" /></a><strong><a href="http://blogs.estadao.com.br/link/startup-reune-consumidores-insatisfeitos/" target="_blank">Fuente "O Estado de São Paulo"</a></strong>
 
 Por Tatiana de Mello Dias
 

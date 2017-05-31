@@ -8,8 +8,8 @@ tags:
 - libros
 - literatura
 - no-hay-escasez
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/Capture-300x163.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/Capture-300x163-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/Capture-300x163.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/Capture-300x163-150x150.png
 wppost_name: abundancia-de-contenidos-lo-contrario-de-lo-que-dicen-los-trolls-del-copyright
 ---
 
@@ -27,7 +27,7 @@ Un artículo recomendado en<strong> <a href="http://www.manzanamecanica.org/2012
 <p style="text-align: center;"><strong><a href="http://www.ampersand-publishing.com/this-is-the-third-post-and-just-wow/" target="_blank">"De qué hablamos cuando hablamos de la abundancia de contenido"</a></strong></p>
 Durante un par de años, gente como Michael Hart, fundador del <a href="http://www.gutenberg.org/" target="_blank">Proyecto Gutenberg</a> , y <a href="http://www.magellanmediapartners.com/index.php/mmcp/article/content_abundance/" target="_blank">Brian O’Leary</a> de Magellan Media, han estado hablando acerca de las implicaciones de la abundancia de contenido. No sé si estarán de acuerdo, pero yo diría que la abundancia de contenidos es la mayor amenaza y la mayor oportunidad frente a la edición tradicional. Voy a explicar por qué lo creo en un minuto.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Capture-300x163.png"><img class="alignright size-full wp-image-4694" title="Capture-300x163" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Capture-300x163.png" alt="" width="300" height="163" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/Capture-300x163.png"><img class="alignright size-full wp-image-4694" title="Capture-300x163" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/Capture-300x163.png" alt="" width="300" height="163" /></a>
 
 Aquí hay algunos datos que pueden ayudar en la consideración de lo que estamos viendo. El gráfico muestra la proyección de la relación entre los números de ISBN emitidos por Bowker para los libros tradicionales frente a la autopublicación. Cuando hablo con los editores grandes y pequeños, así como otras personas en el negocio de los libros, a menudo me sorprende la poca resonancia que esta dinámica parece tener para ellos. No sé exactamente por qué. Tal vez el alcance es sólo la mitad de lo imaginado, o la expectativa es que algunos otros desarrollos harán que la abundancia de contenido sea menos relevante que lo imaginado.
 

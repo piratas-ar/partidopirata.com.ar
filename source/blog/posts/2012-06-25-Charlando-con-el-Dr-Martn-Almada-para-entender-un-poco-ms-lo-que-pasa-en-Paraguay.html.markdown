@@ -12,18 +12,18 @@ tags:
 - nobel-alternativo
 - paraguay
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/fotomartin.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/fotomartin-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/fotomartin.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/fotomartin-150x150.jpg
 wppost_name: charlando-con-el-dr-martin-almada-para-entender-un-poco-mas-lo-que-pasa-en-paraguay
 ---
 
 <center><object id="player1304129" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1304129_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1304129" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1304129_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object>
 Presione en <em>play</em> para escucharlo sin descargar o :
 <a href="http://www.ivoox.com/charlando-dr-martin-almada-paraguay_md_1304129_1.mp3" target="_blank">Si quieren descargar los archivo mp3.</a>
-Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-dr-martin-almada-paraguay-audios-mp3_rf_1304129_1.html" target="_blank">en el siguiente link.</a></center><center> <a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart1.png"><img class="aligncenter size-full wp-image-4939" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/chart1.png" alt="Código QR del Audio" width="150" height="150" /></a></center>
+Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-dr-martin-almada-paraguay-audios-mp3_rf_1304129_1.html" target="_blank">en el siguiente link.</a></center><center> <a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/chart1.png"><img class="aligncenter size-full wp-image-4939" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/chart1.png" alt="Código QR del Audio" width="150" height="150" /></a></center>
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/fotomartin.jpg"><img class="aligncenter size-medium wp-image-4938" title="fotomartin" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/fotomartin-218x300.jpg" alt="Dr. Martín Almada" width="218" height="300" />Doctor Martín Almada</a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/fotomartin.jpg"><img class="aligncenter size-medium wp-image-4938" title="fotomartin" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/fotomartin-218x300.jpg" alt="Dr. Martín Almada" width="218" height="300" />Doctor Martín Almada</a></p>
 
 
 <hr />

@@ -8,8 +8,8 @@ tags:
 - educacion-podrida
 - educacion-prohibida
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
 wppost_name: la-educacion-podrida-cine-debate-en-la-toma-y-autogestion-de-la-sala-alberdi
 ---
 
@@ -32,4 +32,4 @@ Saludos, salud y libertad!
 PEDAGOGÍA LIBERTARIA*
 <a href="https://twitter.com/salaalberdi" target="_blank">Twitter de la Sala Alberdi.</a></p>
 <p style="text-align: center;"><a href="http://teatrosalaalberdi.com.ar/" rel="me nofollow" target="_blank"> http://teatrosalaalberdi.com.ar/ </a>
-<a href="http://partidopirata.com.ar/6245/critica-a-la-educacion-prohibida">Crítica a "La Educación Prohíbida" en nuestro blog.</a></p>
+<a href="https://partidopirata.com.ar/6245/critica-a-la-educacion-prohibida">Crítica a "La Educación Prohíbida" en nuestro blog.</a></p>

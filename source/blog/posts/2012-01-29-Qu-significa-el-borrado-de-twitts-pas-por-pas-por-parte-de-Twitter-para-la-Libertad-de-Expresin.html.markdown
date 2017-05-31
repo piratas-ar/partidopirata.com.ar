@@ -11,8 +11,8 @@ tags:
 - redes-libres
 - software-libre
 - twitter
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/jordanc-20110919T224313-xycjlk9.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/jordanc-20110919T224313-xycjlk9-150x23.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/jordanc-20110919T224313-xycjlk9.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/jordanc-20110919T224313-xycjlk9-150x23.png
 wppost_name: que-significa-el-cierre-de-twitts-pais-por-pais-por-el-sistema-take-down-para-la-libertad-de-expresion
 ---
 
@@ -42,4 +42,4 @@ Para hacer crecer a redes abiertas estaremos <em>Twitteando</em> desde <a href="
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/jordanc-20110919T224313-xycjlk9.png"><img class="aligncenter size-full wp-image-2989" title="Identi.ca" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/jordanc-20110919T224313-xycjlk9.png" alt="Logo de Identi.ca" width="157" height="23" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/jordanc-20110919T224313-xycjlk9.png"><img class="aligncenter size-full wp-image-2989" title="Identi.ca" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/jordanc-20110919T224313-xycjlk9.png" alt="Logo de Identi.ca" width="157" height="23" /></a>

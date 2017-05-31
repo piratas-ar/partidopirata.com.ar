@@ -11,12 +11,12 @@ tags:
 - plazo
 - proteccion
 - s303009
-image: http://partidopirata.com.ar/wp-content/uploads/2009/11/s3030-299x253.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2009/11/s3030-299x253.png
+image: https://partidopirata.com.ar/wp-content/uploads/2009/11/s3030-299x253.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2009/11/s3030-299x253.png
 wppost_name: 20-anos-robados-al-pueblo
 ---
 
-<img class="alignleft size-medium wp-image-50" title="20 años robados al pueblo" src="http://partidopirata.com.ar/wp-content/uploads/2009/11/s3030-299x253.png" alt="20 años robados al pueblo" width="299" height="253" />
+<img class="alignleft size-medium wp-image-50" title="20 años robados al pueblo" src="https://partidopirata.com.ar/wp-content/uploads/2009/11/s3030-299x253.png" alt="20 años robados al pueblo" width="299" height="253" />
 
 Éste miércoles (25  de noviembre)  se tratara el proyecto S3030/09 que busca extender por otros 20 años el monopolio privado de las discográficas sobre los fonogramas. Esto significaría que grabaciones de hace mas de 50 años, las cuales han sido explotadas comercialmente durante medio siglo, sean retiradas de su actual dominio publico y vuelvan al dominio privado por otros 20 años.
 

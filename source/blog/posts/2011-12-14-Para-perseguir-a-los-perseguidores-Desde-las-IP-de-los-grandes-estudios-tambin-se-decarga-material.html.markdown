@@ -10,8 +10,8 @@ tags:
 - torrent-freak
 - vigilar
 - vigilar-a-los-vigilantes
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/sony-bust.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/sony-bust-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/sony-bust.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/sony-bust-150x150.jpg
 wppost_name: para-perseguir-a-los-perseguidores-desde-las-ip-de-los-grandes-estudios-tambien-se-decarga-material
 ---
 
@@ -26,13 +26,13 @@ En primer lugar está Sony Pictures Entertainment. La muestra siguiente, en esta
 
 Descargas desde la IP de Sony Pictures:
 
-<strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/sony-bust.jpg"><img class="aligncenter size-full wp-image-2569" title="sony-bust" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/sony-bust.jpg" alt="Descargando desde la IP de Sony" width="490" height="398" /></a>
+<strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/sony-bust.jpg"><img class="aligncenter size-full wp-image-2569" title="sony-bust" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/sony-bust.jpg" alt="Descargando desde la IP de Sony" width="490" height="398" /></a>
 
 Otro estudio de Hollywood donde no es raro que descargen música, películas y programas de televisión-es NBC Universal. El empleado (s) detrás de una de las direcciones IP en la oficina de Fort Lauderdale en Florida descargó la primera temporada de '‘Game of Thrones, ", algo de trance music, el DVD de' Cowboys and Aliens ', y mucho más.
 
 Descargas desde la IP de NBC Universal
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/universal-bust.jpg"><img class="aligncenter size-full wp-image-2570" title="universal-bust" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/universal-bust.jpg" alt="Descarga de la IP de Universal" width="487" height="394" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/universal-bust.jpg"><img class="aligncenter size-full wp-image-2570" title="universal-bust" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/universal-bust.jpg" alt="Descarga de la IP de Universal" width="487" height="394" /></a>
 
 Y luego está la gente honrada de Fox Entertainment comprobando el trabajo de un estudio de la competencia. Tal vez la descargando 'Super 8' que puede ser calificado como "investigación de mercado," pero en este caso realmente el pago de los DVD podría ser mas apropiado.
 
@@ -42,7 +42,7 @@ Descarga desde la IP de Fox Entertainmen:
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg"><img class="aligncenter size-full wp-image-2571" title="fox-bust" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg" alt="Descarga desde una IP de Fox" width="489" height="188" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg"><img class="aligncenter size-full wp-image-2571" title="fox-bust" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg" alt="Descarga desde una IP de Fox" width="489" height="188" /></a>
 
 Al destacar lo anterior no es nuestra intención colocar a alguien en problemas, y por esa razón hemos enmascarado en el extremo las direcciones IP para evitar una caza de brujas. Una dirección IP no es una persona, las direcciones IP pueden ser compartida por muchas personas, y cualquier persona detrás del teclado puede darse en cualquier momento.
 
@@ -60,5 +60,5 @@ Jaque mate?
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2573/para-hacer-una-guia-para-vigilar-a-los-vigiladores">Una guía para perseguir a los perseguidores </a></em></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2573/para-hacer-una-guia-para-vigilar-a-los-vigiladores">Una guía para perseguir a los perseguidores </a></em></strong></p>
 &nbsp;

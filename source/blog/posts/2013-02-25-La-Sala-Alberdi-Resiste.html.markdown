@@ -21,8 +21,8 @@ tags:
 - patovicas
 - privatizacion
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/62107_443152395765766_272009404_n.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/62107_443152395765766_272009404_n-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/62107_443152395765766_272009404_n.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/62107_443152395765766_272009404_n-150x150.jpg
 wppost_name: la-sala-alberdi-resiste
 ---
 

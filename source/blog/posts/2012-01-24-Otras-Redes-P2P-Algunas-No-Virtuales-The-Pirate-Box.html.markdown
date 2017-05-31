@@ -9,8 +9,8 @@ tags:
 - p2p-no-virtual
 - pirate-box
 - redes-p2p
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/PirateBox_2-0_Cafe3.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/PirateBox_2-0_Cafe3-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/PirateBox_2-0_Cafe3.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/PirateBox_2-0_Cafe3-150x150.jpg
 wppost_name: otras-redes-p2p-algunas-no-virtuales-the-pirate-box
 ---
 
@@ -32,6 +32,6 @@ Bloque en donde se mencionan al os Dead Drops en Mod MTV
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/PirateBox_2-0_Cafe3.jpg"><img class="aligncenter  wp-image-2944" title="Pirate Box" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/PirateBox_2-0_Cafe3.jpg" alt="Pirate Box" width="696" height="392" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/PirateBox_2-0_Cafe3.jpg"><img class="aligncenter  wp-image-2944" title="Pirate Box" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/PirateBox_2-0_Cafe3.jpg" alt="Pirate Box" width="696" height="392" /></a>
 
 &nbsp;

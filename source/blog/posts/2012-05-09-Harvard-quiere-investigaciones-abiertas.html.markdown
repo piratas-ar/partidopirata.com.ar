@@ -8,12 +8,12 @@ tags:
 - investigaciones-abiertas
 - revistas-cientificas
 - universidades
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary-150x150.jpg
 wppost_name: harvard-quiere-investigaciones-abiertas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary.jpg"><img class="size-medium wp-image-4386" title="harvardlibrary" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary.jpg"><img class="size-medium wp-image-4386" title="harvardlibrary" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary-200x300.jpg" alt="" width="200" height="300" /></a>
 
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/harvard-quer-pesquisas-abertas/" target="_blank">Fuente Tatiana de Mello Dias</a></strong>

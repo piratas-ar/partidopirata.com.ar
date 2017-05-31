@@ -7,18 +7,18 @@ tags:
 - derechos-reprograficos
 - material-para-difusion
 - livros-de-humanas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo-150x150.png
 wppost_name: brasil-en-defensa-de-una-biblioteca-virtual-caso-livrosdehumanas
 ---
 
-<strong><a href="http://partidopirata.com.ar/4548/brasil-cierre-de-biblioteca-virtual-libro-impreso-pdf-legal-o-ilegal-livrosdehumanas-org-se-defiende">Antes habíamos dejado acá la información sobre el cierre de Livros de Humanas</a></strong>
+<strong><a href="https://partidopirata.com.ar/4548/brasil-cierre-de-biblioteca-virtual-libro-impreso-pdf-legal-o-ilegal-livrosdehumanas-org-se-defiende">Antes habíamos dejado acá la información sobre el cierre de Livros de Humanas</a></strong>
 
 Leemos en<a href="http://baixacultura.org/2012/06/05/por-dentro-do-caso-livros-de-humanas-x-abdr/" target="_blank"> Baixa Cultura </a> que en el  <a href="http://oglobo.globo.com/blogs/prosa/posts/2012/06/02/em-carta-aberta-intelectuais-apoiam-blog-livros-de-humanas-448445.asp" target="_blank">Caderno Prosa e Verso de O Globo</a> del  último sábado, 2 de junio, se publicó este texto colectivo:
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo.png"><img class="size-medium wp-image-4636" title="livros-de-humanas-globo" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo-300x277.png" alt="" width="300" height="277" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo.png"><img class="size-medium wp-image-4636" title="livros-de-humanas-globo" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/livros-de-humanas-globo-300x277.png" alt="" width="300" height="277" /></a>
 
 
 <hr />

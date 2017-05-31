@@ -10,8 +10,8 @@ tags:
 - propiedad-intelectual
 - romney
 - tagg-romney
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1-150x150.jpg
 wppost_name: podria-el-pirata-romney-ganar-las-elecciones
 ---
 
@@ -19,7 +19,7 @@ wppost_name: podria-el-pirata-romney-ganar-las-elecciones
 
 Con las elecciones a la vuelta de la esquina, las encuestas empatadas, y en una semana con pocas noticias en los EE.UU., es el momento de hacer la pregunta que está en la mente de todos: ¿Podría ganar Mitt Romney con un poco de reposicionamiento estratégico sobre la política de derechos de autor? ¿La respuesta podría ser abrazar al pirata Romney? Vamos a explorar
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg"><img class="size-full wp-image-7190" title="romney_pirate1" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg" alt="" width="200" height="181" /></a> Romney Pirata
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg"><img class="size-full wp-image-7190" title="romney_pirate1" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/romney_pirate1.jpg" alt="" width="200" height="181" /></a> Romney Pirata
 
 
 ¿Qué sabemos acerca de  los puntos de vista de Romney sobre la propiedad intelectual? Realmente sólo dos cosas.
@@ -34,7 +34,7 @@ Está claro que ambos acontecimientos reflejan, en parte, un cambio generacional
 
 En términos generales, en este momento, en los EE.UU., la respuesta es no. Los republicanos, demócratas e independientes tienen puntos de vista muy similares sobre los derechos de autor y su aplicación - las diferencias están casi siempre dentro del margen de error de nuestra encuesta. Con respecto a nuestra serie de preguntas sobre las actitudes hacia compartir archivos de música, sólo "compartir con amigos" produjo una diferencia significativa, con los demócratas superando a los republicanos 65% a 52%, y los independientes en un 60%. Esto es básicamente el efecto de la juventud: los jóvenes votantes tienen una inclinación demócrata, y el 76% de los jóvenes entre 18-29 años edad ven el compartir con amigos como "razonable" (en comparación con alrededor del 50% de todos los otros grupos) * Romney pierde ante Obama en este grupo por <a href="http://www.businessweek.com/news/2012-10-17/young-voters-back-obama-by-19-points-in-harvard-poll" target="_blank"> un 19%.</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/Share-music-by-party-US.jpg"><img class="aligncenter size-full wp-image-7191" title="Share-music-by-party-US" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/Share-music-by-party-US.jpg" alt="" width="550" height="364" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/Share-music-by-party-US.jpg"><img class="aligncenter size-full wp-image-7191" title="Share-music-by-party-US" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/Share-music-by-party-US.jpg" alt="" width="550" height="364" /></a>
 
 Sobre los archivos de música es razonable:
 <ul>
@@ -63,7 +63,7 @@ Preguntamos acerca de las cinco grandes penas que están en juego en la legislac
 
 ¿Qué pasa con las propuestas para una aplicación más estricta por parte de los intermediarios, de la clase que estuvo en el centro del debate por SOPA? Porque pensamos que la opinión pública puede ser volátil en este tema, les preguntamos una amplia variedad de preguntas para dilucidar las diferencias en el lenguaje (bloqueo, filtrado, censura) y diferencias en los puntos de aplicación donde  se ejecutarían estas políticas (servicios relativamente estrechos como Facebook y Dropbox, servicios amplios como Google, los ISP, y el gobierno)
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-Party-US.jpg"><img class="aligncenter size-full wp-image-7192" title="Block-by-Party-US" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-Party-US.jpg" alt="" width="550" height="837" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-Party-US.jpg"><img class="aligncenter size-full wp-image-7192" title="Block-by-Party-US" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-Party-US.jpg" alt="" width="550" height="837" /></a>
 En términos generales, los republicanos muestran un poco más de entusiasmo por el cumplimiento de los derechos de autor que los demócratas y un poco más de preocupación sobre la privacidad- sólo el bloqueo de sitios piratas por los proveedores de internet generó alguna divergencia significativa. Una vez más, este es un tema que depende de la edad: los adultos jóvenes son un poco más tolerantes respecto a la opción al  bloqueo a través de los servicios, y menos tolerantes al bloqueo que se produce a través de los principales puntos de acceso a la Internet en general.
 
 Pero, en general, las diferencias partidarias son menores. Nos diría que la política sobre la Propiedad Intelectual sigue siendo pre-partidista en los EE.UU., en el sentido de que la ruptura de la unanimidad no se ha canalizado hacia las posturas de oposición organizadas en torno a las dos partes. Esta ausencia de una política partidaria de la red es vista a menudo como una ventaja - una neutralidad virtuosa para aquellos en las redes - pero también significa que los partidos mayoritarios no se toman todavía lo suficientemente en serio la discusión.
@@ -72,14 +72,14 @@ Las tensiones dentro de los partidos sobre estas cuestiones ciertamente van a su
 
 Para los republicanos, hay aquí una política tentadora hacía la  juventud y la modernidad, empujando cuesta arriba contra la retórica de la propiedad, la ley y el orden, y un conjunto más amplio de las demandas de las grandes empresas que tradicionalmente les han brindado ayuda. ¿Cuál parecería ser la captación partidista sobre estos temas? Puede parecer algo así como la polarización de la opinión sobre el aborto en la década de 1990, los evangélicos llegaron al poder en el Partido Republicano
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/abortion-by-party.jpg"><img class="size-full wp-image-7217" title="abortion-by-party" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/abortion-by-party.jpg" alt="" width="550" height="343" /></a> Posición sobre el aborto 1975-2009 por partido
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/abortion-by-party.jpg"><img class="size-full wp-image-7217" title="abortion-by-party" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/abortion-by-party.jpg" alt="" width="550" height="343" /></a> Posición sobre el aborto 1975-2009 por partido
 
 
 ¿O podría ser como lo que estamos viendo ahora en Alemania y en otras partes de Europa, con el surgimiento de los pequeño partidos 'Piratas'  como representantes de un ecologismo naciente de Internet. Nuestro estudio sobre Alemania se llevó a cabo antes del 9% que obtuvo el Partido Pirata en las elecciones estatales de Berlín a finales de 2011 y las subsiguientes<a href="http://arstechnica.com/tech-policy/2012/02/on-eve-of-protests-germany-backs-away-from-acta/" target="_blank"> batallas contra ACTA</a>.
 
 Sin embargo, las líneas partidarias alrededor de la política de propiedad intelectual ya eran más fuertes en Europa que en los EE.UU., con defensas más consistentes de la libertad de expresión y del libre acceso a  Internet a la izquierda, haciendo causa común con las preocupaciones tradicionales sobre la vida privada de la derecha. Aquí nuestros datos de Alemania sobre el bloqueo y filtrado por identificación política.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-party-DE.jpg"><img class="size-full wp-image-7218" title="Block-by-party-DE" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-party-DE.jpg" alt="" width="550" height="591" /></a> Opinión sobre el bloqueo de sites por preferencias partidaras en Alemania
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-party-DE.jpg"><img class="size-full wp-image-7218" title="Block-by-party-DE" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/Block-by-party-DE.jpg" alt="" width="550" height="591" /></a> Opinión sobre el bloqueo de sites por preferencias partidaras en Alemania
 
 
 A diferencia de los EE.UU., fuertes "safe harbor [puertos seguros]" de los Intermediarios en la web como Google y proveedores de Internet se han convertido en parte de las plataformas de los partidos alemanes de centro-izquierda - a todas luces estando al frente de la opinión pública sobre estos temas. Fuertes posiciones sobre la privacidad en Internet han demostrado ser populares en todo el espectro político, incomodando a las empresas de la web que recopilan una gran cantidad de datos de los consumidores (como Google y Facebook) y también provocando conflictos con la UE sobre las normas de retención de datos (un componente importante de fuerte cumplimiento).
@@ -92,7 +92,7 @@ El Reino Unido, por su parte, se parece más a los EE.UU., con el Partido Labori
 
 <a href="https://twitter.com/jjkaraganis">@jjkaraganis</a>
 
-Joe Karaganis comparte su informe sobre<strong> <a href="http://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">Piratería de medios en las economías emergentes</a> </strong>sobre cuánto cuestan en los países emergentes (Brasil, Mèxico, Bolivia, Sudáfrica, India) comprar cds y dvds legales comparándolos con el precio en EE.UU.
+Joe Karaganis comparte su informe sobre<strong> <a href="https://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">Piratería de medios en las economías emergentes</a> </strong>sobre cuánto cuestan en los países emergentes (Brasil, Mèxico, Bolivia, Sudáfrica, India) comprar cds y dvds legales comparándolos con el precio en EE.UU.
 
 <hr />
 <p style="text-align: center;"><strong>Y en la Argentina ¿cómo sería?. Ojalá se hiciera algún estudio para saber dónde estamos parados , respecto a la opinión por simpatizantes de los partidos, sobre este tema.</strong></p>

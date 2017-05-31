@@ -9,12 +9,12 @@ tags:
 - marcelo-birmajer
 - politicas-editoriales
 - quemar-libros
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/images-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/images-150x150.jpg
 wppost_name: destruir-libros-una-politica-editorial-que-genera-polemica
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg"><img class="size-full wp-image-6710" title="Derechoaleer" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg" alt="" width="245" height="206" /></a> <strong><a href="http://www.derechoaleer.org/" target="_blank">Festejamos el regreso de Derecho a Leer</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg"><img class="size-full wp-image-6710" title="Derechoaleer" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg" alt="" width="245" height="206" /></a> <strong><a href="http://www.derechoaleer.org/" target="_blank">Festejamos el regreso de Derecho a Leer</a></strong>
 
 
 <strong><a href="http://www.clarin.com/sociedad/Destruir-libros-politica-editorial-polemica_0_779322161.html" target="_blank">En una nota de Clarín del 23 de Setiembre</a> </strong>comentaban la política editorial de destruir los libros que no se venden.

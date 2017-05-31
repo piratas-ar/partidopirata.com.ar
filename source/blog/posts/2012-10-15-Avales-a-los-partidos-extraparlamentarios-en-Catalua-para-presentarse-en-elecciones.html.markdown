@@ -9,8 +9,8 @@ tags:
 - espana
 - pirates-de-catalunya
 - trampa-electoral
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/piratest-volantin.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/piratest-volantin-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/piratest-volantin.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/piratest-volantin-150x150.png
 wppost_name: avales-a-los-partidos-extraparlamentarios-en-cataluna-para-presentarse-en-elecciones
 ---
 

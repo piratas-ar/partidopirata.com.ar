@@ -10,8 +10,8 @@ tags:
 - maximalistas-del-monopolio
 - monopolio
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349-150x150.png
 wppost_name: marielle-gallo-europarlamentaria-si-estas-haciendo-campana-contra-el-acta-eres-un-terrorista
 ---
 
@@ -21,7 +21,7 @@ En una declaración extraordinaria, la fundamentalista del monopolio de los dere
 
 En una entrevista que acaba de publicarse (en francés), Marielle Gallo - nada menos que un miembro del Parlamento Europeo - llama a las campañas contra el ACTA ", una forma suave de terrorismo" <em>(une forme douce de terrorisme)</em> Sí, <strong>realmente lo dice.</strong>  que los ciudadanos de Europa, de su circunscripción, que se comunican con sus colegas en el Parlamento con respecto a un asunto relativo a política deben ser consideradas como <strong>terroristas.</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png"><img class="size-full wp-image-5033" title="Screenshot_2012-06-26-13-49-38-621x349" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png" alt="" width="621" height="349" /></a> Captura de pantalla de Inpact PC con la entrevista a Gallo (en francés)
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png"><img class="size-full wp-image-5033" title="Screenshot_2012-06-26-13-49-38-621x349" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/Screenshot_2012-06-26-13-49-38-621x349.png" alt="" width="621" height="349" /></a> Captura de pantalla de Inpact PC con la entrevista a Gallo (en francés)
 
 
 Esto muestra un par de cosas.

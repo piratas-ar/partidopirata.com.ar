@@ -11,8 +11,8 @@ tags:
 - infraccion
 - seis-avisos
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/spy.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/spy-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/spy.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/spy-150x150.jpg
 wppost_name: seis-avisosplan-de-lucha-contra-la-pirateria-es-excesivamente-secreto-e-injustos-dice-profesor
 ---
 
@@ -24,7 +24,7 @@ En los próximos meses, el Centro de Información sobre Derechos de Autor (CCI) 
 
 Las partes acordaron un sistema mediante el cual a los infractores a los derechos de autor se les advierte que su comportamiento es inaceptable. Después de cinco o seis advertencias el ISP [proveedor de internet] puede entonces tomar una serie de medidas represivas, incluyendo desconexiones temporales.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/spy.jpg"><img class="alignright size-full wp-image-6517" title="spy" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/spy.jpg" alt="" width="200" height="177" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/spy.jpg"><img class="alignright size-full wp-image-6517" title="spy" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/spy.jpg" alt="" width="200" height="177" /></a>
 
 Tanto los titulares de derechos de autor y los ISP han descrito el sistema de alerta de los derechos de autor (CAS), o esquema de "seis strikes", como un enfoque sensato para hacerle frente al problema del crecimiento de  la piratería.
 
@@ -92,5 +92,5 @@ a) Adquirir las semillas de soja con tecnología Soja RR 2Y/Bt. Solamente podrá
 La cosa es simple, las grandes corporaciones, los proveedores de Internet y las grandes discográficas y estudios de cine en USA , Monsanto y los grandes productores en la Argentina, hacen acuerdos privados y trituran a la gente o a los pequeños y medianos productores.
 El esquema es muy parecido.
 
-<strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Sobre los tres avisos en Francia con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos, podcast en castellano
+<strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Sobre los tres avisos en Francia con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos, podcast en castellano
 </a></strong>

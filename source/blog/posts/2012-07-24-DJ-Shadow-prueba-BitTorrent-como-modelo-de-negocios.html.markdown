@@ -8,12 +8,12 @@ tags:
 - modelo-de-negocios
 - tatiana-de-mello-dias
 - utorrent
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/djshadowbit.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/djshadowbit-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/djshadowbit.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/djshadowbit-150x150.jpg
 wppost_name: dj-shadow-prueba-bittorrent-como-modelo-de-negocios
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/djshadowbit.jpg"><img class="aligncenter size-medium wp-image-5537" title="djshadowbit" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/djshadowbit-300x295.jpg" alt="" width="300" height="295" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/djshadowbit.jpg"><img class="aligncenter size-medium wp-image-5537" title="djshadowbit" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/djshadowbit-300x295.jpg" alt="" width="300" height="295" /></a>
 
 <a href="http://blogs.estadao.com.br/tatiana-dias/dj-shadow-testa-bittorrent-como-modelo-de-negocio/" target="_blank">Por Tatiana de Mello Dias</a>
 

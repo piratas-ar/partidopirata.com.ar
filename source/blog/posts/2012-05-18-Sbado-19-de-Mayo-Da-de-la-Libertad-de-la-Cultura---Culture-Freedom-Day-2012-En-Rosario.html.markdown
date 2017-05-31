@@ -8,12 +8,12 @@ tags:
 - dia-de-la-cultura-libre
 - material-para-difusion
 - rosario
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/cfd2012_1.thumbnail.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/cfd2012_1.thumbnail.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/cfd2012_1.thumbnail.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/cfd2012_1.thumbnail.png
 wppost_name: sabado-19-de-mayo-dia-de-la-libertad-de-la-cultura-culture-freedom-day-2012-en-rosario
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/cfd2012_1.thumbnail.png"><img class="size-full wp-image-4449" title="cfd2012_1.thumbnail" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/cfd2012_1.thumbnail.png" alt="" width="100" height="44" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/cfd2012_1.thumbnail.png"><img class="size-full wp-image-4449" title="cfd2012_1.thumbnail" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/cfd2012_1.thumbnail.png" alt="" width="100" height="44" /></a>
 
 
 En la ciudad de Rosario-Santa Fe (<strong> para <a href="http://lugro.org.ar/cfd2012" target="_blank">más información)</a></strong>

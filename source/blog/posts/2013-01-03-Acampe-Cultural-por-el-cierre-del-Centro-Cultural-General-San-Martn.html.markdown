@@ -11,12 +11,12 @@ tags:
 - hernan-lombardi
 - mauricio-macri
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/image.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/image-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/image.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/image-150x150.png
 wppost_name: acampe-cultural-por-el-cierre-del-centro-cultural-general-san-martin
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/image.png"><img class="aligncenter  wp-image-8026" alt="image" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/image.png" width="600" height="425" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/image.png"><img class="aligncenter  wp-image-8026" alt="image" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/image.png" width="600" height="425" /></a></p>
 
 
 <hr />

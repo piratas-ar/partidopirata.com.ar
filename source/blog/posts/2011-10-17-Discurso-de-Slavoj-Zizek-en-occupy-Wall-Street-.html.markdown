@@ -9,8 +9,8 @@ tags:
 - multimedia
 - wall-street
 - zizek
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3-150x150.jpg
 wppost_name: discurso-de-slavoj-zizek-en-occupy-wall-street
 ---
 
@@ -55,4 +55,4 @@ El comunismo fracasó totalmente, pero los problemas de los bienes comunes está
 
 <hr />
 
-<strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg"><img class="aligncenter size-full wp-image-1911" title="wallst-250-3" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg" alt="Occupy Wall Street" width="245" height="320" /></a>
+<strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg"><img class="aligncenter size-full wp-image-1911" title="wallst-250-3" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg" alt="Occupy Wall Street" width="245" height="320" /></a>

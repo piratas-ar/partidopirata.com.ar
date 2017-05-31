@@ -2,14 +2,14 @@
 title: 'Entrevista a Assange: “Es bueno que los gobiernos tengan miedo de las personas” '
 date: '2013-02-03'
 tags: []
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600-150x150.jpg
 wppost_name: 'entrevista_assange_es_bueno_que_los_gobiernos_teman_las_personas'
 ---
 
 <strong><a href="blogs.estadao.com.br/jamil-chade/2013/02/02/entrevista-com-assange-e-bom-que-os-governos-tenham-medo-das-pessoas/" target="_blank">Fuente O Estado de São Paulo</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg"><img class="size-full wp-image-8370" alt="Julián Assange con la camiseta de Brasil !!!" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg" width="600" height="400" /></a> Julián Assange con la camiseta de Brasil !!!
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg"><img class="size-full wp-image-8370" alt="Julián Assange con la camiseta de Brasil !!!" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/julian_assange_01_600.jpg" width="600" height="400" /></a> Julián Assange con la camiseta de Brasil !!!
 
 
 <strong><a href="http://blogs.estadao.com.br/jamil-chade/" target="_blank">Realizada por Jamil Chade</a></strong>

@@ -9,8 +9,8 @@ tags:
 - ohio
 - urnas-electronicas
 - voto-electronico
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/dont_let_repub_steal_election_180.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/dont_let_repub_steal_election_180-150x150.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/dont_let_repub_steal_election_180.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/dont_let_repub_steal_election_180-150x150.gif
 wppost_name: sobre-el-voto-electronico-las-maquinas-de-votacion-vinculadas-a-los-romney-podrian-decidir-la-eleccion-en-ohio
 ---
 
@@ -18,7 +18,7 @@ wppost_name: sobre-el-voto-electronico-las-maquinas-de-votacion-vinculadas-a-los
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/dont_let_repub_steal_election_180.gif"><img class="alignright size-full wp-image-7178" title="dont_let_repub_steal_election_180" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/dont_let_repub_steal_election_180.gif" alt="" width="180" height="180" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/dont_let_repub_steal_election_180.gif"><img class="alignright size-full wp-image-7178" title="dont_let_repub_steal_election_180" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/dont_let_repub_steal_election_180.gif" alt="" width="180" height="180" /></a>
 
 ¿Puede una compañía de máquinas de votación con profundos vínculos financieros con los republicanos ayudar a la  familia Romney a robar la elección presidencial en Ohio?
 
@@ -56,4 +56,4 @@ Es preocupante y peligroso que Hart Intercivic, la compañía que fabrica las m�
 <p style="text-align: center;"><strong>Lamentáblemente en la Argentina todavía hay partidos <em>progresistas</em> que piensan en las urnas electrónicas como una posible <em>solución</em> al fraude y demás.</strong>
 <strong> Con urnas electrónicas es muchísimo más fácil hacer fraude!!</strong>
 <strong> NO AL VOTO ELECTRÓNICO!</strong>
-<strong> <a href="http://partidopirata.com.ar/6732/sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben">En esta entrada más información sobre las Urnas Electrónicas</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/6732/sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben">En esta entrada más información sobre las Urnas Electrónicas</a></strong></p>

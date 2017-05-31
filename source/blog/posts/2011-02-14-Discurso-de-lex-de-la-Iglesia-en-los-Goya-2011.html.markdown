@@ -16,8 +16,8 @@ tags:
 - presente
 - salvacion
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/02/800-balas-alex-de-la-iglesia1.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/02/800-balas-alex-de-la-iglesia1.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2011/02/800-balas-alex-de-la-iglesia1.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/02/800-balas-alex-de-la-iglesia1.gif
 wppost_name: discurso-de-alex-de-la-iglesia-en-los-goya-2011
 ---
 

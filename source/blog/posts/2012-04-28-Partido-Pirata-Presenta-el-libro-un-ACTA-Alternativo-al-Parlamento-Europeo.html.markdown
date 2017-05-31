@@ -10,12 +10,12 @@ tags:
 - libros-divulgacion
 - reforrma-de-los-derechos-de-autor
 - rickf-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform-150x148.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform-150x148.png
 wppost_name: partido-pirata-presenta-el-libro-un-acta-alternativo-al-parlamento-europeo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png"><img class="size-full wp-image-4259" title="pirate-reform" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png" alt="" width="205" height="148" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png"><img class="size-full wp-image-4259" title="pirate-reform" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/pirate-reform.png" alt="" width="205" height="148" /></a>
 
 
 <strong><a href="https://torrentfreak.com/pirate-party-presents-acta-alternative-to-european-parliament-120427/" target="_blank">Fuente Torrentfreak.</a></strong>

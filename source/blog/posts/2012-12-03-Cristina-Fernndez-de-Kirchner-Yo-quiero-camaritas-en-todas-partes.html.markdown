@@ -7,8 +7,8 @@ tags:
 - material-para-difusion
 - no-tengo-nada-que-ocultar
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/150420121278.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/150420121278-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/150420121278.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/150420121278-150x150.jpg
 wppost_name: cristina-fernandez-de-kirchner-yo-quiero-camaritas-en-todas-partes
 ---
 
@@ -29,6 +29,6 @@ Cristina Fernández de Kirchner: "Yo quiero camaritas en todas partes". 3 de dic
 <strong><a href="http://www.mdzol.com/nota/436250-habla-cristina-presenta-un-sistema-de-escaneo-y-seguridad-en-capital-federal/" target="_blank">Toda la nota en Mendoza Online </a></strong>
 
 <hr />
-<p style="text-align: center;">Tenemos una traducción pendiente sobre el peligro de tanta vigilancia, si alguien quiere ayudarnos a terminarla, <strong><a href="http://partidopirata.com.ar/7071/no-tengo-nada-que-ocultar-bis-para-terminar-la-traduccion">acá están las partes que estuvieron haciendo.</a></strong>
+<p style="text-align: center;">Tenemos una traducción pendiente sobre el peligro de tanta vigilancia, si alguien quiere ayudarnos a terminarla, <strong><a href="https://partidopirata.com.ar/7071/no-tengo-nada-que-ocultar-bis-para-terminar-la-traduccion">acá están las partes que estuvieron haciendo.</a></strong>
 No tengo nada que ocultar...
 a</p>

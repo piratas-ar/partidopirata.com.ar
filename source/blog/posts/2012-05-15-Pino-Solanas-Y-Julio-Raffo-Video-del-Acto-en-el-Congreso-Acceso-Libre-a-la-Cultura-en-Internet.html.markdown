@@ -9,8 +9,8 @@ tags:
 - libertad
 - pino-solanas
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault-150x150.jpg
 wppost_name: pino-solanas-y-julio-raffo-video-del-acto-en-el-congreso-acceso-libre-a-la-cultura-en-internet
 ---
 

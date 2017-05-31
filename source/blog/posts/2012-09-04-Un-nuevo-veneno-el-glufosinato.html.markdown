@@ -11,12 +11,12 @@ tags:
 - modelo
 - semillas
 - transgenicos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/P1080457.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/P1080457-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/P1080457.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/P1080457-150x150.jpg
 wppost_name: un-nuevo-veneno-el-glufosinato
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/P1080457.jpg"><img class="aligncenter size-medium wp-image-6346" title="P1080457" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/P1080457-200x300.jpg" alt="" width="200" height="300" /></a>"Reconocimiento de enfermedades, plagas, malezas y carencias nutricionales de la soja, coordinado por el Ing Agr Héctor Baigorri y editado por la Estación Experimental Marcos Juárez del INTA en 2003. Ya entonces habían aparecido los problemas de resistencia al
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/P1080457.jpg"><img class="aligncenter size-medium wp-image-6346" title="P1080457" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/P1080457-200x300.jpg" alt="" width="200" height="300" /></a>"Reconocimiento de enfermedades, plagas, malezas y carencias nutricionales de la soja, coordinado por el Ing Agr Héctor Baigorri y editado por la Estación Experimental Marcos Juárez del INTA en 2003. Ya entonces habían aparecido los problemas de resistencia al
 glifosato.
 El libro cita (con fotos) 21 malezas con grados de tolerancia (el grado anterior a la resistencia) y 14 malezas "no comunes", de reciente aparición o aumento de difusión (también indicio de que el glifosato no es suficientemente eficiente en su control).
 Tantos años después, la situación es necesariamente peor para las tecnologías perversas. Por eso el glufosinato de amonio.

@@ -27,11 +27,11 @@ var audio = new SWFObject("http://www.lt10digital.com.ar/global/swf/mp3player.sw
 <a href="http://www.lt10digital.com.ar/noticia/idnot/126649/rubinzal-%E2%80%9Cnosotros-luchamos-por-la-proteccion-del-trabajo-intelectual.html" target="_blank">Fuente LT10</a></strong>
 
 Don Rubinzal dice que se acabará la producción, la cultura todo....¿En qué país vivirá?, ¿Se acabó la cultura o se está acabando con los intermediarios?
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">
 <strong> ¿Si los autores ganan tanto dinero, por qué se presenta un proyecto de ley para darles una jubilación sin haber hecho aportes?</strong></a></p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii"><strong></strong>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii"><strong></strong>
 Eso si, no se liberará los contenidos de esos autores que recibirán una jubilación sin haber hecho aportes...Todo con candado, no sea cosa que dejemos de ser<strong> Socios Bobos!</strong></a></p>
-<p style="text-align: center;">¿Cuánto le pagará Isaac Rubinzal a los autores que edita?, ¿Vivirán de eso? o<a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii"> ¿tendrán que pedir la jubilación de privilegio que está presentando Carlos Heller?</a></p>
+<p style="text-align: center;">¿Cuánto le pagará Isaac Rubinzal a los autores que edita?, ¿Vivirán de eso? o<a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii"> ¿tendrán que pedir la jubilación de privilegio que está presentando Carlos Heller?</a></p>
 
 </div>
 
@@ -39,7 +39,7 @@ Eso si, no se liberará los contenidos de esos autores que recibirán una jubila
 
 Lástima se <em>olvidó</em> de decir todo lo que rob....digo recaudan con el Canon por Fotocopias:
 
-<img class="alignnone" title="Canon por Fotocopias" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-1024x726.png" alt="" width="752" height="532" />
+<img class="alignnone" title="Canon por Fotocopias" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-1024x726.png" alt="" width="752" height="532" />
 
 &nbsp;
 

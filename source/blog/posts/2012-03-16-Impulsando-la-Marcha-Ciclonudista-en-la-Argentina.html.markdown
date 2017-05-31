@@ -6,8 +6,8 @@ tags:
 - material-para-difusion
 - marcha-ciclonudista
 - world-naked-bike-ride
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/P-WNBR-Mx-2011.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/P-WNBR-Mx-2011-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/P-WNBR-Mx-2011.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/P-WNBR-Mx-2011-150x150.jpg
 wppost_name: impulsando-la-marcha-ciclonudista-en-la-argentina
 ---
 
@@ -28,6 +28,6 @@ Site de los
 	<li><strong><a href="http://wnbrmexico.blogspot.com/" target="_blank">Los Ciclonudistas de México DF</a></strong></li>
 	<li><strong><a href="http://www.worldnakedbikeride.org/" target="_blank">Site Internacional de los Ciclonudistas, en inglés.</a></strong></li>
 </ul>
-Estamos organizando la Marcha Ciclonudista para el 2013, si quieren participar <strong><a href="http://partidopirata.com.ar/contacto" target="_blank">pónganse en contacto con nosotros!</a></strong>
+Estamos organizando la Marcha Ciclonudista para el 2013, si quieren participar <strong><a href="https://partidopirata.com.ar/contacto" target="_blank">pónganse en contacto con nosotros!</a></strong>
 
 &nbsp;

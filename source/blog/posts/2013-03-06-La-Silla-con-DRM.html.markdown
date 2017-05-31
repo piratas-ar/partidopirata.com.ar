@@ -9,8 +9,8 @@ tags:
 - silla
 - silla-con-drm
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/with_drm.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/with_drm-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/with_drm.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/with_drm-150x150.png
 wppost_name: la-silla-con-drm
 ---
 

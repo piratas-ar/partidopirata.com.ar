@@ -8,8 +8,8 @@ tags:
 - divulgacion
 - radio-2
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben1.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben1.png
 wppost_name: entrevista-sobre-el-caso-taringa-en-fm-futura
 ---
 

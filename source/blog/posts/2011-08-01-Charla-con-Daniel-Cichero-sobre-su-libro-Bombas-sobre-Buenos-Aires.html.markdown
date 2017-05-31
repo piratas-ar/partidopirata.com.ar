@@ -11,12 +11,12 @@ tags:
 - podcasts
 - radio-2
 - revolucion-libertadora
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/cichero.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/cichero.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/cichero.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/cichero.jpg
 wppost_name: charla-con-daniel-cichero-sobre-su-libro-bombas-sobre-buenos-aires
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/cichero.jpg"><img class="aligncenter size-full wp-image-1547" title="cichero" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/cichero.jpg" alt="" width="219" height="211" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/cichero.jpg"><img class="aligncenter size-full wp-image-1547" title="cichero" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/cichero.jpg" alt="" width="219" height="211" /></a>
 
 <hr />
 
@@ -36,7 +36,7 @@ wppost_name: charla-con-daniel-cichero-sobre-su-libro-bombas-sobre-buenos-aires
 <strong>Reemplacen # por @</strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/category/divulgacion/podcasts">Otros Podcast del Partido Pirata Argentino</a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/category/divulgacion/podcasts">Otros Podcast del Partido Pirata Argentino</a>
 </strong></p>
 <strong>Sobre Bombas sobre Buenos Aires:</strong>
 

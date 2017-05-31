@@ -7,8 +7,8 @@ tags:
 - microsoft
 - monsanto
 - patentes
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: keiser-report-en-espanol-monsanto-o-monsatan-e415
 ---
 
@@ -40,9 +40,9 @@ Sobre Max Keiser:
 
 El doblaje es durísimo!!!. Cuando traducen "Derechos de Autor" en la parte sobre Monsanto se refieren a las Patentes.
 
-Piensen que algo de lo que comentan sobre las patentes de semillas es lo que produciría la<strong><a href="http://partidopirata.com.ar/7430/sobre-la-nueva-ley-de-semillas-o-ley-monsanto-y-las-patentes"> "Ley de Semillas" que el Ministerio de Agricultura</a></strong> está impulsando en la Argentina. El caso canadiense en que un granjero fue llevado a juicio por Monsanto <strong><a href="http://partidopirata.com.ar/8620/el-david-de-david-contra-monsanto-visito-la-argentina">porque encontraron soja transgénica en sus campos</a></strong> cuando las semillas fueron llevadas por el viento o por abejas, pájaros u otros motivos.
+Piensen que algo de lo que comentan sobre las patentes de semillas es lo que produciría la<strong><a href="https://partidopirata.com.ar/7430/sobre-la-nueva-ley-de-semillas-o-ley-monsanto-y-las-patentes"> "Ley de Semillas" que el Ministerio de Agricultura</a></strong> está impulsando en la Argentina. El caso canadiense en que un granjero fue llevado a juicio por Monsanto <strong><a href="https://partidopirata.com.ar/8620/el-david-de-david-contra-monsanto-visito-la-argentina">porque encontraron soja transgénica en sus campos</a></strong> cuando las semillas fueron llevadas por el viento o por abejas, pájaros u otros motivos.
 
-Es importante notar que en la Argentina Youtube paga derechos de autor por la música a SADAIC <strong><a href="http://partidopirata.com.ar/8549/el-lado-de-los-musicos-sobre-lo-que-estarian-cobrando-por-streaming">por supuesto no tenemos la menor idea de cómo reparte ese dinero SADAIC</a></strong>
+Es importante notar que en la Argentina Youtube paga derechos de autor por la música a SADAIC <strong><a href="https://partidopirata.com.ar/8549/el-lado-de-los-musicos-sobre-lo-que-estarian-cobrando-por-streaming">por supuesto no tenemos la menor idea de cómo reparte ese dinero SADAIC</a></strong>
 
 <hr />
 

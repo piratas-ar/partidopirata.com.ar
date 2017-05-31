@@ -7,8 +7,8 @@ tags:
 - fundacion-lola-mora
 - la-rioja
 - propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/c.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/c-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/c.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/c-115x115.png
 wppost_name: la-rioja-argentina-copy-un-debate-sobre-propiedad-intelectual
 ---
 

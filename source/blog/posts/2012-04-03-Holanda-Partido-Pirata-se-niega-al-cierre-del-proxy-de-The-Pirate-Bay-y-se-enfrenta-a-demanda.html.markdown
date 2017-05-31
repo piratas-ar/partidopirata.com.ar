@@ -9,8 +9,8 @@ tags:
 - partido-pirata-holandes
 - the-pirate-bay
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
 wppost_name: holanda-partido-pirata-se-niega-al-cierre-del-proxy-de-the-pirate-bay-y-se-enfrenta-a-demanda
 ---
 

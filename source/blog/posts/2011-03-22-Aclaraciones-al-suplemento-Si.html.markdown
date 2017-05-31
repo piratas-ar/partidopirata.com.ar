@@ -7,12 +7,12 @@ tags:
 - diario-clarin
 - divulgacion
 - suplemento-si
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/images.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/images.jpg
 wppost_name: aclaraciones-al-suplemento-si
 ---
 
-<strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/03/images.jpg"><img class="alignleft size-full wp-image-607" title="Logo Clarín" src="http://partidopirata.com.ar/wp-content/uploads/2011/03/images.jpg" alt="Logo del Diario Clarín" width="49" height="80" /></a>Problemática "tercermundista" </strong>
+<strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/03/images.jpg"><img class="alignleft size-full wp-image-607" title="Logo Clarín" src="https://partidopirata.com.ar/wp-content/uploads/2011/03/images.jpg" alt="Logo del Diario Clarín" width="49" height="80" /></a>Problemática "tercermundista" </strong>
 
 El suplemento Si! del diario Clarín publicó <a rel="nofollow" href="http://www.si.clarin.com/piratas_0_446355363.html">una reseña sobre el PirateFest</a>, donde el periodista Daniel Convertini escribe:
 

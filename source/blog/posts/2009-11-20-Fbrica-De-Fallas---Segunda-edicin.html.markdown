@@ -14,12 +14,12 @@ tags:
 - noticias
 - segunda
 - tribu
-image: http://partidopirata.com.ar/wp-content/uploads/2009/11/fabricadefallas-212x300.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2009/11/fabricadefallas-212x300.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2009/11/fabricadefallas-212x300.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2009/11/fabricadefallas-212x300.jpg
 wppost_name: fabrica-de-fallas-segunda-edicion
 ---
 
-<img class="alignleft size-medium wp-image-38" title="Fábrica de fallas segunda edición" src="http://partidopirata.com.ar/wp-content/uploads/2009/11/fabricadefallas-212x300.jpg" alt="Fábrica de fallas segunda edición" width="191" height="270" />
+<img class="alignleft size-medium wp-image-38" title="Fábrica de fallas segunda edición" src="https://partidopirata.com.ar/wp-content/uploads/2009/11/fabricadefallas-212x300.jpg" alt="Fábrica de fallas segunda edición" width="191" height="270" />
 Este sábado 21 y domingo 22 de noviembre FM La Tribu celebra la segunda entrega del festival de cultura libre y copyleft Fábrica De Fallas.
 
 El lema de este año sera "El pirata está ahí. Por todas partes." y podrá disfrutarlo en la sede de la radio, Lambaré 873 de 14hs a 22hs los dos días.

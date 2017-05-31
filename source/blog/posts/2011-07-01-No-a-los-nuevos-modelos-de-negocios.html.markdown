@@ -6,8 +6,8 @@ tags:
 - nuevos-negocios
 - pagina-12-gonzalez-sinde
 - repudio
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg
 wppost_name: "%e2%80%9cno-a-los-nuevos-modelos-de-negocios%e2%80%9d"
 ---
 

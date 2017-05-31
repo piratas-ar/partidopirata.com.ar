@@ -12,8 +12,8 @@ tags:
 - semillas-organicas
 - syngenta
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31-150x150.jpg
 wppost_name: documentales-tierra-em-transformacion-agronegocio-o-agroecologia
 ---
 
@@ -32,5 +32,5 @@ El desarrollo de químicos y tecnologia enfocada en la agricultura se encuentra 
 
 <hr />
 
-En la Argentina se instalará la<a href="http://www.eco2site.com/Noticia-1636-Monsanto-instalara-en-Argentina-la-planta-transgenica-mas-grande-del-mundo?fb_comment_id=fbc_10151114384037165_25011599_10151171025017165#f3096b511aff5c4" target="_blank"> planta de transgénicos más grande del mundo</a> Cristina Kirchner elogia públicamente a Monsanto, enviarán una ley que permitiría que <a href="http://partidopirata.com.ar/6173/no-a-la-ley-monsanto">Monsanto cobre patentes por sus semillas</a> el video nos muestra alternativas a ese modelo.
+En la Argentina se instalará la<a href="http://www.eco2site.com/Noticia-1636-Monsanto-instalara-en-Argentina-la-planta-transgenica-mas-grande-del-mundo?fb_comment_id=fbc_10151114384037165_25011599_10151171025017165#f3096b511aff5c4" target="_blank"> planta de transgénicos más grande del mundo</a> Cristina Kirchner elogia públicamente a Monsanto, enviarán una ley que permitiría que <a href="https://partidopirata.com.ar/6173/no-a-la-ley-monsanto">Monsanto cobre patentes por sus semillas</a> el video nos muestra alternativas a ese modelo.
 Resistamos y coordinemos acciones ya que lo que se viene es demasiado fuerte!.

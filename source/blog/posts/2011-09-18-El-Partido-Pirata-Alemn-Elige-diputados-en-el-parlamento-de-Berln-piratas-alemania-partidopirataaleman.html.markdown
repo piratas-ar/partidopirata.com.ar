@@ -7,12 +7,12 @@ tags:
 - eleccion-partido-pirata-aleman
 - noticias
 - partido-pirata-aleman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg
 wppost_name: el-partido-pirata-aleman-elige-diputados-en-el-parlamento-de-berlin-piratas-alemania-partidopirataaleman
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg"><img class="aligncenter size-full wp-image-1847" title="berlin" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg" alt="" width="550" height="368" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg"><img class="aligncenter size-full wp-image-1847" title="berlin" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg" alt="" width="550" height="368" /></a>
 <strong><a href="http://alt1040.com/2011/09/el-partido-pirata-aleman-gana-15-lugares-en-el-parlamento-de-berlin" target="_blank">Fuente Alt 1040</a></strong>
 
 Desde hace unas semanas las proyecciones electorales señalaban al Partido Pirata Alemán como una de las posibles sorpresas. <a href="http://www.elpais.com/articulo/internacional/Partido/Piratas/aborda/politica/alemana/elpepiint/20110918elpepiint_6/Tes">El pronóstico apuntaba al menos</a>a la obtención del 5% necesario para poder sentarse en el Parlamento berlinés.
@@ -34,6 +34,6 @@ La plataforma actual del Partido Pirata Alemán en Berlín además de concentrar
 
 Sin duda, el triunfo del Partido Pirata Alemán en Berlín se merece una <strong>gran celebración</strong>. Esta noche, la fiesta del Partido Pirata Alemán luce así:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg"><img class="aligncenter size-full wp-image-1848" title="fiesta" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg" alt="" width="646" height="363" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg"><img class="aligncenter size-full wp-image-1848" title="fiesta" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg" alt="" width="646" height="363" /></a>
 <p style="text-align: center;"><strong><a href="http://alt1040.com/2011/09/el-partido-pirata-aleman-gana-15-lugares-en-el-parlamento-de-berlin" target="_blank">Fuente Alt 1040</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1837/podcast-con-florian-del-partido-pirata-aleman-elecciones-municipales-en-alemania">Acá charlábamos con Florián del Partido Pirata Alemán sobre la situación del partido en ese país.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1837/podcast-con-florian-del-partido-pirata-aleman-elecciones-municipales-en-alemania">Acá charlábamos con Florián del Partido Pirata Alemán sobre la situación del partido en ese país.</a></strong></p>

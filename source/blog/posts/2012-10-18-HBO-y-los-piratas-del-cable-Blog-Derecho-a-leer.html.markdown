@@ -8,14 +8,14 @@ tags:
 - hbo
 - piratas-del-cable
 - television-por-cable
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/images-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/images-150x150.jpg
 wppost_name: hbo-y-los-piratas-del-cable-blog-derecho-a-leer
 ---
 
 <strong>Rescatamos esta entrada de <em>Derecho a Leer</em> <a href="http://www.blogsprofesionales.es/hbo-y-los-piratas-del-cable-blog-derecho-a-leer-3/" target="_blank">de Blogsprofesionales</a>, la entrada original <a href="http://www.derechoaleer.org/2012/03/hbo-y-los-piratas-del-cable.html" target="_blank">estaba acá.</a></strong>
 
-<strong><a href="http://partidopirata.com.ar/6909/hacer-fortuna-robando-la-propiedad-intelectual-de-otros-los-piratas-de-hollywood">La historia de otros <em>piratas</em> los de Hollywood</a></strong>
+<strong><a href="https://partidopirata.com.ar/6909/hacer-fortuna-robando-la-propiedad-intelectual-de-otros-los-piratas-de-hollywood">La historia de otros <em>piratas</em> los de Hollywood</a></strong>
 <p style="text-align: center;"><em>No pude rescatar las imágenes además aparecían Warnings por copyright por todos lados en Barco Library así que, si quieren verlas, entren en el link que sugiere "Barco Library".</em></p>
 
 
@@ -105,7 +105,7 @@ Simplemente, <a href="http://www.derechoaleer.org/2012/03/durante-marzo-nolescom
 
 <strong><a href="http://www.blogsprofesionales.es/hbo-y-los-piratas-del-cable-blog-derecho-a-leer-3/" target="_blank">Rescatada por Blogsprofesionales</a>,</strong>
 
-<strong><a href="http://partidopirata.com.ar/6909/hacer-fortuna-robando-la-propiedad-intelectual-de-otros-los-piratas-de-hollywood">La historia de otros <em>piratas</em> los de Hollywood</a></strong>
+<strong><a href="https://partidopirata.com.ar/6909/hacer-fortuna-robando-la-propiedad-intelectual-de-otros-los-piratas-de-hollywood">La historia de otros <em>piratas</em> los de Hollywood</a></strong>
 
 <hr />
 <p style="text-align: center;"><strong>En nuestra<a href="http://lists.partidopirata.com.ar/pipermail/general-partidopirata.com.ar/2012-October/021676.html"> lista de correo </a> GNU recomienda al libro <a href="http://www.derechosdigitales.org/culturalibre/" target="_blank"> Cultura libre de Lawrence Lessig en donde encontrarán varios ejemplos más sobre innovaciones salteándose patentes y demás.</a></strong></p>

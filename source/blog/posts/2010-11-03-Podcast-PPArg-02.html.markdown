@@ -20,8 +20,8 @@ tags:
 - podcasts
 - sustentable
 - voluntario
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
 wppost_name: podcast-pparg-02
 ---
 

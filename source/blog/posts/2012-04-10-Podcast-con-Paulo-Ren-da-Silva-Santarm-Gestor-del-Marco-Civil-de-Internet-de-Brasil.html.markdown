@@ -12,12 +12,12 @@ tags:
 - partido-pirata-de-brasil
 - paulo-rena-da-silva-santarem
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/paulorena.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/paulorena.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/paulorena.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/paulorena.png
 wppost_name: podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/paulorena.png"><img class="alignleft size-full wp-image-3892" title="Paulo Rená" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/paulorena.png" alt="Paulo Rená da Silva Santarém" width="64" height="64" /></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/paulorena.png"><img class="alignleft size-full wp-image-3892" title="Paulo Rená" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/paulorena.png" alt="Paulo Rená da Silva Santarém" width="64" height="64" /></a>
 <strong>Charla con Paulo Rená da Silva Santarém, Gestor del proyecto de elaboración del Marco Civil de Internet en Brasil.</strong></p>
 
 
@@ -36,10 +36,10 @@ Presione en <em>Play</em> si quieren escucharlo sin descargar o
 	<li><strong><a href="http://partidopirata.org/" target="_blank">Site del Partido Pirata de Brasil.</a></strong></li>
 	<li><strong><a href="http://culturadigital.br/marcocivil/" target="_blank">Site del Marco Civil de Internet.</a></strong></li>
 	<li><strong><a href="http://culturadigital.br/" target="_blank">Plataforma de Cultura Digital.</a></strong></li>
-	<li style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5498/hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-brasil-y-el-marco-civil">La nueva charla con Paulo Rená</a></strong></li>
+	<li style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5498/hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-brasil-y-el-marco-civil">La nueva charla con Paulo Rená</a></strong></li>
 </ul>
 </ul>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Los otros podcast del Partido Pirata Argentino.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Los otros podcast del Partido Pirata Argentino.</a></strong></p>
 &nbsp;
 
 <hr />
@@ -55,7 +55,7 @@ Partiendo de los debates y sugestiones de la primera fase se formuló la minuta 
 Después de más de un año, el 24 de agosto de 2011<sup id="cite_ref-2"><a href="https://pt.wikipedia.org/wiki/Marco_Civil_da_Internet#cite_note-2">[3]</a></sup>, el proyecto de ley fue encaminado a la <a title="Câmara dos Deputados do Brasil" href="https://pt.wikipedia.org/wiki/C%C3%A2mara_dos_Deputados_do_Brasil">Cámara</a>, recibido bajo el número 2126/2011.
 
 El Marco Civil fue descripto por el entonces <a title="Anexo:Lista de ministros de Justicia do Brasil" href="https://pt.wikipedia.org/wiki/Anexo:Lista_de_ministros_da_Justi%C3%A7a_do_Brasil">Ministro de Justicia</a>, <a title="Luiz Paulo Barreto" href="https://pt.wikipedia.org/wiki/Luiz_Paulo_Barreto">Luiz Paulo Barreto</a>, como “La Constitución de Internet”<sup id="cite_ref-3"><a href="https://pt.wikipedia.org/wiki/Marco_Civil_da_Internet#cite_note-3">[4]</a></sup>.
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2730/brasil-marco-civil-de-internet-derechos-y-deberes-en-el-uso-de-internet">En esta entrada del blog dejamos más información sobre el Marco Civil de Internet.</a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2730/brasil-marco-civil-de-internet-derechos-y-deberes-en-el-uso-de-internet">En esta entrada del blog dejamos más información sobre el Marco Civil de Internet.</a>
 </strong></p>
 
 

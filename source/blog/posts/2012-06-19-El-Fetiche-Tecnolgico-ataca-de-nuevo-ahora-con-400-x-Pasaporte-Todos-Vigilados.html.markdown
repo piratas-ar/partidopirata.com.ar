@@ -11,15 +11,15 @@ tags:
 - intimidad
 - pasaportes
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo-150x150.jpg
 wppost_name: el-fetiche-tecnologico-ataca-de-nuevo-ahora-con-400-x-pasaporte-todos-vigilados
 ---
 
 <h3>El fetiche tecnológico ataca de nuevo</h3>
 Los políticos son especialmente vulnerables a dejarse llevar por el <em>fetiche tecnológico</em>. Agregar el término “inteligente” o “electrónico” siempre queda bien en los discursos, aunque conduzca a una catástrofe. Ocurrió <a href="http://derechoaleer.org/2012/05/cuatro-amenazas-contra-tu-derecho-a-controlar-la-proxima-eleccion.html%22%22">con el voto electrónico</a>, pero como las instancias críticas han legado tan lejos como la corte suprema alemana, al menos es correcto dudar y debatir el tema. También estuvimos a punto copiar otro gran “adelanto” europeo, <a href="http://derechoaleer.org/2011/06/infografia-el-canon-de-pichetto-y-giustiniani.html">el canon digital</a>, pero entre el <a href="http://derechoaleer.org/2011/07/los-ladrones-la-carcel.html">derrumbe de Teddy</a> y los <a href="http://www.derechoaleer.org/2011/11/canon-una-tradicion-obsoleta-del-viejo-mundo.html">fallos adversos en España</a>, el proyecto pareciera que terminó (esperemos) en algún cajón del Congreso.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo.jpg"><img class="size-medium wp-image-4817" title="randazzo" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo-300x222.jpg" alt="" width="300" height="222" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo.jpg"><img class="size-medium wp-image-4817" title="randazzo" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/randazzo-300x222.jpg" alt="" width="300" height="222" /></a>
 
 
 En el caso de los <strong>pasaportes “inteligentes”</strong> la Argentina <strong>estaba a tiempo de aprovechar toda la experiencia mundial</strong> de los últimos seis años de aplicación, analizando los <strong>problemas relativos a la privacidad, y las vulnerabilidades comprobadas</strong> de seguridad, y por lo tanto, <strong>rechazarlo</strong>. Lamentablemente, ganó el fectiche y <a href="http://federratas.codigolibre.net/?p=499">seguimos copiando malas ideas</a>.
@@ -49,4 +49,4 @@ Al mercado global de la vigilancia, Argentina sin dudas le puede aportar “el v
 <hr />
 
 Cada vez más vigilancia, tecnologías que se adoptan sin ningún debate, costos mayores para los usuarios...Organicémonos para resistir, repensar, si no les gusta el partido pirata, háganlo desde el partido que más les guste o la ONG que les parezca más adecuada. Pero generemos una masa crítica ante tanta falta de debate y participación!
-<a href="http://partidopirata.com.ar/wiki/index.php?title=Como_Participar">A nosotros nos encuentran acá por si quieren unirse y tratar de crecer y generar algo.</a>
+<a href="https://partidopirata.com.ar/wiki/index.php?title=Como_Participar">A nosotros nos encuentran acá por si quieren unirse y tratar de crecer y generar algo.</a>

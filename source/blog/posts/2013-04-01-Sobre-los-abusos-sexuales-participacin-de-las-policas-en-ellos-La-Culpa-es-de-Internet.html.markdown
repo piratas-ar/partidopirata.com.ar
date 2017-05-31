@@ -9,8 +9,8 @@ tags:
 - lena-al-fuego
 - maria-del-carmen-verdu
 - violacion
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/Facebook-008.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/Facebook-008-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/Facebook-008.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/Facebook-008-150x150.jpg
 wppost_name: sobre-los-abusos-sexuales-participacion-de-las-policias-en-ellos-la-culpa-es-de-internet
 ---
 
@@ -22,7 +22,7 @@ Segmento del programa Leña al Fuego donde María del Carmen Verdú explica la c
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/sobre-abusos-sexuales-la-culpa-es-internet_md_1913838_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart.png"><img class="size-full wp-image-8979" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart.png"><img class="size-full wp-image-8979" alt="Código QR de la dirección del archivo mp3" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en<i> descargar</i> <a href="http://www.ivoox.com/sobre-abusos-sexuales-la-culpa-es-internet-audios-mp3_rf_1913838_1.html" target="_blank">en este link.</a></strong></p>
 

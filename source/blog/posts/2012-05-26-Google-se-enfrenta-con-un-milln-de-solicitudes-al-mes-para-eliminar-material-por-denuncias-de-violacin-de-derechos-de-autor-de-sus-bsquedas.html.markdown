@@ -11,8 +11,8 @@ tags:
 - google
 - links
 - pedidos-de-borrado-de-enlaces
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-150x150.jpg
 wppost_name: google-se-enfrenta-con-un-millon-de-solicitudes-al-mes-para-eliminar-material-con-derechos-de-autor-de-sus-busquedas
 ---
 
@@ -69,12 +69,12 @@ Más sobre el delirio de "Notice and Takedown" o aviso y borrado solicitados a G
 
 &nbsp;
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/4484/la-obra-prima-que-no-le-pidio-permiso-al-derecho-de-autor">Sobre el juicio a los Beastie Boys</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/4484/la-obra-prima-que-no-le-pidio-permiso-al-derecho-de-autor">Sobre el juicio a los Beastie Boys</a></strong></li>
 	<li>
-<h3><a href="http://partidopirata.com.ar/4575/los-titulares-de-derechos-de-autor-se-maltratan-con-locos-pedidos-de-takedowns-borrado-por-dmca" rel="bookmark">Los titulares de derechos de autor se maltratan con locos pedidos de Takedowns [borrado] por DMCA</a></h3>
+<h3><a href="https://partidopirata.com.ar/4575/los-titulares-de-derechos-de-autor-se-maltratan-con-locos-pedidos-de-takedowns-borrado-por-dmca" rel="bookmark">Los titulares de derechos de autor se maltratan con locos pedidos de Takedowns [borrado] por DMCA</a></h3>
 </li>
 	<li>
-<h3><a href="http://partidopirata.com.ar/4571/en-la-lista-de-los-links-mas-borrados-por-google-por-reclamos-por-derecho-de-autor-filestube-esta-primera" rel="bookmark">En la lista de los links más borrados por Google por reclamos por derecho de autor FilesTube está primera</a></h3>
+<h3><a href="https://partidopirata.com.ar/4571/en-la-lista-de-los-links-mas-borrados-por-google-por-reclamos-por-derecho-de-autor-filestube-esta-primera" rel="bookmark">En la lista de los links más borrados por Google por reclamos por derecho de autor FilesTube está primera</a></h3>
 </li>
 </ul>
 Piensen que todos estos pedidos se le hacen a Google que tiene <em>espaldas</em> para intentar revisar cada pedido y rechazarlo llegado el caso.
@@ -82,4 +82,4 @@ Imaginen si a una empresa pequeña, a un proveedor de internet sin muchos fondos
 Vemos claramente como es el tema de la censura en todo esto.
 Usar el copyright como forma de censura.!
 
-Si alguien sabe como traducir : enforcement vendors avise en los comentarios o envíenos un e-mail a <strong><a href="http://partidopirata.com.ar/contacto">nuestro contacto.</a></strong> Lo mismo si quieren mejorar esta traducción que no la encontramos en castellano.
+Si alguien sabe como traducir : enforcement vendors avise en los comentarios o envíenos un e-mail a <strong><a href="https://partidopirata.com.ar/contacto">nuestro contacto.</a></strong> Lo mismo si quieren mejorar esta traducción que no la encontramos en castellano.

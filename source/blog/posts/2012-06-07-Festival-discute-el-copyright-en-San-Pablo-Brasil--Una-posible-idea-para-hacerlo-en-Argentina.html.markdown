@@ -11,14 +11,14 @@ tags:
 - documentales
 - festival
 - right
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.jpg
 wppost_name: festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-para-hacerlo-en-argentina
 ---
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/festival-discute-copyright-em-sp/" target="_blank">Fuente Blog P2P-Tatiana de Mello Dias</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
 
 
 Empieza en São Paulo el próximo miércoles el ciclo “Copy, right?”. con películas y documentales que discuten a la cultura libre.
@@ -45,7 +45,7 @@ Si alguien se anima a hacer el evento avísennos y le daremos difusión.!
 
 Los Documentales que se exhiben:
 
-<strong><a href="http://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copiad, Malditos!, primer documental</a>
-<a href="http://partidopirata.com.ar/4752/siguiendo-con-el-ciclo-copy-right-patents-absurdity-y-arduino-el-documental">Patents Absurdity y Arduino el documental</a>
-<a href="http://partidopirata.com.ar/4892/siguiendo-con-el-ciclo-copy-right-rip-a-remix-manifesto">Documental del 23 de Junio: RiP! A remix Manifesto</a>
-<a href="http://partidopirata.com.ar/2491/ctrl-v-documental-que-puede-ayudarnos-a-entender-un-poco-mas-el-caso-cuevana">Ctrl-V</a></strong>
+<strong><a href="https://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copiad, Malditos!, primer documental</a>
+<a href="https://partidopirata.com.ar/4752/siguiendo-con-el-ciclo-copy-right-patents-absurdity-y-arduino-el-documental">Patents Absurdity y Arduino el documental</a>
+<a href="https://partidopirata.com.ar/4892/siguiendo-con-el-ciclo-copy-right-rip-a-remix-manifesto">Documental del 23 de Junio: RiP! A remix Manifesto</a>
+<a href="https://partidopirata.com.ar/2491/ctrl-v-documental-que-puede-ayudarnos-a-entender-un-poco-mas-el-caso-cuevana">Ctrl-V</a></strong>

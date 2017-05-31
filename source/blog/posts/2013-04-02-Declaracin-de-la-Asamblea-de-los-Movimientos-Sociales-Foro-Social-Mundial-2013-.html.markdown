@@ -7,8 +7,8 @@ tags:
 - material-para-difusion
 - foro-social-mundial
 - tunez
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/image_preview.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/image_preview-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/image_preview.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/image_preview-150x150.jpeg
 wppost_name: declaracion-de-la-asamblea-de-los-movimientos-sociales-foro-social-mundial-2013
 ---
 

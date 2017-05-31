@@ -9,15 +9,15 @@ tags:
 - subtitulos
 - subtitulos-pirateados
 - subtitutols-en-finlandes
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/netflix.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/netflix-150x64.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/netflix.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/netflix-150x64.png
 wppost_name: netflix-capturada-con-subtitulos-piratas-en-finlandia
 ---
 
 <strong><a href="https://torrentfreak.com/netflix-caught-using-pirated-subtitles-in-finland-121019/" target="_blank">Fuente Torrentfreak</a></strong>
 Esta semana Netflix lanzó su popular servicio de streaming de vídeo bajo demanda en Finlandia no exento de polémicas. Para atender a la audiencia local, en una parte de su programación la compañía mostrará fansubs [subtítulos hechos por comunidades de Internet] "no autorizados" . A diferencia de los subtítulos regulares, los fansubs se crean sin el permiso de los propietarios del contenido y se usa frecuentemente junto a contenido pirateado. Netflix se disculpó por el uso de los subtítulos no autorizados y ha prometido sacarlos .
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/netflix.png"><img class="alignright size-full wp-image-6988" title="netflix" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/netflix.png" alt="" width="185" height="64" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/netflix.png"><img class="alignright size-full wp-image-6988" title="netflix" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/netflix.png" alt="" width="185" height="64" /></a>
 
 La comunidad de fansubs “<a href="http://www.divxfinland.org/index.html">DivX Finland</a>”ha traducido subtítulos para series de  TV  y películas en otras lenguas desde 2003.
 
@@ -31,7 +31,7 @@ DivX Finlandia fue alertada rápidamente sobre este uso atípico de su trabajo y
 
 "Es bueno ver que los textos se utilizan, pero no nos pidieron permiso", <a href="http://www.tietoviikko.fi/kaikki_uutiset/netflix+mokasi+kayttaa+luvatta+harrastelijoiden+tekstityksia++quotmaksaakohan+sita+omista+teksteistaquot/a848827">escribieron </a>, añadiendo un enlace de <a href="https://www.youtube.com/watch?v=9VkldVee9h8">un cli de video</a> desde Netflix donde los créditos de DivXFinlandia son claramente visibles
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/fansub-netflix.jpg"><img class="size-full wp-image-6989" title="fansub-netflix" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/fansub-netflix.jpg" alt="" width="524" height="309" /></a> Netflix Finland usa subtítulos de Fansubs
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/fansub-netflix.jpg"><img class="size-full wp-image-6989" title="fansub-netflix" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/fansub-netflix.jpg" alt="" width="524" height="309" /></a> Netflix Finland usa subtítulos de Fansubs
 
 
 En respuesta a este desafortunado hecho, Netflix se disculpó por el uso de los subtítulos no autorizados y aseguró al periódico finlandés <a href="http://www.hs.fi/talous/Netflix+pyyt%C3%A4%C3%A4+anteeksi+tekstitysten+luvatonta+k%C3%A4ytt%C3%B6%C3%A4/a1305608387331">HS</a> que los van a sacar del catálogo. Netflix no explicó cómo llegaron allí desde el principio.
@@ -54,7 +54,7 @@ Al parecer, algunos elementos de esta subcultura "pirata" puede ser también de 
 
 Muchos usuarios de Intenret le debemos un gran favor a todas las comunidades que se dedican a realizar los subtítulos en un idioma que podamos comprender, en español está <a href="http://www.subdivx.com/" target="_blank">http://www.subdivx.com/</a> donde se pueden encontrar a muchos subtítulos.
 
-Hace poco colocamos acá la noticia de que en<a href="http://partidopirata.com.ar/6865/de-ajustes-subtitulos-y-la-serie-de-tv-revolution"> Portugal la Cinemateca no tiene más dinero para realizar subtítulos </a>de aquellas películas que no estén en portugués.
+Hace poco colocamos acá la noticia de que en<a href="https://partidopirata.com.ar/6865/de-ajustes-subtitulos-y-la-serie-de-tv-revolution"> Portugal la Cinemateca no tiene más dinero para realizar subtítulos </a>de aquellas películas que no estén en portugués.
 Todos nos emprobrecemos cuando la cultura no circula. Aquellas personas que hacen subtítulos gratuitamente de series que nos permiten disfrutarlas meses (o tal vez años) de aquella serie que tanto nos gusta deberían ser reconocidas.
 Sin ellas nuestra vida sería mucho más pobre.
 Una alternativa que señalábamos para el ajuste de los portugueses es que ellos hagan subtítulos en portugués de sus películas y así poder generar una corriente de subtítulos en otros idiomas. Si se tiene el subtítulo en la lengua original sería más fácil traducirlo a otros idiomas.

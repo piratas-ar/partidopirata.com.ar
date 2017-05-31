@@ -9,14 +9,14 @@ tags:
 - pirates-times
 - tiempo-pirata
 - union-europea
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/pphr-636x310.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/pphr-636x310-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/pphr-636x310.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/pphr-636x310-150x150.png
 wppost_name: los-piratas-croatas-a-las-puertas-del-europarlamento
 ---
 
 <strong><a href="http://piratetimes.net/croatian-pirates-at-the-gates-of-european-parliament/" target="_blank">Fuente Pirate Times</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/pphr-636x310.png"><img class="aligncenter size-medium wp-image-9036" alt="pphr-636x310" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/pphr-636x310-300x146.png" width="300" height="146" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/pphr-636x310.png"><img class="aligncenter size-medium wp-image-9036" alt="pphr-636x310" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/pphr-636x310-300x146.png" width="300" height="146" /></a>
 <h3>Elecciones Históricas</h3>
 <strong>
 ¿Estaremos celebrando la entrada de un diputado Pirata adicional en el Parlamento Europeo? La respuesta está en las manos de los ciudadanos croatas y vamos a saberlo el 14 de abril de 2013, cuando la primera elección, histórica en la Unión Europea se llevará a cabo en ese país. Las encuestas en Croacia han demostrado que "Piratska Stranka" (PPHR) está atrayendo a un 6,4% de los votantes (superando el límite del 5%), más que suficiente para elegir a un diputado!!</strong>

@@ -11,8 +11,8 @@ tags:
 - inventores
 - pipa
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: mpas-de-80-inventores-e-ingenieros-de-internet-mandan-una-carta-abierta-al-congreso-de-estados-unidos-sopa
 ---
 

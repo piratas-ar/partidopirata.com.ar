@@ -8,14 +8,14 @@ tags:
 - moreno
 - pagos
 - pagos-por-derechos-de-autor
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/moreno-150x150.jpg
 wppost_name: un-servicio-para-moreno-que-quiere-ahorrar-dolarescuanto-paga-la-argentina-por-derecho-de-autor
 ---
 
 La verdad es que no sabemos cuánto paga la Argentina por derecho de autor, cuánto dólares paga la Argentina.
 
-Si alguien sabe <strong><a href="http://partidopirata.com.ar/contacto" target="_blank">escríbanos </a></strong>o déjelo en los comentarios.
+Si alguien sabe <strong><a href="https://partidopirata.com.ar/contacto" target="_blank">escríbanos </a></strong>o déjelo en los comentarios.
 
 Para tener una pista,la historia de una posible <strong><a href="http://www.significadode.org/retaliaci%F3n.htm" target="_blank"> retaliación</a></strong> de Brasil a Estados Unidos en que se evaluó no pagarle derechos de autor a EE.UU.:
 
@@ -48,4 +48,4 @@ El <a href="http://www.guiadenegociosbrasil.com.br/blog/?p=1373" target="_blank"
 La idea era que Brasil dejara de pagar derechos de autor por 2 meses, hasta juntar los 238 millones de dólares.
 <p style="text-align: center;">La duda:</p>
 <p style="text-align: center;"><strong>¿Cuánto paga la Argentina por derecho de autor?, ¿cuánto se envía al Exterior por este motivo?</strong></p>
-<p style="text-align: center;">Si alguien sabe <strong><a href="http://partidopirata.com.ar/contacto" target="_blank">escríbanos </a></strong>o déjelo en los comentarios.</p>
+<p style="text-align: center;">Si alguien sabe <strong><a href="https://partidopirata.com.ar/contacto" target="_blank">escríbanos </a></strong>o déjelo en los comentarios.</p>

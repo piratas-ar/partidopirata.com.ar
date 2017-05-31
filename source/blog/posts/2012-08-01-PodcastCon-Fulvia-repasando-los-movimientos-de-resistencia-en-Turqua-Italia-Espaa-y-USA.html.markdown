@@ -16,8 +16,8 @@ tags:
 - succedera
 - tierra
 - turquia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/chart3-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/chart3-115x115.png
 wppost_name: podcastcon-fulvia-repasando-los-movimientos-de-resistencia-en-turquia-italia-espana-y-usa
 ---
 
@@ -26,7 +26,7 @@ wppost_name: podcastcon-fulvia-repasando-los-movimientos-de-resistencia-en-turqu
 <a href="http://www.ivoox.com/con-fulvia-sobre-diferentes-movimientos-el_md_1353494_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona, presionen en <em>descargar</em> <a href="http://www.ivoox.com/con-fulvia-sobre-diferentes-movimientos-el-audios-mp3_rf_1353494_1.html" target="_blank">en el siguiente enlace.</a></center>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png"><img class="size-full wp-image-5621" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png"><img class="size-full wp-image-5621" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 &nbsp;
@@ -35,12 +35,12 @@ Si el enlace anterior no funciona, presionen en <em>descargar</em> <a href="http
 
 <strong>Los podcasts anteriores con Fulvia y Scott:</strong>
 
-<strong><a href="http://partidopirata.com.ar/2058/como-sigue-la-ocupacion-en-estados-unidos-podcast-con-fulvia" rel="bookmark">Cómo sigue la ocupación en Estados Unidos-Podcast con Fulvia.</a></strong>
+<strong><a href="https://partidopirata.com.ar/2058/como-sigue-la-ocupacion-en-estados-unidos-podcast-con-fulvia" rel="bookmark">Cómo sigue la ocupación en Estados Unidos-Podcast con Fulvia.</a></strong>
 
-<strong><a href="http://partidopirata.com.ar/1928/charla-con-scott-como-sigue-la-cosa-en-usa-occupyphilly" rel="bookmark">Charla con Scott Como sigue la cosa en USA #occupyphilly</a></strong><strong>
+<strong><a href="https://partidopirata.com.ar/1928/charla-con-scott-como-sigue-la-cosa-en-usa-occupyphilly" rel="bookmark">Charla con Scott Como sigue la cosa en USA #occupyphilly</a></strong><strong>
 </strong>
 
-<strong><a href="http://partidopirata.com.ar/1910/charlando-con-fulvia-y-scott-desde-la-ocupacion-en-wall-street-occupywallstreet" rel="bookmark">Charlando con Fulvia y Scott desde la Ocupación en Wall Street #Occupywallstreet</a></strong><strong> </strong>
+<strong><a href="https://partidopirata.com.ar/1910/charlando-con-fulvia-y-scott-desde-la-ocupacion-en-wall-street-occupywallstreet" rel="bookmark">Charlando con Fulvia y Scott desde la Ocupación en Wall Street #Occupywallstreet</a></strong><strong> </strong>
 
 <hr />
 
@@ -75,7 +75,7 @@ USA
 <a href="http://www.imdb.com/title/tt1175633/" target="_blank">http://www.imdb.com/title/tt1175633/</a></pre>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5436/vienen-por-el-oro-vienen-por-todo-documental">Vienen por el Oro, Vienen por todo, el documental argentino.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5436/vienen-por-el-oro-vienen-por-todo-documental">Vienen por el Oro, Vienen por todo, el documental argentino.</a></strong></p>
 
 
 <hr />

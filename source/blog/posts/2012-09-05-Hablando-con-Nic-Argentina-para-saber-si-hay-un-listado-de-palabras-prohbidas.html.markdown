@@ -9,12 +9,12 @@ tags:
 - nic
 - nic-argentina
 - registro-de-dominios
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/h6jgxx4w2r8pkyg248st_reasonably_small.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/h6jgxx4w2r8pkyg248st_reasonably_small-115x115.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/h6jgxx4w2r8pkyg248st_reasonably_small.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/h6jgxx4w2r8pkyg248st_reasonably_small-115x115.jpeg
 wppost_name: hablando-con-nic-argentina-para-saber-si-hay-un-listado-de-palabras-prohibidas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/h6jgxx4w2r8pkyg248st_reasonably_small.jpeg"><img class="alignright size-full wp-image-6353" title="h6jgxx4w2r8pkyg248st_reasonably_small" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/h6jgxx4w2r8pkyg248st_reasonably_small.jpeg" alt="" width="128" height="128" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/h6jgxx4w2r8pkyg248st_reasonably_small.jpeg"><img class="alignright size-full wp-image-6353" title="h6jgxx4w2r8pkyg248st_reasonably_small" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/h6jgxx4w2r8pkyg248st_reasonably_small.jpeg" alt="" width="128" height="128" /></a>
 LLamamos por teléfono al número que figura en el<a href="https://twitter.com/nicargentina" target="_blank"> twitter de Nic Argentina</a> para saber si hay un listado o no de palabras prohíbidas.
 <p style="text-align: center;"><strong>AMBA 0810-345-0032 - Interior 011-5238-5179</strong></p>
 
@@ -27,7 +27,7 @@ La conversación con el servicio de atención de Nic Argentina.
 <a href="http://www.ivoox.com/hablando-nic-argentina-para-saber-sobre-los_md_1410088_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em><a href="http://www.ivoox.com/hablando-nic-argentina-para-saber-sobre-los-audios-mp3_rf_1410088_1.html" target="_blank">en este link.</a></center>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart3.png"><img class="size-full wp-image-6355" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart3.png"><img class="size-full wp-image-6355" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />
@@ -39,7 +39,7 @@ Si el enlace anterior no funciona presionen en <em>descargar</em><a href="http:/
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/fumateamauricio2.png"><img class="size-medium wp-image-6359" title="fumateamauricio" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/fumateamauricio2-300x128.png" alt="" width="300" height="128" /></a> El dominio fumateamauricio.com.ar se encuentra registrado desde el 27/08/2012.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/fumateamauricio2.png"><img class="size-medium wp-image-6359" title="fumateamauricio" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/fumateamauricio2-300x128.png" alt="" width="300" height="128" /></a> El dominio fumateamauricio.com.ar se encuentra registrado desde el 27/08/2012.
 
 <p style="text-align: center;"><strong>Fumateamauricio.com.ar</strong> se puede registrar, si querés registrar <strong>Fumateacristina.com.ar</strong> no se puede.</p>
 <p style="text-align: center;"><strong><a href="http://blog.smaldone.com.ar/2012/09/04/nic-argentina-prohibe-cristina-pero-acepta-mauricio/" target="_blank">La historia de Javier Smaldone y la negación del registro <em>Fumateacristina.com.ar</em></a></strong></p>
@@ -47,7 +47,7 @@ Si el enlace anterior no funciona presionen en <em>descargar</em><a href="http:/
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/macriputo.png"><img class=" wp-image-6354 " title="macriputo" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/macriputo-300x191.png" alt="" width="360" height="229" /></a> Registro de Macriputo.comar en Nic Argentina.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/macriputo.png"><img class=" wp-image-6354 " title="macriputo" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/macriputo-300x191.png" alt="" width="360" height="229" /></a> Registro de Macriputo.comar en Nic Argentina.
 
 <p style="text-align: center;"><strong>El registro de "Macri Puto" es del año 2009, supuestamente después se modificó la normativa para el registro de nombres.</strong>
 <strong> Habría que ver si algo similar podría registrarse ahora.</strong>

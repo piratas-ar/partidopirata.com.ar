@@ -9,21 +9,21 @@ tags:
 - rip-a-remix-manifesto
 - san-pablo
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.jpg
 wppost_name: siguiendo-con-el-ciclo-copy-right-rip-a-remix-manifesto
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
 
 
 <strong>Mientras en San Pablo, Brasil, ocurre el ciclo de cine:</strong>
 
-<strong><a href="http://partidopirata.com.ar/4671/festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-para-hacerlo-en-argentinaCopy,%20Right?">Copy, Right?</a></strong>
+<strong><a href="https://partidopirata.com.ar/4671/festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-para-hacerlo-en-argentinaCopy,%20Right?">Copy, Right?</a></strong>
 
 Acá como buenos piratas copiamos la programación. Tal vez en algún momento podamos hacer un ciclo así en algún lugar de la Argentina, quién sabe...
 
-El documental que se exhibirá este sábado en el ciclo <strong><a href="http://partidopirata.com.ar/4671/festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-para-hacerlo-en-argentinaCopy,%20Right?">Copy, Right?</a></strong> es RiP! A Remix Manifesto.
+El documental que se exhibirá este sábado en el ciclo <strong><a href="https://partidopirata.com.ar/4671/festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-para-hacerlo-en-argentinaCopy,%20Right?">Copy, Right?</a></strong> es RiP! A Remix Manifesto.
 
 <hr />
 
@@ -45,10 +45,10 @@ La encontramos en Vimeo (debe estar en muchísimos otros lados también), está 
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copiad, Malditos!, primer documental del ciclo.</a>
-<a href="http://partidopirata.com.ar/4752/siguiendo-con-el-ciclo-copy-right-patents-absurdity-y-arduino-el-documental">Los documentales de la semana pasada del ciclo Copy, right?</a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copiad, Malditos!, primer documental del ciclo.</a>
+<a href="https://partidopirata.com.ar/4752/siguiendo-con-el-ciclo-copy-right-patents-absurdity-y-arduino-el-documental">Los documentales de la semana pasada del ciclo Copy, right?</a>
 <a href="http://baixacultura.org/2012/06/08/ciclo-copy-right-em-sao-paulo/" target="_blank">Más información del ciclo en el site <em>Baixa Cultura</em></a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2491/ctrl-v-documental-que-puede-ayudarnos-a-entender-un-poco-mas-el-caso-cuevana">Ctrl-V</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2491/ctrl-v-documental-que-puede-ayudarnos-a-entender-un-poco-mas-el-caso-cuevana">Ctrl-V</a></strong></p>
 
 
 <hr />

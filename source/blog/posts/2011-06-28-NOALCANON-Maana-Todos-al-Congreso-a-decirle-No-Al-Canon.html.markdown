@@ -8,8 +8,8 @@ tags:
 - divulgacion
 - no-al-canon
 - no-nos-roben
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: noalcanon-manana-todos-al-congreso-a-decirle-no-al-canon
 ---
 

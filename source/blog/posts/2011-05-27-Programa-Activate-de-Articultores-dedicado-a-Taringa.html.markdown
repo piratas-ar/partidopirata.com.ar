@@ -7,8 +7,8 @@ tags:
 - divulgacion
 - radio-2
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
 wppost_name: programa-activate-de-articultores-dedicado-a-taringa
 ---
 

@@ -10,12 +10,12 @@ tags:
 - palabras-censuradas
 - premier
 - teletubbies
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1-150x150.jpg
 wppost_name: los-peligrosos-teletubbies-si-estan-en-china-no-los-busquen-via-google
 ---
 
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4611/google-alerta-sobre-los-terminos-censurados-en-china">Acá habíamos dejado una entrada donde Google <em>explicaba</em> como usar al buscador en China</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4611/google-alerta-sobre-los-terminos-censurados-en-china">Acá habíamos dejado una entrada donde Google <em>explicaba</em> como usar al buscador en China</a></strong></p>
 
 
 <hr />
@@ -34,7 +34,7 @@ wppost_name: los-peligrosos-teletubbies-si-estan-en-china-no-los-busquen-via-goo
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1.jpg"><img class="size-medium wp-image-4808" title="evil_teletubbies_1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1-300x192.jpg" alt="" width="300" height="192" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1.jpg"><img class="size-medium wp-image-4808" title="evil_teletubbies_1" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/evil_teletubbies_1-300x192.jpg" alt="" width="300" height="192" /></a>
 
 <h1 style="text-align: center;">¿Por qué los líderes chinos le temen a los teletubbies?</h1>
 <div>Willis Sparks</div>
@@ -57,4 +57,4 @@ Claro que las autoridades chinas no desean que sus ciudadanos lean 'Mein Kampf'.
 En su conjunto, esas y centenas de otras palabras y frases muestran como es difícil "administrar" las comunicaciones en un país de 1,4 mil millones de personas, con más de la mitad online. Infelizmente para todos los interesados, esta lista de palabras y frases sólo está aumentando.
 
 <hr />
-<p style="text-align: center;"><strong>Para entender un poco más el proceso chino, el documental <a href="http://partidopirata.com.ar/3627/sobre-el-24-de-marzo-cuidemos-nuestra-privacidad">The Tank Man, si quierenverlo o descargarlo</a> el hombre del tanque, sobre lo que pasó en y como evolucionó después.</strong></p>
+<p style="text-align: center;"><strong>Para entender un poco más el proceso chino, el documental <a href="https://partidopirata.com.ar/3627/sobre-el-24-de-marzo-cuidemos-nuestra-privacidad">The Tank Man, si quierenverlo o descargarlo</a> el hombre del tanque, sobre lo que pasó en y como evolucionó después.</strong></p>

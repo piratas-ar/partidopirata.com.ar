@@ -8,12 +8,12 @@ tags:
 - italia
 - manzana-mecanica
 - wikipedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
 wppost_name: cierre-temporal-de-wikipedia-en-italiano
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg"><img class="size-full wp-image-248 alignleft" title="Censura" src="http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg" alt="" width="320" height="274" /></a><strong><a href="http://www.manzanamecanica.org/2011/10/urgente_cierre_temporal_de_wikipedia_en_italiano.html" target="_blank">Fuente Manzana Mecánica.</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg"><img class="size-full wp-image-248 alignleft" title="Censura" src="https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg" alt="" width="320" height="274" /></a><strong><a href="http://www.manzanamecanica.org/2011/10/urgente_cierre_temporal_de_wikipedia_en_italiano.html" target="_blank">Fuente Manzana Mecánica.</a></strong>
 
 &nbsp;
 

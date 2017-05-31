@@ -10,8 +10,8 @@ tags:
 - noticias
 - partido
 - pirata
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/rodrigo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/rodrigo.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/rodrigo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/rodrigo.jpg
 wppost_name: cordoba-se-pone-el-parche-primero
 ---
 

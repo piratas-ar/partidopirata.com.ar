@@ -11,12 +11,12 @@ tags:
 - flisol
 - pais
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/headbox20121.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/headbox20121-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/headbox20121.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/headbox20121-150x150.png
 wppost_name: festival-latinoamericano-de-instalacion-de-software-libre-flisol-el-28-de-abril
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/headbox20121.png"><img class="size-full wp-image-4100" title="headbox2012" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/headbox20121.png" alt="" width="600" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/headbox20121.png"><img class="size-full wp-image-4100" title="headbox2012" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/headbox20121.png" alt="" width="600" height="300" /></a>
 
 
 <strong><a href="http://flisol.info/FLISOL2012/Argentina" target="_blank">Más información sobre Flisol en la Argentina el 28 de abril.</a></strong>

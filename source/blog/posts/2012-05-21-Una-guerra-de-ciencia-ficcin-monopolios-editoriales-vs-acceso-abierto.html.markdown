@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - infotecario
 - open-access
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo-150x79.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo-150x79.png
 wppost_name: una-guerra-de-ciencia-ficcion-monopolios-editoriales-vs-acceso-abierto
 ---
 
@@ -19,7 +19,7 @@ Sobre Open Access, presionen donde dice CC en rojo para ver los subtítulos en e
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png"><img class="size-full wp-image-4526" title="arthemia_logo" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png" alt="" width="273" height="79" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png"><img class="size-full wp-image-4526" title="arthemia_logo" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/arthemia_logo.png" alt="" width="273" height="79" /></a>
 
 
 <strong>Sobre Open Access:</strong>

@@ -10,8 +10,8 @@ tags:
 - novato
 - preconepto
 - prejuicio
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Welcome-to-Novato-sign1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Welcome-to-Novato-sign1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Welcome-to-Novato-sign1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Welcome-to-Novato-sign1-150x150.jpg
 wppost_name: los-emergentes-de-lo-digital
 ---
 

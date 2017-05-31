@@ -10,12 +10,12 @@ tags:
 - reino-unido
 - the-pirate-bay
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
 wppost_name: the-pirate-bay-incremento-su-trafico-en-12-millones-las-participaciones-de-los-paises-donde-fue-bloqueado
 ---
 
-<strong><a href="https://torrentfreak.com/pirate-bay-enjoys-12-million-traffic-boost-shares-unblocking-tips-120502/" target="_blank">Fuente Torrentfreak.</a></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg"><img class="alignright size-full wp-image-243" title="The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg" alt="" width="275" height="295" /></a>
+<strong><a href="https://torrentfreak.com/pirate-bay-enjoys-12-million-traffic-boost-shares-unblocking-tips-120502/" target="_blank">Fuente Torrentfreak.</a></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg"><img class="alignright size-full wp-image-243" title="The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg" alt="" width="275" height="295" /></a>
 La semana pasada el Tribunal Superior del Reino Unido determinó que varios de los ISP más importantes del país deben bloquear el acceso de sus suscriptores a de The Pirate Bay. La decisión se han diseñado para limitar el tráfico al sitio líder en el mundo de los BitTorrent, pero en el corto plazo tuvo el efecto contrario. Ayer, The Pirate Bay tuvo 12 millones más de visitantes de los que nunca ha tenido, proporcionando una oportunidad de oro para educar a los usuarios sobre la manera de eludir los bloqueos. "Debemos escribir una carta de agradecimiento a la BPI", nos lo dijo una información privilegiada del sitio a TorrentFreak.
 
 El pasado viernes el Tribunal Superior del Reino Unido determinó que varios de los principales ISP[proveedores de internet] del país deben censurar la página web The Pirate Bay habiendo sido determinado en febrero que el sitio fomenta el incumplimiento  de los  derechos de autor a los usuarios a gran escala.
@@ -36,7 +36,7 @@ El bloqueo, que no fue impugnado por ninguno de los proveedores de Internet ante
 
 En documentos judiciales dados a conocer hoy, el magistrado Arnold dijo que los términos de la orden de la corte (como el bloqueo se llevaría a cabo técnicamente) habían sido acordados por los ISP en cuestión, no hubo necesidad de dar los detalles en su fallo. Sin embargo, The Pirate Bay nos dijo que mediante la adopción de una serie de medidas, la técnica empleada para el bloqueo de cualquier ISP puede ser superado.
 
-En primer lugar aconsejan que la solución más simple es utilizar una VPN, como iPredator u otros servicios similares que no permite que se registre la navegación.(<a href="http://partidopirata.com.ar/4310/jovenes-que-comparten-archivos-le-responden-a-las-duras-leyes-mediante-la-compra-de-una-vpn-navegar-anonimo">más sobre VPN acá</a>)
+En primer lugar aconsejan que la solución más simple es utilizar una VPN, como iPredator u otros servicios similares que no permite que se registre la navegación.(<a href="https://partidopirata.com.ar/4310/jovenes-que-comparten-archivos-le-responden-a-las-duras-leyes-mediante-la-compra-de-una-vpn-navegar-anonimo">más sobre VPN acá</a>)
 
 Estos proveedores de VPN costarán dinero, pero hay soluciones libres también. Empresas como <a href="https://www.vpnreactor.com/default.aspx">VPNReactor</a> ofrecen un servicio gratuito que por el momento está limitado a alrededor de 30 minutos por sesión, pero eso es un montón de tiempo para que los usuarios puedan obtener las direcciones de The  Pirate Bay y descargar los archivos torrent que necesitan. Una vez que los usuarios tienen los torrents de su cliente, el bloqueo ha sido pasado por alto, e incluso con la VPN desactivada, las descargas se completará.
 
@@ -60,5 +60,5 @@ Actualización: Virgin Media acaba de <a href="http://torrentfreak.com/virgin-me
 
 <strong><a href="https://torrentfreak.com/pirate-bay-enjoys-12-million-traffic-boost-shares-unblocking-tips-120502/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/virgin-media-tpb-block.jpg"><img class="size-full wp-image-4313" title="virgin-media-tpb-block" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/virgin-media-tpb-block.jpg" alt="" width="420" height="451" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/virgin-media-tpb-block.jpg"><img class="size-full wp-image-4313" title="virgin-media-tpb-block" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/virgin-media-tpb-block.jpg" alt="" width="420" height="451" /></a>
 

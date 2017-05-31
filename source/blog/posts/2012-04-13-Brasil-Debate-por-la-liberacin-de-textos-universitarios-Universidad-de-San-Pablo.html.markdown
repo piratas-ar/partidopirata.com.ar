@@ -10,8 +10,8 @@ tags:
 - pablo-ortellado
 - universidad-de-san-pablo
 - universitarios
-image: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros-150x150.jpg
 wppost_name: brasil-debate-por-la-liberacion-de-textos-universitarios-universidad-de-san-pablo
 ---
 

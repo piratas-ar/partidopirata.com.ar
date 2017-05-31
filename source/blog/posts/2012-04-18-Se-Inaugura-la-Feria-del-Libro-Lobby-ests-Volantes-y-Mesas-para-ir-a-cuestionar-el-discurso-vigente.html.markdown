@@ -11,8 +11,8 @@ tags:
 - industria-editorial
 - lobby
 - lobby-editorial
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-150x150.png
 wppost_name: se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente
 ---
 
@@ -20,15 +20,15 @@ wppost_name: se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir
 
 <div class="alignleft">
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png"><img class=" wp-image-810 aligncenter" title="criminalizados-2011" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-140x300.png" alt="" width="140" height="300" /></a>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png" target="_blank">Descargar este volante.</a></strong></p>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png"><img class=" wp-image-810 aligncenter" title="criminalizados-2011" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-140x300.png" alt="" width="140" height="300" /></a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png" target="_blank">Descargar este volante.</a></strong></p>
 
 </div>
 <div></div>
 <div class="alignright">
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011.png"><img class="size-medium wp-image-811 alignleft" title="subi-libros-2011" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011-140x300.png" alt="Pensando en la Feria del Libro" width="140" height="300" /></a>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011.png" target="_blank">Descargar este volante.</a></strong></p>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011.png"><img class="size-medium wp-image-811 alignleft" title="subi-libros-2011" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011-140x300.png" alt="Pensando en la Feria del Libro" width="140" height="300" /></a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011.png" target="_blank">Descargar este volante.</a></strong></p>
 
 </div>
 <p style="text-align: center;"><strong><a href="http://derechoaleer.org/" target="_blank">Volantes hechos por <em>Derecho a Leer</em></a></strong></p>
@@ -51,7 +51,7 @@ Uno de los temas :
 
 </div>
 <div style="text-align: center;"></div>
-<div style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3790/x-jornada-de-derecho-de-autor-en-el-mundo-editorial-en-la-feria-del-libro-de-buenos-aires">Más información en esta entrada del blog</a></strong></div>
+<div style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3790/x-jornada-de-derecho-de-autor-en-el-mundo-editorial-en-la-feria-del-libro-de-buenos-aires">Más información en esta entrada del blog</a></strong></div>
 <div style="text-align: center;"></div>
 <div style="text-align: center;"><strong><em>Una digna de la Revista Barcelona:</em></strong></div>
 <div style="text-align: center;">
@@ -65,7 +65,7 @@ Uno de los temas :
 	<li>4º mesa: Mesa Argentores y SADAIC / 2 de Mayo, desde las 18 hasta las 19.30 horas, Sala Javier Villafañe, Pabellón Azul / Título de la mesa:
 <strong><em>¿</em><em>En Internet los compositores y músicos están en su derecho?</em></strong></li>
 </ul>
-<strong><a href="http://partidopirata.com.ar/3898/el-famoso-samba-de-una-sola-nota-antes-cadra-ahora-argentores-en-la-feria-del-libro">Màs información en esta entrada del blog.</a></strong>
+<strong><a href="https://partidopirata.com.ar/3898/el-famoso-samba-de-una-sola-nota-antes-cadra-ahora-argentores-en-la-feria-del-libro">Màs información en esta entrada del blog.</a></strong>
 
 <strong>Si quieren coordinar acciones a realizar en la Feria del Libro, sobre todo ante tanto lobby dominante, <a href="http://lists.partidopirata.com.ar/listinfo.cgi/general-partidopirata.com.ar">avisen en nuestra lista de correo.</a></strong>
 

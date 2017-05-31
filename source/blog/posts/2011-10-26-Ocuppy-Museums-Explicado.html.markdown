@@ -10,8 +10,8 @@ tags:
 - occupy-museums
 - occupy-wall-street
 - occupywallst
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/LGoccupymuseums1011-thumb-250x250-668019.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/LGoccupymuseums1011-thumb-250x250-668019-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/LGoccupymuseums1011-thumb-250x250-668019.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/LGoccupymuseums1011-thumb-250x250-668019-150x150.jpg
 wppost_name: ocuppy-museums-explicado
 ---
 

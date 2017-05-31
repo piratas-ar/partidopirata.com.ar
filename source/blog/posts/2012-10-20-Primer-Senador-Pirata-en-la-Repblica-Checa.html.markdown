@@ -9,12 +9,12 @@ tags:
 - republica-checa
 - senador
 - senador-pirata
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/1350742500_P201210200367501.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/1350742500_P201210200367501-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/1350742500_P201210200367501.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/1350742500_P201210200367501-150x150.jpg
 wppost_name: primer-senador-pirata-en-la-republica-checa
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/1350742500_P201210200367501.jpg"><img class="aligncenter size-full wp-image-6976" title="1350742500_P201210200367501" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/1350742500_P201210200367501.jpg" alt="" width="435" height="265" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/1350742500_P201210200367501.jpg"><img class="aligncenter size-full wp-image-6976" title="1350742500_P201210200367501" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/1350742500_P201210200367501.jpg" alt="" width="435" height="265" /></a>
 
 Felicitaciones a los amigos de la República Checa por la elección del primer senador pirata!
 

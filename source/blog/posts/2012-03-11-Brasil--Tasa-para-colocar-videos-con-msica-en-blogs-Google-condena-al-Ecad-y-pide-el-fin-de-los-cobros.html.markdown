@@ -11,8 +11,8 @@ tags:
 - ecad
 - tasa
 - videos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-150x150.jpg
 wppost_name: brasil-tasa-para-colocar-videos-con-musica-en-blogs-google-condena-al-ecad-y-pide-el-fin-de-cobros
 ---
 
@@ -23,7 +23,7 @@ Por Murilo Roncolato
 
 SÃO PAULO – Google Brasil se posicionó oficialmente contra el cobro de tasas mensuales a blogueros que incorporan (por medio de “embed”) videos de Youtube a sus sites. Por el <a href="http://youtubebrblog.blogspot.com/2012/03/sobre-execucao-de-musica-em-videos-do.html?spref=tw">blog brasileño de Youtube</a>, el director de políticas públicas y relaciones gobernamentales del Google local, Marcel Leonardi, dijo que el acuerdo de la empresa con el Escritório Central de Arrecadação y Distribución [ECAD-SADAIC brasileño]“no permite que el Ecad busque recolectar pagos de usuarios de YouTube” y pidió la inmediata interrupción de los cobros por la organización.
 
-<a href="http://partidopirata.com.ar/3415/ecad-el-sadaic-brasileno-cobra-una-taza-mensual-de-blogs-que-utilizan-videos-de-youtube">La polémica en torno al Ecad surgió después que algunos blogueros relataron</a> que habían recibido cobranzas por vídeos embedados en sus blogs, actividad clasificada por la entidad como <a href="http://www.ecad.org.br/viewcontroller/publico/conteudo.aspx?codigo=514">“Webcasting”</a> (que también incluye a los blogs en la categoria “Institucional/Promocional”). “El valor para ese encuadramiento es de R$ 352,59/mes [unos u$s 200], equivalente a 7 UDAs (Unidad de Derecho Autoral)”, dice el texto del email.
+<a href="https://partidopirata.com.ar/3415/ecad-el-sadaic-brasileno-cobra-una-taza-mensual-de-blogs-que-utilizan-videos-de-youtube">La polémica en torno al Ecad surgió después que algunos blogueros relataron</a> que habían recibido cobranzas por vídeos embedados en sus blogs, actividad clasificada por la entidad como <a href="http://www.ecad.org.br/viewcontroller/publico/conteudo.aspx?codigo=514">“Webcasting”</a> (que también incluye a los blogs en la categoria “Institucional/Promocional”). “El valor para ese encuadramiento es de R$ 352,59/mes [unos u$s 200], equivalente a 7 UDAs (Unidad de Derecho Autoral)”, dice el texto del email.
 
 Para el organismo, los vídeos embedados se configuran como “retransmisión musical” y, por eso, el pago de los derechos de autor seria debido. Mariana Frioli, dueña del blog A Leitora, fue una de las víctimas. Ella recibió una llamada de un pasante del Ecad por haber postado el trailer de la película “Delirios de Consumo de Becky Bloom”. “Le pregunté por qué tendria que pagar si no lo subí y mi blog es personal. El muchacho dijo que, de acuerdo con el Ecad, la retransmisión tiene que ser pagada, independientemente si el Ecad ya habría cobrado de YouTube”, cuenta Mariana.
 

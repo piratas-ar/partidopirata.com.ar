@@ -9,8 +9,8 @@ tags:
 - pro
 - salud
 - salud-publica
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/hospital-borda.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/hospital-borda-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/hospital-borda.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/hospital-borda-150x150.jpg
 wppost_name: acampada-en-defensa-del-borda
 ---
 

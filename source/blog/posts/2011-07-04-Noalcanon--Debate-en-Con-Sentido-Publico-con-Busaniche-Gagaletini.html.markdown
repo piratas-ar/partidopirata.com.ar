@@ -8,8 +8,8 @@ tags:
 - denuncias
 - derecho-de-autor
 - no-al-canon
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-150x112.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-150x112.png
 wppost_name: noalcanon-debate-en-con-sentido-publico-con-busaniche-gagalletini
 ---
 

@@ -11,8 +11,8 @@ tags:
 - mario-pergolini
 - radio-2
 - sadaic
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/sadaic.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/sadaic-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/sadaic.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/sadaic-150x150.jpg
 wppost_name: mario-pergolini-entrevista-a-guillermo-ocampo-de-sadaic-algunas-dudas-que-nos-surgen
 ---
 
@@ -99,7 +99,7 @@ También habla que le están cobrando a Google por los videos de Youtube, de nue
 <p style="text-align: center;">En Brasil, que , según Ocampo, cobra menos que la Argentina existe una :</p>
 <p style="text-align: center;">Comisión Parlamentaria de Investigación para saber cómo la están distribuyendo.</p>
 <p style="text-align: center;">El resultado es que no es muy claro y transparente como la distribuyen.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/tag/ecad">En nuestro blog le hemos dedicado varias entradas a la Comisión Parlamentaria de Investigación del ECAD (el SADAIC brasileño)</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/tag/ecad">En nuestro blog le hemos dedicado varias entradas a la Comisión Parlamentaria de Investigación del ECAD (el SADAIC brasileño)</a></strong></p>
 <p style="text-align: center;">donde se demuestra la muy poco clara y transparente forma de cobrar los "derechos" de esta sociedad de gestión.</p>
 <p style="text-align: center;">En la Argentina: <strong>¿</strong>Será muy diferente?</p>
 
@@ -108,7 +108,7 @@ También habla que le están cobrando a Google por los videos de Youtube, de nue
 
 <center><strong>Guillermo Ocampo agrega:</strong></center><center><strong>"Si la obra no está registrada....La repartimos, reparto del dinero de vuelco...</strong></center>Dinero sin planilla...Se vuelca a las obras identificadas y aumenta la proporción de las obras identificadas.."
 
-<center></center><center></center><center><strong>O sea, cuando le cobran a un bar o a un hotel alojamiento, ellos no saben qué es lo que estuvieron escuchando, si estuvieron escuchando algo...¿</strong><strong>Cómo se reparte ese dinero?</strong></center><center><strong> </strong></center><center><strong>En el caso de un bar un inspector de SADAIC así le explicaba al encargado del <a href="http://partidopirata.com.ar/2450/cuanto-hay-que-pagarle-a-las-sociedades-de-gestion-por-abrir-un-bar-orsai-bar">bar Orsai </a>lo que había que hacer:</strong></center><center><strong> </strong></center><center>“me conto que cobraban en base a la cantidad de mesas y al valor del café. <strong>Si son menos de 20 mesas, son 2 cafes por mesa</strong>, me dijo. En cambio, <strong>a partir de la mesa 20 son mucho más accesibles, y es un solo café por mesa adicional.</strong> ”</center><center></center><center>“me contó que en estos días iban a pasar de<strong> AADI/CAPIF</strong> y de <strong>Argentores</strong>. Tan amable resultó Hugo, que me explicó que <strong>AADI</strong> me iba a pedir el <strong>1% de la facturación del bar</strong> (eso es chamuyable, dijo mientras guiñaba el ojo) y que<strong> Argentores me cobraría un canon por uso de pantallas o televisores</strong>, pero que “tranca, si pagas todo junto en Enero, te hacen un descuento importante”.</center><center><strong>
+<center></center><center></center><center><strong>O sea, cuando le cobran a un bar o a un hotel alojamiento, ellos no saben qué es lo que estuvieron escuchando, si estuvieron escuchando algo...¿</strong><strong>Cómo se reparte ese dinero?</strong></center><center><strong> </strong></center><center><strong>En el caso de un bar un inspector de SADAIC así le explicaba al encargado del <a href="https://partidopirata.com.ar/2450/cuanto-hay-que-pagarle-a-las-sociedades-de-gestion-por-abrir-un-bar-orsai-bar">bar Orsai </a>lo que había que hacer:</strong></center><center><strong> </strong></center><center>“me conto que cobraban en base a la cantidad de mesas y al valor del café. <strong>Si son menos de 20 mesas, son 2 cafes por mesa</strong>, me dijo. En cambio, <strong>a partir de la mesa 20 son mucho más accesibles, y es un solo café por mesa adicional.</strong> ”</center><center></center><center>“me contó que en estos días iban a pasar de<strong> AADI/CAPIF</strong> y de <strong>Argentores</strong>. Tan amable resultó Hugo, que me explicó que <strong>AADI</strong> me iba a pedir el <strong>1% de la facturación del bar</strong> (eso es chamuyable, dijo mientras guiñaba el ojo) y que<strong> Argentores me cobraría un canon por uso de pantallas o televisores</strong>, pero que “tranca, si pagas todo junto en Enero, te hacen un descuento importante”.</center><center><strong>
 </strong></center><center>¿Cómo se reparte ese dinero?</center><center></center><center>¿Y en el caso de un hotel que tiene televisores?</center>
 <div>
 
@@ -127,7 +127,7 @@ Del trabajo final de Beatriz Busaniche:
 
 <center><strong>"La Argentina es uno de los países de mejor protección del derecho de autor.
 Tenemos una legislación muy protectora."</strong></center><center><strong>
-Si, una de las mejores leyes, para ellos,<a href="http://partidopirata.com.ar/4235/somos-subcampeones-la-segunda-peor-ley-de-derecho-de-autor-del-mundo"> <span style="font-size: large;">la segunda peor ley de derechos de autor en el mundo, para nosotros simples usuarios.</span></a></strong></center><center></center><center><strong>Es claro, la ley es buena para SADAIC (según afirma Guillermo Ocampo) pero es la segunda peor ley del mundo para todos nosotros...
+Si, una de las mejores leyes, para ellos,<a href="https://partidopirata.com.ar/4235/somos-subcampeones-la-segunda-peor-ley-de-derecho-de-autor-del-mundo"> <span style="font-size: large;">la segunda peor ley de derechos de autor en el mundo, para nosotros simples usuarios.</span></a></strong></center><center></center><center><strong>Es claro, la ley es buena para SADAIC (según afirma Guillermo Ocampo) pero es la segunda peor ley del mundo para todos nosotros...
 </strong></center><center><strong>
 </strong></center>
 
@@ -175,7 +175,7 @@ Si no funciona el enlace anterior pueden descargar todo el programa donde dice <
 
 <hr />
 <p style="text-align: center;"><strong>Si quieren agregar algo más al tema....Pueden hacerlo a través de nuestros comentarios o, si quieren, enviarlo a</strong>
-<strong> <a href="http://partidopirata.com.ar/contacto">nuestra dirección de correo,</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/contacto">nuestra dirección de correo,</a></strong></p>
 
 
 <hr />

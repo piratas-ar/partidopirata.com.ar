@@ -10,8 +10,8 @@ tags:
 - reforma-del-ecad
 - sadaic-brasileno
 - senado
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
 wppost_name: el-sadaic-brasileno-en-jaque-comision-parlamentaria-de-investigacion
 ---
 
@@ -36,9 +36,9 @@ El Ecad afirma que la distribución de recursos creció 18% de 2010 para 2011. E
 
 Para la CPI, existe la necesidad de una “profunda reforma en el sistema de gestión colectiva de derechos de autor”. Los diputados también quieren que el Ecad quede subordinado al Ministerio de Justicia. El informe habla en “cofradia del Ecad”, que “seria elogiable si no prejudicase a los titulares de derechos de autor y a los usuarios de música”. “La gestión colectiva en Brasil negligencia el hecho de que los derechos autorales son bienes inmateriales, negociables en el mercado. Aunque guarde especificidades, los derechos de autor se sometem a las leyes de defensa de la competencia y de protección al consumidor”, dice el texto.
 
-<strong>LEA TAMBIÉN:</strong> <a href="http://partidopirata.com.ar/4284/brasil-el-derecho-de-autor-hoy-es-anacronico-y-corrupto">Entrevista con el presidente de la CPI: ‘El derecho de autor hoy es anacrónico y corrupto’</a>
+<strong>LEA TAMBIÉN:</strong> <a href="https://partidopirata.com.ar/4284/brasil-el-derecho-de-autor-hoy-es-anacronico-y-corrupto">Entrevista con el presidente de la CPI: ‘El derecho de autor hoy es anacrónico y corrupto’</a>
 
 <hr />
 
 En la Argentina no sabemos cuánto ni cómo distribuye todo lo que recauda SADAIC.
-Tal vez Marcelo Birmajer que tanto se preocupa por las regalías de los músicos podría hacer una investigación para saber por qué no les llega a muchos...<a href="http://partidopirata.com.ar/4282/debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de-radio-de-jorge-lanata">El debate donde Marcelo Birmajer expresa su angustia por lo que cobran por regalías los músicos en la Argentina.</a>
+Tal vez Marcelo Birmajer que tanto se preocupa por las regalías de los músicos podría hacer una investigación para saber por qué no les llega a muchos...<a href="https://partidopirata.com.ar/4282/debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de-radio-de-jorge-lanata">El debate donde Marcelo Birmajer expresa su angustia por lo que cobran por regalías los músicos en la Argentina.</a>

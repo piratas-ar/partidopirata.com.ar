@@ -16,14 +16,14 @@ tags:
 - torrentfreak
 - tvshack
 - wikipedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/richard-odwyer.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/richard-odwyer-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/richard-odwyer.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/richard-odwyer-150x150.jpg
 wppost_name: el-fundador-de-wikipedia-protesta-por-la-extradicion-por-pirateria-de-un-estudiante-del-reino-unido
 ---
 
 <strong><a href="https://torrentfreak.com/wikipedia-founder-protests-extradition-of-pirating-uk-student-120624/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/richard-odwyer.jpg"><img class="alignright size-full wp-image-4928" title="richard-odwyer" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/richard-odwyer.jpg" alt="Richard Odwyer" width="200" height="279" /></a>El fundador de Wikipedia Jimmy Wales, está ayudando a Richard Dwyer, el ex administrador de la página web de enlaces a vídeos  británico TVShack, para evitar que sea extraditado a los EE.UU. acusado por infracciones al derechos de autor. De acuerdo Wales, el caso es un ejemplo de la influencia cada vez mayor del lobby  de los derechos de autor contra Internet. "Richard Dwyer es el rostro humano de la batalla entre la industria de contenidos y los intereses del público en general", afirma Wales.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/richard-odwyer.jpg"><img class="alignright size-full wp-image-4928" title="richard-odwyer" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/richard-odwyer.jpg" alt="Richard Odwyer" width="200" height="279" /></a>El fundador de Wikipedia Jimmy Wales, está ayudando a Richard Dwyer, el ex administrador de la página web de enlaces a vídeos  británico TVShack, para evitar que sea extraditado a los EE.UU. acusado por infracciones al derechos de autor. De acuerdo Wales, el caso es un ejemplo de la influencia cada vez mayor del lobby  de los derechos de autor contra Internet. "Richard Dwyer es el rostro humano de la batalla entre la industria de contenidos y los intereses del público en general", afirma Wales.
 
 El año pasado, Richard O'Dwyer fue arrestado por la policía por administrar  TVShack, un sitio web que lista enlaces a programas de TV enviados por los usuarios.
 

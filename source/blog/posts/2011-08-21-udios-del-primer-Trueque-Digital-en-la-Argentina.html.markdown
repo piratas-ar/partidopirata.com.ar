@@ -10,8 +10,8 @@ tags:
 - propiedad-intelectual
 - radio-2
 - trueque-digital
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/haqa.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/haqa-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/haqa.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/haqa-150x150.png
 wppost_name: audios-del-primer-trueque-digital-en-la-argentina
 ---
 
@@ -67,7 +67,7 @@ Presionen en <em>play</em> para escuchar el áudio o</p>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1589/charlando-con-alvaro-sobre-truequedigital-en-la-ciudad-de-buenos-aires">Acá charlamos con Álvaro el sábado 13 de agosto para saber qué es <em>Trueque Digital</em></a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1589/charlando-con-alvaro-sobre-truequedigital-en-la-ciudad-de-buenos-aires">Acá charlamos con Álvaro el sábado 13 de agosto para saber qué es <em>Trueque Digital</em></a></strong></p>
 
 
 <hr />

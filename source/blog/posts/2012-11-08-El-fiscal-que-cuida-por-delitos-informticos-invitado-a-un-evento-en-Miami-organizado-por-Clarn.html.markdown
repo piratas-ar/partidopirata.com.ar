@@ -11,13 +11,13 @@ tags:
 - material-para-difusion
 - judicial-colonizado
 - ricardo-saenz
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350-150x150.png
 wppost_name: el-fiscal-que-cuida-por-delitos-informaticos-invitado-a-un-evento-en-miami-organizado-por-clarin
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png"><img class="aligncenter size-full wp-image-3589" title="Ricardo Sáenz" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png" alt="" width="515" height="350" /></a>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3588/podcast-con-el-senor-fiscal-ricardo-saenz-quien-investigo-las-denuncias-contra-cuevana" target="_blank">El 21 de marzo estuvimos hablando con Ricardo Sáenz fiscal que elevó a juicio la causa por Cuevana</a></strong></p>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png"><img class="aligncenter size-full wp-image-3589" title="Ricardo Sáenz" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/foto-articulo-515x350.png" alt="" width="515" height="350" /></a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3588/podcast-con-el-senor-fiscal-ricardo-saenz-quien-investigo-las-denuncias-contra-cuevana" target="_blank">El 21 de marzo estuvimos hablando con Ricardo Sáenz fiscal que elevó a juicio la causa por Cuevana</a></strong></p>
 <a href="http://www.telam.com.ar/nota/43393/" target="_blank">Leemos esta nota de la Agencia Telam donde informan:</a>
 <div>
 <div>
@@ -74,14 +74,14 @@ El objetivo era garantizar la impunidad de los responsables del terrorismo de Es
 
 Hay algunas inexactitudes, el fiscal no condenó a Cuevana, simplemente elevó el caso a juicio, o sea dijo que para él había condiciones suficientes para iniciarle una causa a <strong>Cuevana</strong>
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/3588/podcast-con-el-senor-fiscal-ricardo-saenz-quien-investigo-las-denuncias-contra-cuevana" target="_blank">El resto está explicado en el podcast con el fiscal.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/3588/podcast-con-el-senor-fiscal-ricardo-saenz-quien-investigo-las-denuncias-contra-cuevana" target="_blank">El resto está explicado en el podcast con el fiscal.</a></strong></li>
 </ul>
 &nbsp;
 <p style="text-align: center;"><strong>En realidad parte del poder judicial está <em>colonizado</em> por las corporaciones.</strong></p>
 
 <ul>
-	<li><a href="http://partidopirata.com.ar/7252/hacete-amigo-del-juez-sino-adoctrinalo">Algo más acá</a></li>
-	<li><a href="http://partidopirata.com.ar/6741/departamento-de-justicia-de-ee-uu-educa-jueces-extranjeros-sobre-pirateria">y acá</a></li>
+	<li><a href="https://partidopirata.com.ar/7252/hacete-amigo-del-juez-sino-adoctrinalo">Algo más acá</a></li>
+	<li><a href="https://partidopirata.com.ar/6741/departamento-de-justicia-de-ee-uu-educa-jueces-extranjeros-sobre-pirateria">y acá</a></li>
 </ul>
 <p style="text-align: center;"><strong>Igual lo invitamos al fiscal por si quiere comentar este artículo de la Agencia Telam</strong></p>
 

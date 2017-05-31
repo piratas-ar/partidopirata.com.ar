@@ -8,8 +8,8 @@ tags:
 - nino
 - talleres
 - velatropa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/S4032673.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/S4032673-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/S4032673.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/S4032673-150x150.jpg
 wppost_name: talleres-de-agosto-y-festeja-el-dia-del-nino-en-velatropa
 ---
 

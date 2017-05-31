@@ -11,8 +11,8 @@ tags:
 - mesa-debate
 - sala-alberdi
 - toma-y-autogestion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
 wppost_name: sala-alberdinueva-invitacion-a-los-2-anos-de-toma-y-autogestion-viernes-24
 ---
 

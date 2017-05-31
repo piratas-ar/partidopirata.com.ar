@@ -10,12 +10,12 @@ tags:
 - trata-de-blancas
 - trata-de-personas
 - villa-maria
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/Afiche-Congreso.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/Afiche-Congreso-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/Afiche-Congreso.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/Afiche-Congreso-150x150.jpg
 wppost_name: congreso-contra-la-trata-y-el-trafico-de-personas-5-y-6-de-setiembre-villa-maria-cordoba
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/Afiche-Congreso.jpg"><img class="aligncenter  wp-image-5674" title="Afiche Congreso" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/Afiche-Congreso.jpg" alt="" width="809" height="524" /><strong>Click para verlo en un tamaño mayor</strong></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/Afiche-Congreso.jpg"><img class="aligncenter  wp-image-5674" title="Afiche Congreso" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/Afiche-Congreso.jpg" alt="" width="809" height="524" /><strong>Click para verlo en un tamaño mayor</strong></a></p>
 
 
 <hr />

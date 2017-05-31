@@ -11,8 +11,8 @@ tags:
 - malvinas-argentinas
 - nestor-ruiz
 - radio-2
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart3.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart3-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart3.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart3-115x115.png
 wppost_name: horizonte-sur-del-3-de-noviembre-sobre-lo-que-esta-pasando-en-jujuy
 ---
 
@@ -24,13 +24,13 @@ Si quieren descargar el audio</a>
 
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/horizonte-sur-del-3-noviembre-audios-mp3_rf_1545052_1.html" target="_blank">en este link.</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart3.png"><img class="size-full wp-image-7231" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart3.png"><img class="size-full wp-image-7231" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart3.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 
 <hr />
 
 En este programa entrevistan a Néstor Ruiz del Barrio Malvinas en Jujuy que se oponen a la ampliación de una red eléctrica que está causando contaminación y cáncer.
-<a href="http://partidopirata.com.ar/7148/hombre-bebiendo-luz-rodolfo-kusch-en-procura-de-un-pensamiento-continental-autonomo">Sobre Hombre Bebiendo Luz, si quieren verla online.</a>
+<a href="https://partidopirata.com.ar/7148/hombre-bebiendo-luz-rodolfo-kusch-en-procura-de-un-pensamiento-continental-autonomo">Sobre Hombre Bebiendo Luz, si quieren verla online.</a>
 <div style="text-align: center;"><strong><a href="http://www.pararelmundo.com/" target="_blank">Parar el Mundo</a></strong></div>
 <div style="text-align: center;"><strong>Se emite por <a href="http://am690.com.ar/" target="_blank">AM 690, K24 en Radio</a> los sábados de 9 a 10, este programa es especial y dura 2 horas.</strong></div>
 

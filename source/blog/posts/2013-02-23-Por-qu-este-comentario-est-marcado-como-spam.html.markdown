@@ -8,14 +8,14 @@ tags:
 - tv-publica
 - vision-7
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/once.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/once-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/once.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/once-150x150.png
 wppost_name: por-que-este-comentario-esta-marcado-como-spam
 ---
 
 Si ven la cobertura del año de la tragedia de Once en<a href="https://www.youtube.com/watch?v=YlzCVs1FAkk" target="_blank"> Visión 7</a> en la parte de los comentarios aparece uno marcado como <i>Spam</i>:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/once.png"><img class="size-full wp-image-8526" alt="Comentario marcado como spam en el canal de Youtube de la TV Pública" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/once.png" width="810" height="362" /></a> Comentario marcado como spam en el canal de Youtube de la TV Pública
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/once.png"><img class="size-full wp-image-8526" alt="Comentario marcado como spam en el canal de Youtube de la TV Pública" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/once.png" width="810" height="362" /></a> Comentario marcado como spam en el canal de Youtube de la TV Pública
 
 
 <hr />

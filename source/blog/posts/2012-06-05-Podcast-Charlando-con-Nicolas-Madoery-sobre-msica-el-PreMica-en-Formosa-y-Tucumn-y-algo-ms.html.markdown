@@ -15,8 +15,8 @@ tags:
 - podcasts
 - premica
 - tucuman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
 wppost_name: podcast-charlando-con-nicolas-madoery-sobre-musica-el-premica-en-formosa-y-tucuman-y-algo-mas
 ---
 
@@ -53,7 +53,7 @@ Si el enlace anterior no funciona, presionen en <em>descargar</em>
 <ul>
 	<li><strong><strong><strong><a href="http://www.queremos.com.br/" target="_blank">El Site "Queremos" para conseguir que bandas vayan a dar shows cuando un empresario no tiene ganas de traerlo </a></strong></strong></strong></li>
 	<li><strong><strong><strong> <a href="http://partido-pirata.blogspot.com/2011/05/mod-mtv-segundo-programa-sobre.html">El programa Mod MTV donde comentan sobre <em>Queremos</em> y otros modelos colaborativos en Internet</a></strong></strong></strong></li>
-	<li><strong><strong><strong><a href="http://partidopirata.com.ar/916/916"> Sobre <em>Crowdfunding</em> podcast con Rodrigo Maia del site de financiación colaborativo <em>“Multidão”</em></a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="https://partidopirata.com.ar/916/916"> Sobre <em>Crowdfunding</em> podcast con Rodrigo Maia del site de financiación colaborativo <em>“Multidão”</em></a></strong></strong></strong></li>
 	<li><strong><strong><em><a href="http://partido-pirata.blogspot.com/2011/05/tengo-un-video-con-mas-de-3-millones.html">El acuerdo de Youtube con ECAD, el SADAIC brasileño y la dificil matemática para entender cómo se distribuye todo ese dinero.</a></em></strong></strong></li>
 	<li><strong><strong><strong><a href="http://lastiasrecords.com.ar/" target="_Blank">Site de "Las Tías Records"</a></strong></strong></strong></li>
 	<li><strong><strong><strong><a href="http://www.yoconvoz.com.ar/" target="_blank">Site de Yo con Voz</a></strong></strong></strong></li>
@@ -61,7 +61,7 @@ Si el enlace anterior no funciona, presionen en <em>descargar</em>
 
 <hr />
 
-<div style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino.</a>
+<div style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino.</a>
 </strong></div>
 
 <hr />

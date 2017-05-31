@@ -8,8 +8,8 @@ tags:
 - premio-al-periodismo
 - multimedia
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks-150x150.jpg
 wppost_name: wikileaks-recibe-el-premio-de-la-fundacion-walkley-de-periodismo
 ---
 
@@ -32,7 +32,7 @@ wppost_name: wikileaks-recibe-el-premio-de-la-fundacion-walkley-de-periodismo
 <strong>Julián Assange y SLAVOJ ŽIŽEK "EL BLOQUEO ECONOMICO DE WIKILEAKS"</strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2145/wikileaks-nos-necesita-apoyemosawikileaks">Wikileaks nos necesita, apoyemos a Wikilaks.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2145/wikileaks-nos-necesita-apoyemosawikileaks">Wikileaks nos necesita, apoyemos a Wikilaks.</a></strong></p>
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg"><img class="aligncenter size-full wp-image-252" title="Wikileaks" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg" alt="" width="450" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg"><img class="aligncenter size-full wp-image-252" title="Wikileaks" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg" alt="" width="450" height="300" /></a>

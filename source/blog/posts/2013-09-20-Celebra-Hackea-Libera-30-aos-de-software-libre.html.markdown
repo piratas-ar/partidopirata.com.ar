@@ -6,8 +6,8 @@ tags:
 - destacados
 - material-para-difusion
 - software-libre-2
-image: http://partidopirata.com.ar/wp-content/uploads/2013/09/800px-Gnu30-BA.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/09/800px-Gnu30-BA-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/09/800px-Gnu30-BA.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/09/800px-Gnu30-BA-150x150.jpg
 wppost_name: celebra-hackea-libera-30-anos-de-software-libre
 ---
 
@@ -70,7 +70,7 @@ http://health.gnu.org/es/index.html
 <h3 id="partido-pirata"><em>Partido Pirata</em></h3>
 El Partido Pirata cree en la libertad, en la diversidad, en la auto-organización, en la horizontalidad, en sentirse pares e iguales, en democratizar la creación, en la libertad de expresión y pensamiento. En compartir la mayor riqueza que atesoramos como humanidad: la cultura,las ideas y el conocimiento.
 
-http://partidopirata.com.ar
+https://partidopirata.com.ar
 <h3 id="gnutn"><em>GNUtn</em></h3>
 GNUtn es el grupo de lxs usuarixs de GNU en la Universidad Tecnológica Nacional que apoya y fomenta el uso y desarrollo del software libre en la UTN-FRBA. Para ello organiza eventos para difundir su uso, como seminarios exclusivos dados por expertxs en su área. "Si querés aprender, compartir, enseñar o conocer un mundo nuevo... ¡éste es tu lugar! No importa qué carrera hagas o los conocimientos que tengas: lo importante es que tengas ganas de tener una mejor facultad! Entre todos podemos hacer una UTN libre."
 

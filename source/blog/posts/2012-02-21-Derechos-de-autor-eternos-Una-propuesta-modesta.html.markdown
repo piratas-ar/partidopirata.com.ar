@@ -13,12 +13,12 @@ tags:
 - reino-unido
 - soca
 - the-tellegraph
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/dicksngasds_2118395b-460x288.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/dicksngasds_2118395b-460x288-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/dicksngasds_2118395b-460x288.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/dicksngasds_2118395b-460x288-150x150.jpg
 wppost_name: derechos-de-autor-eternos-una-propuesta-modesta
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/dicksngasds_2118395b-460x288.jpg"><img class="aligncenter size-full wp-image-3230" title="Dickens" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/dicksngasds_2118395b-460x288.jpg" alt="Nuestras leyes de derechos de autor están robando la comida de los tatara-tatara-tatara-tatara nietos de Charles Dickens" width="460" height="288" />Nuestras leyes de derechos de autor están robando la comida de los tatara-tatara-tatara-tatara nietos de Charles Dickens</a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/dicksngasds_2118395b-460x288.jpg"><img class="aligncenter size-full wp-image-3230" title="Dickens" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/dicksngasds_2118395b-460x288.jpg" alt="Nuestras leyes de derechos de autor están robando la comida de los tatara-tatara-tatara-tatara nietos de Charles Dickens" width="460" height="288" />Nuestras leyes de derechos de autor están robando la comida de los tatara-tatara-tatara-tatara nietos de Charles Dickens</a></p>
 <p style="text-align: center;"><strong><a href="http://blogs.telegraph.co.uk/technology/adrianhon/100007156/infinite-copyright-a-modest-proposal/" target="_blank">Fuente The Telegraph.</a></strong>
 Por Adrian Hon</p>
 El martes 14, la Agencia contra el Crimen Organizado del Reino Unido (SOCA) publicó un mensaje en RnBXclusive.com, diciendo: "Si ha descargado música usando este sitio usted puede haber cometido un delito penal que conlleva una pena máxima de hasta 10 años de prisión y una multa ilimitada en virtud de la legislación del Reino Unido. "

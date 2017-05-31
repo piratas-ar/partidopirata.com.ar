@@ -7,8 +7,8 @@ tags:
 - puttin
 - revuelta-en-rusia
 - rusia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/image_gallery.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/image_gallery-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/image_gallery.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/image_gallery-150x150.jpg
 wppost_name: un-bloguero-canaliza-la-ira-de-los-rusos
 ---
 

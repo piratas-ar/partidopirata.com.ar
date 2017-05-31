@@ -9,12 +9,12 @@ tags:
 - hombre-bebiendo-luz
 - incaa
 - subsidios
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/E3F.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/E3F-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/E3F.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/E3F-150x150.jpg
 wppost_name: debate-sobre-los-subsidios-del-incaa
 ---
 
-<strong>Sobre un artículo dedicado a los créditos del INCAA que <a href="http://partidopirata.com.ar/8153/sobre-los-creditos-del-incaa-cantidades-astronomicas-de-un-producto-con-poca-salida">comentábamos acá</a></strong>
+<strong>Sobre un artículo dedicado a los créditos del INCAA que <a href="https://partidopirata.com.ar/8153/sobre-los-creditos-del-incaa-cantidades-astronomicas-de-un-producto-con-poca-salida">comentábamos acá</a></strong>
 Una respuesta del movimiento de documentalistas:
 
 <strong><a href="https://www.facebook.com/notes/miguel-mirra/declaracion-del-movimiento-de-documentalistas/299170433537470" target="_blank">Fuente Facebook del Movimiento</a>:</strong>

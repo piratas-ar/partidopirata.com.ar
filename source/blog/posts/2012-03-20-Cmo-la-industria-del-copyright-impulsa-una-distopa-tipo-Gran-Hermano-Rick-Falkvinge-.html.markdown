@@ -9,8 +9,8 @@ tags:
 - gran-hermano
 - industrias-de-derechos-de-autor
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
 wppost_name: como-la-industria-del-copyright-impulsa-una-distopia-tipo-gran-hermano-rick-falkvinge
 ---
 
@@ -39,7 +39,7 @@ Están presionando por <a href="http://falkvinge.net/2011/09/05/cable-reveals-e
 
 Con estos conceptos se suman, finalmente se puede - ¡por fin! - Ser capaz de exprimir nuestra libertad de expresión y otros derechos fundamentales, todos con el fin de ser capaz de sostener una industria innecesaria. También se crea una pesadilla de Gran Hermano más allá de lo que la gente pudo haber imaginado hace una década. Mi pregunta es por lo tanto, por qué la gente está junto a ellos en vez de romperle a esos hijos de puta la cara con la silla más cercana.
 
-El 12 de julio, por ejemplo, <a href="http://partidopirata.com.ar/3510/lobbysta-de-la-riaa-discograficas-de-usa-los-isp-seran-los-policias-del-derechos-de-autor-a-partir-del-12-de-julio">nos enteramos </a>que los ISP de los Estados Unidos de América hasta comenzarán a servir a la industria del copyright en el tratamiento de sus propios clientes, incluyendo hasta un posible exilio de ellos como ciudadanos, y muy probablemente el desguace de su derecho al anonimato en la industria de los videojuegos ya en curso.
+El 12 de julio, por ejemplo, <a href="https://partidopirata.com.ar/3510/lobbysta-de-la-riaa-discograficas-de-usa-los-isp-seran-los-policias-del-derechos-de-autor-a-partir-del-12-de-julio">nos enteramos </a>que los ISP de los Estados Unidos de América hasta comenzarán a servir a la industria del copyright en el tratamiento de sus propios clientes, incluyendo hasta un posible exilio de ellos como ciudadanos, y muy probablemente el desguace de su derecho al anonimato en la industria de los videojuegos ya en curso.
 
 Esto se convertirá en un ejemplo obligado de manual de malas relaciones con los clientes en los libros de marketing del futuro: asegurarse de que sus propios clientes puedan ser demandados por las organizaciones de toda la industria en un juego amañado en el que ni siquiera son inocentes hasta que se demuestre su culpabilidad. En serio, ¿qué es lo que piensan los ISP?
 

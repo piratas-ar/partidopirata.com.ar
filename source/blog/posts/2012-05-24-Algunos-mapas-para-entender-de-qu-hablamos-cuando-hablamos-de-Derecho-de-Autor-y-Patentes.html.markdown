@@ -8,12 +8,12 @@ tags:
 - licencias
 - patentes
 - worldmapper
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/167-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/167.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/167-150x150.png
 wppost_name: algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-medium wp-image-4557" title="167" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/167-300x147.png" alt="" width="300" height="147" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-medium wp-image-4557" title="167" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/167-300x147.png" alt="" width="300" height="147" /></a>
 
 
 Patentes Otorgadas
@@ -30,7 +30,7 @@ Una cuarta parte de todos los territorios no tenía nuevas patentes en 2002, por
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/168.png"><img class="size-medium wp-image-4558" title="168" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/168-300x147.png" alt="" width="300" height="147" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/168.png"><img class="size-medium wp-image-4558" title="168" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/168-300x147.png" alt="" width="300" height="147" /></a>
 
 
 Más de la mitad (53%) del valor de todas las regalías y derechos de licencia pagados en el año 2002 se recibieron, en un territorio: los Estados Unidos. Una gran proporción de estos cargos se recibieron también en Japón y el Reino Unido.
@@ -52,5 +52,5 @@ y a
 Por el dato de los mapas.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4560/los-monopolios-del-copyright-y-de-patentes-son-una-explotacion-inmoral-del-tercer-mundo">Sobre los monopolios de patentes y copyright en el Tercer Mundo.</a></strong>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4560/los-monopolios-del-copyright-y-de-patentes-son-una-explotacion-inmoral-del-tercer-mundo">Sobre los monopolios de patentes y copyright en el Tercer Mundo.</a></strong>
 </p>

@@ -9,8 +9,8 @@ tags:
 - marta-suplicy
 - tarjeta-magnetica
 - vale-cultura
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1-150x150.png
 wppost_name: vale-cultura-en-brasil-para-que-se-consuma-cultura
 ---
 

@@ -9,12 +9,12 @@ tags:
 - material-para-difusion
 - exceso-de-datos
 - intimidacion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/afip_50.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/afip_50-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/afip_50.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/afip_50-150x150.jpg
 wppost_name: crece-el-control-de-la-afip-mediante-el-cruce-de-las-bases-de-datos
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/afip_50.jpg"><img class="aligncenter size-medium wp-image-5504" title="AFIP" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/afip_50-300x168.jpg" alt="" width="300" height="168" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/afip_50.jpg"><img class="aligncenter size-medium wp-image-5504" title="AFIP" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/afip_50-300x168.jpg" alt="" width="300" height="168" /></a>
 
 Algunos de los datos que cruza la AFIP según este artículo de <strong><a href="http://www.lavoz.com.ar/noticias/politica/crece-control-afip-mediante-cruzamiento-datos" target="_blank">La Voz.</a></strong>:
 

@@ -10,8 +10,8 @@ tags:
 - juegos-para-celular
 - pirateria
 - rovio
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/angry-birds-game.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/angry-birds-game-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/angry-birds-game.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/angry-birds-game-150x150.png
 wppost_name: pajaros-enojados-a-los-que-les-gusta-la-pirateria-angry-birds
 ---
 

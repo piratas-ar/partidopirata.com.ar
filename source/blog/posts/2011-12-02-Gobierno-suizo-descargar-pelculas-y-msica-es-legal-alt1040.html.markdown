@@ -13,8 +13,8 @@ tags:
 - piratas
 - pirateria
 - suiza
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/bandera-suiza-pirata.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/bandera-suiza-pirata-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/bandera-suiza-pirata.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/bandera-suiza-pirata-150x150.jpg
 wppost_name: gobierno-suizo-descargar-peliculas-y-musica-es-legal-alt1040
 ---
 

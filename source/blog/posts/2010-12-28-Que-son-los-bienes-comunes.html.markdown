@@ -17,8 +17,8 @@ tags:
 - sustentable
 - todos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/bienes_comunes.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/bienes_comunes.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/bienes_comunes.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/bienes_comunes.jpg
 wppost_name: "%c2%bfque-son-los-bienes-comunes"
 ---
 

@@ -9,8 +9,8 @@ tags:
 - reconocimiento-facial
 - sibios
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/b-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/b-150x150.jpg
 wppost_name: construccion-de-una-guia-para-no-ser-reconocido-por-las-camaras-de-vigilancia
 ---
 
@@ -30,7 +30,7 @@ CFK anunciando SIBIOS y su utilización con las cámaras de vigilancia en las ci
 <hr />
 
 Por eso es importante que se deroge <strong>SIBIOS</strong> y al que nos obligan a somternos tomando compulsivamente nuestros datos biométricos en la AFIP o al salir o entrar al país.
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">Nota para protestar por la toma compulsiva de datos biométricos</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">Nota para protestar por la toma compulsiva de datos biométricos</a></strong></p>
 Ahora, ¿cómo no ser reconocidos si vamos a una marcha y hay cámaras de vigilancia?
 
 No lo se, buscando en Google <strong><a href="http://cvdazzle.com/" target="_blank">encontré este site</a></strong>
@@ -48,9 +48,9 @@ Forma de maquillarse para no ser reconocidos en el sistema que usa Facebook de r
 
 Habría que ver hasta qué punto es efectivo. Si alguien sabe algo más,  por favor, avise en los comentarios.
 
-Si alguien quiere colaborar con una posible guía para no ser reconocidos por cámaras de vigilancia <a href="http://partidopirata.com.ar/contacto" target="_blank">puede escribirnos.</a>
+Si alguien quiere colaborar con una posible guía para no ser reconocidos por cámaras de vigilancia <a href="https://partidopirata.com.ar/contacto" target="_blank">puede escribirnos.</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg"><img class="size-full wp-image-7313" title="b" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg" alt="" width="190" height="190" /></a> Formas de no ser reconocidos por las cámaras de vigilancia en una marcha
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg"><img class="size-full wp-image-7313" title="b" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/b.jpg" alt="" width="190" height="190" /></a> Formas de no ser reconocidos por las cámaras de vigilancia en una marcha
 
 
 <hr />

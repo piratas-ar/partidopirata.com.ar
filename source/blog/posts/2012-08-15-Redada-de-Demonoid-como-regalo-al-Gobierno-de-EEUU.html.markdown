@@ -7,8 +7,8 @@ tags:
 - raid
 - torrent
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/demonoid.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/demonoid-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/demonoid.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/demonoid-115x115.jpg
 wppost_name: redada-demonoid
 ---
 
@@ -16,7 +16,7 @@ wppost_name: redada-demonoid
 
 <strong>La semana de pesadilla de Demonoid acaba de llegar a un pico, con noticias que vienen de Ucrania que después de un ataque DDoS (Distributed Denial of Service) masivo el sitio acaba de ser arrestado por las autoridades locales. Aquellos que busquen una conexión del ataque con EE.UU. no se decepcionarán - una fuente del Ministro del Interior del país dijo que la acción fue programada para coincidir con el viaje del Primer Ministro Valery Khoroshkovsky a los EE.UU.</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/demonoid.jpg"><img class="size-full wp-image-5986 alignright" title="demonoid" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/demonoid.jpg" alt="" width="131" height="131" /></a>La semana pasada, miles de usuarios de Demonoid temieron lo peor cuando su querido sitio desapareció de Internet. Muchos pensaron que el sitio había sido arrestado, pero finalmente se aliviaron al saber que era "sólo"un <a href="http://torrentfreak.com/demonoid-to-suffer-prolonged-downtime-after-ddos-attack-120727/" target="_blank">ataque DDoS masivo</a>.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/demonoid.jpg"><img class="size-full wp-image-5986 alignright" title="demonoid" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/demonoid.jpg" alt="" width="131" height="131" /></a>La semana pasada, miles de usuarios de Demonoid temieron lo peor cuando su querido sitio desapareció de Internet. Muchos pensaron que el sitio había sido arrestado, pero finalmente se aliviaron al saber que era "sólo"un <a href="http://torrentfreak.com/demonoid-to-suffer-prolonged-downtime-after-ddos-attack-120727/" target="_blank">ataque DDoS masivo</a>.
 
 Pero hoy la montaña rusa de desplomó a nuevas profundidades, con la confirmación de Ucrania que el DDoS fue tan sólo el principio, los investigadores del gobierno fueron a ColoCall a dar de baja Demonoid.
 

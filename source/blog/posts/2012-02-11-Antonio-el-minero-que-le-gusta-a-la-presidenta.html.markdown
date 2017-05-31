@@ -8,8 +8,8 @@ tags:
 - olavarria
 - presidenta
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/youtube.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/youtube.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/youtube.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/youtube.jpg
 wppost_name: armando-el-minero-que-le-gusta-a-la-presidenta
 ---
 

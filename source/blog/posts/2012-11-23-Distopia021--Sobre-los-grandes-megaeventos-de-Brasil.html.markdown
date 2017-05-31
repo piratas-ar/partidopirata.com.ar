@@ -11,8 +11,8 @@ tags:
 - rio-2016
 - rio-de-janeiro
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil-150x150.jpg
 wppost_name: distopia021-sobre-los-grandes-megaeventos-de-brasil
 ---
 

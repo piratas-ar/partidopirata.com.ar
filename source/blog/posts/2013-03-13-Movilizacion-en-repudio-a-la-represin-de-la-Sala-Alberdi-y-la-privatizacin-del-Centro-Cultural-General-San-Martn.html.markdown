@@ -16,12 +16,12 @@ tags:
 - policia-metropolitana
 - repesion
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi-150x150.jpg
 wppost_name: movilizacion-en-repudio-a-la-represion-de-la-sala-alberdi-y-la-privatizacion-del-centro-cultural-general-san-martin
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi-300x200.jpg" alt="represion_sala_alberdi" width="300" height="200" class="alignright size-medium wp-image-8771" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi-300x200.jpg" alt="represion_sala_alberdi" width="300" height="200" class="alignright size-medium wp-image-8771" /></a>
 
 Represión y privatización en el CCGSM.
 

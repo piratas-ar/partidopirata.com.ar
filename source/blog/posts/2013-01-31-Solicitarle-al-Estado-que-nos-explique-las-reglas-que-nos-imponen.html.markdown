@@ -10,8 +10,8 @@ tags:
 - venta-de-divisas
 - venta-de-dolares
 - viajes-al-exterior
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225-150x150.jpg
 wppost_name: solicitarle-al-estado-que-nos-explique-las-reglas-que-nos-imponen
 ---
 

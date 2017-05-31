@@ -11,12 +11,12 @@ tags:
 - impositiva
 - presos
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00-150x150.jpg
 wppost_name: el-gran-hermano-fiscal-te-esta-vigilando
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg"><img class="size-full wp-image-6680" title="AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg" alt="" width="422" height="300" /></a> Edificio de la AFIP
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg"><img class="size-full wp-image-6680" title="AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/AFIP_ADMINISTRACION_FEDERAL_DE_INGRESOS_PUBLICOS_WEB_00.jpg" alt="" width="422" height="300" /></a> Edificio de la AFIP
 
 
 "“Hay organismos de gobierno que han montado centros de cómputos o ‘data centers’ dignos de estar a disposición de grandes como Google o Microsoft –explica Sebastián Stranier, especialista Senior en Seguridad de la Información–. Personalmente conozco el de AFIP y está preparada para soportar los requerimientos actuales pero también, con muy poco esfuerzo, puede procesar el 5.000% de las transacciones que hoy se realizan, una visión que muestra un proyecto a largo plazo”, sostiene el fundador y CEO de VU Security, que además afirma que esto permite “integrar servicios y la ‘disponibilidad’ en tiempo real. Por ejemplo, cuando uno consulta su capacidad para comprar moneda extranjera, un trámite como este cuatro años atrás podría haber demorado quince días y un sinfín de formularios y papeles, tanto para el organismo como para las personas”."
@@ -28,7 +28,7 @@ wppost_name: el-gran-hermano-fiscal-te-esta-vigilando
 <hr />
 
 El tema con tantos datos y su cruzamiento es que así pueden también prever ciertos comportamientos o situaciones.
-<a href="http://partidopirata.com.ar/5508/como-las-empresas-saben-tus-secretos">Hay un artículo muy interesante donde un negocio de departamentos , tipo Harrods, podía prever si una mujer estaba embarazada mediante las compras que estaba realizando.</a>
+<a href="https://partidopirata.com.ar/5508/como-las-empresas-saben-tus-secretos">Hay un artículo muy interesante donde un negocio de departamentos , tipo Harrods, podía prever si una mujer estaba embarazada mediante las compras que estaba realizando.</a>
 
 En el caso de la empresa lo que les interesaba era saber si la mujer estaba embarazada para así poder venderle productos de una marca diferente al que estaban acostumbrados así como también poder enviarles propagandas específicas para embarazadas.
 

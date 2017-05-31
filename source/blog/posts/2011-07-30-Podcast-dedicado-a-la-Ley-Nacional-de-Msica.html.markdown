@@ -18,12 +18,12 @@ tags:
 - radio-2
 - sadaic
 - sgae
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/leysicamu.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/leysicamu-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/leysicamu.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/leysicamu-150x150.png
 wppost_name: podcast-dedicado-a-la-ley-nacional-de-musica
 ---
 
-En esta nueva edición del <strong><a title="Índice de Podcasts del Partido Pirata Argentino" href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino" target="_blank">Podcast del Partido Pirata Argentino</a></strong>, estuvimos hablando acerca de la nueva Ley Nacional (¿y popular?) de Música, y de muchas cosas más; como la escena post <strong>Cromagnon</strong> en Argentina, la <strong>no-escena</strong> de <strong>netlabels</strong> en <strong>Argentina</strong> (sobre la que se habló en el PirateFest), entre otras.
+En esta nueva edición del <strong><a title="Índice de Podcasts del Partido Pirata Argentino" href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino" target="_blank">Podcast del Partido Pirata Argentino</a></strong>, estuvimos hablando acerca de la nueva Ley Nacional (¿y popular?) de Música, y de muchas cosas más; como la escena post <strong>Cromagnon</strong> en Argentina, la <strong>no-escena</strong> de <strong>netlabels</strong> en <strong>Argentina</strong> (sobre la que se habló en el PirateFest), entre otras.
 
 Una charla muy amena entre <strong>Eduardo</strong> y <strong><a title="Federico Sánchez @ flavors.me" href="http://flavors.me/fsanchezm" target="_blank">Federico</a></strong> (quien les escribe).
 
@@ -40,7 +40,7 @@ Dejo algunos links de referencia, de los que hablamos en el podcast:
 	<li><strong><a title="SynergyNetworks - netlabel" href="http://www.sinergy-networks.com/index.php?option=com_content&amp;task=view&amp;id=283&amp;Itemid=236" target="_blank">Synergy Networks</a></strong> (netlabel - España)</li>
 	<li><strong><a title="Igloo rec." href="http://igloo-rec.com.ar" target="_blank">Igloo-rec</a></strong> (netlabel - Argentina)</li>
 	<li><strong><a title="808m - netlabel" href="http://www.808m.cc/site" target="_blank">808m</a></strong> (netlabel - Argentina)</li>
-	<li><strong><a href="http://partidopirata.com.ar/1167/mod-mtv-septimo-programa-musica" target="_blank">Programa de televisión Mod MTV dedicado a la música</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/1167/mod-mtv-septimo-programa-musica" target="_blank">Programa de televisión Mod MTV dedicado a la música</a></strong></li>
 	<li><strong><a href="http://www.musicosconvocados.com/ley%20de%20la%20musica.pdf" target="_blank">Texto de la Ley Nacional de la Música</a></strong> es un archivo pdf</li>
 	<li><strong><a href="http://lists.partidopirata.com.ar/pipermail/general-partidopirata.com.ar/2011-July/009204.html" target="_blank">Mensaje enviado por "</a></strong><strong><a href="http://lists.partidopirata.com.ar/pipermail/general-partidopirata.com.ar/2011-July/009204.html" target="_blank">minombreesbond" a nuestra lista de correo sobre la "Ley Nacional de la Música"</a></strong></li>
 	<li><strong><a href="http://www.musicosconvocados.com/marco.html" target="_blank">Site de los Musicos Convocados</a></strong> haciendo lobby por la Ley Nacional de la Música</li>
@@ -56,5 +56,5 @@ Dejo algunos links de referencia, de los que hablamos en el podcast:
 </ul>
 </div>
 <div>Si me acuerdo de alguno más, updateo.</div>
-<div><strong><a title="Índice de podcasts del Partido Pirata Argentino" href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino" target="_blank">Acá</a></strong> está el índice de podcasts, chequeen!</div>
+<div><strong><a title="Índice de podcasts del Partido Pirata Argentino" href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino" target="_blank">Acá</a></strong> está el índice de podcasts, chequeen!</div>
 <div>Nuestro mail es radio # partidopirata.com.ar (cambien # por @)</div>

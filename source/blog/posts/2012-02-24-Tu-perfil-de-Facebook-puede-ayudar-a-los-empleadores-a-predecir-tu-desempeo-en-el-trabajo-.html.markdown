@@ -14,8 +14,8 @@ tags:
 - nics
 - perfil
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad-150x150.jpg
 wppost_name: tu-perfil-de-facebook-puede-ayudar-a-los-empleadores-a-predecir-tu-desempeno-en-el-trabajo
 ---
 

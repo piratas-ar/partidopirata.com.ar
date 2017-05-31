@@ -5,8 +5,8 @@ tags:
 - archive-org
 - noticias
 - torrents
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/internet-archive.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/internet-archive-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/internet-archive.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/internet-archive-150x150.png
 wppost_name: archive-org-comparte-1-398-875-torrents
 ---
 

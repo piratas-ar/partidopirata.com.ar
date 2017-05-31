@@ -11,8 +11,8 @@ tags:
 - homicidio
 - podcasts
 - wichi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/agustinsantillan.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/agustinsantillan-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/agustinsantillan.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/agustinsantillan-150x150.jpg
 wppost_name: atropellaron-a-un-chico-a-proposito-en-ingeniero-juarez-formosa
 ---
 
@@ -35,7 +35,7 @@ Agustín nos dice que andar en bicicleta por la ruta es peligroso, que si sos wi
 <strong> <a href="http://www.ivoox.com/con-agustin-santillan-para-saber-esta-pasando-audios-mp3_rf_1678659_1.html" target="_blank"> en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart7.png"><img class="size-full wp-image-7987" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart7.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart7.png"><img class="size-full wp-image-7987" alt="Código QR de la dirección del archivo mp3" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart7.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 
 <hr />

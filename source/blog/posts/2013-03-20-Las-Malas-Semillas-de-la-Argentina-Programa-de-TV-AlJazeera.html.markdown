@@ -12,8 +12,8 @@ tags:
 - soja
 - transgenicos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/el_agente_naranja_de_la_soja.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/el_agente_naranja_de_la_soja-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/el_agente_naranja_de_la_soja.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/el_agente_naranja_de_la_soja-150x150.jpg
 wppost_name: las-malas-semillas-de-la-argentina-programa-de-tv-aljazeera
 ---
 

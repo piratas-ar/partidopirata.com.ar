@@ -8,8 +8,8 @@ tags:
 - no-al-canon
 - santiago-o%c2%b4donnel
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: noalcanon-%c2%bfla-embajada-de-estados-unidos-atras-del-canon-digital
 ---
 

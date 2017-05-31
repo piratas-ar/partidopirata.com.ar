@@ -11,7 +11,7 @@ thumb:
 wppost_name: convocatoria-para-el-15o-15-de-octubre
 ---
 
-<center><a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/banner2.png"><img class="aligncenter size-full wp-image-1970" title="banner2" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/banner2.png" alt="15 de Octubre" width="961" height="163" /></a>
+<center><a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/banner2.png"><img class="aligncenter size-full wp-image-1970" title="banner2" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/banner2.png" alt="15 de Octubre" width="961" height="163" /></a>
 <iframe src="http://www.youtube.com/embed/_DvX-T_icYw" frameborder="0" width="640" height="360"></iframe>
 <strong>Richard Stallman explica porqué participar del 15 de Octubre
 <a href="http://15october.net/es/" target="_blank">Más información en el site del 15O- 15 de Octubre</a></strong></center>&nbsp;

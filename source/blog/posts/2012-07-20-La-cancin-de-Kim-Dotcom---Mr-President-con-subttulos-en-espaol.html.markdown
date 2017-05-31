@@ -8,8 +8,8 @@ tags:
 - mr-president
 - musica-divulgacion
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/liberation.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/liberation-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/liberation.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/liberation-150x150.jpg
 wppost_name: la-cancion-de-kim-dotcom-mr-president-con-subtitulos-en-espanol
 ---
 

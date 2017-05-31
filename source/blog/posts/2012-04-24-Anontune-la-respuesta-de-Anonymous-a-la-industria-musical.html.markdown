@@ -9,14 +9,14 @@ tags:
 - musica
 - musica-divulgacion
 - player
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/anontune.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/anontune-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/anontune.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/anontune-150x150.jpg
 wppost_name: anontune-la-respuesta-de-anonymous-a-la-industria-musical
 ---
 
 <em>Desarrolladores trabajan en software que organizará canciones de servicios de streaming en playlists personales</em>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/anontune.jpg"><img class="size-full wp-image-4201 aligncenter" title="anontune" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/anontune.jpg" alt="" width="455" height="328" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/anontune.jpg"><img class="size-full wp-image-4201 aligncenter" title="anontune" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/anontune.jpg" alt="" width="455" height="328" /></a>
 <div class="mceTemp mceIEcenter"><dl id="attachment_4201" class="wp-caption aligncenter" style="width: 465px;"><dd class="wp-caption-dd">Anontunes</dd></dl></div>
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/anontune-a-resposta-do-anonymous-para-a-industria-musical/" target="_blank">Tatiana de Mello Dias</a></strong>
 

@@ -15,14 +15,14 @@ tags:
 - libre
 - muestra
 - remix
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right1.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right1.jpg
 wppost_name: ciclo-copy-right
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right.jpg"></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right.jpg"></a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right.jpg"><img class="size-medium wp-image-317" title="Ciclo copy, right?" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right-212x300.jpg" alt="" width="212" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right.jpg"><img class="size-medium wp-image-317" title="Ciclo copy, right?" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/ciclo_copy_right-212x300.jpg" alt="" width="212" height="300" /></a>
 
 
 En Santa María , Río Grande do Sul, Brasil se hará una Muestra de Cine Creative Commons, Ciclo Copy, Copy Right? 2.0. Películas sobre Copyright, Remix, Cultura Libre y Digital.

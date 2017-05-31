@@ -10,12 +10,12 @@ tags:
 - naciones-unidas
 - onu
 - volantes
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/documento-onu1-001.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/documento-onu1-001.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/documento-onu1-001.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/documento-onu1-001.jpg
 wppost_name: documento-de-la-onu-rechaza-medidas-de-filtrado-o-bloqueo-de-internet
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/06/documento-onu1-001.jpg"><img class="aligncenter size-medium wp-image-1114" title="documento-onu(1)-001" src="http://partidopirata.com.ar/wp-content/uploads/2011/06/documento-onu1-001-212x300.jpg" alt="" width="212" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/06/documento-onu1-001.jpg"><img class="aligncenter size-medium wp-image-1114" title="documento-onu(1)-001" src="https://partidopirata.com.ar/wp-content/uploads/2011/06/documento-onu1-001-212x300.jpg" alt="" width="212" height="300" /></a>
 <div class="separator" style="clear: both; text-align: center;">Click para agrandar</div>
 <div style="text-align: center;">
 

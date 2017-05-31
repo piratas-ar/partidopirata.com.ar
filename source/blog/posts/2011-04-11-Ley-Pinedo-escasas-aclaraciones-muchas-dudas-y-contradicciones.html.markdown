@@ -10,8 +10,8 @@ tags:
 - pinedo
 - pro
 - sociedad-de-control
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/pinedo-internet-266x300.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/pinedo-internet-266x300.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/pinedo-internet-266x300.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/pinedo-internet-266x300.png
 wppost_name: ley-pinedo-escasas-aclaraciones-muchas-dudas-y-contradicciones
 ---
 

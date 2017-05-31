@@ -8,12 +8,12 @@ tags:
 - musica
 - s
 - venta
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/discos.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/discos-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/discos.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/discos-150x150.jpg
 wppost_name: la-venta-de-musica-vuelve-a-crecer
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/discos.jpg"><img class="aligncenter size-full wp-image-2802" title="discos" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/discos.jpg" alt="" width="300" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/discos.jpg"><img class="aligncenter size-full wp-image-2802" title="discos" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/discos.jpg" alt="" width="300" height="300" /></a>
 
 <a href="http://blogs.estadao.com.br/p2p/2012/01/10/venda-de-musicas-volta-a-crescer/" target="_blank">Fuente Blog P2P</a>
 

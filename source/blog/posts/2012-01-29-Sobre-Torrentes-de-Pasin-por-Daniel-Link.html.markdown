@@ -8,8 +8,8 @@ tags:
 - libros
 - megaupload
 - torrentes-de-pasion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink-150x150.jpg
 wppost_name: sobre-torrentes-de-pasion-por-daniel-link
 ---
 

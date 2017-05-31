@@ -8,8 +8,8 @@ tags:
 - patagonia-rebelde
 - sala-alberdi
 - toma-y-autogestion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
 wppost_name: cine-debate-en-la-sala-alberdi-12-de-julio-20-hs-la-patagonia-rebelde
 ---
 

@@ -12,8 +12,8 @@ tags:
 - mauricio-macri
 - represion
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi-150x150.jpg
 wppost_name: que-esta-pasando-ahora-en-la-sala-alberdi
 ---
 

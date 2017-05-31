@@ -9,8 +9,8 @@ tags:
 - multa
 - pena-por-compartir
 - riaa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/riaa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/riaa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/riaa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/riaa-150x150.jpg
 wppost_name: exito-la-industria-fonografica-consigue-arruinarle-la-vida-a-un-muchadho-por-causa-de-31-canciones
 ---
 

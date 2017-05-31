@@ -10,8 +10,8 @@ tags:
 - hadopi
 - torrentfreak
 - tres-avisos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/piracyisnottheft.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/piracyisnottheft-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/piracyisnottheft.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/piracyisnottheft-150x150.png
 wppost_name: el-presupuesto-para-los-tres-avisos-contra-la-pirateria-demasiado-caro-para-justificarlo-dice-el-ministro
 ---
 
@@ -33,7 +33,7 @@ Mientras tanto, según un <a href="http://www.numerama.com/magazine/23302-hadop
 
 "La suspensión del acceso a Internet me parece una sanción desproporcionada con respecto al objetivo final", dijo.
 
-Como se ha destacado muchas veces antes, y más recientemente con fuerza por el<a href="http://partidopirata.com.ar/5389/dinamarca-los-piratas-quieren-ser-legales-por-conveniencia-pero-poder-elegir-y-disponibilidad-son-lo-primero"> gobierno danés</a>, la promoción y desarrollo de los servicios legales deben ser una prioridad cuando se trata de reducir la piratería en línea. A este respecto, Hadopi parece haber fallado.
+Como se ha destacado muchas veces antes, y más recientemente con fuerza por el<a href="https://partidopirata.com.ar/5389/dinamarca-los-piratas-quieren-ser-legales-por-conveniencia-pero-poder-elegir-y-disponibilidad-son-lo-primero"> gobierno danés</a>, la promoción y desarrollo de los servicios legales deben ser una prioridad cuando se trata de reducir la piratería en línea. A este respecto, Hadopi parece haber fallado.
 
 "No sé qué será de esta institución, pero una cosa está clara: Hadopi no ha cumplido con su misión de desarrollar ofertas legales", dijo Filippetti.
 
@@ -45,4 +45,4 @@ Se espera que se entreguen las conclusiones de una consulta sobre el futuro de H
 
 <hr />
 <p style="text-align: center;"><strong>A veces la crisis trae buenas noticias, cuánto le cuesta a un país implementar todas estas políticas represivvas?</strong></p>
-<p style="text-align: center;"><strong>Si quieren saber qué es (ojalá digamos pronto, qué era) Hadopi el año pasado hablamos <a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos </a></strong></p>
+<p style="text-align: center;"><strong>Si quieren saber qué es (ojalá digamos pronto, qué era) Hadopi el año pasado hablamos <a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos </a></strong></p>

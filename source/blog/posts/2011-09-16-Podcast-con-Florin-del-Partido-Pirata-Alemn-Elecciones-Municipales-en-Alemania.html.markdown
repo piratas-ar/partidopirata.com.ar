@@ -10,14 +10,14 @@ tags:
 - partido-pirata-aleman
 - piratas-municipales
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
 wppost_name: podcast-con-florian-del-partido-pirata-aleman-elecciones-municipales-en-alemania
 ---
 
 <center>
 <object id="player801854" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_801854_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player801854" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_801854_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object></center><center></center><center>Presionen en <em>play</em> para escucharlo sin descargar o
-<a href="http://partidopirata.com.ar/charlafloriandelpartidopirataaleman.ogg" target="_blank">Si quieren descargar el archivo mp3.</a></center>
+<a href="https://partidopirata.com.ar/charlafloriandelpartidopirataaleman.ogg" target="_blank">Si quieren descargar el archivo mp3.</a></center>
 
 <hr />
 
@@ -41,8 +41,8 @@ Charlando con Florian del Partido Pirata Alemán. Sobre las elecciones municipal
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1840/spot-del-partido-pirata-para-la-municipalidad-de-berlin">Spot de Campaña del Partido Pirata Alemán para la Municipalidad de Berlín.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1871/reportaje-a-fabricio-do-canto-del-partido-pirata-en-berlin">Reportaje a Fabricio do Canto del Partido Pirata Alemán.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1840/spot-del-partido-pirata-para-la-municipalidad-de-berlin">Spot de Campaña del Partido Pirata Alemán para la Municipalidad de Berlín.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1871/reportaje-a-fabricio-do-canto-del-partido-pirata-en-berlin">Reportaje a Fabricio do Canto del Partido Pirata Alemán.</a></strong></p>
 
 
 <hr />

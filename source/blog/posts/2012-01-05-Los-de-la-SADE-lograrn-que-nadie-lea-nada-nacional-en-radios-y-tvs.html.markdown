@@ -10,12 +10,12 @@ tags:
 - sade
 - television
 - vaccaro
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1-150x150.jpg
 wppost_name: los-de-la-sade-lograran-que-nadie-lea-nada-nacional-en-radios-y-tvs
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg"><img class="size-full wp-image-2714" title="morellost" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg" alt="" width="311" height="400" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg"><img class="size-full wp-image-2714" title="morellost" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/morellost1.jpg" alt="" width="311" height="400" /></a>
 
 
 El presidente de la Sociedad Argentina de Escritores [SADE] sigue insistiendo con su idea de <em>canon</em> cuando se lean textos y poesías en las radios y tvs.
@@ -46,7 +46,7 @@ Si existen autores pobres, si los autores no pueden vivir de sus derechos de aut
 
 ¿ No es por una industria que no les paga lo que corresponde?
 
-Si el diputado <strong><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">Carlos Heller tiene que presentar un proyecto de ley para otorgarles jubilaciones a los escritores que no las tienen</a></strong> y viven hoy (cuando sus libros deben haber salido mucho antes que la era Internet) en la miseria.
+Si el diputado <strong><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">Carlos Heller tiene que presentar un proyecto de ley para otorgarles jubilaciones a los escritores que no las tienen</a></strong> y viven hoy (cuando sus libros deben haber salido mucho antes que la era Internet) en la miseria.
 
 ¿La SADE no tendría que preguntarse cómo les pagan las editoriales a los autores?
 

@@ -7,8 +7,8 @@ tags:
 - campanas
 - derecho-de-autor
 - proyecto
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/180px-Dominio_público.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/180px-Dominio_público.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/180px-Dominio_público.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/180px-Dominio_público.gif
 wppost_name: construccion-de-una-calculadora-de-dominio-publico-de-la-argentina
 ---
 
@@ -32,7 +32,7 @@ Y luego se le irán haciendo preguntas que se responden con si o no y al términ
 <strong> <a href="http://www.bea.org.ar/2010/07/breve-guia-hacia-el-dominio-publico-en-argentina/" target="_blank">Breve Guía Hacía el Dominio Pùblico en la Argentina.</a></strong></p>
 <p style="text-align: center;"><strong><a href="http://defenpo3.mpd.gov.ar/defenpo3/def3/legislacion/leyes/textos/11723txt.htm" target="_blank">Acá encuentran la legislación de Derecho de Autor de la Argentina.</a></strong></p>
 <p style="text-align: center;">Podríamos empezar con las diferentes preguntas que hay que hacer para saber si, por ejemplo, en el caso de una obra literaria está o no en dominio público.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1615/respetable-publico-que-pasa-cuando-una-obra-entra-en-dominio-publico">Qué pasa cuando una obra entra en Dominio Público</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1615/respetable-publico-que-pasa-cuando-una-obra-entra-en-dominio-publico">Qué pasa cuando una obra entra en Dominio Público</a></strong></p>
 
 
 <hr />

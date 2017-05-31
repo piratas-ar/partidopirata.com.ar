@@ -7,8 +7,8 @@ tags:
 - intimidad
 - no-tengo-nada-que-ocultar
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: no-tengo-nada-que-ocultar-y-otros-malentendidos-de-la-privacidad
 ---
 

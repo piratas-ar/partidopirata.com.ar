@@ -10,8 +10,8 @@ tags:
 - patentamiento
 - patente
 - patentes-idiotas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/220px-Pierre_de_Fermat.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/220px-Pierre_de_Fermat-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/220px-Pierre_de_Fermat.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/220px-Pierre_de_Fermat-150x150.jpg
 wppost_name: las-anotaciones-al-margen-patentadas-fermat-no-podria-existir-hoy
 ---
 
@@ -26,7 +26,7 @@ Es injusta porque las notas al margen llevan inventadas cientos de años. Es ah�
 <strong><a href="http://www.versvs.net/anotacion/patente-estupida-del-dia-amazon-anotaciones-al-margen" target="_blank">Fuente Versus</a></strong>
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/220px-Pierre_de_Fermat.jpg"><img class="size-full wp-image-3452 aligncenter" title="Pierre Fermat" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/220px-Pierre_de_Fermat.jpg" alt="" width="220" height="294" /></a><strong>Pierre de Fermat-El margen más famoso de la historia.</strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/220px-Pierre_de_Fermat.jpg"><img class="size-full wp-image-3452 aligncenter" title="Pierre Fermat" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/220px-Pierre_de_Fermat.jpg" alt="" width="220" height="294" /></a><strong>Pierre de Fermat-El margen más famoso de la historia.</strong></p>
 <p style="text-align: left;">Pierre de Fermat acostumbraba a escribir las soluciones a los problemas en el margen de los libros. Una de las notas que escribió en su ejemplar del texto griego de La Aritmética de <a title="Diofanto" href="https://es.wikipedia.org/wiki/Diofanto">Diofanto</a> (editada por <a title="Claude Gaspard Bachet de Méziriac" href="https://es.wikipedia.org/wiki/Claude_Gaspard_Bachet_de_M%C3%A9ziriac">Claude Gaspard Bachet de Méziriac</a> en 1621) dice lo siguiente:</p>
 <p style="text-align: center;"><strong>Es imposible encontrar la forma de convertir un cubo en la suma de dos cubos, una potencia cuarta en la suma de dos potencias cuartas, o en general cualquier potencia más alta que el cuadrado, en la suma de dos potencias de la misma clase. He descubierto para el hecho una demostración excelente. Pero este margen es demasiado pequeño para que (la demostración) quepa en él.</strong></p>
 

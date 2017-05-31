@@ -7,12 +7,12 @@ tags:
 - promocionar-artistas
 - the-pirate-bay
 - the-promo-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo-150x150.jpg
 wppost_name: promobay-la-plataforma-de-promocion-de-the-pirate-bay
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg"><img class="aligncenter size-full wp-image-3015" title="The Promo Bay" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg" alt="" width="405" height="371" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg"><img class="aligncenter size-full wp-image-3015" title="The Promo Bay" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg" alt="" width="405" height="371" /></a>
 
 En la página principal de<strong><a href="https://thepiratebay.org/promo" target="_blank"> Promobay</a></strong> encuentran:
 
@@ -45,7 +45,7 @@ The Pirate Bay comienza hoy un sistema nuevo e interesante para promover las art
 ¿Tienes una banda? ¿Eres  un aspirante a productor de cine que ? ¿Un comediante? ¿Un artista de dibujos animados?
 Se reemplazará el logo de la primera página con un enlace a tu trabajo.
 
-Tan pronto como me enteré, me decidí a participar. Varios de mis libros están ahí, y como dije en un post anterior, sobre <a href="http://partidopirata.com.ar/2892/paulo-coelho-mis-pensamientos-sobre-s-o-p-a">mi opinión sobre SOPA,</a> las ventas físicas de mis libros están creciendo ya que mis lectores los publicaron en sitios P2P.
+Tan pronto como me enteré, me decidí a participar. Varios de mis libros están ahí, y como dije en un post anterior, sobre <a href="https://partidopirata.com.ar/2892/paulo-coelho-mis-pensamientos-sobre-s-o-p-a">mi opinión sobre SOPA,</a> las ventas físicas de mis libros están creciendo ya que mis lectores los publicaron en sitios P2P.
 
 Sean bienvenidos a descargar libros de forma gratuita y, si les gusta, compren una copia impresa - esta es la forma que tenemos para decirle a la industria que la codicia no conduce a ninguna parte.
 Con amor

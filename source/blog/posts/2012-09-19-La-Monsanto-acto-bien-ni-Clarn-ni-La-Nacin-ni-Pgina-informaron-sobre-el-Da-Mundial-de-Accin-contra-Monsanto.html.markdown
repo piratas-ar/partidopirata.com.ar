@@ -15,8 +15,8 @@ tags:
 - la-nacion
 - monsanto
 - pagina-12
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/clarin1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/clarin1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/clarin1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/clarin1-150x150.png
 wppost_name: la-monsanto-actuo-bien-ni-clarin-ni-la-nacion-ni-pagina-informaron-sobre-el-dia-mundial-de-accion-contra-monsanto
 ---
 
@@ -66,19 +66,19 @@ Entonces dedicimos buscar en Clarín, La Nación y Página 12 si había salido a
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/clarin11.png"><img class="aligncenter  wp-image-6544" title="clarin1" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/clarin11.png" alt="" width="790" height="455" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/clarin11.png"><img class="aligncenter  wp-image-6544" title="clarin1" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/clarin11.png" alt="" width="790" height="455" /></a>
 <strong> <a href="https://www.google.com/search?q=Monsanto%2C+site%3Awww.clarin.com&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:es-AR:official&amp;client=firefox-a#q=Monsanto,+site:www.clarin.com&amp;hl=es-419&amp;client=firefox-a&amp;hs=g6z&amp;tbo=1&amp;rls=org.mozilla:es-AR:official&amp;output=search&amp;source=lnt&amp;tbs=qdr:w&amp;sa=X&amp;psj=1&amp;ei=JbxZUKjVNqPj0QHw6IHoCA&amp;ved=0CAoQpwUoAw&amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;fp=5fa466a845980c95&amp;biw=1360&amp;bih=572" target="_blank">El link de los resultados en Google buscando dentro de Clarín.</a></strong>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/lanacion.png"><img class=" wp-image-6545" title="lanacion" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/lanacion.png" alt="" width="805" height="531" /></a> Buscando en La Nación lo que salió sobre Monsanto en la semana.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/lanacion.png"><img class=" wp-image-6545" title="lanacion" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/lanacion.png" alt="" width="805" height="531" /></a> Buscando en La Nación lo que salió sobre Monsanto en la semana.
 
 
 <strong><a href="https://www.google.com/search?q=Monsanto%2C+site%3Awww.lanacion.com.ar&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:es-AR:official&amp;client=firefox-a#q=Monsanto,+site:www.lanacion.com.ar&amp;hl=es-419&amp;client=firefox-a&amp;hs=87z&amp;tbo=1&amp;rls=org.mozilla:es-AR:official&amp;output=search&amp;source=lnt&amp;tbs=qdr:w&amp;sa=X&amp;psj=1&amp;ei=f7xZUL_gDoq-0QHq2YCoDA&amp;ved=0CAoQpwUoAw&amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;fp=5fa466a845980c95&amp;biw=1360&amp;bih=572" target="_balank">El link de los resultados buscando en La Nación.</a></strong>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/pagina1.png"><img class=" wp-image-6546" title="pagina" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/pagina1.png" alt="" width="750" height="432" /></a> Lo que salió en Página 12 sobre Monsanto en la semana.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/pagina1.png"><img class=" wp-image-6546" title="pagina" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/pagina1.png" alt="" width="750" height="432" /></a> Lo que salió en Página 12 sobre Monsanto en la semana.
 
 
 <strong><a href="https://www.google.com/search?q=monsanto%2C+site%3Awww.pagina12.com.ar&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:es-AR:official&amp;client=firefox-a#q=monsanto,+site:www.pagina12.com.ar&amp;hl=es-419&amp;client=firefox-a&amp;hs=n8z&amp;tbo=1&amp;rls=org.mozilla:es-AR:official&amp;output=search&amp;source=lnt&amp;tbs=qdr:w&amp;sa=X&amp;psj=1&amp;ei=qLxZUJi0FoHN0AGj74DIBQ&amp;ved=0CAoQpwUoAw&amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;fp=5fa466a845980c95&amp;biw=1360&amp;bih=572" target="_blank">El link con los resultados de Página 12</a></strong>
@@ -89,14 +89,14 @@ Podrán apreciar que no publicaron nada sobre el Día Mundial de Acción contra 
 
 Otra vez <strong><em>La Monsanto</em> </strong>la verdadera agrupación que lidera al gobierno, la oposición y los medios de comunicación hizo valer su poder.
 <p style="text-align: center;"><strong>Sobre <a href="http://blogs.elpais.com/pamplinas/2012/07/la-monsanto.html" target="_blank">La Monsanto por Martín Caparros.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6520/dia-mundial-de-accion-contra-monsanto-fotos-de-la-ciudad-de-buenos-aires">Algunas fotos dell Día Mundial de Acción contra Monsanto en la Ciudad de Buenos Aires</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6520/dia-mundial-de-accion-contra-monsanto-fotos-de-la-ciudad-de-buenos-aires">Algunas fotos dell Día Mundial de Acción contra Monsanto en la Ciudad de Buenos Aires</a></strong></p>
 
 
 <hr />
 <p style="text-align: center;"><strong>Bueno, si para </strong><a href="http://www.clarin.com/mundo/Benedicto_XVI-Siria-fin_de_la_violencia_0_775122700.html" target="_blank"><strong>Clarín Beirut está en Libia...</strong>.</a></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/beirutlibia.png"><img class="size-full wp-image-6550" title="beirutlibia" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/beirutlibia.png" alt="" width="469" height="646" /></a> Beirut-Libia según Clarín
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/beirutlibia.png"><img class="size-full wp-image-6550" title="beirutlibia" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/beirutlibia.png" alt="" width="469" height="646" /></a> Beirut-Libia según Clarín
 
 
 <hr />

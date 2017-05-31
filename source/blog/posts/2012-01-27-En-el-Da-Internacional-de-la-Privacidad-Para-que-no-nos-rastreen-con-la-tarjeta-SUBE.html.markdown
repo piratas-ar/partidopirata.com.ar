@@ -9,8 +9,8 @@ tags:
 - proteccion-de-la-privacidad
 - sube
 - viajar
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/euprivacyday.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/euprivacyday-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/euprivacyday.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/euprivacyday-150x150.png
 wppost_name: en-el-dia-internacional-de-la-privacidad-para-que-no-nos-rastreen-con-la-tarjeta-sube
 ---
 

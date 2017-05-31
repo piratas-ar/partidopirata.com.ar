@@ -7,8 +7,8 @@ tags:
 - notice-and-take-down
 - notificacion-y-borrado
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: hollywood-y-google-en-posicion-de-ataque-por-los-resultados-piratas
 ---
 
@@ -16,7 +16,7 @@ wppost_name: hollywood-y-google-en-posicion-de-ataque-por-los-resultados-piratas
 
 La MPAA[Grandes estudios de cine]  aún no están satisfechos con los esfuerzos de Google para reducir la piratería en línea y dice que el gigante de las búsquedas sigue facilitando una "cantidad asombrosa de infracciones de derechos de autor." Por su parte Google advierte a los políticos de los efectos dañinos del reciente aumento de peticiones de borrado por DMCA[derecho de autor de EE.UU.]  en el flujo de información en línea. Tanto Google como la MPAA están de acuerdo en que los actuales procedimientos de borrados por DMCA no son ideales, pero las soluciones que ambas partes tienen en mente son muy diferentes.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>Durante años, los grupos de la industria del entretenimiento han estado exigiendo que Google haga algo acerca de los "sitios piratas" que aparecían en sus resultados de búsqueda.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>Durante años, los grupos de la industria del entretenimiento han estado exigiendo que Google haga algo acerca de los "sitios piratas" que aparecían en sus resultados de búsqueda.
 
 Google ha respondido a estas inquietudes mediante la adopción de una serie de medidas encaminadas a reducir la infracción de los derechos de autor. El año pasado <a href="http://torrentfreak.com/google-starts-censoring-bittorrent-rapidshare-and-more-110126/"> sacaron los términos relacionados con  “piratería” </a> de las búsquedas inmediatas y servicios Sugeridos, y más tarde empezaron <a href="https://torrentfreak.com/google-starts-punishing-pirate-sites-in-search-results-120810/">darle un ranking bajo</a> a sitios web basados en el número de peticiones por DMCA que reciben.
 
@@ -51,4 +51,4 @@ El año pasado, <a href="http://torrentfreak.com/copyright-industry-calls-for-br
 Hasta ahora Google se ha negado a ceder, pero las batallas más recientes muestran que la MPAA y otros grupos de presión del copyright seguirán presionando por estos cambios .
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/7805/los-peligros-del-notice-and-take-down-o-notificacion-y-retiro">Y este método es el que Taringa estima que es maravilloso y que debería implementarse en Latinoamérica</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/7805/los-peligros-del-notice-and-take-down-o-notificacion-y-retiro">Y este método es el que Taringa estima que es maravilloso y que debería implementarse en Latinoamérica</a></strong></p>

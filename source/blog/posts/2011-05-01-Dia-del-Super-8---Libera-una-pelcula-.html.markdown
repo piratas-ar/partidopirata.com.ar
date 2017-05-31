@@ -3,12 +3,12 @@ title: 'Dia del Super 8 - Libera una película '
 date: '2011-05-01'
 tags:
 - campanas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/Dominio.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/Dominio.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/Dominio.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/Dominio.png
 wppost_name: dia-del-super-8-libera-una-pelicula
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/Dominio.png"><img class="aligncenter size-medium wp-image-900" title="Dominio" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/Dominio-300x100.png" alt="" width="300" height="100" /></a>Nos informa Mauricio desde la <a href="http://lists.partidopirata.com.ar/listinfo.cgi/general-partidopirata.com.ar" target="_blank">lista de correo</a>:
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/Dominio.png"><img class="aligncenter size-medium wp-image-900" title="Dominio" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/Dominio-300x100.png" alt="" width="300" height="100" /></a>Nos informa Mauricio desde la <a href="http://lists.partidopirata.com.ar/listinfo.cgi/general-partidopirata.com.ar" target="_blank">lista de correo</a>:
 <blockquote>Queridos amigos/as,
 les escribimos para invitarles a participar de este proyecto que hemos
 dado a llamar <strong>Dominio Callejero</strong>:
@@ -39,6 +39,6 @@ Dominio Callejero
 <a href="http://dominiocallejero.blogspot.com/" target="_blank">dominiocallejero.blogspot.com</a></blockquote>
 El proyecto es originario de Mendoza, pero esta abierto a ser copiado en cualquier parte del mundo que les guste.
 
-[embed]http://partidopirata.com.ar/wp-content/uploads/2011/05/super-8.pdf[/embed]
+[embed]https://partidopirata.com.ar/wp-content/uploads/2011/05/super-8.pdf[/embed]
 
 &nbsp;

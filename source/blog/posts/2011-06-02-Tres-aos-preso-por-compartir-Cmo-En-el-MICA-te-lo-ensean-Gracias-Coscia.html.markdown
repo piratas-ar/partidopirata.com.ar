@@ -16,12 +16,12 @@ tags:
 - represion
 - secretario-de-cultura
 - tea-party
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/anne.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/anne.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/anne.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/anne.jpg
 wppost_name: tres-anos-preso-por-compartir-%c2%bfcomo-en-el-mica-te-lo-ensenan-gracias-coscia
 ---
 
-<strong><a href="http://partidopirata.com.ar/1097/%c2%a1todos-al-mica-a-hacernos-escuchar">Dentro de los invitados que nos darán <em>clases magistrales</em> en el Mica</a> </strong>encontramos a:
+<strong><a href="https://partidopirata.com.ar/1097/%c2%a1todos-al-mica-a-hacernos-escuchar">Dentro de los invitados que nos darán <em>clases magistrales</em> en el Mica</a> </strong>encontramos a:
 
 &nbsp;
 <p style="text-align: center;">Viernes 3 – Sala 3 de 11:00 a 13:00, (se superpone con al anterior) <strong>[ACA NOS VIENEN A IMPONER LA VIGILANCIA EN LOS ISP!!]</strong> Conferencia Magistral a cargo de <strong>Shira Perlmuter</strong> (Reino Unido, Vice-Presidente Ejecutiva IFPI, International Federation of the Phonographic Industry)</p>
@@ -35,7 +35,7 @@ wppost_name: tres-anos-preso-por-compartir-%c2%bfcomo-en-el-mica-te-lo-ensenan-g
 Anne Muir es una enfermera de 58 años. Y es también la primera persona condenada por compartir archivos en Escocia.
 
 <a href="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-13351116">Acusada de piratear</a> 7.493 archivos de música y 24.243 de karaokê, contenido evaluado en US$ 90 mil, Anne fue condenada a cumplir una pena de tres años en libertad condicional. Además, tendrá que asistir a terapia cognitiva — bajar los archivos seria un tipo de transtorno obsesivo-compulsivo.
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/06/anne.jpg"><img class="aligncenter size-medium wp-image-1104" title="anne" src="http://partidopirata.com.ar/wp-content/uploads/2011/06/anne-300x168.jpg" alt="" width="300" height="168" /></a><strong><em>(foto: BBC)</em></strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/06/anne.jpg"><img class="aligncenter size-medium wp-image-1104" title="anne" src="https://partidopirata.com.ar/wp-content/uploads/2011/06/anne-300x168.jpg" alt="" width="300" height="168" /></a><strong><em>(foto: BBC)</em></strong></p>
 Anne fue investigada desde 2007 por la Bitish Phonographic Industry y por la Federación Internacional de la Industria Fonográfica (IFPI). Contra ella pesaba el hecho de ofrecer archivos a otros usuarios en una red P2P.
 
 Su defensa estuvo basada en su histórico psiquiátrico — bajar y guardar los archivos seria un sintoma del transtorno obsesivo-compulsivo.
@@ -50,7 +50,7 @@ No sirvió.
 &nbsp;
 <div style="text-align: center;"><strong>Así que los invitados del Secretario de Cultura Jorge Coscia nos enseñarán como reprimir a las personas que comparten sin obtener ningún lucro con ello. Tal vez consiga que les den 3 años de prisión en suspenso!!!</strong></div>
 <div style="text-align: center;"><strong>Todo un logro "Nacional y Popular"!!!</strong></div>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1097/%C2%A1todos-al-mica-a-hacernos-escuchar">Dígamos bien fuerte que NO queremos este tipo de gente dándonos <em>Conferencias Magistrales</em> sobre como reprimir, como vigilar, como castigar a quien comparte!!! FUERA EL IFPI DE LA ARGENTINA!!!</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1097/%C2%A1todos-al-mica-a-hacernos-escuchar">Dígamos bien fuerte que NO queremos este tipo de gente dándonos <em>Conferencias Magistrales</em> sobre como reprimir, como vigilar, como castigar a quien comparte!!! FUERA EL IFPI DE LA ARGENTINA!!!</a></strong></p>
 
 
 <hr />

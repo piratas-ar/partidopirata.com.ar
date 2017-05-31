@@ -41,5 +41,5 @@ Tercera Parte
 <p style="text-align: center;"><strong><a href="http://www.elpais.com/articulo/tecnologia/sentencia/canon/digital/definitiva/elpeputec/20111114elpeputec_4/Tes" target="_blank">Sobre la derogación del Canon Digital en España.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873" title="225px-Coscia" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873" title="225px-Coscia" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>
 

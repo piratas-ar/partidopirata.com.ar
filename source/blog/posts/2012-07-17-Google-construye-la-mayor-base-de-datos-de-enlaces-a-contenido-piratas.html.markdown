@@ -9,8 +9,8 @@ tags:
 - links
 - takedown
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/google-record.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/google-record-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/google-record.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/google-record-150x150.png
 wppost_name: google-construye-la-mayor-base-de-datos-de-enlaces-a-contenido-piratas
 ---
 
@@ -26,10 +26,10 @@ Para hacér públicos el alcance y la naturaleza de este proceso, Google comenz�
 
 La semana pasada Google recibió un récord de peticiones de borrado  719.415 direcciones URLs, es el doble de la cantidad que se solicitaron en dos meses, y cuatro veces más que en enero de este año. Los datos de Google revelan además que Microsoft y la RIAA son los remitentes más activos.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/google-record.png"><img class="size-full wp-image-5334" title="google-record" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/google-record.png" alt="" width="483" height="249" /></a> Récord de solicitudes de borrado de enlaces
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/google-record.png"><img class="size-full wp-image-5334" title="google-record" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/google-record.png" alt="" width="483" height="249" /></a> Récord de solicitudes de borrado de enlaces
 
 
-Para los titulares de derechos de autor el propósito de estas solicitudes de borrado es hacer que el contenido pirateado no esté disponible a través del motor de búsqueda de Google. Esto sucede a través de herramientas automáticas de borrado, con la desafortunada consecuencia de que los videos con <a href="http://partidopirata.com.ar/4575/los-titulares-de-derechos-de-autor-se-maltratan-con-locos-pedidos-de-takedowns-borrado-por-dmca">traileres de películas y páginas legítimas de cine como IMDB o Last.fm son censuradas también.</a>
+Para los titulares de derechos de autor el propósito de estas solicitudes de borrado es hacer que el contenido pirateado no esté disponible a través del motor de búsqueda de Google. Esto sucede a través de herramientas automáticas de borrado, con la desafortunada consecuencia de que los videos con <a href="https://partidopirata.com.ar/4575/los-titulares-de-derechos-de-autor-se-maltratan-con-locos-pedidos-de-takedowns-borrado-por-dmca">traileres de películas y páginas legítimas de cine como IMDB o Last.fm son censuradas también.</a>
 
 Pero, hay otro problema que pone en duda la eficacia del proceso.
 
@@ -43,7 +43,7 @@ Deshabilitar el acceso a estas listas  "piratas" es más difícil de lo que par
 
 Puesto que todas las peticiones de borrado se publican en línea, las direcciones URLs en cuestión aún se pueden encontrar a través de Google. Esta ironía lleva a la situación absurda en la que los titulares de derechos de autor (intencionadamente o de forma automática) solicitan a Google terminar con sus propias peticiones de borrado.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/chill-takedown.png"><img class="size-full wp-image-5335" title="chill-takedown" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/chill-takedown.png" alt="" width="496" height="252" /></a> La lista de solicitudes de borrar la solicitud de borrar!
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/chill-takedown.png"><img class="size-full wp-image-5335" title="chill-takedown" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/chill-takedown.png" alt="" width="496" height="252" /></a> La lista de solicitudes de borrar la solicitud de borrar!
 
 
 Microsoft <a href="http://www.google.com/transparencyreport/removals/copyright/domains/chillingeffects.org/">y otros</a> ya han enviado tales <a href="http://www.chillingeffects.org/notice.cgi?sID=410351"> borrado de solicitudes de borrado</a>s. En otras palabras, a Google se le está pidiendo eliminar los enlaces a las solicitudes de borrado, ya que estos enlazan a sitios que contienen enlaces a material con copyright. Y ni siquiera eso es suficiente.

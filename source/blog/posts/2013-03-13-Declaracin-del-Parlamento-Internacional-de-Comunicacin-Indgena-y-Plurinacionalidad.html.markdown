@@ -2,8 +2,8 @@
 title: Declaración del Parlamento Internacional de Comunicación Indígena y Plurinacionalidad
 date: '2013-03-13'
 tags: []
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/IMG_4099_opt-300x200.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/IMG_4099_opt-300x200-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/IMG_4099_opt-300x200.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/IMG_4099_opt-300x200-150x150.jpg
 wppost_name: declaracion-del-parlamento-internacional-de-comunicacion-indigena-y-plurinacionalidad
 ---
 

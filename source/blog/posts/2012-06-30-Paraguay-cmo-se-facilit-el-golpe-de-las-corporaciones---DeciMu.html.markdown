@@ -12,8 +12,8 @@ tags:
 - radio-2
 - soja
 - sojeros
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/93c0b0576df3de2255c58d3ec9e8d9af.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/93c0b0576df3de2255c58d3ec9e8d9af-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/93c0b0576df3de2255c58d3ec9e8d9af.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/93c0b0576df3de2255c58d3ec9e8d9af-150x150.png
 wppost_name: paraguay-como-se-facilito-el-golpe-de-las-corporaciones-decimu
 ---
 
@@ -40,4 +40,4 @@ Para guardar los archivos, hacer click con el botón derecho y seleccionar “Gu
 <strong><a href="http://www.decimu.com.ar/paraguay-como-se-facilito-el-golpe-de-las-corporaciones/" target="_blank">Fuente "Decí Mu"</a></strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4937/charlando-con-el-dr-martin-almada-para-entender-un-poco-mas-lo-que-pasa-en-paraguay">Charla con Martín Almada sobre la situación en Paraguay y la destitución de Fernando Lugo.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4937/charlando-con-el-dr-martin-almada-para-entender-un-poco-mas-lo-que-pasa-en-paraguay">Charla con Martín Almada sobre la situación en Paraguay y la destitución de Fernando Lugo.</a></strong></p>

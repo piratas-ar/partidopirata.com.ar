@@ -10,8 +10,8 @@ tags:
 - partido-pirata-suizo
 - rapidshare
 - suiza
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/bandera-suiza-pirata.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/bandera-suiza-pirata-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/bandera-suiza-pirata.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/bandera-suiza-pirata-150x150.jpg
 wppost_name: gobierno-suizo-confirma-el-derecho-a-descargar-de-internet
 ---
 
@@ -61,4 +61,4 @@ Una respuesta que dió la abogada que lleva el caso de I-Sat contra Cuevana cuan
 
 &nbsp;
 
-Es verdad, no lo somos, y justamente por eso es que para nosotros los productos culturales a los precios oficiales son muchísimos más caros,<strong> <a href="http://partidopirata.com.ar/557/precios-altos-transforman-a-paises-emergentes-en-piratas">como lo muestra este estudio realizado comparando el precio de un dvd oficial en Estados Unidos, México, Rusia, India y Brasil.</a></strong>
+Es verdad, no lo somos, y justamente por eso es que para nosotros los productos culturales a los precios oficiales son muchísimos más caros,<strong> <a href="https://partidopirata.com.ar/557/precios-altos-transforman-a-paises-emergentes-en-piratas">como lo muestra este estudio realizado comparando el precio de un dvd oficial en Estados Unidos, México, Rusia, India y Brasil.</a></strong>

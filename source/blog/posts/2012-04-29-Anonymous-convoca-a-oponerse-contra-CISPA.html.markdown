@@ -7,8 +7,8 @@ tags:
 - material-para-difusion
 - lucha
 - oposicion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/anon.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/anon-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/anon.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/anon-150x150.png
 wppost_name: anonymous-convoca-a-oponerse-contra-cispa
 ---
 

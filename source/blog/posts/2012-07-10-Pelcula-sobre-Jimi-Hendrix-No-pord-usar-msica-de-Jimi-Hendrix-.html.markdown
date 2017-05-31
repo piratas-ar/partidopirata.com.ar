@@ -10,8 +10,8 @@ tags:
 - licencias-de-musica
 - musica
 - permisos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/jimihendrix.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/jimihendrix-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/jimihendrix.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/jimihendrix-150x150.jpg
 wppost_name: pelicula-sobre-jimi-hendrix-no-porda-usar-musica-de-jimi-hendrix
 ---
 

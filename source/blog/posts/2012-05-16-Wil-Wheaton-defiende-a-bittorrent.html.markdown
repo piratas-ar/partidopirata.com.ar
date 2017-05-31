@@ -7,14 +7,14 @@ tags:
 - noticias
 - piratas
 - wil-wheaton
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/Wesley-Crusher-1024x768.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/Wesley-Crusher-1024x768-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/Wesley-Crusher-1024x768.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/Wesley-Crusher-1024x768-150x150.png
 wppost_name: wil-wheaton-defiende-a-bittorrent
 ---
 
 Wil Wheaton quien hizo de Wesley Crusher en Star Trek: The Next Generation y de si mismo en The Big Bang Theory publico un post en el que defiende al bitTorrent y debate la idea de que una descarga es una venta menos.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/Wesley-Crusher-1024x768.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/05/Wesley-Crusher-1024x768.png" alt="" title="Wesley Crusher" width="800" height="651" class="aligncenter size-full wp-image-4455" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/Wesley-Crusher-1024x768.png"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/05/Wesley-Crusher-1024x768.png" alt="" title="Wesley Crusher" width="800" height="651" class="aligncenter size-full wp-image-4455" /></a>
 
 <blockquote>Me encuentro en una situación contraria a la industria del
 entretenimiento. Creo en la neutralidad en la red, no creo que la piratería

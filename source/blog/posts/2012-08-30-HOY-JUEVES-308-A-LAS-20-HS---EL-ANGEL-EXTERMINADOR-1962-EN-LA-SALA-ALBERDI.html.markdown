@@ -7,8 +7,8 @@ tags:
 - cine-debate
 - luis-bunuel
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/image1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/image1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/image1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/image1-150x150.png
 wppost_name: hoy-jueves-308-a-las-20-hs-el-angel-exterminador-1962-la-sala-alberdi
 ---
 

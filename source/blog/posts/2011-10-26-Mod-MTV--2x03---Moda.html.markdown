@@ -13,8 +13,8 @@ tags:
 - monopolios
 - tecnologia
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
 wppost_name: mod-mtv-2x03-moda
 ---
 
@@ -44,7 +44,7 @@ Hmmm... Ropa tecnológica? Vio a <strong>Gaby Amaranto</strong> en VMB?? Aaah, e
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://partido-pirata.blogspot.com/2011/10/mod-mtv-segunda-temporada.html">Índice con los Mod MTV de la segunda temporada emitidos</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partido-pirata.blogspot.com/2011/10/mod-mtv-segunda-temporada.html">.</a></strong><img class="alignnone" title="Mod MTV" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="" width="223" height="69" /></p>
+<p style="text-align: center;"><strong><a href="http://partido-pirata.blogspot.com/2011/10/mod-mtv-segunda-temporada.html">.</a></strong><img class="alignnone" title="Mod MTV" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="" width="223" height="69" /></p>
 
 
 <hr />

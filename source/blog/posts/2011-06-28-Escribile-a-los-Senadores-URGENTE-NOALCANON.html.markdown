@@ -9,8 +9,8 @@ tags:
 - no-al-canon
 - no-los-votes
 - sadaic
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: escribile-a-los-senadores-urgente-noalcanon
 ---
 
@@ -41,4 +41,4 @@ El canon digital es un abuso.  Las acciones privadas son privadas.  Los ciudadan
 <ol>
 	<li id="footnote_0_6296"> Fuente:  Boletín Oficial Español   http://www.boe.es/aeboe/consultas/bases_datos/doc.php?id=BOE-A-2008-10443   (visitado el 28 de junio de 2011)   [<a href="http://www.vialibre.org.ar/2011/06/28/urgente-escribile-a-los-senadores-y-deciles-que-no-al-canon-digital/#identifier_0_6296">↩</a>]</li>
 </ol>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/1211/nolosvotes-noalcanon-noalcanenargentina-senadores-que-tratan-el-canon">Direcciones de los Senadores que tratarán el Canon Digital en la Argentina.</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/1211/nolosvotes-noalcanon-noalcanenargentina-senadores-que-tratan-el-canon">Direcciones de los Senadores que tratarán el Canon Digital en la Argentina.</a></strong></p>

@@ -10,12 +10,12 @@ tags:
 - pernambuco
 - recife
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/barco-pirata-partido.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/barco-pirata-partido-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/barco-pirata-partido.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/barco-pirata-partido-150x150.png
 wppost_name: convencion-nacional-del-partido-pirata-de-brasil-contara-con-rick-falkvinge
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/barco-pirata-partido.png"><img class="alignright size-full wp-image-5466" title="barco-pirata-partido" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/barco-pirata-partido.png" alt="" width="390" height="266" /></a>La convención nacional del Partido Pirata do Brasil será los días 27 y 28 de Julio en Recife-Pernambuco.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/barco-pirata-partido.png"><img class="alignright size-full wp-image-5466" title="barco-pirata-partido" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/barco-pirata-partido.png" alt="" width="390" height="266" /></a>La convención nacional del Partido Pirata do Brasil será los días 27 y 28 de Julio en Recife-Pernambuco.
 
 Durante la realización de la Campus Party en esa ciudad.
 
@@ -23,7 +23,7 @@ Si hay algún hispanohablante que esté por la región y quiera cubrir la conven
 
 <hr />
 
-<center><strong><a href="http://partidopirata.com.ar/contacto" target="_blank">Nuestro formulario de Contacto</a></strong></center>
+<center><strong><a href="https://partidopirata.com.ar/contacto" target="_blank">Nuestro formulario de Contacto</a></strong></center>
 <p style="text-align: center;"><strong><a href="https://twitter.com/PartidoPirataAr" target="_blank">Nuestra cuenta en Twitter</a></strong></p>
 
 
@@ -51,7 +51,7 @@ Para formar un partido, ellos deben aprobar el estatuto, programa de gobierno, f
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png"><img class=" wp-image-5467" title="rick-falkvinge-div" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png" alt="" width="279" height="189" /></a> Rick Falkvinge
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png"><img class=" wp-image-5467" title="rick-falkvinge-div" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png" alt="" width="279" height="189" /></a> Rick Falkvinge
 
 <p style="text-align: center;"><strong>Hoy hay un choque cultural</strong></p>
 <strong>ENTREVISTA:</strong> Rick Falkvinge, fundador del Partido Pirata Sueco
@@ -72,11 +72,11 @@ En Recife, hablaré como todos tenemos el poder de cambiar el mundo para mejor y
 
 <strong><a href="http://blogs.estadao.com.br/link/piratas-a-bordo/" target="_blank">Fuente Suplemento Link.</a></strong>
 
-[1] <strong><a href="http://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil"> Aquí hablamos con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong>
+[1] <strong><a href="https://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil"> Aquí hablamos con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong>
 
 <hr />
 
 Si alguien quiere representarnos en la Convención en Brasil, avísennos:
 
-<center><strong><a href="http://partidopirata.com.ar/contacto" target="_blank">Nuestro formulario de Contacto</a></strong></center>
+<center><strong><a href="https://partidopirata.com.ar/contacto" target="_blank">Nuestro formulario de Contacto</a></strong></center>
 <p style="text-align: center;"><strong><a href="https://twitter.com/PartidoPirataAr" target="_blank">Nuestra cuenta en Twitter</a></strong></p>

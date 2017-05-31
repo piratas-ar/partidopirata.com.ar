@@ -5,16 +5,16 @@ tags:
 - material-para-difusion
 - programacion
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/image2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/image2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/image2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/image2-150x150.png
 wppost_name: esta-semana-en-la-sala-alberdi
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/image2.png"><img class="size-large wp-image-7814 aligncenter" title="image(2)" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/image2-1024x357.png" alt="" width="620" height="216" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/image2.png"><img class="size-large wp-image-7814 aligncenter" title="image(2)" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/image2-1024x357.png" alt="" width="620" height="216" /></a>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/image3.png"><img class="aligncenter size-full wp-image-7815" title="image(3)" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/image3.png" alt="" width="557" height="544" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/image3.png"><img class="aligncenter size-full wp-image-7815" title="image(3)" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/image3.png" alt="" width="557" height="544" /></a>
 
 <hr />
 

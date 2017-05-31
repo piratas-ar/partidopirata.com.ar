@@ -12,14 +12,14 @@ tags:
 - invasion-de-la-privacidad
 - recopilacion-de-datos
 - tecnologia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/Surveillance-Tech-Cameras-140x140.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/Surveillance-Tech-Cameras-140x140-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/Surveillance-Tech-Cameras-140x140.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/Surveillance-Tech-Cameras-140x140-115x115.jpg
 wppost_name: data-communications-bill-la-tecnologia-no-solo-hace-la-distopia-posible-tambien-la-hace-barata
 ---
 
 <strong><a href="http://www.indexoncensorship.org/2012/08/surveillance-technology-human-rights/" target="_blank">Fuente: Index on censorship.</a></strong>
 
-<strong>El auge de las ventas de las tecnologías de vigilancia está enfriando la libertad de expresión. Tenemos que despertar de esta realidad, <a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/Surveillance-Tech-Cameras-140x140.jpg"><img class="alignright size-full wp-image-5812" title="Surveillance-Tech-Cameras-140x140" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/Surveillance-Tech-Cameras-140x140.jpg" alt="" width="140" height="140" /></a>dice Mike Harris</strong>.
+<strong>El auge de las ventas de las tecnologías de vigilancia está enfriando la libertad de expresión. Tenemos que despertar de esta realidad, <a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/Surveillance-Tech-Cameras-140x140.jpg"><img class="alignright size-full wp-image-5812" title="Surveillance-Tech-Cameras-140x140" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/Surveillance-Tech-Cameras-140x140.jpg" alt="" width="140" height="140" /></a>dice Mike Harris</strong>.
 
 <em>Originalmente se publicó en <a title="Independent - Communications Data Bill: Technology is making dystopia not just possible, but cheap " href="http://blogs.independent.co.uk/2012/08/07/communications-data-bill-technology-is-making-dystopia-not-just-possible-but-cheap/" target="_blank">Independent Blogs</a></em>
 

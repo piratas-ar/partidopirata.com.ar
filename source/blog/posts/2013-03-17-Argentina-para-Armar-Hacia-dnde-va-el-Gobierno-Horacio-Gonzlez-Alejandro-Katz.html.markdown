@@ -11,8 +11,8 @@ tags:
 - maria-laura-santillan
 - matriz-productiva
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/el_agente_naranja_de_la_soja.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/el_agente_naranja_de_la_soja-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/el_agente_naranja_de_la_soja.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/el_agente_naranja_de_la_soja-150x150.jpg
 wppost_name: argentina-para-armar-hacia-donde-va-el-gobierno-horacio-gonzalez-alejandro-katz
 ---
 
@@ -25,7 +25,7 @@ Audio completo del programa:
 <strong> Si el enlace anterior no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/programa-argentina-para-armar-horacio-gonzalez-alejandro-audios-mp3_rf_1875133_1.html" target="_blank">en este link</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart9.png"><img class="size-full wp-image-8865" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart9.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/chart9.png"><img class="size-full wp-image-8865" alt="Código QR de la dirección del archivo mp3" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/chart9.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 
 &nbsp;

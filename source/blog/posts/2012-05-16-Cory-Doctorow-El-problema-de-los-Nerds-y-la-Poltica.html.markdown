@@ -9,8 +9,8 @@ tags:
 - nerds
 - politica
 - politica-tradicional
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
 wppost_name: cory-doctorow-el-problema-de-los-nerds-y-la-politica
 ---
 

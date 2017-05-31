@@ -9,12 +9,12 @@ tags:
 - pirateria
 - rob-reid
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
 wppost_name: las-dificiles-matematicas-de-los-derechos-de-autor-o-mas-numerologia-pirata
 ---
 
-<strong><a href="http://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">Acá tenemos una sección dedicada a la <em>numerología pirata</em></a></strong>, los terribles perjuicios que causa la piratería en el mundo !
+<strong><a href="https://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">Acá tenemos una sección dedicada a la <em>numerología pirata</em></a></strong>, los terribles perjuicios que causa la piratería en el mundo !
 
 Ahora nos recomiendan esta conferencia TED sobre las difíciles matemáticas del derecho de autor:
 

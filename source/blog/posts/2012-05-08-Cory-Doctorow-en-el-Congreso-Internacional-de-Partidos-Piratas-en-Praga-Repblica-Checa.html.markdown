@@ -9,8 +9,8 @@ tags:
 - doctorow
 - praga
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
 wppost_name: cory-doctorow-en-el-congreso-internacional-de-partidos-piratas-en-praga-republica-checa
 ---
 
@@ -32,4 +32,4 @@ wppost_name: cory-doctorow-en-el-congreso-internacional-de-partidos-piratas-en-p
 <p style="text-align: center;"><strong>Si alguien quiere hacerlo, los subtítulos en inglés están casi listos pero habría que revisarlos.</strong></p>
 <p style="text-align: center;"><strong>Pueden abrir los archivos srt, el formato que se usa para los subtítulos, con el block de notas.</strong></p>
 <p style="text-align: center;"><strong>Pueden descargar el video si usan el Firefox y la aplicación <a href="http://www.downloadhelper.net/" target="_blank">Download Helper</a></strong>
-<strong> Cualquier duda <a href="http://partidopirata.com.ar/contacto">escríbanos, </a>ojalá podamos hacer éste y otros subtítulos que tenemos pendientes!</strong></p>
+<strong> Cualquier duda <a href="https://partidopirata.com.ar/contacto">escríbanos, </a>ojalá podamos hacer éste y otros subtítulos que tenemos pendientes!</strong></p>

@@ -7,8 +7,8 @@ tags:
 - declaracion
 - libertad
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
 wppost_name: declaracion-de-apoyo-a-taringa-partido-pirata-argentino
 ---
 

@@ -9,8 +9,8 @@ tags:
 - torrent-freak
 - torrentfreak
 - tres-avisos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: francia-la-ley-antipirateria-de-los-tres-avisos-no-logra-aumentar-las-ventas
 ---
 
@@ -42,4 +42,4 @@ La peor parte es, por supuesto que así no será como los grupos de presión ant
 <strong><a href="https://torrentfreak.com/french-three-strikes-law-slashes-piracy-but-fails-to-boost-sales-120330/" target="_blank">Fuente TorrentFreak</a></strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá hablamos con Eric Walter de Hadopi sobre el sistema antipiratería francés de los tres avisos</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá hablamos con Eric Walter de Hadopi sobre el sistema antipiratería francés de los tres avisos</a></strong></p>

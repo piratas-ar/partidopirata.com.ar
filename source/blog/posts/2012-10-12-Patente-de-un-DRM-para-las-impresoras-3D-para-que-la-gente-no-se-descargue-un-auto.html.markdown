@@ -10,8 +10,8 @@ tags:
 - patentes
 - torrentfreak
 - trabas-a-las-impresoras-3d
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/tpb3d1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/tpb3d1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/tpb3d1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/tpb3d1-150x150.jpg
 wppost_name: patente-para-un-drm-para-las-impresoras-3d-para-que-la-gente-no-se-descargue-un-auto
 ---
 
@@ -55,7 +55,7 @@ Básicamente un DRM es una traba para que algo no pueda ser copiado, un programa
 
 Los sistemas de DRM en el mundo de los medios digitales no son nada nuevo y los utilizan ampliamente las industrias de videogames, de la música y de las  películas . Ahora, después de haberlos aplicado hace cuatro años, una empresa esta semana obtuvo una patente para un sistema de DRM que tiene como objetivo detener a los futuros propietarios de las impresoras 3D de impresión de lo que les gusta. El sueño de la descarga de un nuevo par de zapatillas  o incluso un coche podría estar ya en peligro, antes de que haya comenzado.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/tpb3d1.jpg"><img class="alignright size-full wp-image-6812" title="impresion3d" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/tpb3d1.jpg" alt="" width="180" height="204" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/tpb3d1.jpg"><img class="alignright size-full wp-image-6812" title="impresion3d" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/tpb3d1.jpg" alt="" width="180" height="204" /></a>
 
 Durante los últimos 20 años, las impresoras de inyección de tinta hicieron un lío de mil demonios con el negocio de la tirada de impresión comercial, permitiéndole a que casi todo el mundo imprimir cualquier cosa, desde papel a plásticos con una inversión relativamente pequeña.
 
@@ -63,7 +63,7 @@ Dentro de los próximos 20 años, la impresora 3D será el hombre de la bolsa af
 
 Bajarse un coche - o un par de zapatillas - será totalmente posible, aunque Ford y Nike no estarán particularmente felices si la gente usa sus diseños para hacerlo. Sin embargo, si The Pirate Bay  sigue en su camino, eso es exactamente lo que sucederá.
 
-"Creemos que el próximo paso en la copia se realizará a partir del formato digital hacía el  formato físico. Serán objetos físicos. O como hemos decidido llamarlos: Physibles ", <a href="http://partidopirata.com.ar/2959/en-the-pirate-bay-ahora-se-podran-descargar-objetos-fisicos">dijo The Pirate Bay</a> a principios de este año anunciando una nueva sección de impresión  3D en su sitio.
+"Creemos que el próximo paso en la copia se realizará a partir del formato digital hacía el  formato físico. Serán objetos físicos. O como hemos decidido llamarlos: Physibles ", <a href="https://partidopirata.com.ar/2959/en-the-pirate-bay-ahora-se-podran-descargar-objetos-fisicos">dijo The Pirate Bay</a> a principios de este año anunciando una nueva sección de impresión  3D en su sitio.
 
 Pero The Pirate Bay no son los únicos que predicen impresiones en 3D gratis para todos, y ya se están tomando medidas para garantizar que a las personas del mañana se les niegue la libertad de imprimir lo que quieran.
 

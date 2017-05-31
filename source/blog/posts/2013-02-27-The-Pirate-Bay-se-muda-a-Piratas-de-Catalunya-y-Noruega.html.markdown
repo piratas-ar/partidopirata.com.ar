@@ -12,8 +12,8 @@ tags:
 - rights-alliance
 - the-pirate-bay
 - tpb
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/hydra-500x310.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/hydra-500x310-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/hydra-500x310.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/hydra-500x310-150x150.png
 wppost_name: the-pirate-bay-se-muda-a-piratas-de-catalunya-y-noruega
 ---
 
@@ -26,4 +26,4 @@ Extracto del <a href="http://pirata.cat/bloc/?p=4050#castellano" target="_blank"
 
 O si quieren leer <a href="http://piratetimes.net/the-hydra-bay-ppse-pulls-back-but-tpb-emerges-in-norway-and-spain/" target="_blank">la noticia completa en el Pirate Times</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/hydra-500x310.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2013/02/hydra-500x310.png" alt="hydra-500x310" width="500" height="310" class="aligncenter size-full wp-image-8577" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/hydra-500x310.png"><img src="https://partidopirata.com.ar/wp-content/uploads/2013/02/hydra-500x310.png" alt="hydra-500x310" width="500" height="310" class="aligncenter size-full wp-image-8577" /></a>

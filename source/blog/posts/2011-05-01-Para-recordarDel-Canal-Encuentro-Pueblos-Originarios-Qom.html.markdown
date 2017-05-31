@@ -8,12 +8,12 @@ tags:
 - pueblos-originarios
 - qom
 - videos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/bot_pueblos_originarios.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/bot_pueblos_originarios.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/bot_pueblos_originarios.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/bot_pueblos_originarios.jpg
 wppost_name: para-recordar-del-canal-encuentro-pueblos-originarios-qom
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/bot_pueblos_originarios.jpg"><img class="aligncenter size-full wp-image-884" title="bot_pueblos_originarios" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/bot_pueblos_originarios.jpg" alt="" width="196" height="92" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/bot_pueblos_originarios.jpg"><img class="aligncenter size-full wp-image-884" title="bot_pueblos_originarios" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/bot_pueblos_originarios.jpg" alt="" width="196" height="92" /></a>
 
 <strong><a href="https://darioaranda.wordpress.com/2011/05/01/soja-si-indigenas-no/" target="_blank">Luego de leer este artículo de Darío Aranda: Soja Si, Indígenas No.</a></strong>
 

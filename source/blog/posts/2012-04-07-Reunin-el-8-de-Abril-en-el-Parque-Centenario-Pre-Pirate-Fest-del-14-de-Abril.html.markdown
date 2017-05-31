@@ -17,7 +17,7 @@ wppost_name: reunion-el-8-de-abril-en-el-parque-centenario-pre-pirate-fest-del-1
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata.png"><img class="alignleft size-full wp-image-2463" title="Convocacao_pirata" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata.png" alt="" width="409" height="558" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata.png"><img class="alignleft size-full wp-image-2463" title="Convocacao_pirata" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata.png" alt="" width="409" height="558" /></a>
 
 Nos encontramos este domingo de 18 a 20 hs. en el <strong><a href="https://maps.google.com/maps?q=Av+Patricias+Argentinas+550,+Caballito,+Ciudad+Aut%C3%B3noma+de+Buenos+Aires,+Capital+Federal,+Argentina&amp;hl=es&amp;ie=UTF8&amp;geocode=FfTx7_0dzEyE_A&amp;hnear=Av+Patricias+Argentinas+550,+Caballito,+Ciudad+Aut%C3%B3noma+de+Buenos+Aires,+Argentina&amp;t=m&amp;z=16&amp;vpsrc=0" target="_blank">Observatorio Astronómico del Parque Centenario, Av. Patricias Argentinas 550</a></strong>.
 

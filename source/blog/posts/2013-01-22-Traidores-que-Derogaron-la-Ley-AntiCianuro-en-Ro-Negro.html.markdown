@@ -12,8 +12,8 @@ tags:
 - oro
 - parar-el-mundo
 - rio-negro
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/derogacion-ley-anti-cianuro-front.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/derogacion-ley-anti-cianuro-front-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/derogacion-ley-anti-cianuro-front.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/derogacion-ley-anti-cianuro-front-150x150.png
 wppost_name: traidores-derogaron-ley-anticianuro
 ---
 

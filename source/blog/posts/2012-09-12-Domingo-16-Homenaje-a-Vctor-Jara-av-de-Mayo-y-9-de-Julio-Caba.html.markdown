@@ -10,12 +10,12 @@ tags:
 - pinochet
 - sala-alberdi
 - victor-jara
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/image.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/image-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/image.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/image-150x150.png
 wppost_name: domingo-16-homenaje-a-victor-jara-av-de-mayo-y-9-de-julio-caba
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/image.png"><img class="size-full wp-image-6451" title="Víctor Jara" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/image.png" alt="" width="840" height="539" /></a> Homenaje a Víctor Jara en la Sala Alberdi
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/image.png"><img class="size-full wp-image-6451" title="Víctor Jara" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/image.png" alt="" width="840" height="539" /></a> Homenaje a Víctor Jara en la Sala Alberdi
 
 
 <hr />

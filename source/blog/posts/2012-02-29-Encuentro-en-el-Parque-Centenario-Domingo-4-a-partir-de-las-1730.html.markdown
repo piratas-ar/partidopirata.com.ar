@@ -8,12 +8,12 @@ tags:
 - domingo-4
 - encuentro
 - parque-centenario
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/Partido-Pirata-AR.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/Partido-Pirata-AR-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/Partido-Pirata-AR.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/Partido-Pirata-AR-150x150.jpg
 wppost_name: encuentro-en-el-parque-centenario-domingo-4-a-partir-de-las-1730
 ---
 
-<img class="aligncenter" title="Convocatoria Pirata" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata.png" alt="" width="409" height="558" />
+<img class="aligncenter" title="Convocatoria Pirata" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/Convocacao_pirata.png" alt="" width="409" height="558" />
 
 <hr />
 
@@ -25,7 +25,7 @@ Nos encontramos este domingo de 18 a 20 hs. en el <strong><a href="https://maps.
 
 Están todos invitados!!!
 
-La idea es charlar sobre las posibles estrategias ante todo lo que se viene: Taringa, <strong><a href="http://partidopirata.com.ar/2456/comunicado-de-cuevana-sobre-su-bloqueo-por-telecentro-y-forma-de-saltearse-el-bloqueo">Cuevana</a></strong>, Canon Digital, Ley Pinedo.
+La idea es charlar sobre las posibles estrategias ante todo lo que se viene: Taringa, <strong><a href="https://partidopirata.com.ar/2456/comunicado-de-cuevana-sobre-su-bloqueo-por-telecentro-y-forma-de-saltearse-el-bloqueo">Cuevana</a></strong>, Canon Digital, Ley Pinedo.
 
 Cualquier cosa, fíjense en <strong><a href="https://twitter.com/#!/partidopirataar" target="_blank">nuestro twitter</a></strong> por posibles actualizaciones.
 
@@ -33,4 +33,4 @@ Los esperamos!!
 
 <hr />
 <p style="text-align: center;"><strong>Pueden ubicarnos por nuestra bandera!</strong>
-<img class="aligncenter" title="Bandera Pirata" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140014-300x225.jpg" alt="" width="300" height="225" /></p>
+<img class="aligncenter" title="Bandera Pirata" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140014-300x225.jpg" alt="" width="300" height="225" /></p>

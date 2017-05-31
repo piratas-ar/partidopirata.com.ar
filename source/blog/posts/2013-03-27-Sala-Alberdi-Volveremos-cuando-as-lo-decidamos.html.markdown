@@ -15,8 +15,8 @@ tags:
 - noticias
 - sala-alberdi
 - silencio-de-los-grandes-medios
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/alberdi2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/alberdi2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/alberdi2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/alberdi2-150x150.jpg
 wppost_name: sala-alberdi-volveremos-cuando-asi-lo-decidamos
 ---
 

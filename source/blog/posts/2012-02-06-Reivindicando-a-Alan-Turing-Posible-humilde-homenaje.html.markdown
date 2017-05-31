@@ -10,8 +10,8 @@ tags:
 - reino-unido
 - rompiendo-codigos
 - turing
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-150x150.jpg
 wppost_name: reivindicando-a-alan-turing-posible-humilde-homenaje
 ---
 
@@ -22,7 +22,7 @@ En el Reino Unido y en muchas partes del mundo, mucho se está haciendo por el h
 
 Este mes, su contribución al quiebre del código secreto alemán durante la guerra está siendo conmemorado con una estampilla postal y un nuevo libro detallando sus contribuciones al desarrollo de las computadoras.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg"><img class="aligncenter size-large wp-image-3086" title="Estampilla Touring" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-1024x183.jpg" alt="" width="620" height="110" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg"><img class="aligncenter size-large wp-image-3086" title="Estampilla Touring" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-1024x183.jpg" alt="" width="620" height="110" /></a>
 
 Pero también este mes la Cámara de los Lores se negó a conceder un perdón póstumo por el delito de indecencia grave por el que fue condenado en 1952. No sólo estaba obligado a someterse a la castración química, su autorización de seguridad se retiró entonces y era incapaz de trabajar para continuar su labor para el GCHQ, la agencia de inteligencia de Gran Bretaña.
 

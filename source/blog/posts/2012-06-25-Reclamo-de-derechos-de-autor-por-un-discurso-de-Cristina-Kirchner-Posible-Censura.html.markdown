@@ -12,8 +12,8 @@ tags:
 - monsanto
 - remix
 - tv-publica
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/WMG-block-150x150.jpg
 wppost_name: reclamo-de-derechos-de-autor-por-un-discurso-de-cristina-kirchner-posible-censura
 ---
 

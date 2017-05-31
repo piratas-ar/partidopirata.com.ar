@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - gran-buenos-aires
 - netbooks
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/Índice.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/%C3%8Dndice-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/Índice.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/%C3%8Dndice-150x150.jpeg
 wppost_name: por-que-alguien-querria-desbloquear-la-netbook-de-conectar-igualdad-las-del-gobierno
 ---
 
@@ -47,4 +47,4 @@ Pd.:  Comento algo más , el desbloqueo es porque los pibes quieren usarlas no 
 <strong>"A dos de mis hijos de se les bloqueo las netboock con uso normal ya hace mas de 4 meses y no las pueden recuperar,pues aducen que los discos duros deben cambiarse y en la escuela de limache no les dan solucion.Parecerian ser truchas,bueno si son de China hay que dudar.Quien les dan solucion nadie,hay una montaña de PC en estas condiciones.Que este Señor Quiroz de una salida"</strong>
 <p style="text-align: center;"><strong>Comentario en <a href="http://www.eltribuno.info/salta/177024-Cobran-para-desbloquear-las-netbooks-del-Gobierno.note.aspx" target="_blank">esta nota de El Tribuno de Salta</a> donde informan de carteles de personas que se ofrecen para desbloquear las netbooks.</strong></p>
 <strong>Si buscan en Google (señor Juez, hágale juicio a Google,no a nosotros!!) <a href="http://www.google.com/search?q=desbloqueo%2C+netbooks%2C+avisos&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:pt-BR:official&amp;client=firefox-a" target="_Blank">Desbloqueo de Netbooks, avisos</a></strong> encontrarán varios anuncios de personas que se ofrecen a desbloquear las Netbooks.
-<p style="text-align: center;"> <strong><a href="http://partidopirata.com.ar/7349/la-informacion-sigue-queriendo-ser-libre-sobre-la-censura-a-las-paginas-que-explicaban-como-desbloquear-netbooks">Sobre la censura a páginas que informaban como desbloquear las netbooks.</a></strong></p>
+<p style="text-align: center;"> <strong><a href="https://partidopirata.com.ar/7349/la-informacion-sigue-queriendo-ser-libre-sobre-la-censura-a-las-paginas-que-explicaban-como-desbloquear-netbooks">Sobre la censura a páginas que informaban como desbloquear las netbooks.</a></strong></p>

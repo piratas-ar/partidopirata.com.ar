@@ -9,8 +9,8 @@ tags:
 - fractura-hidraulica
 - rio-impetuoso
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/raul.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/raul-150x133.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/raul.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/raul-150x133.png
 wppost_name: rio-impetuoso-hidrofractura
 ---
 
@@ -30,7 +30,7 @@ CONTACTO: matiasestevez@gmail.com / Tel. (0299) 154-566-120
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/8448/como-calificarian-este-video-en-youtube">En este link preguntábamos cómo se calificaría el video de Cristina Kirchner inaugurando los pozos de Fracking en la Argentina</a>.</strong>
+<strong><a href="https://partidopirata.com.ar/8448/como-calificarian-este-video-en-youtube">En este link preguntábamos cómo se calificaría el video de Cristina Kirchner inaugurando los pozos de Fracking en la Argentina</a>.</strong>
 Y decíamos también que los comentarios en youtube estaban moderados/censurados. De hecho a nosotros no nos publicaron un comentario respetuoso donde le cuestionábamos el Fracking.
 Pero, luego de nuestro post, permitieron un comentario cuestionando la técnica:
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/raul.png"><img class="aligncenter size-full wp-image-8502" alt="raul" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/raul.png" width="637" height="133" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/raul.png"><img class="aligncenter size-full wp-image-8502" alt="raul" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/raul.png" width="637" height="133" /></a>

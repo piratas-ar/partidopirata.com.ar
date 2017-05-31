@@ -7,8 +7,8 @@ tags:
 - financiero
 - ley-antiterrorista
 - proyecto-de-ley
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: llegan-las-recetas-con-batracios-proyecto-para-criminalizar-la-protesta
 ---
 
@@ -49,7 +49,7 @@ Lo de perseguir a los posibles financiadores de supuestas organizaciones terrori
 No sería extraño que , en caso de aprobarse el proyecto de ley SOPA en Estados Unidos luego haya presiones en la Argentina por algo similar.
 
 El proyecto para criminalizar la protesta fue enviado por el Poder Ejecutivo....Viene directamente de arriba. De la presidenta que no es la presidenta de las corporaciones....
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/2308/sopa-toda-la-internet-mundial-bajo-juridisccion-de-estados-unidos"><strong>Sobre el proyecto de ley SOPA</strong>.</a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/2308/sopa-toda-la-internet-mundial-bajo-juridisccion-de-estados-unidos"><strong>Sobre el proyecto de ley SOPA</strong>.</a></p>
 
 
 <hr />

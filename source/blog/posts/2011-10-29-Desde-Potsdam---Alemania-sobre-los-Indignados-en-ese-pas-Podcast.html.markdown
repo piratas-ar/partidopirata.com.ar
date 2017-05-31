@@ -11,8 +11,8 @@ tags:
 - podcasts
 - potsdam
 - protestas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben-150x150.png
 wppost_name: desde-potsdam-alemania-sobre-los-indignados-en-ese-pais-podcast
 ---
 
@@ -43,4 +43,4 @@ Kilez More - Infokrieger RMX - Massenpost EP</p>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben1.png"><img class="aligncenter size-full wp-image-858" title="Ung Pirat gubben" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben1.png" alt="" width="320" height="256" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben1.png"><img class="aligncenter size-full wp-image-858" title="Ung Pirat gubben" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben1.png" alt="" width="320" height="256" /></a>

@@ -11,12 +11,12 @@ tags:
 - musica
 - videos
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/youtube.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/youtube.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/youtube.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/youtube.png
 wppost_name: copyright-en-youtube
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/YouTube.jpg"><img class="alignleft size-medium wp-image-397" title="Censura en YouTube" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/YouTube-300x225.jpg" alt="" width="300" height="225" /></a>Si soles subir videos a YouTube y usas música o videos con copyright habrás notado que tus videos son eliminados, o no se escucha el sonido, o no se pueden ver en algunos países.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/YouTube.jpg"><img class="alignleft size-medium wp-image-397" title="Censura en YouTube" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/YouTube-300x225.jpg" alt="" width="300" height="225" /></a>Si soles subir videos a YouTube y usas música o videos con copyright habrás notado que tus videos son eliminados, o no se escucha el sonido, o no se pueden ver en algunos países.
 
 YouTube utiliza el llamado <a href="http://www.google.com/support/youtube/bin/answer.py?hl=en&amp;answer=83766" target="_blank">Content ID tool</a> para identificar contenido con copyright en tus videos y luego aplicar automáticamente las políticas de uso del dueño de dicho contenido.
 

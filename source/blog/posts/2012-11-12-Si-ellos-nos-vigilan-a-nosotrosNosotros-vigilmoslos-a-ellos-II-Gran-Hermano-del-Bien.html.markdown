@@ -13,12 +13,12 @@ tags:
 - sao-paulo
 - multimedia
 - violencia-policial
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos-ii-gran-hermano-del-bien
 ---
 
-En <a href="http://partidopirata.com.ar/5898/si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos">esta entrada del blog</a> mostrábamos un video hecho por un vecino que mostraba a un policía disparándole a una persona que estaba desarmada y ya rendida.
+En <a href="https://partidopirata.com.ar/5898/si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos">esta entrada del blog</a> mostrábamos un video hecho por un vecino que mostraba a un policía disparándole a una persona que estaba desarmada y ya rendida.
 
 Este otro video mostrado en el programa "El Fantástico" de la TV Globo de Brasil del 11 de Noviembre de 2012 muestra a una supuesta ejecución de otra persona que ya estaba desarmada y rendida.
 En ambos casos el informe policial dice otra cosa.

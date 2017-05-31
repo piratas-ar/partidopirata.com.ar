@@ -14,8 +14,8 @@ tags:
 - podcasts
 - villa
 - villa-21-24
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/listaroja.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/listaroja-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/listaroja.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/listaroja-150x150.jpg
 wppost_name: charlando-con-federico-orchani-de-la-lista-roja-y-los-cumpas-del-barrio-elecciones-en-villa-21-24
 ---
 
@@ -32,7 +32,7 @@ Les deseamos mucha suerte el domingo y los invitamos , como invitamos a todos, a
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-federico-orchani-lista-roja-audios-mp3_rf_1520799_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart9.png"><img class="size-full wp-image-7048" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart9.png" alt="" width="150" height="150" /></a> Código QR del Archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart9.png"><img class="size-full wp-image-7048" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart9.png" alt="" width="150" height="150" /></a> Código QR del Archivo mp3.
 
 <p style="text-align: center;"><strong><a href="https://rapidshare.com/files/3297187332/cumpas.mp3" target="_blank">Si Ivoox no está funcionando pueden bajarlo desde Rapidshare</a></strong></p>
 
@@ -45,7 +45,7 @@ Les deseamos mucha suerte el domingo y los invitamos , como invitamos a todos, a
 	<li><strong><a href="https://www.facebook.com/ListaRojaEnLa2124" target="_blank">Lista Roja en Facebook.</a></strong></li>
 	<li><strong><a href="https://es-es.facebook.com/federico.orchani" target="_blank">Federico Orchani en Facebook.</a></strong></li>
 	<li><strong><a href="http://www.ivoox.com/especial-lista-roja-villa-21-24-audios-mp3_rf_1501980_1.html" target="_blank">Programa de Radio de la Lista Roja en Radio La Caterva de Barracas</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/1286/noalcanon-mod-mtv-10-dedicado-al-impacto-de-la-tecnologia-en-las-periferias">Un programa de TV brasileño "ModMtv" dedicado a tecnología y periferia, muy interesante para saber qué generó en barrios periféricos la tecnología!</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/1286/noalcanon-mod-mtv-10-dedicado-al-impacto-de-la-tecnologia-en-las-periferias">Un programa de TV brasileño "ModMtv" dedicado a tecnología y periferia, muy interesante para saber qué generó en barrios periféricos la tecnología!</a></strong></li>
 </ul>
 
 <hr />
@@ -65,5 +65,5 @@ Spot de la Lista Roja</center><object width="353" height="132" classid="clsid:d2
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/votalaroja.jpg"><img class=" wp-image-7046 " title="votalaroja" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/votalaroja.jpg" alt="" width="576" height="432" /></a> Vota La Roja
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/votalaroja.jpg"><img class=" wp-image-7046 " title="votalaroja" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/votalaroja.jpg" alt="" width="576" height="432" /></a> Vota La Roja
 

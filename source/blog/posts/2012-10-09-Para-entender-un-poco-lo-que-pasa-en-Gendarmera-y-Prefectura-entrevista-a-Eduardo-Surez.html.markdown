@@ -12,8 +12,8 @@ tags:
 - radio-2
 - salarios
 - sueldos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/argentina-Gendarmeria-II.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/argentina-Gendarmeria-II-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/argentina-Gendarmeria-II.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/argentina-Gendarmeria-II-150x150.jpg
 wppost_name: para-entender-un-poco-lo-que-pasa-en-gendarmeria-y-prefectura-entrevista-a-eduardo-suarez
 ---
 
@@ -27,7 +27,7 @@ Tratando de entender un poco más lo que pasa con Gendarmería y Prefectura les 
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/entrevista-a-eduardo-suarez-asociacion-gremial-audios-mp3_rf_1483309_1.html" target="_blank">en el siguiente link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart1.png"><img class="size-full wp-image-6782" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart1.png"><img class="size-full wp-image-6782" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />
@@ -46,4 +46,4 @@ En la actualidad, es uno de los dirigentes de la agrupación política Convocato
 <div><strong><a href="http://sueniosposibles.com/" target="_blank">Blog del Programa de Radio.</a></strong></div>
 <strong>El programa se emite los lunes a las 21 hs. por<a href="http://www.am690.com.ar/" target="_blank"> http://www.am690.com.ar/,</a> con la conducción de Alfredo Grande. </strong>
 
-<strong><a href="http://partido-pirata.blogspot.com.br/2012/10/suenos-posibles-del-8-de-octubre.html" target="_blank">Si quieren descargar o escuchar todo el programa del 8 de octubre</a><a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/argentina-Gendarmeria-II.jpg"><img class="alignright size-full wp-image-6781" title="argentina-Gendarmeria-II" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/argentina-Gendarmeria-II.jpg" alt="" width="380" height="285" /></a></strong>
+<strong><a href="http://partido-pirata.blogspot.com.br/2012/10/suenos-posibles-del-8-de-octubre.html" target="_blank">Si quieren descargar o escuchar todo el programa del 8 de octubre</a><a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/argentina-Gendarmeria-II.jpg"><img class="alignright size-full wp-image-6781" title="argentina-Gendarmeria-II" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/argentina-Gendarmeria-II.jpg" alt="" width="380" height="285" /></a></strong>

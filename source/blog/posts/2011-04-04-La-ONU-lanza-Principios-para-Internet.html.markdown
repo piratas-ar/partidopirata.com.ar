@@ -7,12 +7,12 @@ tags:
 - naciones-unidas
 - onu
 - principios
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/onuinter.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/onuinter.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/onuinter.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/onuinter.jpg
 wppost_name: la-onu-lanza-principios-para-internet
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/onuinter.jpg"><img class="aligncenter size-medium wp-image-673" title="onuinter" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/onuinter-300x203.jpg" alt="" width="300" height="203" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/onuinter.jpg"><img class="aligncenter size-medium wp-image-673" title="onuinter" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/onuinter-300x203.jpg" alt="" width="300" height="203" /></a>
 <a href="http://blogs.estadao.com.br/link/onu-lanca-principios-para-a-internet/" target="_blank">Fuente Blog P2P.</a>
 Privacidad, igualdad, libertad y seguridad. Esos son algunos de los derechos y princupios de internet establecidos por la ONU para internet. El documento fue divulgado la semana pasada y fue definido por Internet Rights and Principles, red de organizaciones sobre derechos humanos en internet.
 

@@ -11,8 +11,8 @@ tags:
 - leyes
 - marihuana
 - victoria-donda
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/subcomandante2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/subcomandante2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/subcomandante2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/subcomandante2-150x150.png
 wppost_name: legalizacion-de-la-marihuana-la-lucha-de-la-aaca
 ---
 

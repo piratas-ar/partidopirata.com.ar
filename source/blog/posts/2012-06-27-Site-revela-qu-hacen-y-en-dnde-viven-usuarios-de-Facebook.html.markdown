@@ -8,8 +8,8 @@ tags:
 - facebook
 - intimidad
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: site-revela-que-hacen-y-en-donde-viven-usuarios-de-facebook
 ---
 
@@ -28,10 +28,10 @@ Según Callum, en apenas 24 horas al aire, el sitio ya tuvo más de 100 mil pág
 <p style="text-align: center;"><strong><a href="http://noticiasar.terra.com.ar/tecnologia/noticias/0,,OI5861206-EI4130,00-Site+revela+que+hacen+y+en+donde+viven+usuarios+de+Facebook.html" target="_blank">Fuente Terra</a></strong></p>
 <p style="text-align: center;"><strong><a href="http://weknowwhatyouredoing.com/" target="_blank">Si quieren visitar el site </a>
 <a href="https://twitter.com/#!/callumhaywood" target="_blank">Twitter del autor</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4990/sabemos-lo-que-estas-haciendo">Sobre: Sabemos lo que estás haciendo</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4990/sabemos-lo-que-estas-haciendo">Sobre: Sabemos lo que estás haciendo</a></strong></p>
 
 </div>
 
 <hr />
 <p style="text-align: center;"><strong>Le pasamos a Callum Haywood las preguntas en español, así que esperamos que haga una versión en castellano dentro de poco.</strong></p>
-<p style="text-align: center;"><strong><strong><a href="http://partidopirata.com.ar/4990/sabemos-lo-que-estas-haciendo">Acá pueden leer qué motivó que Callum Haywood hiciera ese programa</a></strong></strong></p>
+<p style="text-align: center;"><strong><strong><a href="https://partidopirata.com.ar/4990/sabemos-lo-que-estas-haciendo">Acá pueden leer qué motivó que Callum Haywood hiciera ese programa</a></strong></strong></p>

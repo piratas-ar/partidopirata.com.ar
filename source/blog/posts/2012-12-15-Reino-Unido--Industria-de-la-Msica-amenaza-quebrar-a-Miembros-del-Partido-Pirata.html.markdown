@@ -10,8 +10,8 @@ tags:
 - partido-pirata-del-reino-unido
 - reino-unido
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: reino-unido-industria-de-la-musica-amenaza-quebrar-a-miembros-del-partido-pirata
 ---
 
@@ -19,7 +19,7 @@ wppost_name: reino-unido-industria-de-la-musica-amenaza-quebrar-a-miembros-del-p
 
 El grupo de la industria musical del Reino Unido, BPI ha amenazado con emprender acciones legales contra seis miembros del Partido Pirata del Reino Unido, después de que el partido se negó a retirar su proxy de The Pirate Bay. BPI parece querer hacer individualmente responsables a los miembros del partido por las infracciones de derechos de autor  que puedan ocurrir a través del proxy, lo que los pone en riesgo de quiebra personal. El líder del Partido Pirata Loz Kaye criticó las últimas amenazas de la industria musical y reiteró que el bloqueo de The Pirate Bay es una medida desproporcionada.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
 
 Después de una costosa batalla legal  un grupo de discográficas <a href="http://torrentfreak.com/uk-isps-must-censor-the-pirates-bay-high-court-rules-120430/"> lograron su objetivo</a> de que el sitio web Pirate Bay fuera bloqueado en el Reino Unido.
 

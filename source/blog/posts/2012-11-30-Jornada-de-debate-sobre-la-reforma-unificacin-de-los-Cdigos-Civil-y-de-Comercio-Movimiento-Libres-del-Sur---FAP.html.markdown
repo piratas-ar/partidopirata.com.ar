@@ -15,8 +15,8 @@ tags:
 - silvina-ramirez
 - victoria-donda
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/Código-civil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/C%C3%B3digo-civil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/Código-civil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/C%C3%B3digo-civil-150x150.jpg
 wppost_name: jornada-de-debate-sobre-la-reforma-unificacion-de-los-codigos-civil-y-de-comercio-movimiento-libres-del-sur-fap
 ---
 
@@ -81,7 +81,7 @@ No permitieron su inserción, <a href="http://www.youtube.com/watch?v=hmKWoRcVhR
 <p style="text-align: center;"><strong>Si quieren bajar el audio presionen en <em>descargar</em> <a href="http://www.ivoox.com/jornada-debate-sobre-reforma-unificacion-de-audios-mp3_rf_1613717_1.html" target="_blank">en este link.
 Constitución, Derechos Humanos y Ambientales Derechos del Consumidor y Política Democrática para un nuevo Código.</a></strong></p>
 
-<center><strong><a href="http://partidopirata.com.ar/6603/charlando-con-enrique-viale-sobre-la-reforma-de-los-codigos-civil-y-comercial" target="_blank">Acá estuvimos hablando con Enrique en un podcast.</a></strong></center>
+<center><strong><a href="https://partidopirata.com.ar/6603/charlando-con-enrique-viale-sobre-la-reforma-de-los-codigos-civil-y-comercial" target="_blank">Acá estuvimos hablando con Enrique en un podcast.</a></strong></center>
 
 <hr />
 
@@ -108,7 +108,7 @@ Si quieren bajar el audio, presionen en <em>descargar</em> <a href="http://www.i
 
 Más sobre el Código Civil en nuestro blog:
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/5935/reforma-del-codigo-civil-argentino-este-no-es-un-proyecto-de-un-jurista-ni-siquiera-de-tres-y-la-gente" target="_blank">Sobre el caracter <em>excluyente</em> de la gente para debatir la reforma del Código Civil y Comercial.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5935/reforma-del-codigo-civil-argentino-este-no-es-un-proyecto-de-un-jurista-ni-siquiera-de-tres-y-la-gente" target="_blank">Sobre el caracter <em>excluyente</em> de la gente para debatir la reforma del Código Civil y Comercial.</a></strong></li>
 	<li><strong><a href="http://www.clarin.com/sociedad/Desmercantilizar-naturaleza_0_779322151.html" target="_blank">Nota de Enrique Viale sobre la reforma del Código Civil y Comercial y el acceso a ríos y lagos</a></strong></li>
 	<li><strong><a href="http://www.clarin.com/sociedad/acceso-costas-rios-lagos-restringido_0_779322149.html" target="_blank">Nota en Clarín sobre el acceso a las costas de ríos y lagos con la reforma del Código Civil.</a></strong></li>
 	<li><strong><a href="http://www.clarin.com/sociedad/historia-extrema-paisajes-privatizados_0_779322150.html" target="_blank">Más sobre el acceso a los ríos y lagos y el crimen de Cristian González </a></strong></li>

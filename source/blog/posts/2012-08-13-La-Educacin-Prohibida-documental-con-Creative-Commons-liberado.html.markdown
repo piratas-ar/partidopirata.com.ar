@@ -10,8 +10,8 @@ tags:
 - sin-examenes
 - sobre-educacion
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/02_0.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/02_0-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/02_0.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/02_0-150x150.jpg
 wppost_name: la-educacion-prohibida-documental-con-creative-commons-liberado
 ---
 

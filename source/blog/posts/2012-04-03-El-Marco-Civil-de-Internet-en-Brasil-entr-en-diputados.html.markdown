@@ -9,8 +9,8 @@ tags:
 - leyes-de-internet
 - marco-civil
 - marco-civil-de-internet
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
 wppost_name: el-marco-civil-de-internet-en-brasil-entro-en-diputados
 ---
 
@@ -43,5 +43,5 @@ El presidente de la comisión es uno de los autores del PL 2793/2011 , que tipif
 El Marco Civil de Internet es visto como una legislación prioritaria – el gobierno quiere aprobar el texto antes de cualquier ley de cibercrímenes u otra regulación para internet. La próxima reunión de la comisión está agendada para el 3 de abril. En ella debe ser definido el cronograma de actividades.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2730/brasil-marco-civil-de-internet-derechos-y-deberes-en-el-uso-de-internet">Si quieren leer el Marco Civil de Internet, que propone</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2730/brasil-marco-civil-de-internet-derechos-y-deberes-en-el-uso-de-internet">Si quieren leer el Marco Civil de Internet, que propone</a></strong></p>
 <p style="text-align: center;"><strong>Si se llegara a hacer una consulta pública en la Argentina, abierta, sobre un <em>Marco Civil</em> ¿estamos preparados para participar?</strong></p>

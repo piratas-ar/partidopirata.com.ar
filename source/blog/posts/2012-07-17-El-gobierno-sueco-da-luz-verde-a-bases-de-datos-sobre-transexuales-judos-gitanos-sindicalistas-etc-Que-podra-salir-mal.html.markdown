@@ -8,8 +8,8 @@ tags:
 - noticias
 - rick-falkvinge
 - suecia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/barbedwire-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/barbedwire-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/barbedwire-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/barbedwire-646x363-150x150.jpg
 wppost_name: el-gobierno-sueco-da-luz-verde-a-bases-de-datos-sobre-transexuales-judios-gitanos-sindicalistas-etc-que-podria-salir-mal
 ---
 

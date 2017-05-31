@@ -9,12 +9,12 @@ tags:
 - no-al-canon
 - senado-argentino
 - universidad-de-buenos-aires
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/logo_2009.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/logo_2009.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/logo_2009.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/logo_2009.jpg
 wppost_name: noalcanon-declaracion-del-consejo-directivo-de-exactas-uba-contra-el-canon-digital
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/07/logo_2009.jpg"><img class="aligncenter size-full wp-image-1474" title="logo_2009" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/logo_2009.jpg" alt="" width="240" height="70" /></a><strong>Visto:</strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/07/logo_2009.jpg"><img class="aligncenter size-full wp-image-1474" title="logo_2009" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/logo_2009.jpg" alt="" width="240" height="70" /></a><strong>Visto:</strong>
 
 El proyecto de ley de los senadores Miguel Ángel Pichetto y Rubén Giustiniani que propone la implementación de un Canon Digital, tratado el 28 de junio en la Comisión de Legislación General del Senado;
 

@@ -20,4 +20,4 @@ De esta manera, llegarán a la audiencia de la radio de la Ciudad las obras que 
 
 <hr />
 <p style="text-align: center;"><strong>La iniciativa de Julio Raffo es muy buena, podríamos agregarle que <em>cuelguen</em> el archivo de algún lado así cualquiera, desde cualquier lugar de la Argentina y del mundo puede escucharla!</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4463/el-texto-del-proyecto-de-ley-libre-acceso-a-la-cultura-en-internet">El texto del proyecto de ley de Julio Raffo sobre libre intercambio a través de Internet</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4463/el-texto-del-proyecto-de-ley-libre-acceso-a-la-cultura-en-internet">El texto del proyecto de ley de Julio Raffo sobre libre intercambio a través de Internet</a></strong></p>

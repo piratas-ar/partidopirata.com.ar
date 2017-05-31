@@ -6,8 +6,8 @@ tags:
 - brasil
 - material-para-difusion
 - ley-de-acceso-a-la-informacion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil-150x150.jpg
 wppost_name: brasil-la-ley-de-acceso-a-la-informacion-ya-esta-en-vigor
 ---
 

@@ -12,8 +12,8 @@ tags:
 - libros-divulgacion
 - mauricio-macri
 - papyrus
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/books_download.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/books_download-115x100.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/books_download.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/books_download-115x100.jpg
 wppost_name: llegan-los-e-books-a-las-bibliotecas-de-la-ciudad-de-buenos-aires-vale-la-pena
 ---
 
@@ -97,7 +97,7 @@ Lo del voucher con un descuento de $25 parece una broma, pero bueh.
 
 Ahora, si llegan a ofrecer los e-books con libros que no están en dominio público podríamos preguntarnos cuánto tiempo estarán disponibles esos archivos.
 
-En <a href="http://partidopirata.com.ar/1349/mod-mtv-11-libros"><strong>este capítulo de Mod MTV</strong></a> mostraban como prestan e-books y los archivos de los libros en la Biblioteca Pública de Nueva York.
+En <a href="https://partidopirata.com.ar/1349/mod-mtv-11-libros"><strong>este capítulo de Mod MTV</strong></a> mostraban como prestan e-books y los archivos de los libros en la Biblioteca Pública de Nueva York.
 
 En esa biblioteca permitían descargar los e-books, los archivos de texto y mantenerlos por 3 semanas, luego los "borraban" del dispositivo que tuviera el lector.
 
@@ -107,7 +107,7 @@ Suena raro, eso de "quemar el libro", supongo que sería una imposición de las 
 
 <center>
 <object width="425" height="344" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://swf.tubechop.com/tubechop.swf?vurl=DleWTbLil4Q&amp;start=255&amp;end=373&amp;cid=322496" /><param name="allowfullscreen" value="true" /><embed width="425" height="344" type="application/x-shockwave-flash" src="http://swf.tubechop.com/tubechop.swf?vurl=DleWTbLil4Q&amp;start=255&amp;end=373&amp;cid=322496" allowfullscreen="true" /></object>
-Sobre el <em>préstamo</em> de libros digitales en la Biblioteca de Nueva York.</center><center><a href="http://partidopirata.com.ar/1349/mod-mtv-11-libros"><strong> Si quieren ver todo el programa Mod MTV</strong></a></center>&nbsp;
+Sobre el <em>préstamo</em> de libros digitales en la Biblioteca de Nueva York.</center><center><a href="https://partidopirata.com.ar/1349/mod-mtv-11-libros"><strong> Si quieren ver todo el programa Mod MTV</strong></a></center>&nbsp;
 
 Ante esto, la duda: ¿Vale la pena que las bibliotecas públicas <em>presten</em> los e-readers?, ¿no sería más interesante que tengan gran parte de su material digitalizado y se pudiera descargar gratuitamente?
 
@@ -139,4 +139,4 @@ Por ejemplo, el llibro <strong><a href="http://www.grammata.com.ar/author/25712/
 Ojalá que las Bibliotecas Municipales no compren libros del catálogo de Papyrus o de otro e-reader, sinceramente no vale la pena, en nuestra humilde opinión. Es preferible que los compren en papel, tienen menos limitaciones.
 
 &nbsp;
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3798/e-libros-en-la-academia-una-historia-de-las-limitaciones-y-posibilidades">Algo más sobre todas las limitaciones de los e-readers en las bibliotecas.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3798/e-libros-en-la-academia-una-historia-de-las-limitaciones-y-posibilidades">Algo más sobre todas las limitaciones de los e-readers en las bibliotecas.</a></strong></p>

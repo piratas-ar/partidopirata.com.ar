@@ -9,8 +9,8 @@ tags:
 - seguridad-2
 - uit
 - wcit
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/figure_6.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/figure_6-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/figure_6.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/figure_6-150x150.jpg
 wppost_name: wcit-los-riesgos-de-controlar-internet
 ---
 

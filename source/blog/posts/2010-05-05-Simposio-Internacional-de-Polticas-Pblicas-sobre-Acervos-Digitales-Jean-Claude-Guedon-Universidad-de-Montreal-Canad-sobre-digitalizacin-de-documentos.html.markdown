@@ -22,8 +22,8 @@ tags:
 - simposio
 - universidad
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
 wppost_name: simposio-internacional-de-politicas-publicas-sobre-acervos-digitales-jean-claude-guedon-universidade-de-montreal-canada-sobre-digitalizacion-de-documentos
 ---
 

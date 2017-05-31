@@ -10,8 +10,8 @@ tags:
 - partido-pirata-catalan
 - pirates-de-catalunya
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
 wppost_name: podcast-con-juan-irache-de-pirates-de-catalunya-sobre-las-elecciones-en-espana
 ---
 
@@ -28,7 +28,7 @@ Charlamos con Juan Irache de los Pirates de Catalunya sobre la actualidad del pa
 <div style="text-align: center;"><strong><span class="gI"><span class="go"><a href="http://www.ivoox.com/charla-juan-irache-pirates-de_md_815449_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a></span></span></strong>
 <span style="font-size: large;"><strong>
 </strong></span>
-<span style="font-size: large;"><strong><span class="gI"><span class="go"><a href="http://partidopirata.com.ar/juan-piratas-catalunya.ogg" target="_blank">Si quieren descargar el archivo .ogg de mejor calidad</a> </span></span></strong></span></div>
+<span style="font-size: large;"><strong><span class="gI"><span class="go"><a href="https://partidopirata.com.ar/juan-piratas-catalunya.ogg" target="_blank">Si quieren descargar el archivo .ogg de mejor calidad</a> </span></span></strong></span></div>
 <strong><span class="gI"><span class="go">
 </span></span></strong>
 <span style="font-size: large;"><strong><span class="gI"><span class="go"><a href="http://www.4shared.com/audio/URhVnfVh/Juan_Irache_08_16_AM_Sunday_25.html" target="_blank">
@@ -69,7 +69,7 @@ También charlamos sobre los indignados en España, cómo se posicionó el parti
 </ul>
 <span style="font-size: large;"><strong>
 </strong></span>
-<span style="font-size: large;"><strong><a href="http://partidopirata.com.ar/1837/podcast-con-florian-del-partido-pirata-aleman-elecciones-municipales-en-alemania">El podcast anterior con Florián del Partido Pirata Alemán.</a></strong></span>
+<span style="font-size: large;"><strong><a href="https://partidopirata.com.ar/1837/podcast-con-florian-del-partido-pirata-aleman-elecciones-municipales-en-alemania">El podcast anterior con Florián del Partido Pirata Alemán.</a></strong></span>
 
 <strong>Nuestro e-mail:</strong>
 
@@ -109,4 +109,4 @@ Pensando en el Día Mundial Sin Autos!<strong></strong>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png"><img class="aligncenter" title="Podcast del Partido Pirata Argentino" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png" alt="" width="320" height="256" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png"><img class="aligncenter" title="Podcast del Partido Pirata Argentino" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png" alt="" width="320" height="256" /></a>

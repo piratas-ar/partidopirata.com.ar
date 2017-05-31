@@ -9,8 +9,8 @@ tags:
 - libros
 - livros-de-humanas
 - tatiana-de-mello-dias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale-150x150.jpg
 wppost_name: brasil-el-costo-de-la-copia-y-los-libros
 ---
 
@@ -42,7 +42,7 @@ El escritor no ve problemas en tener sus obras circulando online. “Tengo una b
 
 Los autores de la carta dicen que el público que baja es el mismo que compra libros. Eduardo Sterzi lo refuerza al decir que considera la oposición “comprar contra bajar” le parece falsa. “La verdadera alternativa es entre comprar o bajar versus no leer”.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale.jpg"><img class=" wp-image-4812 " title="quantovale" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale-290x300.jpg" alt="" width="401" height="414" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale.jpg"><img class=" wp-image-4812 " title="quantovale" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/quantovale-290x300.jpg" alt="" width="401" height="414" /></a>
 
 <ul>
 	<li><strong>17,5</strong> de la bibliografía exigida en los cursos de Derecha, Medicina e Ingeniería de la USP no están disponibles en la biblioteca.</li>
@@ -64,5 +64,5 @@ Los autores de la carta dicen que el público que baja es el mismo que compra li
 	<li><strong>Renta media de los estudiantes</strong></li>
 </ol>
 <p style="text-align: center;"><strong>Si alguien hace el estudio avísennos!</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4635/brasil-en-defensa-de-una-biblioteca-virtual-caso-livrosdehumanas">Brasil-En defensa de una biblioteca virtual: Livrosdehumanas</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4548/brasil-cierre-de-biblioteca-virtual-libro-impreso-pdf-legal-o-ilegal-livrosdehumanas-org-se-defiende">Sobre el cierre de Livros de Humanas</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4635/brasil-en-defensa-de-una-biblioteca-virtual-caso-livrosdehumanas">Brasil-En defensa de una biblioteca virtual: Livrosdehumanas</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4548/brasil-cierre-de-biblioteca-virtual-libro-impreso-pdf-legal-o-ilegal-livrosdehumanas-org-se-defiende">Sobre el cierre de Livros de Humanas</a></strong></p>

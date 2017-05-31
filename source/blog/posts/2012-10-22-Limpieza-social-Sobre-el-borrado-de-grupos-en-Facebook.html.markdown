@@ -9,8 +9,8 @@ tags:
 - lugares-libres
 - tatiana-de-mello-dias
 - tutorial
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: limpieza-social-sobre-el-borrado-de-grupos-en-facebook
 ---
 

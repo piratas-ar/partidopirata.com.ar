@@ -14,8 +14,8 @@ tags:
 - plazo
 - proteccion
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/0.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/0.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/0.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/0.jpg
 wppost_name: sobre-la-extension-al-monpolioi-de-los-fonogramas
 ---
 

@@ -9,8 +9,8 @@ tags:
 - modificacion-del-derecho-de-autor
 - pino-solanas
 - proyecto-sur
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/foro1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/foro1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/foro1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/foro1-150x150.jpg
 wppost_name: audiencia-publica-libre-acceso-a-la-cultura-en-internet-proyecto-de-ley-de-proyecto-sur
 ---
 
@@ -21,7 +21,7 @@ Presione en <em>play</em> para escuchar algunas de las dudas que le planteamos a
 <strong> Si el enlace anterior no funciona, presionen donde dice <em>descargar</em><a href="http://www.ivoox.com/charlando-diputado-julio-raffo-sobre-la-audios-mp3_rf_1220089_1.html" target="_blank"> en el siguiente enlace.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart.png"><img class="size-full wp-image-4397" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart.png" alt="" width="150" height="150" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/chart.png"><img class="size-full wp-image-4397" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/chart.png" alt="" width="150" height="150" /></a>
 
 <p style="text-align: center;"><strong>Estemos el lunes, revisemos al proyecto en lo que nos parezca que tiene que ser revisado, pero apoyémoslo. Entre tanta locura un poco de cordura es buena.</strong></p>
 <p style="text-align: center;"></p>
@@ -54,7 +54,7 @@ En ese orden, cita el artículo Nº 27 de la Declaración Universal de los Derec
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino.</a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino.</a>
 </strong></p>
 
 

@@ -7,8 +7,8 @@ tags:
 - no-al-canon-en-argentina
 - no-los-votemos
 - senadores
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: nolosvotes-noalcanon-noalcanenargentina-senadores-que-tratan-el-canon
 ---
 
@@ -20,7 +20,7 @@ Estos son los senadores que tratarán el Canon en la Argentina:
 <p style="text-align: center;"><strong>Déjele su mensaje avisándole que NO QUEREMOS CANON EN ARGENTINA</strong></p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong>NO AL CANON!!</strong></p>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/1222/escribile-a-los-senadores-urgente-noalcanon" target="_blank">Modelo de Carta para enviarle a los senadores.</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/1222/escribile-a-los-senadores-urgente-noalcanon" target="_blank">Modelo de Carta para enviarle a los senadores.</a></strong></p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tbody>
@@ -686,4 +686,4 @@ Estos son los senadores que tratarán el Canon en la Argentina:
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1222/escribile-a-los-senadores-urgente-noalcanon" target="_blank">Modelo de Carta para enviarle a los senadores.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1222/escribile-a-los-senadores-urgente-noalcanon" target="_blank">Modelo de Carta para enviarle a los senadores.</a></strong></p>

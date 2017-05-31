@@ -21,7 +21,7 @@ wppost_name: hernan-casciari-ted-x-rio-de-la-plata
 Hernán Casciari en Ted x Rio de la Plata</center>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2235/mientras-esperamos-la-conferencia-tedxriodelaplata-dos-de-hernan-casciari">Acá estábamos esperando la conferencia.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2235/mientras-esperamos-la-conferencia-tedxriodelaplata-dos-de-hernan-casciari">Acá estábamos esperando la conferencia.</a></strong></p>
 
 
 <hr />
@@ -30,6 +30,6 @@ Hernán Casciari en Ted x Rio de la Plata</center>
 
 <hr />
 
-<img class="aligncenter" title="Revista Orsai Nro. 3" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/orsai.jpg" alt="" width="405" height="306" />
+<img class="aligncenter" title="Revista Orsai Nro. 3" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/orsai.jpg" alt="" width="405" height="306" />
 
 &nbsp;

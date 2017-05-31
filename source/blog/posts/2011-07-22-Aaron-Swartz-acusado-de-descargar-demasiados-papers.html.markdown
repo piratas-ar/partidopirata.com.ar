@@ -4,8 +4,8 @@ date: '2011-07-22'
 tags:
 - campanas
 - denuncias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500-150x150.png
 wppost_name: aaron-swartz-acusado-de-descargar-demasiados-papers
 ---
 

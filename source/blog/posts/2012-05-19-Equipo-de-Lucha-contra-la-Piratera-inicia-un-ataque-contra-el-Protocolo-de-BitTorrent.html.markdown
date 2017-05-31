@@ -9,14 +9,14 @@ tags:
 - pirate-pay
 - polonia
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/danger.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/danger-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/danger.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/danger-150x150.jpg
 wppost_name: lucha-contra-la-pirateria-inicia-un-ataque-contra-el-protocolo-de-bittorrent
 ---
 
 <a>Fuente Torrentfreak.</a>
 
-En las últimas semanas las campanas de alarma sonaron en el equipo Respuesta a Emergencias Informáticas de Polonia, cuando se descubrió que una entidad desconocida estaba enviando grandes cantidades de paquetes de datos falsos y constituyó una amenaza para los usuarios de BitTorrent a nivel mundial. Un análisis detallado revela que equipos de lucha contra la piratería pueden iniciar estos ataques para evitar que se descarguen películas. De acuerdo con los expertos en seguridad, la legalidad de estos ataques es dudosa. <a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/danger.jpg"><img class="alignright size-full wp-image-4509" title="danger" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/danger.jpg" alt="" width="225" height="191" /></a>
+En las últimas semanas las campanas de alarma sonaron en el equipo Respuesta a Emergencias Informáticas de Polonia, cuando se descubrió que una entidad desconocida estaba enviando grandes cantidades de paquetes de datos falsos y constituyó una amenaza para los usuarios de BitTorrent a nivel mundial. Un análisis detallado revela que equipos de lucha contra la piratería pueden iniciar estos ataques para evitar que se descarguen películas. De acuerdo con los expertos en seguridad, la legalidad de estos ataques es dudosa. <a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/danger.jpg"><img class="alignright size-full wp-image-4509" title="danger" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/danger.jpg" alt="" width="225" height="191" /></a>
 
 De acuerdo con el Computer Emergency Response Team (<a href="http://en.wikipedia.org/wiki/CERT_Polska">CERT</a>) en Polonia, el protocolo <a href="http://en.wikipedia.org/wiki/Micro_Transport_Protocol">uTP protoco</a> está bajo ataque.
 
@@ -28,7 +28,7 @@ Los investigadores de seguridad, dicen que estos ataques de envenenamiento se es
 
 Una de las explicaciones probables de estos ataques de envenenamiento es que equipos de lucha contra la piratería las están utilizando para "proteger" a las películas de sus clientes. Por ejemplo, estos equipos pueden sobrecargar las nubes de BitTorrent con datos corruptos o mensajes de "desconexión", mientras se pasan por descargadores legítimos.
 
-Esto es exactamente lo que la <a href="http://partidopirata.com.ar/4424/microsoft-financio-una-startup-que-pretende-matar-el-trafico-de-bittorrent">startup financiada por Microsoft Pirate Pay</a>  parece estar haciendo, aunque otras compañías también podrían utilizar los mismos métodos. Una compañía llamada ICM aparece como <a href="http://ruprotect.com/en/movies/poster/all/2012/">“protegiendo”</a>" a la película rusa que fue objeto de los ataques identificados por el CERT.
+Esto es exactamente lo que la <a href="https://partidopirata.com.ar/4424/microsoft-financio-una-startup-que-pretende-matar-el-trafico-de-bittorrent">startup financiada por Microsoft Pirate Pay</a>  parece estar haciendo, aunque otras compañías también podrían utilizar los mismos métodos. Una compañía llamada ICM aparece como <a href="http://ruprotect.com/en/movies/poster/all/2012/">“protegiendo”</a>" a la película rusa que fue objeto de los ataques identificados por el CERT.
 
 Los investigadores de seguridad no hacen ninguna afirmación concluyente sobre el origen de los ataques, pero sí señalan una fuente posilbe podrían ser los grupos anti-piratería.
 

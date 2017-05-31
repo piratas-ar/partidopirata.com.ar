@@ -9,8 +9,8 @@ tags:
 - p2p
 - torrentfreak
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/throttle.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/throttle-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/throttle.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/throttle-150x150.jpg
 wppost_name: controles-sobre-bittorrent
 ---
 

@@ -9,8 +9,8 @@ tags:
 - ministerio-de-cultura
 - nuevo-gobierno
 - secretario-de-cultura
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil-150x150.jpg
 wppost_name: nuestra-propuesta-para-secretario-de-cultura-del-proximo-gobierno
 ---
 
@@ -28,9 +28,9 @@ wppost_name: nuestra-propuesta-para-secretario-de-cultura-del-proximo-gobierno
 <p style="text-align: center;"><strong>Todo es palo y a la bolsa.</strong></p>
 <p style="text-align: center;"><strong>Es lo que se viene para el próximo gobierno...</strong></p>
 <p style="text-align: center;"><strong>Atrasa un poco, tal vez mucho...</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor">Algo más sobre Jorge Coscia y su modelo de negocios.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor">Algo más sobre Jorge Coscia y su modelo de negocios.</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg"><img class="aligncenter size-full wp-image-1654" title="gilbertogil" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg" alt="" width="288" height="212" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg"><img class="aligncenter size-full wp-image-1654" title="gilbertogil" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg" alt="" width="288" height="212" /></a>

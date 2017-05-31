@@ -29,8 +29,8 @@ tags:
 - sociedad
 - suiza
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
 wppost_name: prefieres-el-derecho-a-la-copia-o-el-derecho-a-hablar-en-privado
 ---
 

@@ -10,12 +10,12 @@ tags:
 - podcast-2
 - skype
 - tercer
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/reunion.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/reunion.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/reunion.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/reunion.jpg
 wppost_name: encuentro-a-traves-del-skype-sabado-18-de-diciembre-a-partir-21-hs
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/reunion.jpg"><img class="alignleft size-medium wp-image-344" title="reunion en el skype" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/reunion-300x150.jpg" alt="" width="300" height="150" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/reunion.jpg"><img class="alignleft size-medium wp-image-344" title="reunion en el skype" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/reunion-300x150.jpg" alt="" width="300" height="150" /></a>
 
 El sábado 18 nos encontramos a través de Skype para grabar nuestro tercer programa de radio:
 

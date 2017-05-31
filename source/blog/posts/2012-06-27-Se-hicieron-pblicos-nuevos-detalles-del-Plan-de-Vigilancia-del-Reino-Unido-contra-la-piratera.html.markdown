@@ -10,8 +10,8 @@ tags:
 - reino-unido
 - torrentfreak
 - tres-avisos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/Censura-Inglaterra-Internet-FDG.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/Censura-Inglaterra-Internet-FDG-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/Censura-Inglaterra-Internet-FDG.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/Censura-Inglaterra-Internet-FDG-150x150.jpg
 wppost_name: se-hicieron-publicos-nuevos-detalles-del-plan-de-vigilancia-del-reino-unido-contra-la-pirateria
 ---
 
@@ -65,5 +65,5 @@ O sea, en la Argentina: SADAIC, CAPIF, Argentores, SAGAI y así siguiendo.
 
 En Francia son esas instituciones las que monitorean lo que se está compartiendo vía P2P para después ordenarle a los proveedores de Internet que manden los avisos respectivos.
 <p style="text-align: center;"><strong>Si quieren saber más sobre HADOPI en Francia, estuvimos hablando con Eric Walter que es oficial hadopi.</strong>
-<strong> <a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá pueden escuchar esa charla.</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá pueden escuchar esa charla.</a></strong></p>
 &nbsp;

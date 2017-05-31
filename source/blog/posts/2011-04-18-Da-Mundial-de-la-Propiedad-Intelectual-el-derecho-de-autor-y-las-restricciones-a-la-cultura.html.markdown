@@ -8,12 +8,12 @@ tags:
 - divulgacion
 - ompi
 - propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/wipo_logo1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/wipo_logo1.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/wipo_logo1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/wipo_logo1.png
 wppost_name: '746'
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/wipo_logo1.png"><img class="alignleft size-full wp-image-748" title="Logo Ompi" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/wipo_logo1.png" alt="" width="96" height="95" /></a><a href="http://www.vialibre.org.ar/2011/04/18/dia-mundial-de-la-propiedad-intelectual-el-derecho-de-autor-y-las-restricciones-a-la-cultura/" target="_blank">Fuente Fundación Vía Libre.</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/wipo_logo1.png"><img class="alignleft size-full wp-image-748" title="Logo Ompi" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/wipo_logo1.png" alt="" width="96" height="95" /></a><a href="http://www.vialibre.org.ar/2011/04/18/dia-mundial-de-la-propiedad-intelectual-el-derecho-de-autor-y-las-restricciones-a-la-cultura/" target="_blank">Fuente Fundación Vía Libre.</a>
 
 &nbsp;
 

@@ -12,8 +12,8 @@ tags:
 - rio-de-janeiro
 - videocamaras
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano-150x150.jpg
 wppost_name: si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos
 ---
 
@@ -29,7 +29,7 @@ La idea: Si ellos nos vigilan, vigilémoslos nosotros a ellos !
 <hr />
 
 <center>
-<strong><a href="http://partidopirata.com.ar/7344/si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos-ii-gran-hermano-del-bien" target="_blank">Otro <em>Gran Hermano</em> del bien.</a></strong>
+<strong><a href="https://partidopirata.com.ar/7344/si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos-ii-gran-hermano-del-bien" target="_blank">Otro <em>Gran Hermano</em> del bien.</a></strong>
 <strong>Scioli con sus cámaras en la Provincia de Buenos Aires, Massa en Tigre y otros más....</strong></center>sociólogo Gabriel Kessler señala que la medida parte de un estigma que recae sobre los sectores pobres y los considera peligrosos.
 
 <center>Áudio de FM La Tribu sobre las cámaras de video en la provincia de Buenos Aires.</center>

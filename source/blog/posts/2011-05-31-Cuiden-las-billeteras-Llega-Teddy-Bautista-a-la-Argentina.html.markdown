@@ -8,14 +8,14 @@ tags:
 - divulgacion
 - teddy-bautista
 - teddy-bautista-en-la-argentina
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
 wppost_name: cuiden-las-billeteras-llega-teddy-bautista-a-la-argentina
 ---
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg"><img class="aligncenter size-medium wp-image-1075" title="Teddy_bautista" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg"><img class="aligncenter size-medium wp-image-1075" title="Teddy_bautista" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-300x225.jpg" alt="" width="300" height="225" /></a>
 <p style="text-align: center;"><strong>Teddy Bautista</strong></p>
 &nbsp;
 
@@ -39,7 +39,7 @@ Participarán algunos de  los referentes más importantes del tema, tanto de ord
 
 "
 
-<a href="http://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor" target="_blank">Si recordamos que al Secretario de Cultura de la Nación, Jorge Coscia , le gusta mucho el Canon Digital..</a>Ya sabemos qué conclusiones pueden salir de la reunión....
+<a href="https://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor" target="_blank">Si recordamos que al Secretario de Cultura de la Nación, Jorge Coscia , le gusta mucho el Canon Digital..</a>Ya sabemos qué conclusiones pueden salir de la reunión....
 
 <a href="http://partido-pirata.blogspot.com/2011/05/hernan-lombardi-secretario-de-cultura.html" target="_blank">También Hernán Lombardi, secretario de cultura de la Ciudad de Buenos Aires estuvo con gente de la SGAE</a> a qué no saben de qué está a favor??....(empieza con canon y termina con digital).
 

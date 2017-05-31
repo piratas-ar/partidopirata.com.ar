@@ -38,12 +38,12 @@ Ambos se encontraron en Buenos Aires y Ana dijo en<strong> <a href="http://www.p
 
 " Estamos trabajando en la internacionalización de la literatura brasileña; es una de nuestras prioridades y por eso el estímulo a la traducción, porque las otras artes, la música o el cine, tienen lenguajes que, más allá de las dificultades específicas, se comprenden."
 <p style="text-align: center;">Así que el ministerio que ella dirige le dió 4 mil dólares a la editorial para que traduzca a su hermano.
-<a href="http://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor">
+<a href="https://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor">
 <strong> Eso si, luego Coscia nos explicará quiénes son los verdaderos ladrones...</strong>
 </a></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873" title="225px-Coscia" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873" title="225px-Coscia" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>
 
 
 <hr />

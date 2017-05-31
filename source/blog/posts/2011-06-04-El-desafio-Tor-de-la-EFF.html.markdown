@@ -7,8 +7,8 @@ tags:
 - censura
 - privacidad
 - tor
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/tor.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/tor-150x100.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/tor.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/tor-150x100.png
 wppost_name: el-desafio-tor-de-la-eff
 ---
 

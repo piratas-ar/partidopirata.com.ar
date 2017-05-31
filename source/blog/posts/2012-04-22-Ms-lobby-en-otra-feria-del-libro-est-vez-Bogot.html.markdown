@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - feria-del-libro-de-bogota
 - samba-triste
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
 wppost_name: mas-lobby-en-otra-feria-del-libro-esta-vez-bogota
 ---
 

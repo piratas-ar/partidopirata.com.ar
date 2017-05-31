@@ -9,8 +9,8 @@ tags:
 - noticias
 - the-beatles-extension
 - union-europea
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/s3030.png
 wppost_name: se-confirma-el-robo-de-20-anos-de-dominio-publico-en-europa-the-beatles-extension
 ---
 
@@ -47,7 +47,7 @@ Y eso significa que no hay dominio público para los Beatles habrá que esperar 
 Todos terminamos empobrecidos con esto. Tal vez en el Congreso Iberoamericano de Cultura Jorge Coscia o algún otro miembro de la Secretaría de Cultura explique los <em>beneficios</em> de extender a 70 años el monopolio sobre los fonogramas...Ya que ellos impulsaron esta medida en el 2009.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1769/20-anos-que-nos-pueden-robar-a-todos-culturas2011-el-parlamento-europeo-debatira-la-ampliacion-a-70-anos-de-los-derechos-sobre-los-fonogramas">Acá colocamos algunas de las consecuencias de la nacional "Extensión Mercedes Sosa"</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1769/20-anos-que-nos-pueden-robar-a-todos-culturas2011-el-parlamento-europeo-debatira-la-ampliacion-a-70-anos-de-los-derechos-sobre-los-fonogramas">Acá colocamos algunas de las consecuencias de la nacional "Extensión Mercedes Sosa"</a></strong></p>
 
 
 <hr />

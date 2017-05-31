@@ -9,8 +9,8 @@ tags:
 - monsanto
 - patentes
 - soja
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja-150x150.jpg
 wppost_name: para-cuando-sera-el-proximo-juicio-por-genocidio-en-la-argentina
 ---
 

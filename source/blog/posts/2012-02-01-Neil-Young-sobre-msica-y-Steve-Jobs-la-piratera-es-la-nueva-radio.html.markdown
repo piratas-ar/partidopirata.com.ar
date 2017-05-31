@@ -8,12 +8,12 @@ tags:
 - musica
 - neil-young
 - pirateria
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/250px-Neil_Young_-_Per_Ole_Hagen.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/250px-Neil_Young_-_Per_Ole_Hagen-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/250px-Neil_Young_-_Per_Ole_Hagen.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/250px-Neil_Young_-_Per_Ole_Hagen-150x150.jpg
 wppost_name: neil-young-sobre-musica-y-steve-jobs-la-pirateria-es-la-nueva-radio
 ---
 
-<strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/250px-Neil_Young_-_Per_Ole_Hagen.jpg"><img class="aligncenter size-full wp-image-3036" title="Neil Young" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/250px-Neil_Young_-_Per_Ole_Hagen.jpg" alt="" width="250" height="175" /></a>
+<strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/250px-Neil_Young_-_Per_Ole_Hagen.jpg"><img class="aligncenter size-full wp-image-3036" title="Neil Young" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/250px-Neil_Young_-_Per_Ole_Hagen.jpg" alt="" width="250" height="175" /></a>
 
 Neil Young llegó al estudio de <a href="http://allthingsd.com/conferences/dive-into-media/about/" target="_blank"> D: Dive into Media </a> para hablar con Walt Mossberg y Peter Kafka sobre la distribución y la calidad de la música digital actual. Young están preocupado principalmente porque los archivos MP3 que todos estamos escuchando son en realidad muy pobres desde el punto de vista de la calidad de audio. Él dice que el archivo MP3 promedio, sólo contiene alrededor de cinco por ciento de la calidad de audio de una grabación original y que Apple Lossless ofrece sólo "un 10,3 por ciento." La preocupación es doble, lo que Young llamó "el principio y el fin" del burro. La parte trasera es de los dispositivos que usamos para escuchar audio, y las esperanzas de Young es que vamos a mejorar los dispositivos que hay actualmente disponibles. Por ejemplo, sobre Beats Audio, dice: "Yo creo que hacen que se vea mejor, y creo que hacen que suene más grave." Young también quiere ver mejores grabaciones de música y grabación de alta resolución, pero todavía no estamos ni lejos. Se espera que "un tipo rico" resuelva el problema de la creación y distribución del "100 por ciento" del sonido de la música.
 

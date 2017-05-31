@@ -10,8 +10,8 @@ tags:
 - reconocimiento-facial
 - sibios
 - todos-vigilados
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
 wppost_name: sobre-el-24-de-marzo-sibios-todos-vigilados-reconocer-una-cara-entre-36-millones
 ---
 
@@ -56,4 +56,4 @@ Reconocer un rostro entre 36 millones!</center>&nbsp;
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3627/sobre-el-24-de-marzo-cuidemos-nuestra-privacidad">Algo que habíamos dejado en este post anterior.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3627/sobre-el-24-de-marzo-cuidemos-nuestra-privacidad">Algo que habíamos dejado en este post anterior.</a></strong></p>

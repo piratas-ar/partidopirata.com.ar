@@ -7,8 +7,8 @@ tags:
 - john-carpenter
 - they-live
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/url.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/url-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/url.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/url-150x150.jpg
 wppost_name: de-nuestro-ciclo-videos-volados-de-google-videos-they-live-ellos-viven
 ---
 

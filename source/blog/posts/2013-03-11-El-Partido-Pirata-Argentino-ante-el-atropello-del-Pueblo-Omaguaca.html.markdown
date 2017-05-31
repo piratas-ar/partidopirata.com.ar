@@ -8,8 +8,8 @@ tags:
 - jujuy
 - omaguaca
 - pueblos-originarios
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/Gobierno-Autónomo-del-Pueblo-Omaguaca-e1363037258809.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/Gobierno-Aut%C3%B3nomo-del-Pueblo-Omaguaca-e1363037258809-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/Gobierno-Autónomo-del-Pueblo-Omaguaca-e1363037258809.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/Gobierno-Aut%C3%B3nomo-del-Pueblo-Omaguaca-e1363037258809-150x150.jpg
 wppost_name: el-partido-pirata-argentino-ante-el-atropello-del-pueblo-omaguaca
 ---
 

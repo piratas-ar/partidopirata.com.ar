@@ -13,8 +13,8 @@ tags:
 - propagandas
 - propagandas-de-alimentos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz-150x150.jpg
 wppost_name: mucho-mas-que-el-peso-documental-brasileno-sobre-obesidad-infantil
 ---
 
@@ -36,14 +36,14 @@ wppost_name: mucho-mas-que-el-peso-documental-brasileno-sobre-obesidad-infantil
 <p style="text-align: center;"><strong><a href="http://www.muitoalemdopeso.com.br/" target="_blank">Más información del documental en su site</a></strong></p>
 <p style="text-align: center;"><strong>33% de los niños brasileños tienen problemas de peso.</strong></p>
 <p style="text-align: center;"><strong>¿En la Argentina cuántos serán?</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/8401/una-ley-para-que-redacten-los-legisladores-a-los-que-tanto-les-preocupan-los-ninosas">Un programa de TV de Argentina sobre obesidad infantil en el país</a> la conductora da bastante verguenza ajena</strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/8401/una-ley-para-que-redacten-los-legisladores-a-los-que-tanto-les-preocupan-los-ninosas">Un programa de TV de Argentina sobre obesidad infantil en el país</a> la conductora da bastante verguenza ajena</strong></p>
 <p style="text-align: center;">En un momento en el documental quieren saber cuánta harina integral hay en una galletita, llaman al SAC (Servicio de Atención al Cliente) la respuesta es que eso está protegido por la <strong>Propiedad Intelectual!</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/8401/una-ley-para-que-redacten-los-legisladores-a-los-que-tanto-les-preocupan-los-ninosas">La ley que prohibía la propaganda de alimentos dentro del Estado de San Pablo-Brasil que fue vetado por el gobernador</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/8401/una-ley-para-que-redacten-los-legisladores-a-los-que-tanto-les-preocupan-los-ninosas">La ley que prohibía la propaganda de alimentos dentro del Estado de San Pablo-Brasil que fue vetado por el gobernador</a></strong></p>
 <strong> </strong>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz.jpg"><img class="size-full wp-image-8361 alignleft" alt="cartaz" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz.jpg" width="278" height="332" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz.jpg"><img class="size-full wp-image-8361 alignleft" alt="cartaz" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz.jpg" width="278" height="332" /></a>
 <div>
 <h1 style="text-align: center;">Mucho más que el Peso</h1>
 <p style="text-align: center;"><strong> (Way Beyond Weight)

@@ -10,16 +10,16 @@ tags:
 - perdidas-por-la-pirateria
 - ventas
 - ventas-perdidas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
 wppost_name: sobre-numerologia-pirata-los-numeros-que-largan-sobre-perdidas-por-pirateria
 ---
 
 En otros post hablábamos sobre <em>numerología</em> pirata, los números de pérdidas de empleos, dinero, impuestos por la piratería
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/2375/mas-numerologia-pirata-gobierno-britanico-reconoce-que-su-ley-%E2%80%9Canti-pirateria%E2%80%9D-fue-creada-sin-evidencia"> Sobre el gobierno británico y la falta de evidencia de las pérdidas por piratería</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">La Falsificación de la <em>Numerología </em> Pirata.</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/3513/mas-numerologia-pirata-en-este-caso-danesa-para-justificar-el-acta">Numerología Pirata Dinamarquesa</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/2375/mas-numerologia-pirata-gobierno-britanico-reconoce-que-su-ley-%E2%80%9Canti-pirateria%E2%80%9D-fue-creada-sin-evidencia"> Sobre el gobierno británico y la falta de evidencia de las pérdidas por piratería</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">La Falsificación de la <em>Numerología </em> Pirata.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/3513/mas-numerologia-pirata-en-este-caso-danesa-para-justificar-el-acta">Numerología Pirata Dinamarquesa</a></strong></li>
 </ul>
 Ahora encontramos otro texto:
 
@@ -39,7 +39,7 @@ Los impulsores de Sopa y Pipa dicen también que la pirateria es responsable por
 
 La verdad es que no hay una base de datos totalmente confiable para basar las pérdidas con la pirateria. El tema, según Freakonomics, va mucho más allá de los datos: es sobre los efectos económicos.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/piracyisnottheft.png"><img class="aligncenter size-large wp-image-3050" title="Piratería no es robar" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/piracyisnottheft-682x1024.png" alt="" width="620" height="930" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/piracyisnottheft.png"><img class="aligncenter size-large wp-image-3050" title="Piratería no es robar" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/piracyisnottheft-682x1024.png" alt="" width="620" height="930" /></a>
 
 Hay, por ejemplo, personas que compran un DVD e incluso así se bajan una copia pirata en BitTorrent. U otras que se bajan un disco o película sin haberla comprado. “Eso es especialmente verdad si el consumidor vive en un país pobre y no tiene dinero para comprar la música o la película que se baja. Debemos contar esa categoria de download como una ‘venta perdida’”, se pregunta Freakonomics.
 

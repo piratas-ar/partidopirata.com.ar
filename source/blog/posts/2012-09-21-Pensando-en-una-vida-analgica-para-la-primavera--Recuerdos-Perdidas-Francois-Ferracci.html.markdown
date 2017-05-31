@@ -9,8 +9,8 @@ tags:
 - paris-2020
 - recuerdos-perdidos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/desconectados.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/desconectados-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/desconectados.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/desconectados-150x150.jpg
 wppost_name: pensando-en-una-vida-analogica-para-la-primavera-recuerdos-perdidas-francois-ferracci
 ---
 

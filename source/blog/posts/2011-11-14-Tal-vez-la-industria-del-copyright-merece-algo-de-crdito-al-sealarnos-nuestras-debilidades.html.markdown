@@ -75,10 +75,10 @@ Después de todo, la industria del copyright todavía no nos puede arrastrar afu
 <strong><a href="https://torrentfreak.com/perhaps-the-copyright-industry-deserves-some-credit-for-pointing-out-our-single-points-of-failure-111113/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+Torrentfreak+Torrentfreak&amp;utm_content=Google+Reader" target="_blank">Fuente Torrent Freak</a></strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2151/ee-uu-proyecto-de-ley-contra-la-pirateria-pone-en-peligro-internet">Algo más sobre el proyecto <em>Sopa</em> al que se refiere Rick Falkvinge.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2151/ee-uu-proyecto-de-ley-contra-la-pirateria-pone-en-peligro-internet">Algo más sobre el proyecto <em>Sopa</em> al que se refiere Rick Falkvinge.</a></strong></p>
 <p style="text-align: center;"><strong>Rick Falkvinge menciona varias veces la inteligencia de la colmena, éso tiene que ver con la llamada Teoría de Enjambres</strong></p>
 <p style="text-align: center;"><strong><a href="http://librosg.blogspot.com/search/label/enjambre" target="_blank">Algo más sobre la Teoría de Enjambres encuentran acá.</a></strong></p>
 
 
 <hr />
-<p style="text-align: center;"><img class="alignnone" title="Censura" src="http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg" alt="" width="320" height="274" /></p>
+<p style="text-align: center;"><img class="alignnone" title="Censura" src="https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg" alt="" width="320" height="274" /></p>

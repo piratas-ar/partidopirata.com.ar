@@ -10,8 +10,8 @@ tags:
 - sadaic
 - siga2011
 - union-de-musicos-independientes
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/13logo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/13logo.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/13logo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/13logo.jpg
 wppost_name: reunion-en-siga-2011-sobre-el-canon-digital-noalcanon
 ---
 
@@ -41,7 +41,7 @@ Participarán:
 
 De Guillermo Ocampo sabemos que es el abogado de SADAIC así que imaginamos cual será su discurso. Ahora con la dupla Cristian Aldana\Diego Boris de la Unión de Músicos Independientes será interesante saber qué piensan del canon.
 
-Ellos son los que impulsan la "Ley Nacional de la Música" , <strong><a href="http://partidopirata.com.ar/1532/podcast-dedicado-a-la-ley-nacional-de-musica" target="_blank">estuvimos charlando sobre ella en un podcast.</a></strong>
+Ellos son los que impulsan la "Ley Nacional de la Música" , <strong><a href="https://partidopirata.com.ar/1532/podcast-dedicado-a-la-ley-nacional-de-musica" target="_blank">estuvimos charlando sobre ella en un podcast.</a></strong>
 
 Invitamos a todos los simpatizantes (y no) a que concurran a esta charla para saber qué es lo que piensa la dupla Cristian Aldana\Diego Boris así cuando "impulsan" la Ley Nacional de la Música podremos saber si también están impulsando el canon digital.
 
@@ -55,7 +55,7 @@ Miércoles 3 de agosto
 
 17 hs.
 <p style="text-align: center;">Secretaría de Gabinete, Roque Sáenz Peña 511, Ciudad Autónoma de Buenos Aires.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1564/video-de-la-mesa-redonda-en-siga-2011-sobre-el-canon-digital-noalcanon">Grabación de partes de la Reunión sobre el canon digital en SIGA 2011</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1564/video-de-la-mesa-redonda-en-siga-2011-sobre-el-canon-digital-noalcanon">Grabación de partes de la Reunión sobre el canon digital en SIGA 2011</a></strong></p>
 <p style="text-align: center;"><strong> <a href="http://opengovernment.com.ar/?p=19" target="_blank">Acá están los videos en streaming de lo que se está charlando en SIGA 2011.</a></strong></p>
 
 

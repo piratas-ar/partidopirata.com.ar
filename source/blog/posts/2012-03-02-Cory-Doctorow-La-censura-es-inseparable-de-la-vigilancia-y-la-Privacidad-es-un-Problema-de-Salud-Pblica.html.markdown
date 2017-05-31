@@ -11,12 +11,12 @@ tags:
 - joyce
 - privacidad
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
 wppost_name: cory-doctorow-la-censura-es-inseparable-de-la-vigilancia
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg"><img class="aligncenter  wp-image-2704" title="Cory_Doctorow_in_Borough_Market" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg" alt="" width="543" height="360" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg"><img class="aligncenter  wp-image-2704" title="Cory_Doctorow_in_Borough_Market" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg" alt="" width="543" height="360" /></a>
 
 <strong><a href="http://www.guardian.co.uk/technology/2012/mar/02/censorship-inseperable-from-surveillance" target="_blank">Fuente The Guardian</a></strong>
 

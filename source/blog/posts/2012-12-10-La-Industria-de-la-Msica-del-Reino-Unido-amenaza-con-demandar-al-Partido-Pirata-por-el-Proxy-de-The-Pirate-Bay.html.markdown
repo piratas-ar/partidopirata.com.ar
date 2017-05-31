@@ -10,14 +10,14 @@ tags:
 - reino-unido
 - the-pirate-bay
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: la-industria-de-la-musica-del-reino-unido-amenaza-con-demandar-al-partido-pirata-por-el-proxy-de-the-pirate-bay
 ---
 
 <strong><a href="https://torrentfreak.com/music-industry-threatens-to-sue-uk-pirate-party-over-pirate-bay-proxy-121210/" target="_blank">Fuente Torrentfreak</a></strong>
 
-El Grupo de la industria de la música BPI está enviando a sus abogados contra  el Partido Pirata del Reino Unido después de que este se negara a dejar offline a su proxy de The Pirate Bay. La semana pasada el BPI le rogó a los Piratas que cierren el sitio web, pero rápidamente , cuando no se salen con la suya,  se convirtieron en amenazas. El líder del Partido Pirata Loz Kaye le dijo a TorrentFreak que están decididos a respaldar sus principios, incluso si eso significa involucrarse en una costosa batalla legal.<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
+El Grupo de la industria de la música BPI está enviando a sus abogados contra  el Partido Pirata del Reino Unido después de que este se negara a dejar offline a su proxy de The Pirate Bay. La semana pasada el BPI le rogó a los Piratas que cierren el sitio web, pero rápidamente , cuando no se salen con la suya,  se convirtieron en amenazas. El líder del Partido Pirata Loz Kaye le dijo a TorrentFreak que están decididos a respaldar sus principios, incluso si eso significa involucrarse en una costosa batalla legal.<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
 
 Después de que <a href="http://torrentfreak.com/uk-isps-must-censor-the-pirates-bay-high-court-rules-120430/">la Corte suprema ordenara</a> a varios ISPs[proveedores de internet] británicos que bloquearan el acceso de sus suscriptores a The Pirate Bay a principios de este año, millones de usuarios acudieron <a href="https://tpb.pirateparty.org.uk/">al servicio proxy</a> del Partido Pirata del Reino Unido.
 

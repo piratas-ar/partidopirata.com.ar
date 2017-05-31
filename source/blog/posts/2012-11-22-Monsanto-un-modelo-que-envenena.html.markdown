@@ -10,8 +10,8 @@ tags:
 - modelo
 - monsanto
 - monsanto-un-modelo-que-envenena
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: monsanto-un-modelo-que-envenena
 ---
 

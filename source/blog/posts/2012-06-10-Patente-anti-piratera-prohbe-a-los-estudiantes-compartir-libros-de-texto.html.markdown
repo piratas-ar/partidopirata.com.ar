@@ -9,8 +9,8 @@ tags:
 - patente-por-fotocopias
 - patente-por-libros
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
 wppost_name: patente-anti-pirateria-prohibe-a-los-estudiantes-compartir-libros-de-texto
 ---
 
@@ -21,7 +21,7 @@ Una nueva patente concedida esta semana tiene como objetivo evitar que los estud
 
 Durante siglos, los estudiantes han compartido los libros de texto entre sí, pero una <a href="http://www.patentgenius.com/patent/8195571.html">nueva  patente</a> tiene como objetivo ponerle fin a este hábito "infractor".
 
-La patente en cuestión fue otorgada al profesor de Economía <a href="http://josephhenryvogel.com/home.html">Joseph Henry Vogel</a>. Él cree que la piratería, los préstamos y la reventa de los libros son una amenaza a la industria editorial.<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg"><img class="size-medium wp-image-4011 alignright" title="Biblioteca" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-225x300.jpg" alt="Biblioteca" width="225" height="300" /></a>
+La patente en cuestión fue otorgada al profesor de Economía <a href="http://josephhenryvogel.com/home.html">Joseph Henry Vogel</a>. Él cree que la piratería, los préstamos y la reventa de los libros son una amenaza a la industria editorial.<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg"><img class="size-medium wp-image-4011 alignright" title="Biblioteca" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-225x300.jpg" alt="Biblioteca" width="225" height="300" /></a>
 
 "Los profesores hacen cada vez más la vista gorda cuando los estudiantes aparecen en clase con páginas fotocopiadas. Otras facilitan la piratería mediante la colocación de textos en la biblioteca de reserva donde se pueden fotocopiar ",  escribe Vogel.
 
@@ -55,11 +55,11 @@ Profesor Vogel cree que el envío de más dinero a los editores ayudará a la ac
 <p style="text-align: center;"><strong>Están demasiado locos en el Norte!!!, igual de loco es lo que hace CADRA en la Argentina cobrándole a las universidades públicas un<em> "canon" </em>que , en el caso de la Universidad de Buenos Aires puede ser algo muy oneroso.</strong></p>
 
 <ol>
-	<li><strong><a href="http://partidopirata.com.ar/2382/contra-la-extorsion-del-canon-por-fotocopias-en-la-uba">Más sobre el acuerdo Cadra-Universidades públicas en la Argentina</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/2382/contra-la-extorsion-del-canon-por-fotocopias-en-la-uba">Más sobre el acuerdo Cadra-Universidades públicas en la Argentina</a></strong></li>
 	<li><strong><a href="http://www.lanacion.com.ar/1127847-la-uba-pagara-derechos-por-las-fotocopias-que-usen-sus-alumnos" target="_blank">El acuerdo entre CADRA y la UBA (es mucho dinero)</a></strong></li>
-	<li><strong> En Brasil la <a href="http://partidopirata.com.ar/4548/brasil-cierre-de-biblioteca-virtual-libro-impreso-pdf-legal-o-ilegal-livrosdehumanas-org-se-defiende">Cadra brasileña</a> cierra un site de libros de texto virtual.</strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/4183/de-que-no-viven-los-escritores-hoy-escritores-de-libros-universitarios">De qué no viven los escritores de libros universitarios</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/3952/brasil-debate-por-la-liberacion-de-textos-universitarios-universidad-de-san-pablo">Debate por la liberación de los libros universitarios en la Universidad de San Pablo.</a></strong></li>
+	<li><strong> En Brasil la <a href="https://partidopirata.com.ar/4548/brasil-cierre-de-biblioteca-virtual-libro-impreso-pdf-legal-o-ilegal-livrosdehumanas-org-se-defiende">Cadra brasileña</a> cierra un site de libros de texto virtual.</strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/4183/de-que-no-viven-los-escritores-hoy-escritores-de-libros-universitarios">De qué no viven los escritores de libros universitarios</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/3952/brasil-debate-por-la-liberacion-de-textos-universitarios-universidad-de-san-pablo">Debate por la liberación de los libros universitarios en la Universidad de San Pablo.</a></strong></li>
 </ol>
 &nbsp;
 

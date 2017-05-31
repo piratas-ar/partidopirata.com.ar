@@ -9,8 +9,8 @@ tags:
 - mariano-blejman
 - privacidad
 - redes-sociales
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad-150x150.jpg
 wppost_name: el-cuidado-con-lo-que-colgamos-en-las-redes-sociales-cuidemos-nuestra-intimidad
 ---
 

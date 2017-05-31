@@ -12,12 +12,12 @@ tags:
 - library-nu
 - libros-academicos
 - libros-universitarios
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/Christopher_Kelty-thmb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/Christopher_Kelty-thmb.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/Christopher_Kelty-thmb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/Christopher_Kelty-thmb.jpg
 wppost_name: la-desaparicion-de-la-biblioteca-virtual-por-christopher-m-kelty
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/Christopher_Kelty-thmb.jpg"><img class="alignleft size-full wp-image-3403" title="Christopher Kelty" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/Christopher_Kelty-thmb.jpg" alt="" width="89" height="89" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/Christopher_Kelty-thmb.jpg"><img class="alignleft size-full wp-image-3403" title="Christopher Kelty" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/Christopher_Kelty-thmb.jpg" alt="" width="89" height="89" /></a>
 <strong><a href="http://today.ucla.edu/portal/ut/PRN-the-disappearing-virtual-library-229923.aspx" target="_blank">Fuente Ucla Today</a></strong>
 
 <em>Christopher M. Kelty es profesor asociado de estudios de la información y antropología en la UCLA.</em> <em>Él es el autor de "Two Bits: El significado cultural del Software Libre"</em> <em>Este artículo de opinión apareció en Al Jazeera el 01 de marzo.</em>
@@ -84,4 +84,4 @@ Para empeorar las cosas, nuestras bibliotecas universitarias ya no pueden permit
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2747/ee-uu-por-que-los-libros-de-texto-digitales-no-siempre-es-mas-economico-para-los-estudiantes-universitarios">Y recuerden que los libros digitales de textos universitarios siguen siendo caros...</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2747/ee-uu-por-que-los-libros-de-texto-digitales-no-siempre-es-mas-economico-para-los-estudiantes-universitarios">Y recuerden que los libros digitales de textos universitarios siguen siendo caros...</a></strong></p>

@@ -9,12 +9,12 @@ tags:
 - reunion
 - reunion-eventos
 - reunion-pirata
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001-150x150.jpg
 wppost_name: martes-15-reunion-pirata-en-la-comuna-13-belgrano-y-alrededores
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/7884/martes-18-de-diciembre-reunion-en-la-comuna-13-belgrano-y-alrededores/attachment-0001" rel="attachment wp-att-7885"><img class="size-full wp-image-7885 aligncenter" title="Logo de la Reunion" alt="attachment-0001" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg" width="563" height="268" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/7884/martes-18-de-diciembre-reunion-en-la-comuna-13-belgrano-y-alrededores/attachment-0001" rel="attachment wp-att-7885"><img class="size-full wp-image-7885 aligncenter" title="Logo de la Reunion" alt="attachment-0001" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg" width="563" height="268" /></a></p>
 El Martes 15 de Enero nos encontramos en :
 
 <strong><strong>Nos encontramos en el café que está enfrente a <a href="http://www.elsolarshopping.com.ar/%27%20target=">El solar de la Abadia - </a>Luis María Campos y Maure. <a href="http://www.elsolarshopping.com.ar/comollegar.php" target="_blank">Información sobre como llegar</a></strong></strong>

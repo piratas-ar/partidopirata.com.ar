@@ -10,8 +10,8 @@ tags:
 - jorge-coscia
 - mar-del-plata
 - panorama
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/floralis_panorama.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/floralis_panorama.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/floralis_panorama.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/floralis_panorama.jpg
 wppost_name: plataforma-de-digitalizacion-para-preservar-el-legado-sonoro-filmico-y-blibliotecario-culturas2011
 ---
 
@@ -20,7 +20,7 @@ wppost_name: plataforma-de-digitalizacion-para-preservar-el-legado-sonoro-filmic
 <strong><a href="http://www.pagina12.com.ar/diario/suplementos/espectaculos/17-22916-2011-09-16.html" target="_blank">Fuente Página 12, sobre el Congreso Iberoamericano de Cultura.</a></strong>
 
 &nbsp;
-<p style="text-align: center;">Menos mal que no colocaron el acervo de imágenes, sino deberían modificar la ley de derecho de autor!<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/floralis_panorama.jpg"><img class="aligncenter size-full wp-image-1834" title="floralis_panorama" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/floralis_panorama.jpg" alt="" width="560" height="373" /></a><strong>El <em>Acervo</em> no puede fotografiarse por la ley de derecho de autor</strong></p>
+<p style="text-align: center;">Menos mal que no colocaron el acervo de imágenes, sino deberían modificar la ley de derecho de autor!<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/floralis_panorama.jpg"><img class="aligncenter size-full wp-image-1834" title="floralis_panorama" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/floralis_panorama.jpg" alt="" width="560" height="373" /></a><strong>El <em>Acervo</em> no puede fotografiarse por la ley de derecho de autor</strong></p>
 
 
 <hr />
@@ -30,7 +30,7 @@ wppost_name: plataforma-de-digitalizacion-para-preservar-el-legado-sonoro-filmic
 <p style="text-align: center;">Si es por digitalizar bibliotecas:</p>
 <p style="text-align: center;"><strong> <a href="http://www.ivoox.com/jorge-coscia-secretario-cultura-habla-sobre-derechos-autor-audios-mp3_rf_635588_1.html" target="_blank">Jorge Coscia aclara que se puede digitalizar lo que el derecho de autor deja..</a></strong></p>
 <p style="text-align: center;">Si es por preservar fonogramas:</p>
-<p style="text-align: center;"><img class="aligncenter" title="20 años robados al pueblo" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/s3030-400x300.png" alt="" width="400" height="300" />Los fonogramas pertenecen a quien tiene el derecho de autor (generalmente una discográfica) por 70 años!</p>
+<p style="text-align: center;"><img class="aligncenter" title="20 años robados al pueblo" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/s3030-400x300.png" alt="" width="400" height="300" />Los fonogramas pertenecen a quien tiene el derecho de autor (generalmente una discográfica) por 70 años!</p>
 <p style="text-align: center;">Y este gobierno lo extendió , antes eran 50!</p>
 
 

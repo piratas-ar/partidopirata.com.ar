@@ -7,12 +7,12 @@ tags:
 - divulgacion
 - paulo-coelho
 - pirata-coelho
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg
 wppost_name: carta-abierta-de-paulo-coelho-a-la-industria-%e2%80%9cla-codicia-no-entiende-que-este-mundo-ha-cambiado
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg"><img class="size-full wp-image-853" title="coelhopirate" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg" alt="" width="100" height="128" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg"><img class="size-full wp-image-853" title="coelhopirate" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/coelhopirate.jpg" alt="" width="100" height="128" /></a>
 
 
 <strong><a href="http://alt1040.com/tag/paulo-coelho">Paulo Coelho</a></strong> ha vuelto a hablar a través de <a href="http://paulocoelhoblog.com/2011/04/28/who-deleted-the-song-in-my-profile/">su bitácora</a> para realizar <strong>una  defensa encendida sobre los usos de Internet y destacar la terrible  ignorancia en la que viven estos días gobiernos e industrias del  entretenimiento</strong>, imponiendo <a href="http://alt1040.com/tag/ley-sinde">leyes que censuran</a> el avance de la cultura y su desarrollo en la red. Un llamamiento a quienes nos gobiernan con un mensaje claro: <strong>compartir no es robar</strong>, es un derecho de la historia humana, y si es así, se declara un amante de la piratería.

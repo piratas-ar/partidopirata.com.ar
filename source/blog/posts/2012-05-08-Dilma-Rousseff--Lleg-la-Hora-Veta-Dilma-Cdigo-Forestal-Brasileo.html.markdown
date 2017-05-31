@@ -9,8 +9,8 @@ tags:
 - dilma
 - dilma-rousseff
 - veta-dilma
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo-150x150.jpg
 wppost_name: vilma-rousseff-llego-la-hora-veta-dilma-codigo-forestal-brasileno
 ---
 

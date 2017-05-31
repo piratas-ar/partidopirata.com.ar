@@ -7,12 +7,12 @@ tags:
 - noticias
 - parlamento-regional
 - partido-pirat-aleman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg
 wppost_name: los-piratas-de-berlin-preparados-para-entrar-en-el-parlamento-regional
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg"><img class="alignleft size-full wp-image-1802" title="pirataleman" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg" alt="" width="450" height="300" /></a><strong><a href="http://www.europe1.fr/International/Les-pirates-du-Web-se-mettent-a-la-politique-710333/" target="_blank">Fuente Europe 1</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg"><img class="alignleft size-full wp-image-1802" title="pirataleman" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg" alt="" width="450" height="300" /></a><strong><a href="http://www.europe1.fr/International/Les-pirates-du-Web-se-mettent-a-la-politique-710333/" target="_blank">Fuente Europe 1</a></strong>
 En Alemania, el Partido Pirata podría superar a los liberales en las próximas elecciones en Berlín.
 
 Los piratas de la web ya no se limitan al las computadoras, ahora están en la política y esta conversión no es caprichosa, de acuerdo con una encuesta reciente que tiene un efecto bomba a través del Rhin.
@@ -36,7 +36,7 @@ Con un pie en la política, el Partido Pirata no cortará necesariamente los laz
 <strong></strong><strong><a href="http://www.europe1.fr/International/Les-pirates-du-Web-se-mettent-a-la-politique-710333/" target="_blank">Fuente Europe 1</a></strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1804/otros-59-defensores-de-los-monopolios-del-derecho-de-autor-y-la-sociedad-de-control-acaban-de-perder-su-trabajo">59 Diputados Municipales en Baja Sajonia-Alemania</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1804/otros-59-defensores-de-los-monopolios-del-derecho-de-autor-y-la-sociedad-de-control-acaban-de-perder-su-trabajo">59 Diputados Municipales en Baja Sajonia-Alemania</a></strong></p>
 
 
 <hr />

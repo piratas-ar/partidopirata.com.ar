@@ -10,14 +10,14 @@ tags:
 - p2p-anonimo
 - torrentfreak
 - tribler
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/boxed.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/boxed-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/boxed.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/boxed-150x150.jpg
 wppost_name: los-investigadores-liberan-a-un-cliente-de-bittorrent-anonimo
 ---
 
 <strong><a href="https://torrentfreak.com/researchers-anonymous-bittorrent-client-120601/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/boxed.jpg"><img class="size-full wp-image-4598" title="boxed" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/boxed.jpg" alt="" width="222" height="178" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/boxed.jpg"><img class="size-full wp-image-4598" title="boxed" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/boxed.jpg" alt="" width="222" height="178" /></a>
 
 
 Investigadores de la Universidad Tecnológica de Delft han asumido el ambicioso reto de crear un cliente de BitTorrent que asegure la privacidad de sus usuarios. Su cliente Tribler ya está completamente descentralizado, lo que significa que seguirá funcionando incluso en el caso de que todos los sitios de BitTorrent sean cerrados. El anonimato es el siguiente gran paso en su evolución. "Vamos a tener privacidad en Internet en el siguiente nivel", dice el investigador principal sobre su próximo lanzamiento.
@@ -36,7 +36,7 @@ Hablando con TorrentFreak, Pouwelse explicó que la idea es añadirle <a href="h
 
 "Nuestro objetivo es proporcionar a todos los usuarios una velocidad de descarga que hoy sólo se puede encontrar en las comunidades BitTorrent privadas, unido a la privacidad que actualmente sólo ofrecen servicios de VPN pagos", dijo Pouwelse.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/proxy-tribler.jpg"><img class="size-medium wp-image-4599" title="proxy-tribler" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/proxy-tribler-300x131.jpg" alt="" width="300" height="131" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/proxy-tribler.jpg"><img class="size-medium wp-image-4599" title="proxy-tribler" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/proxy-tribler-300x131.jpg" alt="" width="300" height="131" /></a>
 
 
 El equipo de Triber ha estado perfeccionando la tecnología desde hace años y esperan lanzarlo en dos o tres meses. Las pruebas iniciales muestran que incluso con el agregado de anonimato, la gente no tiene que sacrificar velocidad en absoluto. Todo lo contrario.
@@ -55,4 +55,4 @@ Se espera que sea implementada este otoño la capa proxy de Tribler, pero los qu
 </strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3108/tribler-hace-imposible-cerrar-bittorrent">Algo más sobre Tribler en nuestro blog.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3108/tribler-hace-imposible-cerrar-bittorrent">Algo más sobre Tribler en nuestro blog.</a></strong></p>

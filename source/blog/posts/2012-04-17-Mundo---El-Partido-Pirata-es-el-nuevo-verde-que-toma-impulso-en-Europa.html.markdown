@@ -9,8 +9,8 @@ tags:
 - europa
 - olivia-azevedo
 - verdes
-image: http://partidopirata.com.ar/wp-content/uploads/2009/11/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2009/11/logo.png
+image: https://partidopirata.com.ar/wp-content/uploads/2009/11/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2009/11/logo.png
 wppost_name: mundo-el-partido-pirata-es-el-nuevo-verde-que-toma-impulso-en-europa
 ---
 
@@ -24,7 +24,7 @@ Hay un amor nuevo en la ciudad (si podemos llamarlo así) y se llama  Partido P
 El recién llegado se empezó a dar a conocer en septiembre pasado cuando logró obtener un impresionante 8.9% de los votos en las elecciones de la ciudad-estado de Berlín . En una encuesta reciente, el partido en todo el país goza del 13%  del apoyo popular  por delante del Partido Verde, con sólo el 11%.
 Pero ¿qué representa el Partido Pirata  y cuáles son sus puntos fuertes que está rápidamente cambiando los corazones de la gente al permitir que un neófito goce de repentina fama?
 El Partido Pirata nació en Suecia en 2006 y su popularidad pronto vio una multiplicación de partidos con objetivos similares en Europa para darle forma al movimiento internacional de PPI (Partido Pirata Internacional).
-<a href="http://partidopirata.com.ar/wp-content/uploads/2009/11/logo.png"><img class="alignright size-full wp-image-31" title="logo" src="http://partidopirata.com.ar/wp-content/uploads/2009/11/logo.png" alt="" width="79" height="79" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2009/11/logo.png"><img class="alignright size-full wp-image-31" title="logo" src="https://partidopirata.com.ar/wp-content/uploads/2009/11/logo.png" alt="" width="79" height="79" /></a>
 Cuando fue fundado, el Piratpartiet (Partido Pirata sueco) tenía objetivos muy precisos: la reforma de la ley de derechos de autor, deshacerse del sistema de patentes,  exigir mayor transparencia gubernamental, y garantizar que se respeten los derechos de los ciudadanos a la privacidad, tanto en Internet como en la vida cotidiana. Y este y solo este era su agenda política.
 
 El Partido Pirata sueco es el primero en admitir que el grupo comenzó como una reacción a los sentimientos de la gente sobre estos temas y a la falta de respuesta de los líderes políticos. Desde entonces  ha ido fortaleciéndose más y más, después de haber ganado dos escaños en el Parlamento Europeo. Desde el momento en que se formó, el Piratpartiet se convirtió en la tercera fuerza política en afiliados en el país  y su organización juvenil Joven Pirata (Ung Pirat) es la más grande de Suecia.
@@ -39,7 +39,7 @@ Los jóvenes parecen atraídos por su misión política y, sin duda, son sus pri
 por Olivia Azevedo
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3833/podcast-con-fabricio-do-canto-del-partido-pirata-aleman">Si quieren saber cómo está el Partido Pirata en Alemania, nuestra charla con Fabricio do Canto (en portuñol) desde Alemania.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3833/podcast-con-fabricio-do-canto-del-partido-pirata-aleman">Si quieren saber cómo está el Partido Pirata en Alemania, nuestra charla con Fabricio do Canto (en portuñol) desde Alemania.</a></strong></p>
 
 
 <hr />

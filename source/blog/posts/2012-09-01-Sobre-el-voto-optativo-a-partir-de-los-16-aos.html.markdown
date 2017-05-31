@@ -9,15 +9,15 @@ tags:
 - jovenes
 - votar
 - votos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/index.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/index-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/index.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/index-150x150.jpg
 wppost_name: sobre-el-voto-optativo-a-partir-de-los-16-anos
 ---
 
 Leo en un twitter del <a href="https://twitter.com/partidodigital_" target="_blank">"Partido Digital"</a>
 
 "Los menores no sólo deben tener el derecho al voto, deben ser tambien responsables de sus actos. Son adultos! "
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/Partido-Digital-partidodigital_-en-Twitter.png"><img class="aligncenter size-medium wp-image-6309" title="Partido Digital (partidodigital_) en Twitter" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/Partido-Digital-partidodigital_-en-Twitter-300x116.png" alt="" width="300" height="116" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/Partido-Digital-partidodigital_-en-Twitter.png"><img class="aligncenter size-medium wp-image-6309" title="Partido Digital (partidodigital_) en Twitter" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/Partido-Digital-partidodigital_-en-Twitter-300x116.png" alt="" width="300" height="116" /></a></p>
 <p style="text-align: center;">Y me pregunto si no es una contradicción, ´¿son jóvenes o son adultos?</p>
 <strong>¿Qué consecuencias podría tener una afirmación así?</strong>
 
@@ -66,4 +66,4 @@ Pensemos si  a cambio de que voten los mandamos a un sistema peor que el que ya
 
 Entonces, debatamos con cuidado, sino a cambio de un voto podemos dejar más vulnetables a toda una franja de argentinos que ya están en una situación de mucha vulnerabilidad.
 <p style="text-align: center;">Dejó abierto el debate entonces.
-<strong> <a href="http://partidopirata.com.ar/wiki/index.php?title=Reuniones_y_tem%C3%A1ticas" target="_blank">Si quieren participar de nuestras reuniones u organizar una en su barrio/ciudad.</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/wiki/index.php?title=Reuniones_y_tem%C3%A1ticas" target="_blank">Si quieren participar de nuestras reuniones u organizar una en su barrio/ciudad.</a></strong></p>

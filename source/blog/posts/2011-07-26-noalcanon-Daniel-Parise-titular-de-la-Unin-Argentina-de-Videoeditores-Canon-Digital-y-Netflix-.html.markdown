@@ -11,8 +11,8 @@ tags:
 - tontos-con-poder
 - union-argentina-de-videoeditores
 - videos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red-150x142.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red-150x142.jpg
 wppost_name: noalcanon-daniel-parise-titular-de-la-union-argentina-de-videoeditores-canon-digital-y-netflix
 ---
 

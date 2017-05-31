@@ -10,8 +10,8 @@ tags:
 - naciones-unidas
 - organizacion-de-estados
 - organizacion-de-estados-americanos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/onu.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/onu.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/onu.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/onu.jpg
 wppost_name: naciones-unidas-organizacion-de-estados-americanos-declaracion-conjunta-sobre-libertad-de-expresion-e-internet
 ---
 

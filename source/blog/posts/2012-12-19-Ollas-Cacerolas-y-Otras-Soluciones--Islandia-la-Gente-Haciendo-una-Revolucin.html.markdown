@@ -11,8 +11,8 @@ tags:
 - revolucion
 - soluciones
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/poster111.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/poster111-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/poster111.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/poster111-150x150.jpg
 wppost_name: ollas-cacerolas-y-otras-soluciones-islanndia-la-gente-haciendo-una-revolucion
 ---
 
@@ -40,7 +40,7 @@ Si quieren bajar una versión más liviana vayan <strong><a href="http://www.you
 
 <hr />
 <p style="text-align: center;">En nuestro blog <em>No oficial</em> tenemos <a href="http://partido-pirata.blogspot.com.ar/2010/07/islandia-tan-cerca-y-tan-lejos-de-la.html" target="_blank"> una sección dedicada a Islandia</a> y ahí el documental <a href="http://vimeo.com/27440826" target="_blank">Dios Bendiga a Islandia</a></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2060/panorama-desde-islandia-podcast-con-aitor-desde-reikiavik" rel="bookmark">Panorama desde Islandia-Podcast con Aitor desde Reikiavik es de Octubre de 2011
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2060/panorama-desde-islandia-podcast-con-aitor-desde-reikiavik" rel="bookmark">Panorama desde Islandia-Podcast con Aitor desde Reikiavik es de Octubre de 2011
 </a></strong></p>
 
 
@@ -57,6 +57,6 @@ Si quieren bajar una versión más liviana vayan <strong><a href="http://www.you
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/poster111.jpg"><img class="aligncenter size-full wp-image-7919" title="poster111" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/poster111.jpg" width="661" height="945" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/poster111.jpg"><img class="aligncenter size-full wp-image-7919" title="poster111" alt="" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/poster111.jpg" width="661" height="945" /></a>
 
 &nbsp;

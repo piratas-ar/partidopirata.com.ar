@@ -8,8 +8,8 @@ tags:
 - bibliotecas-virtuales
 - material-para-difusion
 - neonazis
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/3881109439_4d4a57a82e_o.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/3881109439_4d4a57a82e_o-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/3881109439_4d4a57a82e_o.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/3881109439_4d4a57a82e_o-150x150.png
 wppost_name: amazon-sabe-lo-que-leen-todos-sus-clientes-y-contratan-neonazis-para-cuidar-la-seguridad
 ---
 

@@ -11,14 +11,14 @@ tags:
 - torrentfreak-noticias
 - trollls-del-copyright
 - universidades
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/fallapart.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/fallapart-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/fallapart.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/fallapart-150x150.jpg
 wppost_name: estudiantes-y-personal-universitario-demandado-por-pirateria-de-una-pelicula-de-50-cevs
 ---
 
 <strong><a href="http://torrentfreak.com/50-cent-movie-copyright-trolls-set-to-chase-down-alleged-university-pirates-130315/" target="_blank">Fuente Torrentfreak, Andy</a></strong>
 
-Un nuevo caso de infracción de derechos de autor que se presentó esta semana parece que va a provocar una nueva ronda de controversias. Trolls de los Derechos de Autor de Suiza, que dicen que son parte de una organización sin fines de lucro, están a punto de sacudir a miles de presuntos piratas que compartieron la película 50 Cent movie All Things Fall Apart. Sin embargo, además de a los suscriptores habituales de ISP [Proveedores de Internet] como Verizon, Comcast y AT &amp; T, los trolls están tratando de obtener las identidades de las personas que se encuentran en las universidades de todo Estados Unidos.<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/fallapart.jpg"><img class="alignright size-full wp-image-8845" alt="fallapart" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/fallapart.jpg" width="160" height="237" /></a>
+Un nuevo caso de infracción de derechos de autor que se presentó esta semana parece que va a provocar una nueva ronda de controversias. Trolls de los Derechos de Autor de Suiza, que dicen que son parte de una organización sin fines de lucro, están a punto de sacudir a miles de presuntos piratas que compartieron la película 50 Cent movie All Things Fall Apart. Sin embargo, además de a los suscriptores habituales de ISP [Proveedores de Internet] como Verizon, Comcast y AT &amp; T, los trolls están tratando de obtener las identidades de las personas que se encuentran en las universidades de todo Estados Unidos.<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/fallapart.jpg"><img class="alignright size-full wp-image-8845" alt="fallapart" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/fallapart.jpg" width="160" height="237" /></a>
 
 A principios de esta semana y después de la presentación de docenas de demandas por infracción al compartir archivos en los Estados Unidos, <a href="http://torrentfreak.com/angry-judge-tears-prenda-copyright-trolls-apart-130312/"> el caso llegará a un tribunal </a> en Los Angeles donde los trolls de Prenda Law finalmente empezando a recibir su merecido.
 

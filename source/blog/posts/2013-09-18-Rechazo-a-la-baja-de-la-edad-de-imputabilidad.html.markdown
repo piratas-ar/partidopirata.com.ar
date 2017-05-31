@@ -10,8 +10,8 @@ tags:
 - policia
 - represion
 - ucr
-image: http://partidopirata.com.ar/wp-content/uploads/2013/09/baja_edad_imputabilidad.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/09/baja_edad_imputabilidad-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/09/baja_edad_imputabilidad.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/09/baja_edad_imputabilidad-150x150.jpg
 wppost_name: rechazo-a-la-baja-de-la-edad-de-imputabilidad
 ---
 

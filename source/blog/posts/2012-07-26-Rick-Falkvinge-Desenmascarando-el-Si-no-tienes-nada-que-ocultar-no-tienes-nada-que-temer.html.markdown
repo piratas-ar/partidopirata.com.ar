@@ -9,8 +9,8 @@ tags:
 - no-tengo-nada-que-temer
 - privacidad
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div-150x150.png
 wppost_name: rick-falkvinge-desenmascarando-el-si-no-tienes-nada-que-ocultar-no-tienes-nada-que-temer
 ---
 
@@ -18,7 +18,7 @@ wppost_name: rick-falkvinge-desenmascarando-el-si-no-tienes-nada-que-ocultar-no-
 
 <strong>De vez en cuando, se oye el argumento de "Si no tienes nada que ocultar, no tienes nada que temer", con el fin de justificar el aumento e invasión de la vigilancia. Este argumento no sólo es peligroso, sino deshonesto y también cobarde.</strong>
 
-En los comentarios del <a href="http://falkvinge.net/2012/07/19/sweden-paradise-lost-part-3-comprehensive-population-dna-database/">post de ayer</a> sobre el <a href="http://partidopirata.com.ar/5303/el-gobierno-sueco-da-luz-verde-a-bases-de-datos-sobre-transexuales-judios-gitanos-sindicalistas-etc-que-podria-salir-mal">registro de ADN en Suecia,</a> algunos expresaron el argumento "nada que ocultar" - la eficiencia de la aplicación de la ley siempre debe ser un factor primordial en la construcción de cualquier sociedad, generalmente se expresa como "si no tienes nada que ocultar, no tienes nada que temer ". Este es un modo de pensar muy peligroso. El argumento está planteado con frecuencia en los debates por los halcones a favor del Gran Hermano, y el hacerlo es peligroso, cobarde y deshonesto.
+En los comentarios del <a href="http://falkvinge.net/2012/07/19/sweden-paradise-lost-part-3-comprehensive-population-dna-database/">post de ayer</a> sobre el <a href="https://partidopirata.com.ar/5303/el-gobierno-sueco-da-luz-verde-a-bases-de-datos-sobre-transexuales-judios-gitanos-sindicalistas-etc-que-podria-salir-mal">registro de ADN en Suecia,</a> algunos expresaron el argumento "nada que ocultar" - la eficiencia de la aplicación de la ley siempre debe ser un factor primordial en la construcción de cualquier sociedad, generalmente se expresa como "si no tienes nada que ocultar, no tienes nada que temer ". Este es un modo de pensar muy peligroso. El argumento está planteado con frecuencia en los debates por los halcones a favor del Gran Hermano, y el hacerlo es peligroso, cobarde y deshonesto.
 
 Hay por lo menos cuatro buenas razones para rechazar este argumento de manera sólida y sin concesiones: Las reglas pueden cambiar, no eres tú quien determinará si eres culpable, las leyes deben ser rotas por la sociedad para el progreso, y la privacidad es una necesidad humana básica.
 
@@ -42,10 +42,10 @@ La próxima vez que escuche a alguien decir "si no tienes nada que temer, no tie
 
 <hr />
 <p style="text-align: center;"><strong>Tehemos un paper en inglés parcialmente traducido sobre este tema.</strong>
-<strong> <a href="http://partidopirata.com.ar/4329/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-indice">Si alguien quiere terminar su traducción!</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/4329/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-indice">Si alguien quiere terminar su traducción!</a></strong></p>
 Algo más sobre el tema de la vigilancia es que no sabes quién tiene acceso a esa información.
-En la Argentina, por ejemplo, <a href="http://partidopirata.com.ar/5195/quienes-tienen-acceso-a-nuestra-informacion-de-la-tarjeta-sube">¿quién tiene acceso a la información sobre los viajes en la tarjeta SUBE?</a>
+En la Argentina, por ejemplo, <a href="https://partidopirata.com.ar/5195/quienes-tienen-acceso-a-nuestra-informacion-de-la-tarjeta-sube">¿quién tiene acceso a la información sobre los viajes en la tarjeta SUBE?</a>
 
-<a href="http://partidopirata.com.ar/5508/como-las-empresas-saben-tus-secretos">Cuando un gran almacen de ventas <em>supo</em> que una cliente de 17 años estaba embarazada,</a> su padre se enteró porque la tienda mandó propaganda para embarazadas, ¿si fuera una sociedad donde el aborto está prohíbido o penado por ley y esas tiendas le enviaran esa información a organismos para evitar que la mujer aborte?
-En la Argentina, si en la dictadura <a href="http://partidopirata.com.ar/5571/privacidad-y-electura-parte-2-amazon-bn-kobo-sony">hubieran sabido nuestras lecturas</a>
+<a href="https://partidopirata.com.ar/5508/como-las-empresas-saben-tus-secretos">Cuando un gran almacen de ventas <em>supo</em> que una cliente de 17 años estaba embarazada,</a> su padre se enteró porque la tienda mandó propaganda para embarazadas, ¿si fuera una sociedad donde el aborto está prohíbido o penado por ley y esas tiendas le enviaran esa información a organismos para evitar que la mujer aborte?
+En la Argentina, si en la dictadura <a href="https://partidopirata.com.ar/5571/privacidad-y-electura-parte-2-amazon-bn-kobo-sony">hubieran sabido nuestras lecturas</a>
 Nunca sabremos si esa información recopilada se mantiene , o no, en secreto o quién podrá llegar a utilizarla.

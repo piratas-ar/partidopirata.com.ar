@@ -9,8 +9,8 @@ tags:
 - manzana-mecanica
 - twitter
 - usurpacion-de-identidad
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: el-tema-de-la-usurpacion-de-identidad-como-forma-de-censura-a-la-libertad-de-expresion
 ---
 
@@ -28,7 +28,7 @@ wppost_name: el-tema-de-la-usurpacion-de-identidad-como-forma-de-censura-a-la-li
 <strong> Si el enlace anterior no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/hangout-parodia-andronico-luksic-twitter-es-audios-mp3_rf_1819367_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/chart2.png"><img class="size-full wp-image-8569" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/chart2.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/chart2.png"><img class="size-full wp-image-8569" alt="Código QR de la dirección del archivo mp3" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/chart2.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 
 <hr />

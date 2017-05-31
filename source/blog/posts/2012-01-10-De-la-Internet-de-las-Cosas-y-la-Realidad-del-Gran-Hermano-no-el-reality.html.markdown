@@ -3,8 +3,8 @@ title: De la Internet de las Cosas y la Realidad del Gran Hermano (no el reality
 date: '2012-01-10'
 tags:
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/vigilar-y-castigar-2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/vigilar-y-castigar-2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/vigilar-y-castigar-2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/vigilar-y-castigar-2-150x150.jpg
 wppost_name: de-la-internet-de-las-cosas-y-la-realidad-del-gran-hermano-no-el-reality
 ---
 
@@ -34,7 +34,7 @@ No es que lo que uno coma o bebe sea tan importante, pero, imaginémonos que a t
 
 ¿Cómo sabemos qué información es la que se envía?
 
-Ante esto les sugiero que le den una mirada a la conferencia de <a href="http://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general" target="_blank">Cory Doctorow sobre las posibles batallas que se vienen.</a>
+Ante esto les sugiero que le den una mirada a la conferencia de <a href="https://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general" target="_blank">Cory Doctorow sobre las posibles batallas que se vienen.</a>
 
 <a href="http://theinternetofthings.eu/content/new-years-contest-panopticon-metaphor-internet-things-%E2%80%93-why-not-if-it-were-opposite" target="_blank">Y un artículo sobre "La Internet de las Cosas</a>
 

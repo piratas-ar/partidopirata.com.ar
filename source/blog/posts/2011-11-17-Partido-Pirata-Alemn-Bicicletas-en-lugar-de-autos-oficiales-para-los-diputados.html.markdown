@@ -10,14 +10,14 @@ tags:
 - noticias
 - parlamento-de-berlin
 - partido-pirata-aleman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/bicicleta.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/bicicleta-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/bicicleta.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/bicicleta-150x150.jpg
 wppost_name: partido-pirata-aleman-bicicletas-en-lugar-de-autos-oficiales-para-los-diputados
 ---
 
-<img class="aligncenter" title="Partido Pirata Alemán" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg" alt="" width="550" height="368" />
+<img class="aligncenter" title="Partido Pirata Alemán" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/berlin.jpg" alt="" width="550" height="368" />
 
-<strong><a href="http://partidopirata.com.ar/1846/el-partido-pirata-aleman-elige-diputados-en-el-parlamento-de-berlin-piratas-alemania-partidopirataaleman" target="_blank">Fuente Blog P2P</a></strong>
+<strong><a href="https://partidopirata.com.ar/1846/el-partido-pirata-aleman-elige-diputados-en-el-parlamento-de-berlin-piratas-alemania-partidopirataaleman" target="_blank">Fuente Blog P2P</a></strong>
 
 &nbsp;
 <ul>
@@ -35,6 +35,6 @@ El Partido Pirata alemán tuvo la mayor votación de su historia. Arañaron 9% d
 
 En la plataforma, ellos fueron más allá de los temas normalmente abordados — como la flexibilización del copyright y libertad en la red — e incluyeron en su plataforma propuestas de inclusión social.
 
-<strong></strong><strong><a href="http://partidopirata.com.ar/1846/el-partido-pirata-aleman-elige-diputados-en-el-parlamento-de-berlin-piratas-alemania-partidopirataaleman" target="_blank">Fuente Blog P2P</a></strong>
+<strong></strong><strong><a href="https://partidopirata.com.ar/1846/el-partido-pirata-aleman-elige-diputados-en-el-parlamento-de-berlin-piratas-alemania-partidopirataaleman" target="_blank">Fuente Blog P2P</a></strong>
 
 <hr />

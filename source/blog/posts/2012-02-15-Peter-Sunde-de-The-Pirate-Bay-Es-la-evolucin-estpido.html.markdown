@@ -11,8 +11,8 @@ tags:
 - peter-sunde
 - suecia
 - the-pirate-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
 wppost_name: peter-sunde-de-the-pirate-bays-es-la-evolucion-estupido
 ---
 

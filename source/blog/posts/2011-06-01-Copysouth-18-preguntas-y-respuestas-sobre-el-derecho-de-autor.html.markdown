@@ -8,12 +8,12 @@ tags:
 - libros-divulgacion
 - manual
 - respuestas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/copysouth_manual_0.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/copysouth_manual_0.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/copysouth_manual_0.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/copysouth_manual_0.jpg
 wppost_name: '1085'
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/06/copysouth_manual_0.jpg"><img class="aligncenter size-medium wp-image-1086" title="copysouth_manual_0" src="http://partidopirata.com.ar/wp-content/uploads/2011/06/copysouth_manual_0-215x300.jpg" alt="" width="215" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/06/copysouth_manual_0.jpg"><img class="aligncenter size-medium wp-image-1086" title="copysouth_manual_0" src="https://partidopirata.com.ar/wp-content/uploads/2011/06/copysouth_manual_0-215x300.jpg" alt="" width="215" height="300" /></a>
 
 <hr />
 
@@ -44,7 +44,7 @@ vez simples y complicados.
 
 <hr />
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wiki/index.php?title=Libros_Piratas"> Otros libros en nuestra biblioteca virtual.</a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wiki/index.php?title=Libros_Piratas"> Otros libros en nuestra biblioteca virtual.</a></p>
 
 
 <hr />

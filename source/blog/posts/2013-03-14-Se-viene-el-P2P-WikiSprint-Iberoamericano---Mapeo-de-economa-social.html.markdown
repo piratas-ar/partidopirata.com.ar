@@ -13,12 +13,12 @@ tags:
 - p2p
 - software-libre-2
 - wikisprint
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/398812_434505419957192_772694948_n.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/398812_434505419957192_772694948_n-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/398812_434505419957192_772694948_n.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/398812_434505419957192_772694948_n-150x150.png
 wppost_name: se-viene-el-p2p-wikisprint-iberoamericano-mapeo-de-economia-social
 ---
 
-<h2><a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/398812_434505419957192_772694948_n.png"><img class="aligncenter  wp-image-8814" alt="398812_434505419957192_772694948_n" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/398812_434505419957192_772694948_n.png" width="640" height="319" /></a></h2>
+<h2><a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/398812_434505419957192_772694948_n.png"><img class="aligncenter  wp-image-8814" alt="398812_434505419957192_772694948_n" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/398812_434505419957192_772694948_n.png" width="640" height="319" /></a></h2>
 El <strong>Miércoles 20 de Marzo desde las 11 a las 18:30 en la Biblioteca Popular de Barracas (Aristobulo del Valle 1851)</strong> el Hacklab de Barracas sera anfitrion del WikiSprint Iberoamericano organizado por la P2P Foundation.
 
 El evento se llevara a cabo en simultaneo en toda Ibero-América y el objetivo sera mapear todos los experimentos de economia social, cooperativas y cualquier organización de producción entre pares.

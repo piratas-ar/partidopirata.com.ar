@@ -9,8 +9,8 @@ tags:
 - partido-pirata
 - partido-pirata-argentino
 - piratas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016-150x150.jpg
 wppost_name: habemus-bandera
 ---
 
@@ -22,11 +22,11 @@ Decidimos basarnos en uno de los diseños de <a href="http://img.ffffound.com/st
 
 El Bazza dio las primeras estocadas y rápidamente nos sumamos los demás, en una orgía de pintura y trapo (?) y esto es lo que salió.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140008.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140008-300x225.jpg" alt="" title="bandera pirata pintando" width="300" height="225" class="alignleft size-medium wp-image-2839" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140008.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140008-300x225.jpg" alt="" title="bandera pirata pintando" width="300" height="225" class="alignleft size-medium wp-image-2839" /></a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140012.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140012-300x225.jpg" alt="" title="bandera pirata pintando" width="300" height="225" class="alignleft size-medium wp-image-2840" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140012.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140012-300x225.jpg" alt="" title="bandera pirata pintando" width="300" height="225" class="alignleft size-medium wp-image-2840" /></a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140013.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140013-300x225.jpg" alt="" title="bandera pirata pintando" width="300" height="225" class="alignleft size-medium wp-image-2841" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140013.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140013-300x225.jpg" alt="" title="bandera pirata pintando" width="300" height="225" class="alignleft size-medium wp-image-2841" /></a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140014.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140014-300x225.jpg" alt="" title="bandera pirata aza" width="300" height="225" class="alignleft size-medium wp-image-2842" /></a>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016-300x225.jpg" alt="" title="bandera pirata final" width="300" height="225" class="alignleft size-medium wp-image-2843" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140014.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140014-300x225.jpg" alt="" title="bandera pirata aza" width="300" height="225" class="alignleft size-medium wp-image-2842" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016-300x225.jpg" alt="" title="bandera pirata final" width="300" height="225" class="alignleft size-medium wp-image-2843" /></a>

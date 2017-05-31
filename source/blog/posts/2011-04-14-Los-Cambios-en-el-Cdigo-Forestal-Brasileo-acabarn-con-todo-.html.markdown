@@ -9,8 +9,8 @@ tags:
 - denuncias
 - florestas
 - sojeros
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg
 wppost_name: los-cambios-en-el-codigo-forestal-brasileno-acabaran-con-todo
 ---
 
@@ -18,7 +18,7 @@ wppost_name: los-cambios-en-el-codigo-forestal-brasileno-acabaran-con-todo
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg"><img class="aligncenter size-medium wp-image-732" title="Aldo-Rebelo" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo-265x300.jpg" alt="Aldo Rebelo -Partido Comunista do Brsil" width="265" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg"><img class="aligncenter size-medium wp-image-732" title="Aldo-Rebelo" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo-265x300.jpg" alt="Aldo Rebelo -Partido Comunista do Brsil" width="265" height="300" /></a>
 <p style="text-align: center;"><strong><a href="http://partido-pirata.blogspot.com/2010/06/brasil-proyecto-para-reducir-la.html" target="_blank">Diputado Aldo Rebelo-Por la destrucción de los bosques para dárselos a los sojeros!!</a></strong></p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong><a href="http://www.sosflorestas.com.br/" target="_blank">Más información en SOS Florestas.</a></strong></p>

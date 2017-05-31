@@ -7,8 +7,8 @@ tags:
 - divulgacion
 - quemalo
 - real-academia-del-sonido
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/lareal.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/lareal.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/lareal.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/lareal.jpg
 wppost_name: leylleras-quemalo-la-real-academia-del-sonido
 ---
 

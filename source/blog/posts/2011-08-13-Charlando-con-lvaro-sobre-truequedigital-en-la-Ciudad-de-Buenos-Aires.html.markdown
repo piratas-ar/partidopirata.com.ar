@@ -9,12 +9,12 @@ tags:
 - podcasts
 - trueque
 - trueque-digital
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/haqa.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/haqa.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/haqa.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/haqa.png
 wppost_name: charlando-con-alvaro-sobre-truequedigital-en-la-ciudad-de-buenos-aires
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/haqa.png"><img class="aligncenter size-medium wp-image-1590" title="haqa" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/haqa-191x300.png" alt="" width="191" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/haqa.png"><img class="aligncenter size-medium wp-image-1590" title="haqa" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/haqa-191x300.png" alt="" width="191" height="300" /></a>
 
 <hr />
 
@@ -42,7 +42,7 @@ La cita es:
 <p style="text-align: center;"><strong>Nuestra dirección de correo:</strong></p>
 <p style="text-align: center;"><strong>Radio#partidopirata.com.ar</strong>
 <strong> (reemplace # por @)</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1642/audios-del-primer-trueque-digital-en-la-argentina">Áudio de las charlas que se hicieron durante el primer <em>trueque digital</em></a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1642/audios-del-primer-trueque-digital-en-la-argentina">Áudio de las charlas que se hicieron durante el primer <em>trueque digital</em></a></strong></p>
 
 
 <hr />

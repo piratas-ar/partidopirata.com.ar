@@ -13,8 +13,8 @@ tags:
 - malte-spitz
 - ted
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/ge.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/ge-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/ge.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/ge-150x150.jpg
 wppost_name: conferencia-ted-de-malte-spitz-tu-compania-de-telefonos-te-esta-vigilando
 ---
 

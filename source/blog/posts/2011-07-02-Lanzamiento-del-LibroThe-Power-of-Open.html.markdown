@@ -7,12 +7,12 @@ tags:
 - libros
 - libros-divulgacion
 - poder-de-compartir
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/cover.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/cover.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/cover.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/cover.jpg
 wppost_name: lanzamiento-del-librothe-power-of-open
 ---
 
-<strong><a href="http://mtv.uol.com.br/programas/mod/blog/evento-lancamento-the-power-of-open" target="_blank"></a><a href="http://partidopirata.com.ar/wp-content/uploads/2011/07/cover.jpg"><img class="alignleft size-medium wp-image-1290" title="cover" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/cover-232x300.jpg" alt="" width="232" height="300" /></a>Fuente Blog Mod MTV.</strong>
+<strong><a href="http://mtv.uol.com.br/programas/mod/blog/evento-lancamento-the-power-of-open" target="_blank"></a><a href="https://partidopirata.com.ar/wp-content/uploads/2011/07/cover.jpg"><img class="alignleft size-medium wp-image-1290" title="cover" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/cover-232x300.jpg" alt="" width="232" height="300" /></a>Fuente Blog Mod MTV.</strong>
 
 Sobre el libro colocan en el blog Mod MTV:
 

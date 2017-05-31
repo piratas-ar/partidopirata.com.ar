@@ -9,8 +9,8 @@ tags:
 - hollywood
 - mediafire
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers-150x150.jpg
 wppost_name: mediafire-shockeado-por-la-campana-de-difamacion-de-hollywood
 ---
 
@@ -19,7 +19,7 @@ wppost_name: mediafire-shockeado-por-la-campana-de-difamacion-de-hollywood
 Hollywood espera que el caso penal contra Megaupload sea el primero en la cola de muchos otros. La semana pasada, Paramount Pictures marcó a Fileserve, MediaFire, Wupload, Putlocker y Depositfiles como sitios peligrosos y sus objetivos principales que deben ser cerrados a continuación. En respuesta a esta alegación, el co-fundador de MediaFire Tom Langridge dice que está sorprendido y decepcionado por las afirmaciones del estudio del cine.
 
 Hablando en una conferencia de derechos de autor en Nueva York el pasado viernes, Alfred Perry de Paramount Pictures, Perry <a href="http://torrentfreak.com/mpaa-targets-fileserve-mediafire-wupload-putlocker-and-depositfiles-120331/">dijo </a>que Megaupload es sólo el primero de los servicios de muchos servicios de cyberlocker [descargas directas] que Hollywood quiere que se vayan.
-El ejecutivo identificó a Fileserve, MediaFire, Wupload, Putlocker y Depositfiles como objetivos que pueden ser remitidos al Gobierno de los EE.UU. próximamente,  describiendo a este tipo de empresas como "sitios peligrosos". El anuncio llegó con claridad, dándoles un buen susto a los jugadores más importantes. Después que <a href="http://partidopirata.com.ar/3775/no-somos-ningun-sitio-delincuente-putlocker-le-responde-a-hollywood">Putlocker refutó </a>las afirmaciones anteriores, hoy MediaFire responde a las acusaciones.
+El ejecutivo identificó a Fileserve, MediaFire, Wupload, Putlocker y Depositfiles como objetivos que pueden ser remitidos al Gobierno de los EE.UU. próximamente,  describiendo a este tipo de empresas como "sitios peligrosos". El anuncio llegó con claridad, dándoles un buen susto a los jugadores más importantes. Después que <a href="https://partidopirata.com.ar/3775/no-somos-ningun-sitio-delincuente-putlocker-le-responde-a-hollywood">Putlocker refutó </a>las afirmaciones anteriores, hoy MediaFire responde a las acusaciones.
 
 "Fue tanto sorprendente como decepcionante que el Sr. Perry nos haya referenciado como una "web"  deshonesta", dijo el  co-fundador Tom Langridge de <a href="http://www.mediafire.com/">MediaFire</a> a TorrentFreak.
 
@@ -29,7 +29,7 @@ Langridge va a explicar que MediaFire es un servicio de almacenamiento y copia d
 
 Pero error o no,  estar en una lista negra de Hollywood en estos días es malo PR, y hasta ahora los estudios de cine se mantienen en su evaluación. Incluso fueron tan lejos como para incluir a MediaFire en un cartel de cyberlockers deshonestos.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg"><img class="size-full wp-image-3710 aligncenter" title="Lista para borrar cyberlockers" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg" alt="" width="610" height="442" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg"><img class="size-full wp-image-3710 aligncenter" title="Lista para borrar cyberlockers" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg" alt="" width="610" height="442" /></a>
 La respuesta de MediaFire es con clase. La empresa no ve ningún punto para contestarle a  Hollywood y en su lugar, explica que operan una empresa perfectamente transparente de EE.UU. Con un negocio que ha demostrado ser útil para muchos clientes legítimos.
 
 "MediaFire es una empresa con sede en EE.UU., con un modelo de negocios y equipo directivo muy transparente. MediaFire fue fundada por un grupo de empresarios de renombre de diversos orígenes que tienen una historia en la construcción de sitios web y tecnologías innovadoras y valiosas ", nos dijo Langridge.

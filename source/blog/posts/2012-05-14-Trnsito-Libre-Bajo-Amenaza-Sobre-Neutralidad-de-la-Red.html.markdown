@@ -8,8 +8,8 @@ tags:
 - neutralidad-de-la-red
 - paulo-rena-da-silva-santarem
 - tatiana
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
 wppost_name: transito-libre-bajo-amenaza-sobre-neutralidad-de-la-red
 ---
 
@@ -61,4 +61,4 @@ Jeremie Zimmerman acrecienta: “Los gobiernos precisan entender como la neutral
 
 <hr />
 <p style="text-align: center;">Si quieren saber algo más sobre el Marco Civil de Internet de Brasil y su Consulta Pública pueden escucar este</p>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">podcast con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">podcast con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong></p>

@@ -9,8 +9,8 @@ tags:
 - estudio
 - investigacion
 - pirateria
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/ipea1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/ipea1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/ipea1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/ipea1-150x150.jpg
 wppost_name: los-piratas-en-brasil-estadistica-sobre-los-que-descargan-archivos-en-brasil
 ---
 
@@ -23,7 +23,7 @@ wppost_name: los-piratas-en-brasil-estadistica-sobre-los-que-descargan-archivos-
 
 En general, los datos revelan que la mayor parte del público que se bajó películas o música piratas se concentra en las clases A y B. La mayoria de los entrevistados entre 16 a 34 años admitió haberse bajado contenido en los últimos tres meses. La pirateria también predomina entre el público masculino: 58% de los hombres se bajaron contenido, contra 45% de las mujeres. Además, la concentración de piratas es mayor en el nivel superior: 59% de los entrevistados con ese nivel de escolaridad hicieron downloads.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/ipea1.jpg"><img class="size-medium wp-image-4411" title="ipea1" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/ipea1-300x189.jpg" alt="" width="300" height="189" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/ipea1.jpg"><img class="size-medium wp-image-4411" title="ipea1" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/ipea1-300x189.jpg" alt="" width="300" height="189" /></a>
 
 
 <em>“El consumidor preferirá el producto legítimo cuando su costo de adquisición es inferior al costo de la transacción si adquiriese un producto pirata”, dice el estudio</em>

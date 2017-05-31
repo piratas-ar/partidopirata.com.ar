@@ -5,8 +5,8 @@ tags:
 - falkvinge-noticias
 - noticias
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/canvassing1-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/canvassing1-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/canvassing1-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/canvassing1-646x363-150x150.jpg
 wppost_name: si-partido-pirata-es-un-nombre-tonto-y-es-por-eso-que-funciona
 ---
 

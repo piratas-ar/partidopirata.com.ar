@@ -7,8 +7,8 @@ tags:
 - copiad-malditos
 - cuando-los-derechos-de-autor-van-mal
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/Flaier-Ciclo-de-la-Alberdi-Martes-20-12.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/Flaier-Ciclo-de-la-Alberdi-Martes-20-12-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/Flaier-Ciclo-de-la-Alberdi-Martes-20-12.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/Flaier-Ciclo-de-la-Alberdi-Martes-20-12-150x150.jpg
 wppost_name: ciclo-de-cine-en-la-sala-alberdi-martes-2012-21-hs-ciudad-de-buenos-aires
 ---
 
@@ -18,7 +18,7 @@ wppost_name: ciclo-de-cine-en-la-sala-alberdi-martes-2012-21-hs-ciudad-de-buenos
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/Flaier-Ciclo-de-la-Alberdi-Martes-20-12.jpg"><img class="aligncenter size-full wp-image-2621" title="Flaier Ciclo de la Alberdi Martes 20-12" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/Flaier-Ciclo-de-la-Alberdi-Martes-20-12.jpg" alt="" width="625" height="894" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/Flaier-Ciclo-de-la-Alberdi-Martes-20-12.jpg"><img class="aligncenter size-full wp-image-2621" title="Flaier Ciclo de la Alberdi Martes 20-12" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/Flaier-Ciclo-de-la-Alberdi-Martes-20-12.jpg" alt="" width="625" height="894" /></a>
 <div style="text-align: center;"><strong>Sala Alberdi - Sarmiento 1551 6to piso , Centro Cultural General San Martín</strong></div>
 <strong>El martes 20/12 a las 21:00 hs en Sala Alberdi, Sarmiento 1551 Centro Cultural San Martín 6to piso, continua el ciclo de cine sobre cultura libre con:</strong>
 <ul>

@@ -11,12 +11,12 @@ tags:
 - numerologia-pirata
 - numeros
 - ventas-perdidas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
 wppost_name: mas-numerologia-pirata-el-caso-de-las-ventas-perdidas-de-libros
 ---
 
-Siqguiendo con nuestra sección dedicada a la<strong><a href="http://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata"> <em>numerología </em> pirata</a>.</strong> O sea los números que se lanzan para afirmar que la <em>piratería</em> está <em>matando</em> a la cultura.
+Siqguiendo con nuestra sección dedicada a la<strong><a href="https://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata"> <em>numerología </em> pirata</a>.</strong> O sea los números que se lanzan para afirmar que la <em>piratería</em> está <em>matando</em> a la cultura.
 Encontramos este texto en <strong><a href="http://www.elcultural.es/version_papel/LETRAS/30761/Como_dejar_de_temer_a_la_pirateria_editorial" target="_blanK">El Cultural.es:</a>, son datos de España</strong>
 
 "En el año 2011, según GFK, se vendieron 280.000 dispositivos pero sólo se descargaron legalmente 220.000 libros electrónicos, es decir, ni una descarga por lector vendido, tal vez por la escasa oferta. Según la agencia del ISBN, de 103.000 títulos editados sólo un 17% -17.843 obras- fueron <em>ebooks</em>. <strong>Y el último Barómetro del Gremio de Editores recoge que el 73% de los encuestados declararon bajarse libros gratis de Internet.</strong> Casi el 4% se hizo ya con su <em>ereader</em>, un 129% más con respecto a 2010."

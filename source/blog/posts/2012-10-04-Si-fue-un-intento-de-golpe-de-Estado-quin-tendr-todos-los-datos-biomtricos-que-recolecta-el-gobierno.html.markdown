@@ -10,12 +10,12 @@ tags:
 - privacidad
 - recopilacion-de-datos
 - sibios
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7-150x150.jpeg
 wppost_name: si-fue-un-intento-de-golpe-de-estado-quien-tendra-todos-los-datos-biometricos-que-recolecta-el-gobierno
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg"><img class=" wp-image-6726" title="Alfonso Severo" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg" alt="" width="591" height="394" /></a> Alfonso Severo el testigo del caso Mariano Ferreyra desaparecido
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg"><img class=" wp-image-6726" title="Alfonso Severo" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/UHaOO7.jpeg" alt="" width="591" height="394" /></a> Alfonso Severo el testigo del caso Mariano Ferreyra desaparecido
 
 <p style="text-align: center;"><strong>El kirchnerismo duro denuncia un golpe de Estado</strong></p>
 Los dirigentes políticos y sociales más cercanos al kirchnerismo salieron a denunciar un intento de golpe de Estado a partir del reclamo de Prefectura Naval. Edgardo Depetri pidió a la militancia a “estar alerta” y el “Chino” Navarro dijo que la protesta "ya afecta la democracia".
@@ -79,10 +79,10 @@ Podrán asociar ese rostro con una identidad….. ¿Cristina Kirchner que habla 
 <object id="player1191700" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1191700_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1191700" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1191700_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object></center>
 <p style="text-align: center;"><strong>Acá hablabamos con <a href="https://twitter.com/@ramiroau" target="_blank"> Ramiro Álvarez Ugarte</a> sobre lo que le sucedió a él al ingresar al país vía Ezeiza sobre tanta invasión a nuestra privacidad por parte del Estado.</strong></p>
 <p style="text-align: center;"><strong><a href="../wp-content/uploads/2012/06/PDFOnline.pdf">El escrito en pdf para protestar por la toma compulsiva de datos biométricos en los aeropuertos para descargar e imprimir</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">La entrada del post con la charla con Ramiro.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">La entrada del post con la charla con Ramiro.</a></strong></p>
 
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://nicks.partidopirata.com.ar/">Usemos Nics</a> cuidemos nuetra privacidad, no nos expongamos ni exhibamos tanto!.</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4178/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso-ii">Un paper que nos quedó <em>colgado</em> no tengo nada que ocultar</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4178/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso-ii">Un paper que nos quedó <em>colgado</em> no tengo nada que ocultar</a></strong></p>
 <p style="text-align: center;">Cuidemos nuestra intimidad, defendamos la democracia y tengamos conciencia de toda la información que está recolectando el Estado,<strong> ¿adónde iría a parar todo eso si se llegara a producir un golpe?</strong></p>

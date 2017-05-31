@@ -11,12 +11,12 @@ tags:
 - presion
 - priority-watch-list
 - propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/communism-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/communism-150x150.jpg
 wppost_name: informe-301-argentina-junto-con-chile-y-venezuela-se-sentaran-en-el-banco-de-adelante-por-hacer-lio
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg"><img class="alignright size-full wp-image-4295" title="communism" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg" alt="Se viene el informe 301" width="226" height="305" /></a>"Argentina sigue en la lista de vigilancia prioritaria en 2012. Argentina hizo algunos progresos con respecto a la observancia de los Derechos de la Propiedad Intelectual. <strong>Este progreso incluye dos acciones importantes que las autoridades judiciales de Argentina, tanto civiles como penales, tomaron en contra de la distribución no autorizada de contenido pirata a través de Internet</strong>. Sin embargo, persisten importantes problemas, entre ellos con respecto a la disponibilidad generalizada de productos pirateados y falsificados, y una cartera de patentes de larga data. Aunque algunas industrias reportan una buena cooperación con las autoridades policiales, <strong>el sistema judicial de Argentina sigue siendo ineficiente</strong>, y sigue siendo importante que las autoridades emitan más sentencias a nivel de disuasión. <strong>La piratería en Internet es una preocupación cada vez mayo</strong>r, y los niveles generales de piratería de derechos de autor, tanto en los entornos de bienes en línea como físicos, siguen siendo elevados. <strong>Estados Unidos alienta a la Argentina a ofrecer protección contra todo uso comercial desleal,</strong> así como la divulgación no autorizada, de las pruebas y otros datos generados para obtener la aprobación de la comercialización para los productos farmacéuticos, y <strong> proporcionar un sistema eficaz para hacer frente a problemas de patentes con urgencia en relación con las solicitudes a comercializar los productos farmacéuticos</strong>. Los Estados Unidos seguirán trabajando con la Argentina para hacer frente a estos y otros asuntos."
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg"><img class="alignright size-full wp-image-4295" title="communism" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg" alt="Se viene el informe 301" width="226" height="305" /></a>"Argentina sigue en la lista de vigilancia prioritaria en 2012. Argentina hizo algunos progresos con respecto a la observancia de los Derechos de la Propiedad Intelectual. <strong>Este progreso incluye dos acciones importantes que las autoridades judiciales de Argentina, tanto civiles como penales, tomaron en contra de la distribución no autorizada de contenido pirata a través de Internet</strong>. Sin embargo, persisten importantes problemas, entre ellos con respecto a la disponibilidad generalizada de productos pirateados y falsificados, y una cartera de patentes de larga data. Aunque algunas industrias reportan una buena cooperación con las autoridades policiales, <strong>el sistema judicial de Argentina sigue siendo ineficiente</strong>, y sigue siendo importante que las autoridades emitan más sentencias a nivel de disuasión. <strong>La piratería en Internet es una preocupación cada vez mayo</strong>r, y los niveles generales de piratería de derechos de autor, tanto en los entornos de bienes en línea como físicos, siguen siendo elevados. <strong>Estados Unidos alienta a la Argentina a ofrecer protección contra todo uso comercial desleal,</strong> así como la divulgación no autorizada, de las pruebas y otros datos generados para obtener la aprobación de la comercialización para los productos farmacéuticos, y <strong> proporcionar un sistema eficaz para hacer frente a problemas de patentes con urgencia en relación con las solicitudes a comercializar los productos farmacéuticos</strong>. Los Estados Unidos seguirán trabajando con la Argentina para hacer frente a estos y otros asuntos."
 
 <strong><a href="http://keionline.org/sites/default/files/2012Special301Report.pdf" target="_blank">Del informe 301 en relación a la Argentina, es un archivo pdf.</a></strong>
 
@@ -88,7 +88,7 @@ Sin el más mínimo interés de guardar las apariencias, el lenguaje del Reporte
 <p style="text-align: center;"><strong>Presione en <em>play</em> y al lado verá la opción para activar los subtítulos en español.</strong></p>
 
 <h1 style="text-align: center;">Rob Reid: The $8 billion iPod</h1>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">Acá tenemos una sección dedicada a la <em>numerología pirata</em></a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">Acá tenemos una sección dedicada a la <em>numerología pirata</em></a></strong></p>
 
 
 <hr />
@@ -110,11 +110,11 @@ Si pueden entren en nuestra<a href="http://lists.partidopirata.com.ar/admindb.cg
 
 &nbsp;
 
-<strong><a href="http://partidopirata.com.ar/2793/podcast-con-juan-pablo-yocca-sobre-el-habeas-corpus-preventivo-contra-la-ley-antiterrorista">Podcast sobre la Ley Antiterrorista en la Argentina.</a></strong>
+<strong><a href="https://partidopirata.com.ar/2793/podcast-con-juan-pablo-yocca-sobre-el-habeas-corpus-preventivo-contra-la-ley-antiterrorista">Podcast sobre la Ley Antiterrorista en la Argentina.</a></strong>
 
-<strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Un podcast sobre que es HADOPI por si lo quieren meter en la Argentina.</a></strong>
+<strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Un podcast sobre que es HADOPI por si lo quieren meter en la Argentina.</a></strong>
 
-<strong><a href="http://partidopirata.com.ar/1518/charla-con-geraldine-juarez-de-mexico-sobre-el-acta-y-formas-de-organizarse-para-oponerse-a-lo-que-viene">Charla con Geraldine Juárez sobre México el ACTA y como se consiguió parar a los Trolls del copyright en ese país.</a></strong>
+<strong><a href="https://partidopirata.com.ar/1518/charla-con-geraldine-juarez-de-mexico-sobre-el-acta-y-formas-de-organizarse-para-oponerse-a-lo-que-viene">Charla con Geraldine Juárez sobre México el ACTA y como se consiguió parar a los Trolls del copyright en ese país.</a></strong>
 
 <strong><a href="http://lists.partidopirata.com.ar/pipermail/iberoamerica-partidopirata.com.ar/2012-May/000564.html">A nuestra lista de correo dedicada a Iberoamérica envían un mensaje con dos links sobre el caso español.</a></strong>
 <ul>

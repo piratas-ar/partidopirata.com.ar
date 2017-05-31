@@ -11,8 +11,8 @@ tags:
 - pseudonimos
 - schleswig-holstein
 - uso-de-seudonimos
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: alemania-ordena-cambios-en-la-politica-de-facebook-sobre-uso-del-verdadero-nombre
 ---
 

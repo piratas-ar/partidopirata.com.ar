@@ -8,8 +8,8 @@ tags:
 - educacion-publica
 - noticias
 - quimili
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/La-educacion-prohibida.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/La-educacion-prohibida-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/La-educacion-prohibida.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/La-educacion-prohibida-150x150.jpg
 wppost_name: critica-a-la-educacion-prohibida
 ---
 

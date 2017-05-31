@@ -9,8 +9,8 @@ tags:
 - no-votar
 - panfletos
 - volantes
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: noalcanon-diseno-de-un-volante-para-informar
 ---
 

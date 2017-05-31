@@ -8,8 +8,8 @@ tags:
 - leon-gieco
 - todo-es-un-remix
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/kirby-tedx.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/kirby-tedx-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/kirby-tedx.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/kirby-tedx-150x150.png
 wppost_name: todos-plagiamos-inclusive-bob-dylan-kirby-ferguson
 ---
 
@@ -30,11 +30,11 @@ Y recientemente volvió al tema cuando en el lanzamiento de su último disco, �
 
 <hr />
 
-Siguiendo con el tema de Bob Dylan, <a href="http://partidopirata.com.ar/2495/leon-gieco-hombres-de-hierro-es-un-afano-total"><strong>León Gieco dijo que Hombres de Hierro era un afano total a Blowing in th</strong>e Wind</a> lástima que León está encolumnado en la defensa del Canon Digital y CAPIF.
+Siguiendo con el tema de Bob Dylan, <a href="https://partidopirata.com.ar/2495/leon-gieco-hombres-de-hierro-es-un-afano-total"><strong>León Gieco dijo que Hombres de Hierro era un afano total a Blowing in th</strong>e Wind</a> lástima que León está encolumnado en la defensa del Canon Digital y CAPIF.
 
 <hr />
 
 <center>
 <object id="player926005" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_926005_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player926005" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_926005_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object></center>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/2495/leon-gieco-hombres-de-hierro-es-un-afano-total">Algo más acá.</a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/2495/leon-gieco-hombres-de-hierro-es-un-afano-total">Algo más acá.</a></p>
 <p style="text-align: center;">Algo más sobre la actitud de León Gieco en :<strong><a href="http://www.patriciolorente.com.ar/2009/02/tu-tambien-leon-gieco/" target="_blank"> Señales de Humo</a></strong></p>

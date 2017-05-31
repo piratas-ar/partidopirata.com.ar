@@ -12,12 +12,12 @@ tags:
 - una-noche-en-casa-blanca
 - uso-de-nombre
 - warner-brothers
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/casablancaclr.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/casablancaclr-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/casablancaclr.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/casablancaclr-150x150.jpg
 wppost_name: carta-de-groucho-marx-a-la-warner-brothers-los-amenazaron-por-usar-casablanca-en-el-titulo-de-la-pelicula
 ---
 
-<strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/casablancaclr.jpg"><img class="alignright size-full wp-image-7183" title="casablancaclr" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/casablancaclr.jpg" alt="" width="411" height="531" /></a><a href="http://www.chillingeffects.org/resource.cgi?ResourceID=31" target="_blank">Fuente Chilling Effects</a></strong>
+<strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/casablancaclr.jpg"><img class="alignright size-full wp-image-7183" title="casablancaclr" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/casablancaclr.jpg" alt="" width="411" height="531" /></a><a href="http://www.chillingeffects.org/resource.cgi?ResourceID=31" target="_blank">Fuente Chilling Effects</a></strong>
 
 Resumen: Mientras se preparaban para rodar una película titulada Una noche en Casablanca, los hermanos Marx recibieron una carta de Warner Bros. amenazándolos con acciones legales si no le cambiaban el título a la película. Warner Bros. considerarába al título demasiado similar al de su película Casablanca, lanzada casi cinco años antes, en 1942, con Humphrey Bogart e Ingrid Bergman. En respuesta Groucho Marx envió la siguiente carta al departamento legal del estudio:
 

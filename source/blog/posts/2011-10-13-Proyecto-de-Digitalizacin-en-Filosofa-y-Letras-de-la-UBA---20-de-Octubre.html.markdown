@@ -14,7 +14,7 @@ thumb:
 wppost_name: proyecto-de-digitalizacion-en-filosofia-y-letras-de-la-uba-20-de-octubre
 ---
 
-<strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/index_003.png"><img class="aligncenter size-full wp-image-2005" title="index_003" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/index_003.png" alt="Digitalización de libros" width="881" height="72" /></a>
+<strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/index_003.png"><img class="aligncenter size-full wp-image-2005" title="index_003" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/index_003.png" alt="Digitalización de libros" width="881" height="72" /></a>
 <div>
 
 El Decano y autoridades de la <a href="http://www.filo.uba.ar/index_html">Facultad de Filosofía y Letras de la UBA </a>invitan a la presentación del escáner DAL-Filo que ha sido desarrollado para la digitalización de los fondos bibliográficos que dan inicio al proyecto Memoria de la Facultad de Filosofía y Letras, en el marco del proyecto biblioteca digital iniciado por esta gestión.

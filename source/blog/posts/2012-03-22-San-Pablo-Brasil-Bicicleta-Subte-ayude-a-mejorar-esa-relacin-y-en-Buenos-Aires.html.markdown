@@ -10,8 +10,8 @@ tags:
 - san-pablo
 - subte
 - uso-de-la-bicicleta
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site-150x140.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site-150x140.jpg
 wppost_name: san-pablo-brasil-bicicleta-subte-ayude-a-mejorar-esa-relacion-y-en-buenos-aires
 ---
 

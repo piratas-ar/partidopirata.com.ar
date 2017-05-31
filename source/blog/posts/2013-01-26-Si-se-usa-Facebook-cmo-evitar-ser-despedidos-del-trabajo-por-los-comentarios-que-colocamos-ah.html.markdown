@@ -13,8 +13,8 @@ tags:
 - intimidad
 - privacidad
 - sindicato
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/s1.reutersmedia.net_.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/s1.reutersmedia.net_-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/s1.reutersmedia.net_.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/s1.reutersmedia.net_-150x150.jpg
 wppost_name: si-se-usa-facebook-como-evitar-ser-despedidos-del-trabajo-por-los-comentarios-que-colocamos-ahi
 ---
 
@@ -76,4 +76,4 @@ Esperamos entonces sus mails o comentarios por favor!
 
 <hr />
 <p style="text-align: center;"><strong><a href="https://twitter.com/stimpyjaycat" target="_blank">Schrödinger Cait </a> nos recomienda varias entradas de la Electronic Frontier Foundation sobre privacidad en Facebook.</strong>
-<strong> <a href="http://partidopirata.com.ar/8284/como-proteger-tu-privacidad-en-las-busquedas-de-facebook-graph">Hicimos esta traducción de una de estas páginas</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/8284/como-proteger-tu-privacidad-en-las-busquedas-de-facebook-graph">Hicimos esta traducción de una de estas páginas</a></strong></p>

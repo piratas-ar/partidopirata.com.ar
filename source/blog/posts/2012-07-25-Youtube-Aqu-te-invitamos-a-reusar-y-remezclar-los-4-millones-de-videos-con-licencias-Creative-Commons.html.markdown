@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - licencias
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/03_0.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/03_0-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/03_0.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/03_0-150x150.jpg
 wppost_name: youtube-aqui-te-invitamos-a-reusar-y-remezclar-los-4-millones-de-videos-con-licencias-creative-commons
 ---
 

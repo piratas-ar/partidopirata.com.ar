@@ -7,12 +7,12 @@ tags:
 - dia-del-dominio-publico
 - material-para-difusion
 - dominio-publico
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013-150x150.jpg
 wppost_name: feliz-dia-del-dominio-publico
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg"><img class="size-full wp-image-7992" alt="Los que entran en Dominio Público en 2013" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg" width="640" height="1052" /></a> Los que entran en Dominio Público en 2013
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg"><img class="size-full wp-image-7992" alt="Los que entran en Dominio Público en 2013" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg" width="640" height="1052" /></a> Los que entran en Dominio Público en 2013
 
 
 <strong><a href="http://derechoaleer.info/blog/2013/01/public-domain-day-2013.html" target="_blank">Fuente Derecho a Leer</a></strong>
@@ -36,4 +36,4 @@ Copiar y pegar completa este aguafuerte en tu sitio o blog, hasta hace poco <a h
 <hr />
 
 Festejemos el Día del Dominio Público y ojalá que este año podamos hacer la Calculadora del Dominio Público así podremos ayudar a quien quiera saber si una determinada obra está o no en Dominio Público.
-<p style="text-align: center"><strong><a href="http://partidopirata.com.ar/7696/se-viene-el-dia-del-dominio-publico-y-el-proyecto-de-una-calculadora-del-dominio-publico">Más información sobre la Calculadora de Dominio Público</a></strong></p>
+<p style="text-align: center"><strong><a href="https://partidopirata.com.ar/7696/se-viene-el-dia-del-dominio-publico-y-el-proyecto-de-una-calculadora-del-dominio-publico">Más información sobre la Calculadora de Dominio Público</a></strong></p>

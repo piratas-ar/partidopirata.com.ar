@@ -9,12 +9,12 @@ tags:
 - musica
 - musica-divulgacion
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/frostclick_compilation_cover-200x200.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/frostclick_compilation_cover-200x200-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/frostclick_compilation_cover-200x200.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/frostclick_compilation_cover-200x200-150x150.jpg
 wppost_name: musicos-alaban-a-creative-commons-y-bittorrent-lo-mejor-de-frostwire-para-descargar
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/frostclick_compilation_cover-200x200.jpg"><img class="aligncenter size-full wp-image-2812" title="frostclick_compilation_cover-200x200" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/frostclick_compilation_cover-200x200.jpg" alt="" width="200" height="200" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/frostclick_compilation_cover-200x200.jpg"><img class="aligncenter size-full wp-image-2812" title="frostclick_compilation_cover-200x200" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/frostclick_compilation_cover-200x200.jpg" alt="" width="200" height="200" /></a>
 
 <strong><a href="https://torrentfreak.com/musicians-praise-bittorrent-and-creative-commons-120112/?utm_source=dlvr.it&amp;utm_medium=twitter" target="_blank">Fuente TorrentFreak.</a></strong>
 

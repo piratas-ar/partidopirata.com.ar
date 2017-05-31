@@ -9,8 +9,8 @@ tags:
 - privacidad
 - tigre
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/primeros-drones-accion-vigilancia-municipio-l-L-mL_axI.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/primeros-drones-accion-vigilancia-municipio-l-L-mL_axI-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/primeros-drones-accion-vigilancia-municipio-l-L-mL_axI.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/primeros-drones-accion-vigilancia-municipio-l-L-mL_axI-150x150.jpeg
 wppost_name: porque-los-estadounidenses-le-estan-diciendo-no-a-los-drones-domesticos
 ---
 

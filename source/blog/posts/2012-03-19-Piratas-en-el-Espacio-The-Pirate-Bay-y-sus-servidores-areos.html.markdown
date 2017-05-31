@@ -6,8 +6,8 @@ tags:
 - material-para-difusion
 - servidores-aereos
 - the-pirate-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/spacepirate.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/spacepirate-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/spacepirate.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/spacepirate-150x150.jpg
 wppost_name: piratas-en-el-espacio-the-pirate-bay-y-sus-servidores-aereos
 ---
 
@@ -23,7 +23,7 @@ TPB está trabajando en vehículos aéreos no tripulados para llevar sus servido
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/spacepirate.jpg"><img class="aligncenter size-full wp-image-3568" title="Piratas en el Espacio" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/spacepirate.jpg" alt="" width="400" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/spacepirate.jpg"><img class="aligncenter size-full wp-image-3568" title="Piratas en el Espacio" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/spacepirate.jpg" alt="" width="400" height="300" /></a>
 
 <hr />
 

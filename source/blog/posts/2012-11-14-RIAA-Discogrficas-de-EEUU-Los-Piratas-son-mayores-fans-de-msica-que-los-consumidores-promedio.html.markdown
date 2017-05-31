@@ -9,15 +9,15 @@ tags:
 - riaa
 - torrentfreak
 - usuarios-p2p
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/sharing-caring.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/sharing-caring-150x144.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/sharing-caring.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/sharing-caring-150x144.jpg
 wppost_name: riaa-discograficas-de-ee-uu-los-piratas-son-mayores-fans-de-musica-que-los-consumidores-promedio
 ---
 
 <a href="https://torrentfreak.com/riaa-pirates-are-bigger-music-fans-than-average-consumers-121113/" target="_blank">Fuente Torrentfreak.</a>por<a title="Posts by Ernesto" href="https://torrentfreak.com/author/ernesto/" rel="author"> Ernesto</a>
 
 Después de un estudio señaló que los que intercambian archivos gastan más dinero en música que sus contrapartes que no lo hacen, la RIAA [Grandes Discográficas de EE.UU] sintió la necesidad de responder. El grupo de la industria musical ahora caracteriza las noticias sobre estos hallazgos como "engañosos" y está a punto de hacer estallar la burbuja. De acuerdo con la RIAA hay una razón clara sobre porqué los usuarios de P2P compran más - son simplemente más entusiastas de la música  que los consumidores de música promedio.  Eh ...?
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/sharing-caring.jpg"><img class="alignright size-full wp-image-7387" title="sharing-caring" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/sharing-caring.jpg" alt="" width="250" height="144" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/sharing-caring.jpg"><img class="alignright size-full wp-image-7387" title="sharing-caring" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/sharing-caring.jpg" alt="" width="250" height="144" /></a>
 
 El mes pasado, investigadores de la Universidad de Columbia asociada a la Asamblea Estadounidense <a href="http://torrentfreak.com/file-sharers-buy-30-more-music-than-non-p2p-peers-121015/">encont</a><a href="http://torrentfreak.com/file-sharers-buy-30-more-music-than-non-p2p-peers-121015/">ó </a> que los estadounidenses que comparten archivos compran 30% más música que sus contrapartes que no lo hacen.
 
@@ -37,7 +37,7 @@ Eh ..?
 
 Parece que sí, como la RIAA respalda esta (para ellos) inusual conclusión al vincular a los datos de NPD que encontraron que entre los  18-35 años de edad, la compradores de música usuarios de P2P gastan un 40% más que los que no la comparten en absoluto . En 2011 los piratas musicales gastaron $ 267 per capita en comparación con $ 191 para los que no la comparten.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/npd-stats.jpg"><img class="aligncenter size-full wp-image-7388" title="npd-stats" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/npd-stats.jpg" alt="" width="489" height="244" /></a>"Lo que dice es que las personas que descargan música ilegalmente están generalmente más comprometidos con la música, por lo que van a los espectáculos y llevan a sus artistas favoritos en sus camisetas", es la <a href="https://www.npdgroupblog.com/driving-under-the-influence/"> conclusión de NPD</a>  por estas estadísticas.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/npd-stats.jpg"><img class="aligncenter size-full wp-image-7388" title="npd-stats" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/npd-stats.jpg" alt="" width="489" height="244" /></a>"Lo que dice es que las personas que descargan música ilegalmente están generalmente más comprometidos con la música, por lo que van a los espectáculos y llevan a sus artistas favoritos en sus camisetas", es la <a href="https://www.npdgroupblog.com/driving-under-the-influence/"> conclusión de NPD</a>  por estas estadísticas.
 
 Una conclusión interesante, y es exactamente la misma que la nuestra cuando se nos informó sobre el estudio.
 

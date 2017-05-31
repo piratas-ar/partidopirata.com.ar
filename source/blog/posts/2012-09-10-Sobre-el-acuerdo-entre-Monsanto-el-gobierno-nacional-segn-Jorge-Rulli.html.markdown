@@ -13,8 +13,8 @@ tags:
 - radio-2
 - reforma-constitucional
 - semillas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto-150x150.jpg
 wppost_name: sobre-el-acuerdo-entre-monsanto-el-gobierno-nacional-segun-jorge-rulli
 ---
 
@@ -28,7 +28,7 @@ wppost_name: sobre-el-acuerdo-entre-monsanto-el-gobierno-nacional-segun-jorge-ru
 <a href="http://www.ivoox.com/editorial-jorge-rulli-del-8-setiembre_md_1418887_1.mp3" target="_blank">Si quieren descargar el archivo mp3 del editorial</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/editorial-jorge-rulli-del-8-setiembre-audios-mp3_rf_1418887_1.html" target="_blank">en este enlace.</a></center>&nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart5.png"><img class="size-full wp-image-6427" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart5.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart5.png"><img class="size-full wp-image-6427" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart5.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />

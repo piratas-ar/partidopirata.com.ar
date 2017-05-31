@@ -20,12 +20,12 @@ tags:
 - redbal
 - reynolds
 - via
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/na29fo01.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/na29fo01.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/na29fo01.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/na29fo01.jpg
 wppost_name: sobre-la-piratefest-nota-en-pagina-12-por-un-cambio-de-paradigma
 ---
 
-<img src="http://partidopirata.com.ar/wp-content/uploads/2011/03/na29fo01.jpg" alt="" />
+<img src="https://partidopirata.com.ar/wp-content/uploads/2011/03/na29fo01.jpg" alt="" />
 
 <strong><a href="http://www.pagina12.com.ar/diario/suplementos/espectaculos/16-21041-2011-03-14.html" target="_blank">Fuente Página 12.</a></strong>
 
@@ -40,7 +40,7 @@ Por Facundo García
 
 Paso a paso –y con el affaire Wikileaks como punta de lanza–, activistas de nuevo cuño están ocupando espacios de visibilidad hasta hace poco impensados. El fin de semana les tocó a los llamados “piratas”, que se reunieron en el primer Piratefest de la Argentina y abordaron, junto a varios especialistas e invitados, un diagnóstico sobre la actual relación entre cultura y nuevas tecnologías. Garfios, patas de palo y barriles de ron quedaron para la próxima.
 
-La organización estuvo a cargo del Partido Pirata local (<a href="http://partidopirata.com.ar/">partidopirata.com.ar</a>), que eligió como punto de encuentro el piso más alto de un edificio en reparación, al mejor estilo Blade Runner. A su vez, Once Libre –así se llama el lugar– es la sede de Articultores (articultores.net), un grupo que reparte plantas organizándose en “guerrillas” de jardineros. El paisaje prometía ser pintoresco, y los visitantes empezaban a ubicarse entre los recovecos de la construcción cuando Matías Lennie, de Red Panal (redpanal.org), enumeró novedades sobre la “música colaborativa” para preguntarse luego si era oportuno responder a los guiños que el gobierno y las fuerzas políticas tradicionales les están haciendo a los militantes tech. “Esos sectores todavía se manejan con formas antiguas de distribuir el poder. Frente a eso, lo que los defensores de la Cultura Libre proponen es un cambio de paradigma. No nos limitamos a compartir canciones o películas, ni a desarrollar software. Es una idea más profunda”, evaluó Lennie.
+La organización estuvo a cargo del Partido Pirata local (<a href="https://partidopirata.com.ar/">partidopirata.com.ar</a>), que eligió como punto de encuentro el piso más alto de un edificio en reparación, al mejor estilo Blade Runner. A su vez, Once Libre –así se llama el lugar– es la sede de Articultores (articultores.net), un grupo que reparte plantas organizándose en “guerrillas” de jardineros. El paisaje prometía ser pintoresco, y los visitantes empezaban a ubicarse entre los recovecos de la construcción cuando Matías Lennie, de Red Panal (redpanal.org), enumeró novedades sobre la “música colaborativa” para preguntarse luego si era oportuno responder a los guiños que el gobierno y las fuerzas políticas tradicionales les están haciendo a los militantes tech. “Esos sectores todavía se manejan con formas antiguas de distribuir el poder. Frente a eso, lo que los defensores de la Cultura Libre proponen es un cambio de paradigma. No nos limitamos a compartir canciones o películas, ni a desarrollar software. Es una idea más profunda”, evaluó Lennie.
 
 Se esté de acuerdo o no con los preceptos del Partido Pirata, está claro que la existencia de esa organización es índice de un emergente social que va cobrando forma. Aficionados a la tecnología y curiosos de la política, hippies digitalizados y punks que practican agricultura orgánica: el recorte incluye una mayoría de jóvenes de clase media que le deben a la posibilidad de subir y bajar información en la web buena parte de sus gustos y sus modos de interacción social. Con el detalle de que además les gusta copiar y alterar los productos culturales que llegan a sus manos, lo que ha puesto a más de una multinacional al borde del ataque de nervios.
 

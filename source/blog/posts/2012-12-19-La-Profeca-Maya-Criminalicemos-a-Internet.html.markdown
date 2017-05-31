@@ -7,8 +7,8 @@ tags:
 - lanata
 - profecia-maya
 - suicidio
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/chart6-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/chart6-115x115.png
 wppost_name: la-profecia-maya-criminalicemos-a-internet
 ---
 
@@ -24,7 +24,7 @@ Estaban comentando sobre el cierre del Cerro Uritorco por una posible convocator
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/profecia-maya-para-criminalizar-a-internet-audios-mp3_rf_1657170_1.html" target="_blank">en ete enlace</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png"><img class="size-full wp-image-7913" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png"><img class="size-full wp-image-7913" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 
 &nbsp;

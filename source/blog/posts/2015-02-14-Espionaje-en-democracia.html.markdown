@@ -9,8 +9,8 @@ tags:
 - inteligencia
 - milani
 - side
-image: http://partidopirata.com.ar/wp-content/uploads/2015/02/AFI.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2015/02/AFI-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2015/02/AFI.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2015/02/AFI-150x150.png
 wppost_name: espionaje-en-democracia
 ---
 

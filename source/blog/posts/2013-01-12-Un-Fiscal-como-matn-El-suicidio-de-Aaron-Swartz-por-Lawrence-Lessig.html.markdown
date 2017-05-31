@@ -8,12 +8,12 @@ tags:
 - lawrence-lessig
 - reddit
 - suicidio
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12-150x150.jpg
 wppost_name: un-fiscal-como-maton-por-el-suicidio-de-aaron-swartz-por-lawrence-lessig
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg"><img class="size-full wp-image-8200" alt="Aaron Swartz " src="http://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg" width="500" height="400" /></a> Aaron Swartz
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg"><img class="size-full wp-image-8200" alt="Aaron Swartz " src="https://partidopirata.com.ar/wp-content/uploads/2013/01/3835494997_edc2e1dc12.jpg" width="500" height="400" /></a> Aaron Swartz
 
 
 <a href="http://lessig.tumblr.com/post/40347463044/prosecutor-as-bully" target="_blank">Fuente Lawrence Lessig</a>
@@ -58,10 +58,10 @@ Muchas Gracias!
 
 Sobre Aaron en nuestro blog:
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/1600/aaron-swartz-y-el-manifiesto-de-la-guerrilla-open-access">Aaron Swartz y el Manifiesto de la Guerrilla Open Access</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/3999/aaron-swartz-hacker-sospechoso">Aaron Swartz Hacker Sospechoso</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/1463/aaron-swartz-acusado-de-descargar-demasiados-papers" rel="bookmark">Aaron Swartz acusado de descargar demasiados papers</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/1600/aaron-swartz-y-el-manifiesto-de-la-guerrilla-open-access">Aaron Swartz y el Manifiesto de la Guerrilla Open Access</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/3999/aaron-swartz-hacker-sospechoso">Aaron Swartz Hacker Sospechoso</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/1463/aaron-swartz-acusado-de-descargar-demasiados-papers" rel="bookmark">Aaron Swartz acusado de descargar demasiados papers</a></strong></li>
 	<li>
-<h3><strong><a href="http://partidopirata.com.ar/1498/aaron-swartz-sobre-las-redes-p2p-napster-e-internet" rel="bookmark">Aaron Swartz- Sobre las Redes P2P , Napster, DRM e Internet.</a></strong></h3>
+<h3><strong><a href="https://partidopirata.com.ar/1498/aaron-swartz-sobre-las-redes-p2p-napster-e-internet" rel="bookmark">Aaron Swartz- Sobre las Redes P2P , Napster, DRM e Internet.</a></strong></h3>
 </li>
 </ul>

@@ -12,8 +12,8 @@ tags:
 - star-wreck
 - streaming
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11-150x150.jpg
 wppost_name: voy-a-descargar-game-of-thrones-de-the-pirate-bay-declara-el-director-de-iron-sky-a-hbo
 ---
 
@@ -25,7 +25,7 @@ Ciertamente ha sido un día lleno de acontecimientos para el gran éxito televis
 
 El domingo, justo antes del estreno de la nueva temporada, el presidente de programación de HBO Michael Lombardo fue más lejos de lo que se podría esperar, al admitir que la piratería tiene un lado positivo.
 
-<a href="http://partidopirata.com.ar/2013/04/01/hbo-game-of-thrones-la-pirateria-es-un-cumplido-no-se-pierde-ninguna-venta/">Describió</a> a la descarga masiva de la serie como "un cumplido", y añadió que no perjudica para nada a  los ingresos del DVD. Algo buena, teniendo en cuenta lo que siguió a continuación.
+<a href="https://partidopirata.com.ar/2013/04/01/hbo-game-of-thrones-la-pirateria-es-un-cumplido-no-se-pierde-ninguna-venta/">Describió</a> a la descarga masiva de la serie como "un cumplido", y añadió que no perjudica para nada a  los ingresos del DVD. Algo buena, teniendo en cuenta lo que siguió a continuación.
 
 De una forma inimitable, el lunes por lo menos un millón de usuarios que compartieron archivos pagaron los cumplidos aún más con un nuevo <a href="http://torrentfreak.com/game-of-thrones-pirates-break-bittorrent-swarm-record-130401/">record de personas compartiendo por BitTorrents</a>..
 

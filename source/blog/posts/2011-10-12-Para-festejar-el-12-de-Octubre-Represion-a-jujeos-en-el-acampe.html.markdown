@@ -9,8 +9,8 @@ tags:
 - represion
 - vivienda
 - vivienda-digna
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon-150x150.png
 wppost_name: para-festejar-el-12-de-octubre-represion-a-jujenos-en-el-acampe
 ---
 
@@ -27,4 +27,4 @@ Otro video de la represión a las familias que apoyaban el reclamo de viviendas 
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://forofyl.com.ar/viewtopic.php?p=1533950" target="_blank">Más información en ForoFyl.</a></strong></p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png"><img class="aligncenter size-full wp-image-1985" title="cristobal colon" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png" alt="" width="380" height="400" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png"><img class="aligncenter size-full wp-image-1985" title="cristobal colon" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png" alt="" width="380" height="400" /></a>

@@ -8,8 +8,8 @@ tags:
 - sibios
 - todos-vigilados
 - toma-compulsiva
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros
 ---
 
@@ -20,11 +20,11 @@ wppost_name: escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/4162/si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-ezeiza">El escrito que presentó Ramiro por ser obligado a que se tomen compulsivamente sus datos en su ingreso a Ezeiza</a></strong>
+<strong><a href="https://partidopirata.com.ar/4162/si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-ezeiza">El escrito que presentó Ramiro por ser obligado a que se tomen compulsivamente sus datos en su ingreso a Ezeiza</a></strong>
 
 &nbsp;
 
-<strong><a href="http://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">El escrito que nos envía Ramiro ,más elaborado para imprimir y presentar o , la que nos envía Germán más abajo:
+<strong><a href="https://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">El escrito que nos envía Ramiro ,más elaborado para imprimir y presentar o , la que nos envía Germán más abajo:
 </a></strong>
 
 <hr />
@@ -51,12 +51,12 @@ mis derechos.
 
     *DNI (si lo desea)*</pre>
 &nbsp;
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/biometria2.pdf">El texto en formato pdf para descargar</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/biometria2.pdf">El texto en formato pdf para descargar</a></strong></p>
 <p style="text-align: center;"><strong>Impriman 2 una para que les quede como <em>Recibo debidamente sellado por quien reciba la nota.</em></strong></p>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">El escrito que nos envía Ramiro.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">El escrito que nos envía Ramiro.</a></strong></p>
 
 
 <hr />

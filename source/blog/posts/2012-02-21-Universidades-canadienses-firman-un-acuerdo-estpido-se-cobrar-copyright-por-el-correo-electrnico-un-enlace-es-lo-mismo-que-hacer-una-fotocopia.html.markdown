@@ -12,8 +12,8 @@ tags:
 - material-para-difusion
 - emails
 - fotocopias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/logo-150x26.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/logo-150x26.png
 wppost_name: universidades-canadienses-firman-un-acuerdo-estupido-se-recolectara-copyright-del-correo-electronico-un-enlace-es-lo-mismo-que-hacer-una-fotocopia
 ---
 
@@ -34,7 +34,7 @@ Turk también señaló que la Corte Suprema esta deliberando para aclarar el uso
 <hr />
 
 Recordemos que en la Argentina las más grandes universidades públicas y privadas firmaron un acuerdo para pagar un <em>canon</em> por fotocopias con CADRA, tal vez ahora esa organización de derechos se <em>inspire</em> y quiera revisar todos los mails de las universidades para saber si tienen enlace a alguna obra con derechos de autor y así extender este <em>canon</em>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2382/contra-la-extorsion-del-canon-por-fotocopias-en-la-uba">Más información sobre el<em>Canon</em> por Fotocopias.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2382/contra-la-extorsion-del-canon-por-fotocopias-en-la-uba">Más información sobre el<em>Canon</em> por Fotocopias.</a></strong></p>
 
 
 <hr />

@@ -9,12 +9,12 @@ tags:
 - secretaria-de-planificacion
 - subsidios-publicos
 - television-digital
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/cda.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/cda-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/cda.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/cda-150x150.png
 wppost_name: contenidos-digitales-abiertos-pero-no-tanto
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/cda.png"><img class="size-large wp-image-7163" title="cda" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/cda-1024x319.png" alt="" width="620" height="193" /></a> Aviso que le aparece a alguien que quiere ver los "Contenidos Digitales Abiertos" desde el Exterior de la Argentina.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/cda.png"><img class="size-large wp-image-7163" title="cda" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/cda-1024x319.png" alt="" width="620" height="193" /></a> Aviso que le aparece a alguien que quiere ver los "Contenidos Digitales Abiertos" desde el Exterior de la Argentina.
 
 
 Si quieren conocer los<strong> <a href="http://cda.gob.ar/" target="_blank">Contenidos Digitales Abiertos</a> </strong>y están en el Exterior de la Argentina se encontrarán con el aviso que nos envió un Argentino que está fuera del país.

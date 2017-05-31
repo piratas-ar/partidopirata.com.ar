@@ -10,12 +10,12 @@ tags:
 - ituzaingo-anexo
 - juicio
 - roundup
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/slide-sentencia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/slide-sentencia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/slide-sentencia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/slide-sentencia-150x150.jpg
 wppost_name: sentencia-por-fumigar-en-cordoba
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/slide-sentencia.jpg"><img class="size-medium wp-image-6145 aligncenter" title="slide-sentencia" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/slide-sentencia-300x168.jpg" alt="" width="300" height="168" /></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/slide-sentencia.jpg"><img class="size-medium wp-image-6145 aligncenter" title="slide-sentencia" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/slide-sentencia-300x168.jpg" alt="" width="300" height="168" /></a>
 <strong>Foto de <a href="http://www.juicioalafumigacion.com.ar/la-sentencia-delito-y-condena/" target="_blank">Juicio a la Fumigación</a></strong></p>
 Salió la sentencia en el juicio por fumigaciones en el Barrio Ituzaingó Anexo de la Ciudad de Córdoba:
 

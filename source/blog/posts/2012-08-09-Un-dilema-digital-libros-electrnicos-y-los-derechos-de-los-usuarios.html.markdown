@@ -9,8 +9,8 @@ tags:
 - estados-unidos
 - prestamos-de-e-books
 - prestamos-de-libros
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/digital-fingerprint.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/digital-fingerprint-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/digital-fingerprint.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/digital-fingerprint-150x150.jpg
 wppost_name: un-dilema-digital-libros-electronicos-y-los-derechos-de-los-usuarios
 ---
 
@@ -22,7 +22,7 @@ Por Deborah Caldwell-Stone
 
 29/05/2012 -
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/digital-fingerprint.jpg"><img class="alignright size-medium wp-image-5864" title="digital fingerprint" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/digital-fingerprint-224x300.jpg" alt="" width="224" height="300" /></a>En septiembre pasado, las bibliotecas y los bibliotecarios de todo el país acogieron con satisfacción el  <a href="http://overdrive.com/news/OverDrive-and-Amazon-launch-Kindle-compatibility-with-Library-eBooks">anuncio </a> de que OverDrive y Amazon habían llegado a un acuerdo que permitiría a los propietarios de Kindle tomar prestados libros a través de sus bibliotecas públicas. El nuevo acuerdo les permite a las bibliotecas para satisfacer una demanda estándard acumulada para que se efectúen préstamos de libros electrónicos a través de Kindle. Sin embargo, los bibliotecarios y los usuarios nos enteramos de que el acuerdo se produjo con algunas condiciones: los usuarios de Kindle cuyos períodos de préstamo estaban llegando a su fin empezaron a recibir mensajes de marketing de Amazon.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/digital-fingerprint.jpg"><img class="alignright size-medium wp-image-5864" title="digital fingerprint" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/digital-fingerprint-224x300.jpg" alt="" width="224" height="300" /></a>En septiembre pasado, las bibliotecas y los bibliotecarios de todo el país acogieron con satisfacción el  <a href="http://overdrive.com/news/OverDrive-and-Amazon-launch-Kindle-compatibility-with-Library-eBooks">anuncio </a> de que OverDrive y Amazon habían llegado a un acuerdo que permitiría a los propietarios de Kindle tomar prestados libros a través de sus bibliotecas públicas. El nuevo acuerdo les permite a las bibliotecas para satisfacer una demanda estándard acumulada para que se efectúen préstamos de libros electrónicos a través de Kindle. Sin embargo, los bibliotecarios y los usuarios nos enteramos de que el acuerdo se produjo con algunas condiciones: los usuarios de Kindle cuyos períodos de préstamo estaban llegando a su fin empezaron a recibir mensajes de marketing de Amazon.
 
 Los mensajes les recordaban a los usuarios que sus libros electrónicos prestados pronto desaparecerían de su Kindle y les preguntaba al dueño del Kindle si no quería comprar los libros electrónicos a través de Amazo. El eTailer también les recordaba a los usuarios de Kindle que si decidieron comprar el ebook prestado después de haber desaparecido de su Kindle, Amazon podría devolverle al Kindle todos los textos resaltados por el usuario y sus notas intactas.
 

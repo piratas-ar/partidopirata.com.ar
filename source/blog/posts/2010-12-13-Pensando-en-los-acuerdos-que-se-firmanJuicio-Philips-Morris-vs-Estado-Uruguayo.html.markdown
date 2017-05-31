@@ -17,12 +17,12 @@ tags:
 - reclamacion
 - uruguayo
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/philipmorris.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/philipmorris.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/philipmorris.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/philipmorris.gif
 wppost_name: pensando-en-los-acuerdos-que-se-firman-juicio-philips-morris-vs-estado-uruguayo
 ---
 
-<p style="text-align: center;"><a rel="attachment wp-att-330" href="http://partidopirata.com.ar/328/pensando-en-los-acuerdos-que-se-firman-juicio-philips-morris-vs-estado-uruguayo/philipmorris-2"><img class="aligncenter size-medium wp-image-330" title="Philips Morris vs el Estado Uruguayo" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/philipmorris1-300x204.gif" alt="" width="300" height="204" /></a><hr><center><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/jR-ZavpeIZY?fs=1&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jR-ZavpeIZY?fs=1&amp;hl=es_ES" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object><p>Entrevista Eduardo Bianco CIET Phillip Morris vs Uruguay</a></p></center>
+<p style="text-align: center;"><a rel="attachment wp-att-330" href="https://partidopirata.com.ar/328/pensando-en-los-acuerdos-que-se-firman-juicio-philips-morris-vs-estado-uruguayo/philipmorris-2"><img class="aligncenter size-medium wp-image-330" title="Philips Morris vs el Estado Uruguayo" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/philipmorris1-300x204.gif" alt="" width="300" height="204" /></a><hr><center><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/jR-ZavpeIZY?fs=1&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jR-ZavpeIZY?fs=1&amp;hl=es_ES" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object><p>Entrevista Eduardo Bianco CIET Phillip Morris vs Uruguay</a></p></center>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"></p>
 

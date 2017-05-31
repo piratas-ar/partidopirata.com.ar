@@ -10,12 +10,12 @@ tags:
 - juicios
 - p2p
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/dummies.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/dummies-126x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/dummies.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/dummies-126x150.jpg
 wppost_name: gran-editorial-de-libros-exige-juicio-con-jurado-contra-los-piratas-de-bittorrent
 ---
 
-<strong><a href="https://torrentfreak.com/major-book-publisher-demands-jury-trial-against-bittorrent-pirates-120418/" target="_blank">Fuente Torrentfreak</a></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/dummies.jpg"><img class="size-full wp-image-4103 alignright" title="dummies" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/dummies.jpg" alt="" width="126" height="160" /></a>
+<strong><a href="https://torrentfreak.com/major-book-publisher-demands-jury-trial-against-bittorrent-pirates-120418/" target="_blank">Fuente Torrentfreak</a></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/dummies.jpg"><img class="size-full wp-image-4103 alignright" title="dummies" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/dummies.jpg" alt="" width="126" height="160" /></a>
 <div class="mceTemp"><dl id="attachment_4103" class="wp-caption alignright" style="width: 136px;"><dd class="wp-caption-dd">Bit Torrents para Dummies</dd></dl></div>
 John Wiley &amp; Sons, una de las editoriales más grandes del mundo del libro, continúa con sus esfuerzos para acabar con la piratería de BitTorrent. La compañía ha nombrado a varias personas que supuestamente compartían los títulos de Wiley en línea, y está exigiendo un juicio con jurado contra ellos. Si esto sigue adelante en realidad será la primera vez que pruebas  relacionado  con BitTorrent se usarán en un tribunal de EE.UU.
 
@@ -52,4 +52,4 @@ Dicho esto, también está la posibilidad de que los abogados estén utilizando 
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Es importante saber cómo funciona esto de espiar a los que comparten en redes P2P, acá sabiendo cómo es en Francia con Hadopi</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Es importante saber cómo funciona esto de espiar a los que comparten en redes P2P, acá sabiendo cómo es en Francia con Hadopi</a></strong></p>

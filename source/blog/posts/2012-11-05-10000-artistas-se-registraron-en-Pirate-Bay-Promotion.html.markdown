@@ -10,20 +10,20 @@ tags:
 - the-promo-bay
 - torrentfreak
 - torrents
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo-150x150.jpg
 wppost_name: 10-000-artistas-se-registraron-en-pirate-bay-promotion
 ---
 
 <strong><a href="https://torrentfreak.com/10000-artists-signed-up-for-pirate-bay-promotion-12110/" target="_blank">Fuente Torrentfreack, por Ernesto</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg"><img class="alignright  wp-image-3015" title="The Promo Bay" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg" alt="" width="324" height="296" /></a>Mientras que los grandes sellos discográficos y estudios de cine hacen lo que pueden para bloquear a The Pirate Bay, miles de artistas menos conocidos están dispuestos a convertirse ser destacados en la página principal del sitio. Desde el inicio de la iniciativa de la "Promo Bay" en enero, 10.000 artistas independientes se han inscrito para ser promovidos por el sitio más grande del mundo de torrents. Los que tuvieron la suerte de ser presentados han disfrutado de un sano impulso en su carrera y en algunos casos han ganado miles de dólares de los fans por compartir archivos ..
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg"><img class="alignright  wp-image-3015" title="The Promo Bay" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg" alt="" width="324" height="296" /></a>Mientras que los grandes sellos discográficos y estudios de cine hacen lo que pueden para bloquear a The Pirate Bay, miles de artistas menos conocidos están dispuestos a convertirse ser destacados en la página principal del sitio. Desde el inicio de la iniciativa de la "Promo Bay" en enero, 10.000 artistas independientes se han inscrito para ser promovidos por el sitio más grande del mundo de torrents. Los que tuvieron la suerte de ser presentados han disfrutado de un sano impulso en su carrera y en algunos casos han ganado miles de dólares de los fans por compartir archivos ..
 
 En esta época en que los aspirantes tienen acceso a todas las herramientas que necesitan para crear un producto decente.
 
 El verdadero desafío es escapar de la oscuridad y llamar la atención del público. Antes, se trataba de una tarea que los grandes sellos discográficos y otros distribuidores de otros medios de comunicación cumplían, pero a partir de este año tienen un digno oponente.
 
-A principios de 2012 The Pirate Bay lanzó <a href="http://partidopirata.com.ar/3008/promobay-la-plataforma-de-promocion-de-the-pirate-bay">La Promo Bay</a>, una nueva plataforma de promoción para cineastas, músicos, escritores y otros artistas todos por igual. Para ayudarles a alcanzar una audiencia de decenas de millones de personas, The Pirate Bay comenzó a ofrecerles a los artistas un spot publicitario de primera en su página principal, en sustitución del icónico logotipo del barco pirata.
+A principios de 2012 The Pirate Bay lanzó <a href="https://partidopirata.com.ar/3008/promobay-la-plataforma-de-promocion-de-the-pirate-bay">La Promo Bay</a>, una nueva plataforma de promoción para cineastas, músicos, escritores y otros artistas todos por igual. Para ayudarles a alcanzar una audiencia de decenas de millones de personas, The Pirate Bay comenzó a ofrecerles a los artistas un spot publicitario de primera en su página principal, en sustitución del icónico logotipo del barco pirata.
 
 El exitoso escritor y defensor <a href="http://torrentfreak.com/paulo-coelho-supports-the-pirate-bay-090415/">defensor de Pirate Bay Paulo Coelho</a> tuvo el honor de dar inicio al proyecto y en los meses que siguieron se presentaron 25 artistas de todo el mundo. Además, The Pirate Bay también realizó muchas promociones regionales.
 
@@ -35,7 +35,7 @@ Mejor aún, las promociones también resultaron en dinero contante y sonante par
 
 Hasta el momento la Promo Bay ha sido un gran éxito, tanto es así que el equipo de The Pirate Bay no puede mantenerse al día con todas las solicitudes. "Tenemos cerca de 10.000 presentaciones en nuestra bandeja de entrada, con cerca de 2000 sin leer", dijeron.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/pirate-promo.jpg"><img class="aligncenter size-full wp-image-7250" title="pirate-promo" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/pirate-promo.jpg" alt="" width="485" height="399" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/pirate-promo.jpg"><img class="aligncenter size-full wp-image-7250" title="pirate-promo" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/pirate-promo.jpg" alt="" width="485" height="399" /></a>
 
 Para ser más organizado el sitio de BitTorrent ha solicitado la ayuda del empresario australiano Will Dayble que actualmente está trabajando en un sitio web independiente de la Promo Bay.
 

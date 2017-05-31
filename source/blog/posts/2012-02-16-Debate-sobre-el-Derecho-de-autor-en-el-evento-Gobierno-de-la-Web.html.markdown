@@ -9,8 +9,8 @@ tags:
 - pablo-balcedo
 - ricardo-saenz
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/gobierno-web-leyes-300x166.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/gobierno-web-leyes-300x166-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/gobierno-web-leyes-300x166.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/gobierno-web-leyes-300x166-150x150.jpg
 wppost_name: debate-sobre-el-derecho-de-autor-en-el-evento-gobierno-de-la-web
 ---
 

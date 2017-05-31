@@ -10,14 +10,14 @@ tags:
 - neoliberalismo
 - multimedia
 - wall-mart
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner-150x150.jpg
 wppost_name: andando-por-los-pagos-anteriores-de-kevin-turner-de-wall-mart-a-microsoft-y-cristina
 ---
 
 <strong>De Walmart a Microsoft</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner.jpg"><img class="size-medium wp-image-4594" title="cristina-turner" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner-300x187.jpg" alt="" width="300" height="187" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner.jpg"><img class="size-medium wp-image-4594" title="cristina-turner" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner-300x187.jpg" alt="" width="300" height="187" /></a>
 
 
 No es casual entonces, <strong>que uno de los ejecutivos estrella de Microsoft sea Brian Kevin Turner</strong> (actual Director General de Operaciones), que <a href="http://en.wikipedia.org/wiki/Brian_Kevin_Turner"><strong>por casi 20 años se desempeñó en la compañía de supermercados fundada por Sam Walton en 1962</strong></a>, hasta pasarse a Microsoft en 2005.

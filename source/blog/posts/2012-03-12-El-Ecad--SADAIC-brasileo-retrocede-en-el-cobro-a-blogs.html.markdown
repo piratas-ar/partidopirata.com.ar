@@ -8,12 +8,12 @@ tags:
 - ecad-cpbrp-tasa
 - mensual
 - tasa-para-blogs
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21-150x150.jpg
 wppost_name: el-ecad-sadaic-brasileno-retrocede-en-el-cobro-a-blogs
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg"><img class="size-full wp-image-3470 aligncenter" title="Youtube Ecad" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg" alt="" width="390" height="264" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg"><img class="size-full wp-image-3470 aligncenter" title="Youtube Ecad" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg" alt="" width="390" height="264" /></a>
 
 <strong><a href="http://blogs.estadao.com.br/link/ecad-volta-atras-em-cobranca-de-videos-de-blogs-e-sites/" target="_blank">Fuente Suplemento Link de "O Estado de São Paulo"</a></strong>
 

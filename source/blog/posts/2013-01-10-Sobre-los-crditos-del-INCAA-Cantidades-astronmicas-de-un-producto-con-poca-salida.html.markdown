@@ -13,8 +13,8 @@ tags:
 - incaa
 - subsidio-al-cine
 - subsidios
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/Incaa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/Incaa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/Incaa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/Incaa-150x150.jpg
 wppost_name: sobre-los-creditos-del-incaa-cantidades-astronomicas-de-un-producto-con-poca-salida
 ---
 

@@ -3,8 +3,8 @@ title: Primer Creative Commons Buenos Aires Film Festival
 date: '2012-02-03'
 tags:
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/cc-logo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/cc-logo-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/cc-logo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/cc-logo-115x115.jpg
 wppost_name: primer-creative-commons-buenos-aires-film-festival
 ---
 

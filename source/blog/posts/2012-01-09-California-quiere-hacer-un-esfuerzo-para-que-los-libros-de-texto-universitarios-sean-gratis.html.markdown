@@ -11,8 +11,8 @@ tags:
 - libros-universitarios-con-licencias-abiertas
 - open-acces
 - universidad
-image: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros-150x150.jpg
 wppost_name: california-quiere-hacer-un-esfuerzo-para-que-los-libros-de-texto-universitarios-sean-gratis
 ---
 
@@ -33,4 +33,4 @@ En la Argentina las máquinas que se distribuyen vienen con algunos libros. No s
 
 Sería una buena iniciativa e impactaría en el bolsillo de todos nosotros, sobre todo en los libros del colegio secundario.
 
-Las universidades pueden impulsar la adopción de libros con licencias abiertas para sus alumnos<strong><a href="http://partidopirata.com.ar/2747/ee-uu-por-que-los-libros-de-texto-digitales-no-siempre-es-mas-economico-para-los-estudiantes-universitarios"> (y no pagarle más a CADRA).</a></strong>
+Las universidades pueden impulsar la adopción de libros con licencias abiertas para sus alumnos<strong><a href="https://partidopirata.com.ar/2747/ee-uu-por-que-los-libros-de-texto-digitales-no-siempre-es-mas-economico-para-los-estudiantes-universitarios"> (y no pagarle más a CADRA).</a></strong>

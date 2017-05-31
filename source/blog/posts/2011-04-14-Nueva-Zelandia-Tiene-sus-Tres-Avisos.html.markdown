@@ -9,12 +9,12 @@ tags:
 - oceania
 - represion
 - tres-avisos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/maza-juez.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/maza-juez.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/maza-juez.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/maza-juez.jpg
 wppost_name: nueva-zelandia-tiene-sus-tres-avisos
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/maza-juez.jpg"><img class="aligncenter size-medium wp-image-739" title="maza-juez" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/maza-juez-300x200.jpg" alt="" width="300" height="200" /></a> <a href="http://www.nacionred.com/derechos-de-autor/nueva-zelanda-tambien-aprueba-su-propia-ley-anti-descargas" target="_blank">Fuente "Nación Red"</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/maza-juez.jpg"><img class="aligncenter size-medium wp-image-739" title="maza-juez" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/maza-juez-300x200.jpg" alt="" width="300" height="200" /></a> <a href="http://www.nacionred.com/derechos-de-autor/nueva-zelanda-tambien-aprueba-su-propia-ley-anti-descargas" target="_blank">Fuente "Nación Red"</a>
 
 Casi todas las legislaciones relativas a regular un concepto tan etéreo, por llamarlo de alguna forma suave, como la “<a href="http://www.nacionred.com/categoria/legislacion-pi">infracción de copyright</a>“ se han aprobado mediante tretas, huecos legales e incluso de forma completamente fraudulenta.
 

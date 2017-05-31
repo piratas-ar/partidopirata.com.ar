@@ -11,8 +11,8 @@ tags:
 - holanda
 - intercambio-de-archivos
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/digital1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/digital1-150x150.png
 wppost_name: los-que-comparten-archivos-son-mas-propensos-a-pagar-por-peliculas-libros-juegos-y-conciertos
 ---
 
@@ -20,7 +20,7 @@ wppost_name: los-que-comparten-archivos-son-mas-propensos-a-pagar-por-peliculas-
 
 Un amplio informe publicado por el Instituto Holandés para la Información y CenERdata revela que en comparación con el resto de la población, quienes comparten archivos son más propensos a pagar por películas, libros, juegos, conciertos y entradas de cine. El informe revela además que el bloqueo de sitios web como The Pirate Bay hacen muy poco por disuadir a los consumidores de compartir archivos con derechos de autor online.
 
-A principios de esta semana una investigación de la Asamblea Universitaria afiliada a la universidad estadounidense de Columbia encontró que en los Estados Unidos quienes comparten archivos de música <a href="http://partidopirata.com.ar/6861/los-que-comparten-archivos-compran-30-mas-musica-que-los-que-no-lo-hacen">comprar un 30% más</a> que sus contrapartes que no intercambian  música con sus compañeros.
+A principios de esta semana una investigación de la Asamblea Universitaria afiliada a la universidad estadounidense de Columbia encontró que en los Estados Unidos quienes comparten archivos de música <a href="https://partidopirata.com.ar/6861/los-que-comparten-archivos-compran-30-mas-musica-que-los-que-no-lo-hacen">comprar un 30% más</a> que sus contrapartes que no intercambian  música con sus compañeros.
 
 Dos días más tarde, el <a href="http://www.ivir.nl/">Instituto holandés para la información</a>n y <a href="http://www.centerdata.nl/nl/">CentERdata</a> han publicado <a href="http://www.nu.nl/internet/2935673/downloaden-neemt-niet-af-ondanks-bestrijding.html">un informe relacionado </a> que va más allá. El estudio revela que más de la cuarta parte (27,2%) de los ciudadanos holandeses, de 16 años en adelante, se han descargado desde fuentes ilegales durante el último año.
 
@@ -32,14 +32,14 @@ Por ejemplo, los usuarios que intercambian archivos "piratas" de películas o se
 
 Dicho de otra manera, los mismos datos concluye que dos tercios de toda la música de los que comparten archivos pagan por descargas de música o streams.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png"><img class="size-full wp-image-6955" title="digital1" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png" alt="" width="506" height="304" /></a> Descargadores son más propensos a comprar digital (download / stream) de música, libros, películas y juegos
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png"><img class="size-full wp-image-6955" title="digital1" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/digital1.png" alt="" width="506" height="304" /></a> Descargadores son más propensos a comprar digital (download / stream) de música, libros, películas y juegos
 
 
 Curiosamente, efectos similares se encontraron para los medios físicos, pero las diferencias son menores aquí. La conclusión es, no obstante que quienes comparten archivos también son más propensos a comprar libros físicos, CDs y DVDs y juegos.
 
 La diferencia es más pronunciada para los juegos con un 65% frente a 14%.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png"><img class="size-full wp-image-6956" title="psysical1" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png" alt="" width="514" height="305" /></a> http://partidopirata.com.ar/wp-admin/post-new.phpQuienes comparten archivos más propensos a comprar música física, libros, películas y juegos.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png"><img class="size-full wp-image-6956" title="psysical1" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png" alt="" width="514" height="305" /></a> https://partidopirata.com.ar/wp-admin/post-new.phpQuienes comparten archivos más propensos a comprar música física, libros, películas y juegos.
 
 
 Speaking with TorrentFreak, researcher Joost Poort explains his findings by arguing that file-sharers tend to be more heavy entertainment consumers than those who don’t share anything.
@@ -54,7 +54,7 @@ Además de los hábitos de compra de medios, el estudio también ha abordado el 
 
 Los que descargaron películas procedentes de fuentes ilegales durante los últimos 12 meses son 50% más propensos a ir al cine que los que no descargan, por ejemplo (64% vs 42%).
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/ticket-merch4.png"><img class="size-full wp-image-6957" title="ticket-merch4" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/ticket-merch4.png" alt="" width="517" height="327" /></a> Loa que comparten archivos tienen más probabilidades de asistirr a conciertos, salas de cine y comprar merchandising
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/ticket-merch4.png"><img class="size-full wp-image-6957" title="ticket-merch4" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/ticket-merch4.png" alt="" width="517" height="327" /></a> Loa que comparten archivos tienen más probabilidades de asistirr a conciertos, salas de cine y comprar merchandising
 
 
 La correlación, sin embargo, no debe interpretarse como una relación causal. La gente no compra necesariamente más, porque comparten archivos, o viceversa. Aunque el muestreo puede ser un factor, terceras variables tales como el interés en las películas y la música son propensos a conducir la mayor parte del efecto.
@@ -78,4 +78,4 @@ El estudio respalda esta postura, ya que revela que el intercambio de archivos d
 El resultado completo del Institution for Information <a href="http://www.ivir.nl/publicaties/poort/Filesharing_2012.pdf"> está disponible acá en holandés </a>. Se espera que una versión en Inglés sea publicada en un par de semanas.
 
 <hr />
-<p style="text-align: center;"><strong>Habría que avisarle a Marcelo Birmajer que lea el informe ya que él <a href="http://partidopirata.com.ar/4282/debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de-radio-de-jorge-lanata">decía que no tenía ningún informe académico</a>!</strong></p>
+<p style="text-align: center;"><strong>Habría que avisarle a Marcelo Birmajer que lea el informe ya que él <a href="https://partidopirata.com.ar/4282/debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de-radio-de-jorge-lanata">decía que no tenía ningún informe académico</a>!</strong></p>

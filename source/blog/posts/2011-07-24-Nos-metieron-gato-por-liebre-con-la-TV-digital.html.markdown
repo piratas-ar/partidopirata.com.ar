@@ -10,8 +10,8 @@ tags:
 - tv
 - tv-digital
 - tv-publica
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/1984-pirate-tv.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/1984-pirate-tv-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/1984-pirate-tv.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/1984-pirate-tv-150x150.png
 wppost_name: nos-metieron-gato-por-liebre-con-la-tv-digital
 ---
 

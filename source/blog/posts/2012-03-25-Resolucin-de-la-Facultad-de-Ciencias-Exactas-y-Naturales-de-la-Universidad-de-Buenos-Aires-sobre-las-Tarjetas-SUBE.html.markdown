@@ -11,8 +11,8 @@ tags:
 - resolucion
 - sube
 - uba
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/logo_2009.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/logo_2009-150x70.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/logo_2009.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/logo_2009-150x70.jpg
 wppost_name: resolucion-de-la-facultad-de-ciencias-exactas-y-naturales-de-la-universidad-de-buenos-aires-sobre-las-tarjetas-sube
 ---
 

@@ -15,8 +15,8 @@ tags:
 - robert-darnton
 - roda-viva
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/harvardlibrary-150x150.jpg
 wppost_name: robert-darnton-director-de-las-bibliotecas-de-harvard-el-partido-pirata-tambien-en-harvard
 ---
 
@@ -52,7 +52,7 @@ Uno de los problemas que Darnton ha enfrentado en su caminata rumbo a lo digital
 Hoy,l a biblioteca de Harvard cuenta con 17 millones de volúmenes en 350 lenguas. La intención del presidente es hacer lo mismo con la versión digitalizada, tornando el accesoa la información algo más accesible para cualquier persona. Para ese proyecto, Darnton dice que cuenta con 100 millones de dólares. “Podemos hacerlo gracias a las fundaciones. Ellas fueron creadas por empresas que ganan mucho dinero, pero poseen total autonomia”.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/7122/robert-darnton-en-roda-viva-3er-bloque">Tercer y Cuarto Bloques de la entrevista!</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/7122/robert-darnton-en-roda-viva-3er-bloque">Tercer y Cuarto Bloques de la entrevista!</a></strong></p>
 
 
 <hr />

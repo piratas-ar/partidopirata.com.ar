@@ -13,8 +13,8 @@ tags:
 - podcasts
 - red-de-trueque
 - trueque
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/trueque-1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/trueque-1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/trueque-1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/trueque-1-150x150.jpg
 wppost_name: sobre-la-red-de-trueque-en-la-argentina-conversando-con-marcelo-gryckiewicz
 ---
 
@@ -29,7 +29,7 @@ De eso estuvimos hablanddo con él.
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/charlando-marcelo-gryckiewicz-sobre-red-de_md_1550090_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart4.png"><img class="size-full wp-image-7260" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart4.png"><img class="size-full wp-image-7260" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 <p style="text-align: center;"><strong>Si la dirección anterior no funciona, presionen en <em>descargar</em>  <a href="http://www.ivoox.com/charlando-marcelo-gryckiewicz-sobre-red-de-audios-mp3_rf_1550090_1.html" target="_blank">en este link.</a></strong></p>
 <p style="text-align: center;"><strong>Si quieren comunicarse con Marcelo:</strong></p>
@@ -39,7 +39,7 @@ De eso estuvimos hablanddo con él.
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/ver_imagen.php_.jpg"><img class="size-full wp-image-7266" title="ver_imagen.php" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/ver_imagen.php_.jpg" alt="" width="500" height="497" /></a> 1 Peso (1952-55) Justicia. Leyes 12.962 y 13.571  El billete con la Justicia sin la venda en los ojos que nos comenta Marcelo durante el podcast.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/ver_imagen.php_.jpg"><img class="size-full wp-image-7266" title="ver_imagen.php" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/ver_imagen.php_.jpg" alt="" width="500" height="497" /></a> 1 Peso (1952-55) Justicia. Leyes 12.962 y 13.571  El billete con la Justicia sin la venda en los ojos que nos comenta Marcelo durante el podcast.
 
 
 <hr />

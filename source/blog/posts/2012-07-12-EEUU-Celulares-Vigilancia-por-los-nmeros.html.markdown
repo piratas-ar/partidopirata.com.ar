@@ -11,12 +11,12 @@ tags:
 - privacidad
 - telefonos-celulares
 - ubicacion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/blog_locationtrackingnew2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/blog_locationtrackingnew2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/blog_locationtrackingnew2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/blog_locationtrackingnew2-150x150.jpg
 wppost_name: celulares-vigilancia-por-los-numeros
 ---
 
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5202/ee-uu-los-telefonos-celulares-estan-siendo-vigilados-mas-que-nunca">En EE.UU teléfonos celulares cada vez más vigilados</a></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/blog_locationtrackingnew2.jpg"><img class="aligncenter size-full wp-image-5211" title="blog_locationtrackingnew2" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/blog_locationtrackingnew2.jpg" alt="Donde Estás, Quien sos" width="500" height="280" /></a><strong>Si el gobierno sabe donde estás, el gobierno sabe quien sos.</strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5202/ee-uu-los-telefonos-celulares-estan-siendo-vigilados-mas-que-nunca">En EE.UU teléfonos celulares cada vez más vigilados</a></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/blog_locationtrackingnew2.jpg"><img class="aligncenter size-full wp-image-5211" title="blog_locationtrackingnew2" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/blog_locationtrackingnew2.jpg" alt="Donde Estás, Quien sos" width="500" height="280" /></a><strong>Si el gobierno sabe donde estás, el gobierno sabe quien sos.</strong></p>
 <strong><a href="http://www.aclu.org/blog/technology-and-liberty-national-security/mobile-phone-surveillance-numbers" target="_blank">Fuente ACLU: Anerican Civil Liberties Union</a></strong>
 
 Por <a href="http://www.aclu.org/blog/author/chris-calabrese">Chris Calabrese</a>
@@ -57,4 +57,4 @@ Piensen que en la Argentina parte de esta información estaría accesible vía l
 
 No sería extraño que a algún legislador se le ocurra copiar estas leyes y que la policía tenga acceso a todo: Mensajes de Texto, números de teléfono y nuestra ubicación. Todo por el teléfono celular!
 <p style="text-align: center;">Es hora de tomar conciencia y de cuidar nuestra información! (para quien diga que muchos colocan todos sus datos voluntariamente en Facebook , Twitter y otros lados).</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5195/quienes-tienen-acceso-a-nuestra-informacion-de-la-tarjeta-sube">¿Quiénes tienen acceso a nuestra información de la Tarjeta SUBE?</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5195/quienes-tienen-acceso-a-nuestra-informacion-de-la-tarjeta-sube">¿Quiénes tienen acceso a nuestra información de la Tarjeta SUBE?</a></strong></p>

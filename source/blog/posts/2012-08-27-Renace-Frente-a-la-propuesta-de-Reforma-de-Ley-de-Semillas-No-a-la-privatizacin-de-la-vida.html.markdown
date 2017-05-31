@@ -10,8 +10,8 @@ tags:
 - modelo
 - privatizacion-de-la-vida
 - semillas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: renace-frente-a-la-propuesta-de-reforma-de-ley-de-semillas-no-a-la-privatizacion-de-la-vida
 ---
 

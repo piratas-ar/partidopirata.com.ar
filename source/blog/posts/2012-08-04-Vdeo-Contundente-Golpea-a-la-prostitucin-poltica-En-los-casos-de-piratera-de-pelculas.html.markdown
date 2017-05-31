@@ -13,8 +13,8 @@ tags:
 - television
 - torrentfreak
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/politicalprostitution.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/politicalprostitution-150x40.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/politicalprostitution.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/politicalprostitution-150x40.jpg
 wppost_name: video-contundente-golpea-a-la-prostitucion-politica-en-los-casos-de-pirateria-de-peliculas
 ---
 
@@ -30,7 +30,7 @@ Lo que Kim Dotcom, sus socios y Richard O'Dwyer  tienen en común es que son to
 
 Sin embargo, si las autoridades estadounidenses se salen con la suya, ellos serán arrancados de sus hogares y extraditados a los Estados Unidos, fundamentalmente a instancias de las super-poderosas corporaciones de TV y Cine del país. La influencia que estos grupos tienen sobre los gobiernos, tanto en casa como en el extranjero es, sin duda importante, pero de acuerdo con un grupo de cineastas va más allá de eso - ellos dicen que es nada menos que los políticos en venta
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/politicalprostitution.jpg"><img class="aligncenter size-full wp-image-5752" title="politicalprostitution" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/politicalprostitution.jpg" alt="" width="475" height="40" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/politicalprostitution.jpg"><img class="aligncenter size-full wp-image-5752" title="politicalprostitution" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/politicalprostitution.jpg" alt="" width="475" height="40" /></a>
 Para llamar la atención sobre la difícil situación de Dotcom, O'Dwyer, los administradores ahora encarcelados de NinjaVideo y los operadores del sitio de enlaces recientemente condenado en el Reino Unido SurfTheChannel , un grupo de ciudadanos anónimos de Internet han comenzado una campaña llamada Prostitución Política. La pieza central de la campaña es un corto contundente, que tiene por objeto destacar los horrores de ser tratado como un terrorista en el nombre de la aplicación de los derechos de autor.
 
 “We called it ‘Political Prostitution’ because we believe that what’s happening right now is exactly that.”
@@ -54,4 +54,4 @@ Los creadores nos dicen que el video, tardó dos meses en producirse y cuenta co
 Aparte de las formas en que la gente puede apoyar a personas como Richard, la campaña también muestra maneras de atacar a los políticos y los ejecutivos de los estudios detrás de los supuestos actos de prostitución - La ministra del Interior del Reino Unido, Theresa May, el ex senador de EE.UU. y actual director general de la MPAA, Chris Dodd,  el abogado de EE.UU. Neil MacBride, y el diputado republicano Lamar Smith.
 
 La página de la campaña completa se puede <a href="http://www.political-prostitution.com/">encontrar acá </a>.
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/tag/richard-odwyer">Más información sobre Richard O'Dwyer.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/tag/richard-odwyer">Más información sobre Richard O'Dwyer.</a></strong></p>

@@ -8,12 +8,12 @@ tags:
 - nicolas-reynolds
 - oncelibre
 - redes-libres
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/isologo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/isologo.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/isologo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/isologo.png
 wppost_name: sobre-buenos-aires-libre
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/isologo.png"><img class="alignleft size-medium wp-image-972" title="isologo" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/isologo-300x38.png" alt="" width="300" height="38" /></a>Introduccion a redes comunitarias, redes libres, entrevista a Sergio Pernas y Nicolás Reynolds sobre el nodo ONCElibre@buenosaireslibres.org <strong><a title="http://wiki.buenosaireslibre.org/PáginaInicial" href="http://wiki.buenosaireslibre.org/P%C3%A1ginaInicial" target="_blank">Wiki de Buenos Aires  Libre</a> </strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/isologo.png"><img class="alignleft size-medium wp-image-972" title="isologo" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/isologo-300x38.png" alt="" width="300" height="38" /></a>Introduccion a redes comunitarias, redes libres, entrevista a Sergio Pernas y Nicolás Reynolds sobre el nodo ONCElibre@buenosaireslibres.org <strong><a title="http://wiki.buenosaireslibre.org/PáginaInicial" href="http://wiki.buenosaireslibre.org/P%C3%A1ginaInicial" target="_blank">Wiki de Buenos Aires  Libre</a> </strong>
 <p style="text-align: center;"><strong><a href="http://www.buenosaireslibre.org/" target="_blank">Página de Buenos Aires Libre.</a></strong></p>
 
 

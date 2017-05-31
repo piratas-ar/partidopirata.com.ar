@@ -10,8 +10,8 @@ tags:
 - pirateria-es-progreso
 - times-square
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/piracyisfreedom.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/piracyisfreedom-150x124.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/piracyisfreedom.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/piracyisfreedom-150x124.png
 wppost_name: la-pirateria-es-un-progreso-campana-en-times-square-divide-a-artistas
 ---
 
@@ -19,7 +19,7 @@ wppost_name: la-pirateria-es-un-progreso-campana-en-times-square-divide-a-artist
 
 La banda  Beach Ghost está realizando una campaña controversial en New York’s Times Square. Con lemas como "La piratería es el Progreso" y "La piratería es un robo" están animando a otros artistas a expresar su opinión acerca de la infracción de los derechos de autor. La propia banda dijo a TorrentFreak que es en última instancia contra la piratería, pero que el problema sólo puede resolverse cuando los consumidores tengan alternativas asequibles y convenientes. Por ahora, quieren que el público elija si quieren pagar por su último álbum, o descargarlo de forma gratuita.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/piracyisfreedom.png"><img class="alignright size-full wp-image-8931" alt="piracyisfreedom" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/piracyisfreedom.png" width="250" height="124" /></a>La piratería <strong>es progreso</strong>, la piratería es <strong>libertad</strong>, la piratería es <strong>inofensiva</strong>, la piratería es <strong>inevitable</strong>, la piratería es un <strong>robo</strong>, la piratería es <strong>mala</strong>, la piratería es <strong>egoísta,</strong> ¿o se trata de una moda <strong>pasajera</strong>?
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/piracyisfreedom.png"><img class="alignright size-full wp-image-8931" alt="piracyisfreedom" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/piracyisfreedom.png" width="250" height="124" /></a>La piratería <strong>es progreso</strong>, la piratería es <strong>libertad</strong>, la piratería es <strong>inofensiva</strong>, la piratería es <strong>inevitable</strong>, la piratería es un <strong>robo</strong>, la piratería es <strong>mala</strong>, la piratería es <strong>egoísta,</strong> ¿o se trata de una moda <strong>pasajera</strong>?
 
 Estas declaraciones aparecen en uno de los carteles más importantes del mundo en Times Square, Nueva York. El cartel muestra frases tanto positivas como negativas sobre la piratería y anima al público a agregar sus opiniones a través de Twitter. Hasta ahora, los <a href="https://twitter.com/search?q=%23artistsforpiracy">para piratear</a> superan a los que están <a href="https://twitter.com/search?q=%23artistsagainstpiracy">contra la piratería </a>por 20 a 1.
 
@@ -27,7 +27,7 @@ La polémica campaña es realizada por la banda de Brooklyn <a href="http://www.
 
 "En lugar de simplemente poner otro anuncio, hemos decidido abrir un debate con nuestros compañeros acerca de cómo se sentían acerca de la distribución de la música en Internet y el futuro de la industria", declaró el líder de la banda Josh Ocean Josh a TorrentFreak.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/piracy-progress.jpg"><img class="aligncenter size-medium wp-image-8933" alt="piracy-progress" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/piracy-progress-300x196.jpg" width="300" height="196" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/piracy-progress.jpg"><img class="aligncenter size-medium wp-image-8933" alt="piracy-progress" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/piracy-progress-300x196.jpg" width="300" height="196" /></a>
 
 <header>
 <h4><a href="http://torrentfreak.com/piracy-is-progress-billboard-on-times-square-divides-artists-130327/">“Piracy Is Progress” Billboard on Times Square Divides Artists</a></h4>

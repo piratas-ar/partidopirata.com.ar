@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - mauricio-macri
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
 wppost_name: jornada-artistica-no-al-cierre-del-centro-cultural-san-martin-vierne-17
 ---
 
@@ -36,4 +36,4 @@ Y el inicio de las obras de remodelación en los pisos superiores, justifica el 
 
 Actualmente la programación de la Sala Alberdi es la única que genera constantes actividades y producción artistica dentro del edificio. Con más de 20.000 espectadores, 1.500 artistas, 300 espectáculos, 300 estudiantes y 25 docentes que a lo largo de nueve meses pasaron por la Sala, no es casual que se amenace con desalojarnos. ¿Por qué? Porque somos una gran resistencia al cierre definitivo del Centro Cultural y a las políticas neoliberales del gobierno de la ciudad.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg"><img class="aligncenter size-full wp-image-3195" title="Sala Alberdi" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg" alt="" width="320" height="289" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg"><img class="aligncenter size-full wp-image-3195" title="Sala Alberdi" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg" alt="" width="320" height="289" /></a>

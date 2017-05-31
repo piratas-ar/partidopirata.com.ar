@@ -10,14 +10,14 @@ tags:
 - irrazonables
 - riaa
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/riaa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/riaa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/riaa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/riaa-150x150.jpg
 wppost_name: hollywood-arruino-la-relacion-con-los-proveedores-de-internet-demandandolos-por-pirateria
 ---
 
 <strong><a href="https://torrentfreak.com/hollywood-has-ruined-relationship-with-isp-it-sued-over-piracy-120607/" target="_blank">Fuente Torrentfreak</a></strong>
 
-En su presentación en la audiencia de ayer de,"El futuro del Audio"  el jefe  de la RIAA, Cary Sherman habló de la industria de la música buscando con más frecuencia acuerdos voluntarios para hacerle frente a las violaciones online, tales como el de los  "seis avisos"[monitorean si un usuario tiene mucho tráfico y , si usa P2P, luego de 6 avisos lo "castigan" <strong><a href="http://partidopirata.com.ar/4301/comcast-elogia-acuerdo-voluntario-en-la-campana-contra-los-bittorrents">más sobre ese acuerdo acá</a></strong> ] alcanzado recientemente con los proveedores de Internet. Pero,  ¿qué puede suceder cuando no se llegue a un acuerdo? Después que Hollywood no puedo conseguir que un proveedor de Internet juegue a la pelota de manera voluntaria como se lo pidieron - y perdieron- ahora se encuentran siendo castigados por los ISPs en público.
+En su presentación en la audiencia de ayer de,"El futuro del Audio"  el jefe  de la RIAA, Cary Sherman habló de la industria de la música buscando con más frecuencia acuerdos voluntarios para hacerle frente a las violaciones online, tales como el de los  "seis avisos"[monitorean si un usuario tiene mucho tráfico y , si usa P2P, luego de 6 avisos lo "castigan" <strong><a href="https://partidopirata.com.ar/4301/comcast-elogia-acuerdo-voluntario-en-la-campana-contra-los-bittorrents">más sobre ese acuerdo acá</a></strong> ] alcanzado recientemente con los proveedores de Internet. Pero,  ¿qué puede suceder cuando no se llegue a un acuerdo? Después que Hollywood no puedo conseguir que un proveedor de Internet juegue a la pelota de manera voluntaria como se lo pidieron - y perdieron- ahora se encuentran siendo castigados por los ISPs en público.
 
 En noviembre de 2008 y después de tres años de discusiones voluntarias que no iban a ninguna parte, los estudios cinematográficos de Hollywood bajo la bandera de la Federación Australiana contra el Robo de Derechos de Autor (AFACT) decidieron que sería una buena decisión corporativa demandar al proveedor de internet iiNet.
 
@@ -33,7 +33,7 @@ El artículo de Dalby precede a una reunión a puertas cerradas entre los princi
 
 "Poco o nada en absoluto, es  lo que se puede obtener mediante la participación de los titulares de derechos para una solución comercial."
 
-La idea de que los titulares de derechos no pueden negociar hacía cualquier objetivo útil  mutuo es sumamente problemática. Como se lo ha destacado <a href="http://partidopirata.com.ar/4647/riaa-discograficas-de-usa-quiere-que-los-buscadores-censuren-asitios-pirata">ayer el jefe de la RIAA</a>, Cary Sherman, por ejemplo , es prioritario en la agenda de la industria discográfica seguir con los acuerdos negociados con los ISP y los motores de búsqueda.
+La idea de que los titulares de derechos no pueden negociar hacía cualquier objetivo útil  mutuo es sumamente problemática. Como se lo ha destacado <a href="https://partidopirata.com.ar/4647/riaa-discograficas-de-usa-quiere-que-los-buscadores-censuren-asitios-pirata">ayer el jefe de la RIAA</a>, Cary Sherman, por ejemplo , es prioritario en la agenda de la industria discográfica seguir con los acuerdos negociados con los ISP y los motores de búsqueda.
 
 Pero, por supuesto, la RIAA y sus asociados en el Exterior aún no han demandado a un proveedor de Internet después de la frustración de no poder conseguir lo que quieren, a pesar de que al <a href="http://torrentfreak.com/riaa-demands-unlimited-dmca-power-from-google-120502/">atacar públicamente a Google</a> se están moviendo peligrosamente cerca de alienar a un socio potencialmente útil. Hollywood ha tomado la opción nuclear, sin embargo, y los resultados son visibles en el blog de Dalby en blanco y negro.
 
@@ -54,9 +54,9 @@ Eso sólo deja dos opciones -  cambiar la ley para favorecer a Hollywood o darl
 
 Piensen que los asociados a la RIAA en la Argentina ya hicieron presión ante Debora Giorgi para implementar un <em>Hadopi</em> en la Argentina.
 
-<img title="Debora Giorgi y el Lobby por instalar Hadopi en la Argentina" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/capif003.jpg" alt="" width="400" height="86" />
+<img title="Debora Giorgi y el Lobby por instalar Hadopi en la Argentina" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/capif003.jpg" alt="" width="400" height="86" />
 
 
-Si no saben qué es Hadopi, <a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">un podcast con Erik Walter oficial Hadopi en Francia.</a>
+Si no saben qué es Hadopi, <a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">un podcast con Erik Walter oficial Hadopi en Francia.</a>
 <p style="text-align: center;"><strong>Algo que también podemos pensar es en los acuerdos a los que llegó Taringa con CAPIF y con la Cámara Argentina del Libro.</strong></p>
 <p style="text-align: center;"><strong>¿Hasta dónde llegarán esos acuerdos?</strong></p>

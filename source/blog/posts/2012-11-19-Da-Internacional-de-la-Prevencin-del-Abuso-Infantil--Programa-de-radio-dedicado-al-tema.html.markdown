@@ -13,8 +13,8 @@ tags:
 - radio-2
 - senadora-fellner
 - suenos-posibles
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart9-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart9-115x115.png
 wppost_name: dia-internacional-de-la-prevencion-del-abuso-infantil-programa-de-radio-dedicado-al-tema
 ---
 
@@ -24,7 +24,7 @@ wppost_name: dia-internacional-de-la-prevencion-del-abuso-infantil-programa-de-r
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/suenos-posibles-del-19-noviembre-audios-mp3_rf_1584213_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png"><img class="size-full wp-image-7487" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png"><img class="size-full wp-image-7487" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart9.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />
@@ -60,7 +60,7 @@ Con el argumento de la protección de niños, niñas y adolescentes, la Senadora
 Es obvio, y probablemente nadie se opone a este loable fin, que la protección de la integridad de menores de edad es un objetivo prioritario en todos los entornos, incluyendo Internet. Sin embargo, es inaceptable que se utilice este argumento para impulsar leyes que amenazan el ejercicio de libertades esenciales a toda democracia.
 
 El proyecto de la Senadora Fellner, quien además es presidente de la <a href="http://www.senado.gov.ar/web/comisiones/cominfogral.php?nro_comision=68">Comisión de Sistemas, Medios de Comunicación y Libertad de Expresión del Senado Nacional </a>es un claro ejemplo de amenaza a los derechos civiles y las libertades esenciales en el nombre de la protección de los menores. El texto de la iniciativa está disponible en la página web del senado, bajo el Nro. de <a href="http://www.senado.gov.ar/web/proyectos/verExpe.php?origen=S&amp;numexp=728/12&amp;tipo=PL&amp;tConsulta=1">Expediente S-0728/12</a>."
-<strong><a href="http://partidopirata.com.ar/5449/en-el-nombre-del-nino-otra-vez-la-historia-de-cuidar-a-los-chicos-para-censurar">Más información en este post del blog</a></strong>
+<strong><a href="https://partidopirata.com.ar/5449/en-el-nombre-del-nino-otra-vez-la-historia-de-cuidar-a-los-chicos-para-censurar">Más información en este post del blog</a></strong>
 
 <hr />
 <p align="justify"> <span style="color: #000000; font-family: verdana,geneva;">“Son pocas las situaciones de abuso, maltrato o explotación que llegan a ser del conocimiento de las autoridades competentes, lo cual fomenta un clima de impunidad y desamparo. Además de ello, se ha documentado que este tipo de agravios dañan su salud física y sicológica y repercuten negativamente en su capacidad para socializar o estudiar”, señaló.</span></p>

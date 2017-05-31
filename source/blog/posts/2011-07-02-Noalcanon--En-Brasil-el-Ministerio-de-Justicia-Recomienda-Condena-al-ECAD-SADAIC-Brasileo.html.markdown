@@ -9,8 +9,8 @@ tags:
 - divulgacion
 - no-al-canon
 - sadaic
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: noalcanon-en-brasil-el-ministerio-de-justicia-recomienda-condena-al-ecad-sadaic-brasileno
 ---
 

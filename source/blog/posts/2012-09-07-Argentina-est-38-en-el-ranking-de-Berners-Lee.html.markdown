@@ -10,12 +10,12 @@ tags:
 - indice-de-la-web
 - puesto
 - webindice
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/world-wide-web-foundation.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/world-wide-web-foundation-115x37.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/world-wide-web-foundation.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/world-wide-web-foundation-115x37.png
 wppost_name: argentina-esta-38o-en-el-ranking-de-berners-lee
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/world-wide-web-foundation.png"><img class="alignright size-full wp-image-6404" title="world-wide-web-foundation" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/world-wide-web-foundation.png" alt="" width="143" height="37" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/world-wide-web-foundation.png"><img class="alignright size-full wp-image-6404" title="world-wide-web-foundation" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/world-wide-web-foundation.png" alt="" width="143" height="37" /></a>
 
 <strong><a href="http://blogs.estadao.com.br/link/brasil-e-24o-em-ranking-de-berners-lee/" target="_blank">Una parte del suplemento Link de "O Estado de São Paulo"</a></strong>
 

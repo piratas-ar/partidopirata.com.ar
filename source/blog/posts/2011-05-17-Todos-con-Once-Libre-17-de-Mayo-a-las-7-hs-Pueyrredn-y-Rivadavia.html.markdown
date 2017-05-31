@@ -7,8 +7,8 @@ tags:
 - divulgacion
 - no-al-cierre-de-once-libre
 - oncelibre
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/once_logo-competo.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/once_logo-competo.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/once_logo-competo.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/once_logo-competo.gif
 wppost_name: todos-con-once-libre-17-de-mayo-a-las-7-hs-pueyrredon-y-rivadavia
 ---
 
@@ -25,5 +25,5 @@ limpiamos todo, pusimos luz y agua, organizamos 2 estudios abiertos por  los que
 Todo con permisos pero sin 1 solo $. todito autogestionado, en un lugar q era invisible hasta que se iluminó.
 Hay luz en oncelibre y la quieren apagar.
 
-<strong>Los invitamos a que nos conozcan. vamos a resistir en el lugar hasta tener las respuestas necesarias.<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/once_logo-competo.gif"><img class="aligncenter size-medium wp-image-1022" title="once_logo-competo" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/once_logo-competo-300x54.gif" alt="" width="300" height="54" /></a></strong>
+<strong>Los invitamos a que nos conozcan. vamos a resistir en el lugar hasta tener las respuestas necesarias.<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/once_logo-competo.gif"><img class="aligncenter size-medium wp-image-1022" title="once_logo-competo" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/once_logo-competo-300x54.gif" alt="" width="300" height="54" /></a></strong>
 <span style="color: #888888;"> </span>

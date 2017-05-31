@@ -3,12 +3,12 @@ title: Declaración de Principios del Partido Pirata de Argentina
 date: '2012-07-25'
 tags:
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1-150x150.png
 wppost_name: declaracion-de-principios-del-partido-pirata-de-argentina
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png" alt="" title="logo partido pirata de argentina" width="300" height="271" class="alignright size-full wp-image-5519" /></a>Si en aquel mundo dominado por monopolios depredadores, por la esclavitud, la autocracia y el racismo, los Piratas se dieron a sí mismos igualdad, libertad, autodeterminación y auténtica convivencia multicultural, ignorando toda corrección política de su tiempo, entonces es que reivindicamos su bandera, su legado y su nombre.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/ppa1.png" alt="" title="logo partido pirata de argentina" width="300" height="271" class="alignright size-full wp-image-5519" /></a>Si en aquel mundo dominado por monopolios depredadores, por la esclavitud, la autocracia y el racismo, los Piratas se dieron a sí mismos igualdad, libertad, autodeterminación y auténtica convivencia multicultural, ignorando toda corrección política de su tiempo, entonces es que reivindicamos su bandera, su legado y su nombre.
 
 Porque nosotros crecimos en la periferia de lo que algunos llaman ilegalidad, navegando caóticos mares culturales, habitando unas pocas y remotas islas liberadas, y no conocemos otra forma de organizamos que no sea bajo un principio de convivencia igualitaria: las Redes de Pares.
 

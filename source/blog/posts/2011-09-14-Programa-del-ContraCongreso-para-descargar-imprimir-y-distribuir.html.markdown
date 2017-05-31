@@ -8,12 +8,12 @@ tags:
 - noticias
 - programa
 - stallman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/cccflyer.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/cccflyer.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/cccflyer.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/cccflyer.png
 wppost_name: programa-del-contracongreso-para-descargar-imprimir-y-distribuir
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/cccflyer.png"><img class="size-full wp-image-1812 aligncenter" title="cccflyer" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/cccflyer.png" alt="" width="437" height="227" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/cccflyer.png"><img class="size-full wp-image-1812 aligncenter" title="cccflyer" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/cccflyer.png" alt="" width="437" height="227" /></a>
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://contracongreso.com.ar/wp-content/uploads/2011/09/flyerccc.pdf">Descargar el programa / flyer (es un archivo pdf)</a></strong></p>

@@ -8,8 +8,8 @@ tags:
 - spyware
 - uk
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/5455879909_1875765385_b.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/5455879909_1875765385_b-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/5455879909_1875765385_b.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/5455879909_1875765385_b-150x150.jpg
 wppost_name: spyware-finfisher
 ---
 

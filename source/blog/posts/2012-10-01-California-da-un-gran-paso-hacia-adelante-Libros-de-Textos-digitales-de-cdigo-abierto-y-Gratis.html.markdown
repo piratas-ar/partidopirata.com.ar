@@ -9,8 +9,8 @@ tags:
 - libros-de-texto
 - libros-de-texto-gratis
 - libros-de-texto-open-source
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/Screen-shot-2012-09-30-at-9.12.08-AM.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/Screen-shot-2012-09-30-at-9.12.08-AM-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/Screen-shot-2012-09-30-at-9.12.08-AM.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/Screen-shot-2012-09-30-at-9.12.08-AM-150x150.png
 wppost_name: california-da-un-gran-paso-hacia-adelante-libros-de-textos-digitales-de-codigo-abierto-y-gratis
 ---
 
@@ -18,7 +18,7 @@ wppost_name: california-da-un-gran-paso-hacia-adelante-libros-de-textos-digitale
 
 <em>Un experimento del Estado con impacto en todo el país</em>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Screen-shot-2012-09-30-at-9.12.08-AM.png"><img class="size-full wp-image-6694" title="Gobernador de California" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Screen-shot-2012-09-30-at-9.12.08-AM.png" alt="" width="615" height="411" /></a> El gobernador de California Jerry Brown se reúne con estudiantes universitarios al firmar la legislación destinada a ofrecer ayuda financiera. (Gov.ca.gov)
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/Screen-shot-2012-09-30-at-9.12.08-AM.png"><img class="size-full wp-image-6694" title="Gobernador de California" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/Screen-shot-2012-09-30-at-9.12.08-AM.png" alt="" width="615" height="411" /></a> El gobernador de California Jerry Brown se reúne con estudiantes universitarios al firmar la legislación destinada a ofrecer ayuda financiera. (Gov.ca.gov)
 
 
 Esta semana, se dio un gran paso hacia adelante en la marcha hacia la educación online. El gobernador Jerry Brown <a href="http://latimesblogs.latimes.com/california-politics/2012/09/free-digital-textbooks-to-be-made-available-after-gov-jerry-brown-signs-bills.html"> firmó el proyecto de ley</a> que propone crear un sitio web que permitirá a los estudiantes descargar versiones digitales de los libros de texto populares de forma gratuita.

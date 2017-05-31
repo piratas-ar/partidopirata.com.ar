@@ -13,12 +13,12 @@ tags:
 - ntural-news
 - susana-merino
 - ths
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Body-Scan-Glowing.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Body-Scan-Glowing-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Body-Scan-Glowing.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Body-Scan-Glowing-115x115.jpg
 wppost_name: ee-uu-el-fin-de-la-privacidad-el-gobierno-instalara-instrumentos-de-base-laser-que-investigaran-el-cuerpo-a-nivel-molecular
 ---
 
-<p style="text-align: center;"><strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Body-Scan-Glowing.jpg"><img class="alignleft size-full wp-image-5385" title="Body-Scan-Glowing" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Body-Scan-Glowing.jpg" alt="" width="150" height="130" /></a><strong><a href="http://www.naturalnews.com/036452_laser_scanner_molecular.html" target="_blank">Fuente Natural News.</a></strong>
+<p style="text-align: center;"><strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/Body-Scan-Glowing.jpg"><img class="alignleft size-full wp-image-5385" title="Body-Scan-Glowing" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/Body-Scan-Glowing.jpg" alt="" width="150" height="130" /></a><strong><a href="http://www.naturalnews.com/036452_laser_scanner_molecular.html" target="_blank">Fuente Natural News.</a></strong>
 <strong></strong></p>
 <p style="text-align: center;"><strong>EL FIN DE LA PRIVACIDAD :
 EE.UU. el Gobierno instalarà instrumentos de base Laser que investigan el cuerpo a nivel molecular, en todos los aeropuertos y controles viales de los EE.UU. </strong></p>

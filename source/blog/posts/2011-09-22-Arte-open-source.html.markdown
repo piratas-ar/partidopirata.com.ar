@@ -21,7 +21,7 @@ Como su nombre lo sugiere, el proyecto <a href="http://www.artscouncil.org.uk/ab
 
 Es arte, textos y fuentes sobre abertura y libertad en las artes. La idea es que el acervo sea usado como inspiración para nuevos trabajos y fuente para recreaciones.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/arte1.jpg"><img class="alignnone" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/arte1.jpg" alt="" width="241" height="241" /></a>(Glyphiti 2006: View of Glyphiti, Andy Deck)
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/arte1.jpg"><img class="alignnone" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/arte1.jpg" alt="" width="241" height="241" /></a>(Glyphiti 2006: View of Glyphiti, Andy Deck)
 
 “Cada elemento en esta colección se conecta en algún aspecto con la libertad y la abertura de las artes, en la era de internet. Libertad para colaborar – para usar, modificar o redistribuir ideas, trabajos, experiencias, medio y herramientas. Abertura a las ideas y contribuciones de los otros, y nuevas maneras de organizar y tomar decisiones  juntos”, dice la presentación del proyecto.
 

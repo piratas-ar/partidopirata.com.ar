@@ -7,12 +7,12 @@ tags:
 - intercambio-de-archivos
 - profesor-hammond
 - universidad-de-north-carolina
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/bittorrentlogo390.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/bittorrentlogo390-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/bittorrentlogo390.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/bittorrentlogo390-150x150.jpg
 wppost_name: estudio-dice-bittorrent-ayuda-en-las-ventas-de-musica
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/bittorrentlogo390.jpg"><img class="alignright size-medium wp-image-4480" title="bittorrentlogo390" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/bittorrentlogo390-300x203.jpg" alt="" width="300" height="203" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/bittorrentlogo390.jpg"><img class="alignright size-medium wp-image-4480" title="bittorrentlogo390" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/bittorrentlogo390-300x203.jpg" alt="" width="300" height="203" /></a>
 <strong><a href="http://blogs.estadao.com.br/link/bittorrent-ajuda-vendas-de-musica-diz-estudo/" target="_blank">Fuente "O Estado de São Paulo"</a></strong>
 
 Por Redacción Link
@@ -44,7 +44,7 @@ En Francia, donde la rígida ley Hadopi hizo caer drasticamente los downloads il
 
 
 <hr />
-<p style="text-align: center;"><strong>Es posible que <a href="http://partidopirata.com.ar/4282/debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de-radio-de-jorge-lanata" target="_blank">Marcelo Birmajer</a> no conozca este estudio, por las dudas :</strong></p>
+<p style="text-align: center;"><strong>Es posible que <a href="https://partidopirata.com.ar/4282/debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de-radio-de-jorge-lanata" target="_blank">Marcelo Birmajer</a> no conozca este estudio, por las dudas :</strong></p>
 <p style="text-align: center;"><strong><a href="http://www.poole.ncsu.edu/index-exp.php/directory/dossier/robert-hammond/" target="_blank">El Profesor Hammon en la Universidad de North Carolina</a></strong></p>
 <p style="text-align: center;"><strong><a href="mailto:robert_hammond@ncsu.edu">Email Robert Hammond</a></strong></p>
 <p style="text-align: center;">Vamos a escribirle al profesor para ver si se puede acceder al estudio completo (así se lo ofrecemos a Birmajer ...Y a todos que lo quieran)</p>

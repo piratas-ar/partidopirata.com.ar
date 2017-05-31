@@ -13,15 +13,15 @@ tags:
 - justicia
 - libertad-de-expresion
 - the-pirate-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2014/10/amparoTPB.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/10/amparoTPB-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2014/10/amparoTPB.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/10/amparoTPB-150x150.png
 wppost_name: amparo-pirata-luchando-en-la-justicia-por-la-libertad-de-expresion-y-el-acceso-a-la-cultura
 ---
 
 El Partido Pirata está impulsando un amparo para terminar con el bloqueo a The Pirate Bay en Argentina, en defensa de la libertad de expresión y el acceso a la cultura. Las piratas decidimos apoyar financiera y colectivamente la presentación de este amparo y llevarlo hasta todas las instancias que sean necesarias.
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2014/10/amparoTPB.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2014/10/amparoTPB-279x300.png" alt="amparoTPB" width="279" height="300" class="alignright size-medium wp-image-9555" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2014/10/amparoTPB.png"><img src="https://partidopirata.com.ar/wp-content/uploads/2014/10/amparoTPB-279x300.png" alt="amparoTPB" width="279" height="300" class="alignright size-medium wp-image-9555" /></a>
 
 <h3>¿Qué es el #AmparoPirata?</h3>
 

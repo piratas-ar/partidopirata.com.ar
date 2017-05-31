@@ -9,8 +9,8 @@ tags:
 - reestatizacion
 - tba
 - trabajadores
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/fuera-tba.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/fuera-tba-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/fuera-tba.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/fuera-tba-150x150.jpg
 wppost_name: convocatoria-a-marcha-de-los-trabajadores-del-sarmiento
 ---
 

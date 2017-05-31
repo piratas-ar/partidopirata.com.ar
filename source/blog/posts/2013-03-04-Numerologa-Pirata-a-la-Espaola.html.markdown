@@ -7,12 +7,12 @@ tags:
 - numerologia
 - numerologia-pirata
 - propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
 wppost_name: numerologia-pirata-a-la-espanola
 ---
 
-Para agregar a nuestra sección<strong><a href="http://partidopirata.com.ar/?s=Numerolog%C3%ADa"> Numerología Pirata</a> u</strong>n nuevo artículo sobre lo dudoso de los resultados de los estudios que preanuncian el apocalipsis de la cultura:
+Para agregar a nuestra sección<strong><a href="https://partidopirata.com.ar/?s=Numerolog%C3%ADa"> Numerología Pirata</a> u</strong>n nuevo artículo sobre lo dudoso de los resultados de los estudios que preanuncian el apocalipsis de la cultura:
 <h2>Cómo se realizan los estudios sobre la piratería en Internet</h2>
 <strong><a href="http://www.eldiario.es/turing/realizan-estudios-pirateria-Internet_0_106390061.html" target="_blank">Fuente El diario .es</a></strong>
 
@@ -33,7 +33,7 @@ Otro dato importante a tener en cuenta es que a los panelistas no se les ha preg
 &nbsp;
 
 <hr />
-<p style="text-align: center;">Así que ya saben, la piratería genera pérdidas monstruosas, pérdidas de fuentes de trabajo, etc. etc...¿Los estudios? <strong><a href="http://partidopirata.com.ar/4282/debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de-radio-de-jorge-lanata">te los debo como diría Birmajer!</a></strong></p>
+<p style="text-align: center;">Así que ya saben, la piratería genera pérdidas monstruosas, pérdidas de fuentes de trabajo, etc. etc...¿Los estudios? <strong><a href="https://partidopirata.com.ar/4282/debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de-radio-de-jorge-lanata">te los debo como diría Birmajer!</a></strong></p>
 
 
 <hr />

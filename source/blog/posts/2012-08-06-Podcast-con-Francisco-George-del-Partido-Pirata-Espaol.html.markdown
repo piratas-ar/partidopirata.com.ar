@@ -13,12 +13,12 @@ tags:
 - podcasts
 - premios-goya
 - yves-montand
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225-150x150.png
 wppost_name: podcast-con-francisco-george-del-partido-pirata-espanol
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png"><img class=" wp-image-5770" title="Francisco George" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png" alt="" width="549" height="313" /></a> Francisco George-Vocal del Partido Pirata Español
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png"><img class=" wp-image-5770" title="Francisco George" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-22h22m05s225.png" alt="" width="549" height="313" /></a> Francisco George-Vocal del Partido Pirata Español
 
 <p style="text-align: center;"><strong><a href="https://twitter.com/paco229" target="_blank">Twitter de Francisco George</a></strong></p>
 <p style="text-align: center;"><strong>Uno de los administradores del Grupo Manifiesto en Facebook. Vocal de la JDN del Partido Pirata de España. Liejense,Liegeois,Belgique resident en Espagne 1999</strong></p>
@@ -34,7 +34,7 @@ Primera parte de la charla con Francisco George sobre la ley Sinde, Alex de la I
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-francisco-george-i-sobre-cine-y-audios-mp3_rf_1367031_1.html" target="_blank">en el siguiente link.</a>
 <strong><em>Algunos enlaces que comentamos durante el podcast:</em></strong></center>&nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart.png"><img class="size-full wp-image-5779" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart.png"><img class="size-full wp-image-5779" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />
@@ -45,7 +45,7 @@ Segunda parte de la charla, sobre el funcionamiento del Partido Pirata español,
 <a href="http://www.ivoox.com/segunda-parte-charla-franciso-george_md_1367074_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/segunda-parte-charla-franciso-george-audios-mp3_rf_1367074_1.html" target="_blank">en el siguiente link.</a></center>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart1.png"><img class="size-full wp-image-5782" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart1.png"><img class="size-full wp-image-5782" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart1.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 &nbsp;
@@ -60,8 +60,8 @@ Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http:
 <ul>
 	<li><strong><a href="https://github.com/lasarux/PollXpress" target="_blank">https://github.com/lasarux/PollXpress</a> necesitaras informatico y servidor para hacerlo correr aviso</strong></li>
 	<li><strong>luego hay un patch de un otro afiliado de PIRATA que mejora la seguridad <a href="https://github.com/rockneurotiko/PollXpress" target="_blank">https://github.com/rockneurotiko/PollXpress</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5775/el-policia-motociclista-de-village-people-gana-el-caso-por-los-derechos-de-autor-de-ymca" target="_blank">La historia del autor de las letras de las canciones de Village People que recuperó sus derechos!</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5567/argentina-internet-esta-matando-al-cine-28-millones-de-espectadores-en-lo-que-va-del-ano" target="_blank">Sobre la cantidad de entradas y la recaudación del cine en la Argentina.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5775/el-policia-motociclista-de-village-people-gana-el-caso-por-los-derechos-de-autor-de-ymca" target="_blank">La historia del autor de las letras de las canciones de Village People que recuperó sus derechos!</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5567/argentina-internet-esta-matando-al-cine-28-millones-de-espectadores-en-lo-que-va-del-ano" target="_blank">Sobre la cantidad de entradas y la recaudación del cine en la Argentina.</a></strong></li>
 	<li><strong><a href="http://piratasdemadrid.org/2012/07/la-madre-de-paco-leon-nos-muestra-el-camino/" target="_blank">La película sobre la Madre de Paco León que comenta Francisco</a></strong></li>
 </ul>
 </ul>
@@ -146,4 +146,4 @@ Mañana, a pleno sol, la sangre negra secará sobre las carreteras.
 Silbad, compañeros: en la noche la libertad nos está escuchando.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino.</a></strong></p>

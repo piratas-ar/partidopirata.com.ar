@@ -7,12 +7,12 @@ tags:
 - denuncias
 - ley-de-internet
 - pinedo
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map-150x150.jpg
 wppost_name: prision-para-piratas-en-internet-se-abre-paso-en-colombia
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map.jpg"><img class="aligncenter size-medium wp-image-702" title="colombia-map" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map-253x300.jpg" alt="Mapa de Colombia" width="253" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map.jpg"><img class="aligncenter size-medium wp-image-702" title="colombia-map" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/colombia-map-253x300.jpg" alt="Mapa de Colombia" width="253" height="300" /></a>
 
 <a href="http://www.enter.co/internet/prision-para-piratas-en-internet-se-abre-paso-en-colombia/" target="_blank">Fuente Enter.co</a>
 

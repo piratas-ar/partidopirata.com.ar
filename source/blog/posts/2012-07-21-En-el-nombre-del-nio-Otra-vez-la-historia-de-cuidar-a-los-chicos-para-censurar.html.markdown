@@ -11,8 +11,8 @@ tags:
 - pornografia
 - pornografia-infantil
 - proyecto-de-ley
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350-150x150.jpg
 wppost_name: en-el-nombre-del-nino-otra-vez-la-historia-de-cuidar-a-los-chicos-para-censurar
 ---
 
@@ -64,4 +64,4 @@ Los invitamos a participar de alguna organización, a repensar todo lo que se vi
 
 <a href="http://lists.partidopirata.com.ar/listinfo.cgi/general-partidopirata.com.ar"><strong> Si quieren participar de nuestra lista de correo para ver cómo nos organizamos y resistir.</strong></a>
 
-<strong><a href="http://partidopirata.com.ar/5457/dos-videos-para-el-posible-debate-ante-el-proyecto-de-la-senadora-fellner-de-bloqueos-y-filtros-en-internet">Dos Videos que explican porqué no sirve el bloquear sites para eviatar la pornografía infatnil.</a></strong>
+<strong><a href="https://partidopirata.com.ar/5457/dos-videos-para-el-posible-debate-ante-el-proyecto-de-la-senadora-fellner-de-bloqueos-y-filtros-en-internet">Dos Videos que explican porqué no sirve el bloquear sites para eviatar la pornografía infatnil.</a></strong>

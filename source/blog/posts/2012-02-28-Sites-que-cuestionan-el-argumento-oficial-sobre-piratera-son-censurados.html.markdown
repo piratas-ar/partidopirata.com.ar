@@ -10,8 +10,8 @@ tags:
 - resultados-de-google
 - techdirt
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/remocao.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/remocao-150x89.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/remocao.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/remocao-150x89.jpg
 wppost_name: sites-que-cuestionan-el-argumento-oficial-sobre-pirateria-son-censurados
 ---
 
@@ -25,7 +25,7 @@ En Techdirt, fue removida un post que explicaba por que SOPA y PIPA, las leyes e
 
 Los dos posts fueron removidos de los resultados en la búsqueda de Google:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/remocao.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/02/remocao.jpg" alt="" title="Censura Google" width="464" height="89" class="aligncenter size-full wp-image-3321" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/remocao.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/02/remocao.jpg" alt="" title="Censura Google" width="464" height="89" class="aligncenter size-full wp-image-3321" /></a>
 
 El caso fue descubierto al azar por TechDirt
 

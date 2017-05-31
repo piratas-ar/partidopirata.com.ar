@@ -10,14 +10,14 @@ tags:
 - ministerio-publico
 - portugal
 - redes-p2p
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/w620h395.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/w620h395-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/w620h395.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/w620h395-150x150.jpg
 wppost_name: portugal-ministerio-publico-dice-que-es-legal-copiar-canciones-y-peliculas-en-la-red
 ---
 
 <strong><a href="http://exameinformatica.sapo.pt/noticias/mercados/2012/09/26/ministerio-publico-diz-que-e-legal-copiar-musicas-e-filmes-na-net" target="_blank">Fuente Exeme Informática</a></strong>
 <h2>En una resolución que promete dar que hablar durante mucho tiempo: El Ministerio Público considera que es lícito descargar copias de películas y música en redes de Intercambio de Archivos (P2P) en Portugal.</h2>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/w620h395.jpg"><img class="aligncenter size-full wp-image-6657" title="Martillo Juez" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/w620h395.jpg" alt="" width="620" height="395" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/w620h395.jpg"><img class="aligncenter size-full wp-image-6657" title="Martillo Juez" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/w620h395.jpg" alt="" width="620" height="395" /></a>
 <div>
 <div>
 <div>

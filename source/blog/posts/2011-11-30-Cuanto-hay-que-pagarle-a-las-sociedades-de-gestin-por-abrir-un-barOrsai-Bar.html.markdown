@@ -13,12 +13,12 @@ tags:
 - extorsion
 - sadaic
 - sociedades-de-gestion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/cartel.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/cartel-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/cartel.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/cartel-150x150.jpg
 wppost_name: cuanto-hay-que-pagarle-a-las-sociedades-de-gestion-por-abrir-un-bar-orsai-bar
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/cartel.jpg"><img class="aligncenter size-full wp-image-2451" title="cartel" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/cartel.jpg" alt="Bar Orsai" width="310" height="500" /></a><strong><a href="http://www.baideguei.com/2011/11/el-que-surfea-en-leche-y-barrena-en.html" target="_blank">En el blog Baidegui </a></strong> explican cuanto hay que pagarle a las socieades gestoras por un bar:
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/cartel.jpg"><img class="aligncenter size-full wp-image-2451" title="cartel" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/cartel.jpg" alt="Bar Orsai" width="310" height="500" /></a><strong><a href="http://www.baideguei.com/2011/11/el-que-surfea-en-leche-y-barrena-en.html" target="_blank">En el blog Baidegui </a></strong> explican cuanto hay que pagarle a las socieades gestoras por un bar:
 
 Sobre lo que cobra SADAIC:
 
@@ -35,7 +35,7 @@ Sobre lo que cobra SADAIC:
 
 
 <hr />
-<p style="text-align: center;"><strong>Si quieren contarnos los atropellos a que son sometidos por las sociedades de gestión pueden hacerlo en los comentarios de esta entrada o <a href="http://partidopirata.com.ar/contacto" target="_blank">enviarnos un mail.</a></strong></p>
+<p style="text-align: center;"><strong>Si quieren contarnos los atropellos a que son sometidos por las sociedades de gestión pueden hacerlo en los comentarios de esta entrada o <a href="https://partidopirata.com.ar/contacto" target="_blank">enviarnos un mail.</a></strong></p>
 
 
 <hr />

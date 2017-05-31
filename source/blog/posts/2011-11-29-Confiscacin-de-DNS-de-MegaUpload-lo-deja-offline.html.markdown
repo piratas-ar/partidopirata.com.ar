@@ -9,12 +9,12 @@ tags:
 - megauload
 - registros
 - registros-de-dominio
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
 wppost_name: incautacion-de-dns-saca-megaupload
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg"><img class="alignleft size-full wp-image-2427" title="megaupload" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg" alt="Logo de Megaupload" width="180" height="154" /></a><strong> Si no puede entrar en alguna dirección de Megaupload haga la siguiente prueba:</strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg"><img class="alignleft size-full wp-image-2427" title="megaupload" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg" alt="Logo de Megaupload" width="180" height="154" /></a><strong> Si no puede entrar en alguna dirección de Megaupload haga la siguiente prueba:</strong>
 
 En lugar de la dirección de megaupload, por ejemplo:
 
@@ -45,7 +45,7 @@ Entonces, dada esta situación, sobre todo cuando se ve a través del prisma del
 
 Hay abundante especulación sobre el tiempo de inactividad, pero parece ser que Megaupload tiene problemas con su registro de dominio.  En el momento en que estoy escribiendo esto, los registros actuales del DNS de MegaUpload según lo informado por herramientas de red se muestran como ns1.badwhoisshutdown.com y ns2.badwhoisshutdown.com.  No es claro por qué la dirección IP en la lista (216.239.35.100) pertenece a Google.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/badwhois.jpg"><img class="aligncenter size-full wp-image-2428" title="badwhois" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/badwhois.jpg" alt="" width="475" height="162" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/badwhois.jpg"><img class="aligncenter size-full wp-image-2428" title="badwhois" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/badwhois.jpg" alt="" width="475" height="162" /></a>
 
 Una de las causas más comunes de este tipo de desvío de DNS es cuando los registradores de dominios dudan que los datos de WHOIS de un dominio son correctos, por lo que 'secuestran' los registros de DNS para evitarle al dominio  resolverlo en lugar del correcto. En 2009, el site asociado de  MegaUpload MegaVideo sufrió <a href="http://www.numerama.com/magazine/13298-megavideo-inaccessible-en-france-maj.html" target="_blank">problemas similares</a> pero finalmente regresó después de un tiempo de inactividad.
 
@@ -53,7 +53,7 @@ TorrentFreak le ha presentado una solicitud a MegaUpload para hacer comentarios,
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/megadown.jpg"><img class="aligncenter size-full wp-image-2429" title="megadown" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/megadown.jpg" alt="" width="475" height="180" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/megadown.jpg"><img class="aligncenter size-full wp-image-2429" title="megadown" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/megadown.jpg" alt="" width="475" height="180" /></a>
 
 Para muchos, el site sigue caído, incluso ahora, proporcionando una interesante muestra de lo que SOPA podría hacer si se aprueba. Some reports suggest that switching to Google's DNS provides a solution to the problem, others that using one of the site's many IP addresses (http://174.140.154.23/ for example) is a better option. Algunos informes sugieren que el cambio de DNS de<a href="http://code.google.com/speed/public-dns/" target="_blank"> Google ofrece </a>una solución al problema, otros que el uso de una de las muchas direcciones IP del site (http://174.140.154.23/ por ejemplo) son una mejor opción.
 
@@ -68,7 +68,7 @@ Cuando obtengamos la palabra oficial de MegaUpload vamos a informar - la solicit
 <center>
 <object style="height: 390px; width: 640px;" width="640" height="360" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="https://www.youtube.com/v/D9FnaygIXZA?version=3&amp;feature=player_embedded" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed style="height: 390px; width: 640px;" width="640" height="360" type="application/x-shockwave-flash" src="https://www.youtube.com/v/D9FnaygIXZA?version=3&amp;feature=player_embedded" allowFullScreen="true" allowScriptAccess="always" allowfullscreen="true" allowscriptaccess="always" /></object>
 Sobre el proyecto Protect Ip.</center>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2184/sobre-el-proyecto-protect-ip-o-e-parasites-y-el-caso-taringa">Más información sobre el proyecto de ley en EE. UU. para bloquear registros de dominio.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2184/sobre-el-proyecto-protect-ip-o-e-parasites-y-el-caso-taringa">Más información sobre el proyecto de ley en EE. UU. para bloquear registros de dominio.</a></strong></p>
 
 
 <hr />

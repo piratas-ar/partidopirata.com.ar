@@ -9,8 +9,8 @@ tags:
 - olimpiadas
 - pacto-pro-k
 - rio-de-janeiro
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/Rio-de-Janeiro.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/Rio-de-Janeiro-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/Rio-de-Janeiro.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/Rio-de-Janeiro-150x150.jpg
 wppost_name: rio-de-janeiro-transformacion-de-la-ciudad-por-la-copa-del-mundo-y-las-olimpiadas
 ---
 

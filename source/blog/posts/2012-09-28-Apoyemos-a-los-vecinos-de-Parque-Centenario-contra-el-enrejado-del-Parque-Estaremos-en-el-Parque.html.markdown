@@ -8,8 +8,8 @@ tags:
 - feria-del-libro-independiente
 - no-al-enrejado
 - parque-centenario
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/Parque_1_noche.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/Parque_1_noche-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/Parque_1_noche.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/Parque_1_noche-150x150.jpg
 wppost_name: apoyemos-a-los-vecinos-de-parque-centenario-contra-el-enrejado-del-parque-estaremos-en-el-parque
 ---
 

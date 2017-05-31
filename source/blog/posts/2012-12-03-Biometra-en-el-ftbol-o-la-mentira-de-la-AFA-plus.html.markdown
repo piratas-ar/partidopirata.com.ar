@@ -20,7 +20,7 @@ wppost_name: afa-plus
 
 <strong>Biometría en el fútbol</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/AFA-Plus-sistema-biometrico-de-ingreso1.jpg"><img title="AFA-Plus-sistema-biometrico-de-ingreso" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/AFA-Plus-sistema-biometrico-de-ingreso1.jpg" alt="La nueva SUBE" width="249" height="227" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/AFA-Plus-sistema-biometrico-de-ingreso1.jpg"><img title="AFA-Plus-sistema-biometrico-de-ingreso" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/AFA-Plus-sistema-biometrico-de-ingreso1.jpg" alt="La nueva SUBE" width="249" height="227" /></a>
 
 <em>Te presentamos a la hermana menor de la tarjeta SUBE: la AFA plus...</em>
 

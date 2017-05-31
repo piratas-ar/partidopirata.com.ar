@@ -7,12 +7,12 @@ tags:
 - divulgacion
 - pfizer
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/MaskedGuy-480x270.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/MaskedGuy-480x270.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/MaskedGuy-480x270.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/MaskedGuy-480x270.jpg
 wppost_name: historia-del-copyright-capitulo-7-secuestrado-por-pfizer
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/MaskedGuy-480x270.jpg"><img class="aligncenter size-medium wp-image-756" title="MaskedGuy-480x270" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/MaskedGuy-480x270-300x168.jpg" alt="" width="300" height="168" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/MaskedGuy-480x270.jpg"><img class="aligncenter size-medium wp-image-756" title="MaskedGuy-480x270" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/MaskedGuy-480x270-300x168.jpg" alt="" width="300" height="168" /></a>
 
 <strong><a href="http://partido-pirata.blogspot.com/2011/04/historia-del-copyright-parte-6.html">Antes: Secuestrado por la industria fonográfica.</a></strong>
 <strong>
@@ -63,11 +63,11 @@ Intermcambiar  archivos no es solamente una cuestión privada. Es una cuestión 
 
 Esto concluye la historia del monopolio del <em>copyright</em> hasta 2011. Vamos a intentar hacer que, dentro de diez años, cuando  escribamos un nuevo capítulo, seamos más libres que nunca para  publicar, compartir y difundir cultura e información.
 
-<strong><a href="http://partidopirata.com.ar/752/historia-del-copyright-parte-6-secuestrado-por-la-industria-fonografica">Antes: Secuestrado por la industria fonográfica.</a></strong>
+<strong><a href="https://partidopirata.com.ar/752/historia-del-copyright-parte-6-secuestrado-por-la-industria-fonografica">Antes: Secuestrado por la industria fonográfica.</a></strong>
 <strong>
 </strong>
 <strong><a href="http://falkvinge.net/2011/02/17/history-of-copyright-part-7-hijacked-by-pfizer/" target="_blank">Original en inglés.</a></strong>
-<div style="text-align: center;"><strong><a href="http://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge&quot;">Índice de Historia del Copyright por Rick Falkvinge</a></strong></div>
+<div style="text-align: center;"><strong><a href="https://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge&quot;">Índice de Historia del Copyright por Rick Falkvinge</a></strong></div>
 <strong>
 </strong>
 

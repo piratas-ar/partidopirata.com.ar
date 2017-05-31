@@ -10,8 +10,8 @@ tags:
 - problemas
 - votacion
 - voto-electronico
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono-150x150.png
 wppost_name: estados-unidos-informan-muchos-problemas
 ---
 

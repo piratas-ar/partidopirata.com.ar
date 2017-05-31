@@ -11,8 +11,8 @@ tags:
 - jiundai
 - suicidios
 - trabajo
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE-150x150.jpg
 wppost_name: foxconn-principal-fabricante-de-apple-protestas-de-los-trabajadores-en-china-y-brasil
 ---
 
@@ -85,7 +85,7 @@ Antes de comprar un producto Apple, H.P. o Dell fíjense dónde lo fabricaron.<s
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE.jpg"><img class="size-full wp-image-4248" title="foxconn-jundiai-andre-lessa_AE" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE.jpg" alt="" width="390" height="265" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE.jpg"><img class="size-full wp-image-4248" title="foxconn-jundiai-andre-lessa_AE" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE.jpg" alt="" width="390" height="265" /></a>
 
 
 <strong><a href="http://partido-pirata.blogspot.com.ar/2012/01/foxconn-donde-sus-empleados-se-suicidan.html">Un informe de la TV China que muestra la forma de trabajo en Foxconn y las protestas que genera.</a></strong>

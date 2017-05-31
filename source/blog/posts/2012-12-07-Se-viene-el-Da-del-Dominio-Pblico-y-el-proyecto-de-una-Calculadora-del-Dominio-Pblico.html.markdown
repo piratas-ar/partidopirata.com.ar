@@ -9,12 +9,12 @@ tags:
 - material-para-difusion
 - dominio-publico
 - roberto-arlt
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt-150x150.jpg
 wppost_name: se-viene-el-dia-del-dominio-publico-y-el-proyecto-de-una-calculadora-del-dominio-publico
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg"><img class="size-full wp-image-7697" title="220px-RobertoArlt" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg" alt="" width="220" height="357" /></a> Roberto Arlt que entra en dominio público en 2013 porque murió en 1942 (a los 70 años, vencidos, de su muerte sus obras entran en dominio público)
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg"><img class="size-full wp-image-7697" title="220px-RobertoArlt" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/220px-RobertoArlt.jpg" alt="" width="220" height="357" /></a> Roberto Arlt que entra en dominio público en 2013 porque murió en 1942 (a los 70 años, vencidos, de su muerte sus obras entran en dominio público)
 
 
 <center>
@@ -66,4 +66,4 @@ Recordemos que en la Argentina existe el <em><strong>"Dominio Público Pagante"<
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/1615/respetable-publico-que-pasa-cuando-una-obra-entra-en-dominio-publico">Qué pasa cuando una obra entra en Dominio Público</a></strong>
+<strong><a href="https://partidopirata.com.ar/1615/respetable-publico-que-pasa-cuando-una-obra-entra-en-dominio-publico">Qué pasa cuando una obra entra en Dominio Público</a></strong>

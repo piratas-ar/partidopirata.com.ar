@@ -11,13 +11,13 @@ tags:
 - miami
 - presiones
 - propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/images.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/images-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/images.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/images-150x150.jpeg
 wppost_name: hacete-amigo-del-juez-sino-adoctrinalo
 ---
 
 <span style="font-family: verdana,Arial,Helvetica;"><span style="font-family: verdana,Arial,Helvetica;"><span style="font-size: small;"> "Hacete amigo del Juez
--No le dés de qué quejarse;-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/images.jpeg"><img class="alignright size-full wp-image-7255" title="images" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/images.jpeg" alt="" width="267" height="189" /></a>
+-No le dés de qué quejarse;-<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/images.jpeg"><img class="alignright size-full wp-image-7255" title="images" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/images.jpeg" alt="" width="267" height="189" /></a>
 Y cuando quiera enojarse
 Vos te debés encojer,
 Pues siempre es güeno tener
@@ -128,7 +128,7 @@ Sería interesante saber quién le pagó a estos otros jueces para participar de
 Algo que llama la atención es que en la organización que hizo el evento <a href="http://certal.org/" target="_blank">http://certal.org/</a> no figura Estados Unidos, sin embargo se realizó en EE.UU!.¿Por qué?
 
 ¿Con estos jueces así adoctrinados qué podemos esperar cuando les toque participar en causas relacionadas con propiedad intelectual?
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6741/departamento-de-justicia-de-ee-uu-educa-jueces-extranjeros-sobre-pirateria">Ya habíamos escrito en el blog de otros adoctrinamientos de jueces y fiscales argentinos referidas a la propiedad intelectual por parte de instituciones vinculadas al gobierno de los EE.UU.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6741/departamento-de-justicia-de-ee-uu-educa-jueces-extranjeros-sobre-pirateria">Ya habíamos escrito en el blog de otros adoctrinamientos de jueces y fiscales argentinos referidas a la propiedad intelectual por parte de instituciones vinculadas al gobierno de los EE.UU.</a></strong></p>
 
 
 <hr />

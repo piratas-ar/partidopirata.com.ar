@@ -14,12 +14,12 @@ tags:
 - smartphones
 - twitter
 - yahoo
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: aplicaciones-gratis-pueden-espiar-los-textos-y-las-llamadas-de-los-usuarios-de-smartphones-advirtien-sobre-los-peligros-a-la-privacidad
 ---
 
-<a href="http://partidopirata.com.ar/3304/twitter-almacena-los-contactos-de-iphone-sin-que-el-usuario-lo-sepa">Antes lo habíamos visto con Twitter</a> ahora con Facebook:
+<a href="https://partidopirata.com.ar/3304/twitter-almacena-los-contactos-de-iphone-sin-que-el-usuario-lo-sepa">Antes lo habíamos visto con Twitter</a> ahora con Facebook:
 
 <a href="http://www.dailymail.co.uk/sciencetech/article-2106627/Internet-firms-access-texts-emails-pictures-spying-smartphone-apps.html" target="_blank">Fuente Dailymail.</a>
 

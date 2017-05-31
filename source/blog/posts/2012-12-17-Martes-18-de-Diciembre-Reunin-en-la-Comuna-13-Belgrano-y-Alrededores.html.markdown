@@ -7,12 +7,12 @@ tags:
 - comuna-13
 - reunion
 - solar-de-la-abadia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001-150x150.jpg
 wppost_name: martes-18-de-diciembre-reunion-en-la-comuna-13-belgrano-y-alrededores
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg"><img class="aligncenter size-full wp-image-7885" title="attachment-0001" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg" alt="" width="755" height="360" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg"><img class="aligncenter size-full wp-image-7885" title="attachment-0001" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/attachment-0001.jpg" alt="" width="755" height="360" /></a>
 
 <hr />
 
@@ -20,7 +20,7 @@ El Martes 18 de Diciembre nos encontramos en :
 
 <strong><strong>Nos encontramos en el café que está enfrente a <a href="http://www.elsolarshopping.com.ar/%27%20target=">El solar de la Abadia</a>Luis María Campos y Maure. <a href="http://www.elsolarshopping.com.ar/comollegar.php" target="_blank">Información sobre como llegar
 </a>La dirección es Maure 1818, para los que llegan tarde que digan en caja, “VENGO A LA REUNION EN LA SALA”, que es en el primer piso en la sala, que lo van a guiar
-<em></em></strong></strong><strong>Suben las escaleras y a sus espaldas pasando por un puente ( les juro q hay un puente) van a ver una ventana de madera, ahi adentro es, cruzan el puente ARRGGGHHH (no es ninguna tabla de barco <img src="http://partidopirata.com.ar/wp-includes/images/smilies/icon_razz.gif" alt=":P" /> ) y a su izquierda esta la sala : D !!!</strong>
+<em></em></strong></strong><strong>Suben las escaleras y a sus espaldas pasando por un puente ( les juro q hay un puente) van a ver una ventana de madera, ahi adentro es, cruzan el puente ARRGGGHHH (no es ninguna tabla de barco <img src="https://partidopirata.com.ar/wp-includes/images/smilies/icon_razz.gif" alt=":P" /> ) y a su izquierda esta la sala : D !!!</strong>
 
 <hr />
 

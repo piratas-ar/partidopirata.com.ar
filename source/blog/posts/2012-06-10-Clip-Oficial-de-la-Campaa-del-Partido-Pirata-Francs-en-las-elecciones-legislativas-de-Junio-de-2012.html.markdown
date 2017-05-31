@@ -9,8 +9,8 @@ tags:
 - francia
 - legislativas
 - partido-pirata-frances
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio-150x150.jpg
 wppost_name: clip-oficial-de-la-campana-del-partido-pirata-frances-en-las-elecciones-legislativas-de-junio-de-2012
 ---
 
@@ -23,4 +23,4 @@ wppost_name: clip-oficial-de-la-campana-del-partido-pirata-frances-en-las-elecci
 
 <hr />
 
-Si no consiguen las boletas para votar al Partido Pirata en Francia, pueden <a href="http://partidopirata.com.ar/4705/p2p-para-apoyar-la-campana-del-partido-pirata-frances-que-los-votantes-impriman-las-boletas">descargarlas a través de P2P</a>
+Si no consiguen las boletas para votar al Partido Pirata en Francia, pueden <a href="https://partidopirata.com.ar/4705/p2p-para-apoyar-la-campana-del-partido-pirata-frances-que-los-votantes-impriman-las-boletas">descargarlas a través de P2P</a>

@@ -6,15 +6,15 @@ tags:
 - direccion-ip
 - vigilantes
 - vigilar-a-los-vigiladores
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust-150x150.jpg
 wppost_name: para-hacer-una-guia-para-vigilar-a-los-vigiladores
 ---
 
 <strong>Fíjense que tacharon los últimos nros. de la dirección IP:</strong>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg"><img class="aligncenter size-full wp-image-2571" title="fox-bust" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg" alt="Descarga desde una IP de Fox" width="489" height="188" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg"><img class="aligncenter size-full wp-image-2571" title="fox-bust" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/fox-bust.jpg" alt="Descarga desde una IP de Fox" width="489" height="188" /></a>
 
-En la nota sobre <a href="http://partidopirata.com.ar/2568/para-perseguir-a-los-perseguidores-desde-las-ip-de-los-grandes-estudios-tambien-se-decarga-material">vigilar a los vigiladores</a> dejamos pendiente una guía para que cualquiera pueda ver si desde una determinada dirección de IP se está o no descargando algo a través de BitTorrent.
+En la nota sobre <a href="https://partidopirata.com.ar/2568/para-perseguir-a-los-perseguidores-desde-las-ip-de-los-grandes-estudios-tambien-se-decarga-material">vigilar a los vigiladores</a> dejamos pendiente una guía para que cualquiera pueda ver si desde una determinada dirección de IP se está o no descargando algo a través de BitTorrent.
 
 Algo importante es resaltar que no queremos mandar a nadie <em>preso </em>por eso les pedimos que borren los últimos nros. sino algún empleado/a de una empresa o institución puede pasarla muy mal.
 
@@ -70,7 +70,7 @@ ejemplo si ya revisaste la ip que resolvia <strong>pruebas.dominio.com.ar</stron
 
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/Screenshot-at-2011-12-14-18_17_53.png"><img class="aligncenter size-full wp-image-2578" title="Screenshot at 2011-12-14 18_17_53" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/Screenshot-at-2011-12-14-18_17_53.png" alt="Descargando desde el INCAA" width="547" height="507" /></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/Screenshot-at-2011-12-14-18_17_53.png"><img class="aligncenter size-full wp-image-2578" title="Screenshot at 2011-12-14 18_17_53" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/Screenshot-at-2011-12-14-18_17_53.png" alt="Descargando desde el INCAA" width="547" height="507" /></a>
 <strong>Desde una dirección del INCAA alguien se estaba descargando a "The Mentalist"</strong></p>
 
 

@@ -9,8 +9,8 @@ tags:
 - mempo-giardinelli
 - represion
 - reprimir
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: ley-antiterrorista-o-el-terror-a-esta-ley-mempo-giardinelli
 ---
 

@@ -12,8 +12,8 @@ tags:
 - tercer-aviso
 - torrentfreak
 - tres-avisos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: 3-avisos-frances-corte-multa-primera-compartidor-de-archivos-a-pesar-de-que-es-inocente
 ---
 
@@ -45,4 +45,4 @@ La sanción definitiva, de poner fin a la cuenta de de Internet de una persona d
 
 <hr />
 
-Si quieren saber algo más sobre Hadopi estuvimos hablando con un oficial hadopi del tema y él nos contaba que si desde una red wi fi, por ejemplo, se realizaban descargas ellos también lo consideraban responsable. <strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">la charla con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos </a></strong>
+Si quieren saber algo más sobre Hadopi estuvimos hablando con un oficial hadopi del tema y él nos contaba que si desde una red wi fi, por ejemplo, se realizaban descargas ellos también lo consideraban responsable. <strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">la charla con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos </a></strong>

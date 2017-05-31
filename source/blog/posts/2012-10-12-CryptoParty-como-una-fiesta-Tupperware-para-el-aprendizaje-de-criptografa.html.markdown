@@ -11,8 +11,8 @@ tags:
 - fiestas
 - libros-divulgacion
 - programas-de-encriptado
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/crypto2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/crypto2-150x53.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/crypto2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/crypto2-150x53.png
 wppost_name: cryptoparty-como-una-fiesta-tupperware-para-el-aprendizaje-de-criptografia
 ---
 
@@ -22,7 +22,7 @@ CryptoParty es un movimiento mundial de personas que quieren enseñar a sus veci
 
 Hay <a href="https://cryptoparty.org/wiki/CryptoPartyHandbook"> un libro crowdsourced [hecho colectivamente] </a> - "El Manual CryptoParty", de 400 páginas + escrito en menos de 24 horas por  activistas de todo el mundo - y otros materiales de instrucción para ayudarte a empezar.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/crypto2.png"><img class="alignright size-full wp-image-6820" title="crypto2" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/crypto2.png" alt="" width="152" height="53" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/crypto2.png"><img class="alignright size-full wp-image-6820" title="crypto2" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/crypto2.png" alt="" width="152" height="53" /></a>
 
 ¿Qué es CryptoParty? Fiestas interesantes con computadoras, dispositivos, y el deseo de aprender a utilizar los programas de encriptado más básicos y los conceptos fundamentales de su funcionamiento! Las CryptoParties son gratis, públicas, y no están vinculadas a ninguna empresa.
 

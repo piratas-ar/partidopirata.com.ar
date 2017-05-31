@@ -11,12 +11,12 @@ tags:
 - fbi
 - juicios
 - megaupload
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/megaretrieval_efflogo.png.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/megaretrieval_efflogo.png-150x73.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/megaretrieval_efflogo.png.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/megaretrieval_efflogo.png-150x73.jpg
 wppost_name: la-eff-ayudara-a-los-usuarios-de-megaupload-a-los-que-les-cerraron-sus-cuentas-pero-que-vivan-en-ee-uu
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/megaretrieval_efflogo.png.jpg"><img class="aligncenter size-full wp-image-3022" title="megaretrieval_efflogo.png" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/megaretrieval_efflogo.png.jpg" alt="" width="513" height="73" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/megaretrieval_efflogo.png.jpg"><img class="aligncenter size-full wp-image-3022" title="megaretrieval_efflogo.png" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/megaretrieval_efflogo.png.jpg" alt="" width="513" height="73" /></a>
 
 La Electronic Frontier Foundation (EFF), con el apoyo que recibe de Carpatia, ha anunciado hoy sus planes para evaluar el alcance del problema que enfrentan los usuarios de Megaupload que están en riesgo de perder sus datos. Carpatia ha creado este sitio web, <strong><a href="http://www.megaretrieval.com/" target="_blank">www.MegaRetrieval.com </a></strong>para ayudar a los usuarios a ponerse en contacto con la EFF. La EFF revisará las situaciones compartidas por los usuarios y, si es posible, tratará de resolver sus problemas.
 

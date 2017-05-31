@@ -10,8 +10,8 @@ tags:
 - leyes-laborales
 - tecnologia
 - violacion-de-leyes-laborales
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/foxconn-jundiai-andre-lessa_AE-150x150.jpg
 wppost_name: apple-es-acusada-de-violar-leyes-laborales-en-china
 ---
 
@@ -37,7 +37,7 @@ Por Agencias
 
 HONG KONG – Los proveedores de Apple en China violaron leyes laborales locales al imponerle horas extras excesivas y fraudar pagaos de seguros médicos, según una organización de derechos laborales sediada en Nueva York.
 
-Apple y sus proveedores, siguiendo el ejemplo de <a href="http://partidopirata.com.ar/4247/foxconn-principal-fabricante-de-apple-protestas-de-los-trabajadores-en-china-y-brasil">Foxconn</a> Technology Group, controlado por el magnate taiwanés Terry Gou, está siendo blanco de quejas de grupos laborales, que alegan que la más valiosa empresa mundial de tecnologia fabrica sus iPhones e iPads en instalaciones que explotan a los trabajadores.
+Apple y sus proveedores, siguiendo el ejemplo de <a href="https://partidopirata.com.ar/4247/foxconn-principal-fabricante-de-apple-protestas-de-los-trabajadores-en-china-y-brasil">Foxconn</a> Technology Group, controlado por el magnate taiwanés Terry Gou, está siendo blanco de quejas de grupos laborales, que alegan que la más valiosa empresa mundial de tecnologia fabrica sus iPhones e iPads en instalaciones que explotan a los trabajadores.
 
 “Concluímos, de nuestras investigaciones, que las violaciones de los derechos de los trabajadores constatadas en Foxconn también suceden en virtualmente todas las fábricas de los proveedores de Apple, y en muchos casos son todavía más severas que las registradas en Foxconn”, afirmó a China Labor Watch en un informe de 133 páginas divulgado el jueves[28/06] .
 
@@ -54,4 +54,4 @@ No fueron localizados representantes de las empresas para comentarios.
 <hr />
 
 Como usuarios de tecnología tengamos conciencia de como se fabrican algunos de los productos que usamos diariamiente y tratemos de elegir a los que fabrican con la menor explotación posible.
-También pensemos si alguna vez vienen a la Argentina a fabricar, en <strong><a href="http://partidopirata.com.ar/4247/foxconn-principal-fabricante-de-apple-protestas-de-los-trabajadores-en-china-y-brasil">Brasil Foxconn ya está teniendo problemas laborales en su planta.</a></strong>
+También pensemos si alguna vez vienen a la Argentina a fabricar, en <strong><a href="https://partidopirata.com.ar/4247/foxconn-principal-fabricante-de-apple-protestas-de-los-trabajadores-en-china-y-brasil">Brasil Foxconn ya está teniendo problemas laborales en su planta.</a></strong>

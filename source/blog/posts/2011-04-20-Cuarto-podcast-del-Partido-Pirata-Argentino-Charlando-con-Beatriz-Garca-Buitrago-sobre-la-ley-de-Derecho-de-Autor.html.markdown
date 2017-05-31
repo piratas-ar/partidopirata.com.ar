@@ -8,12 +8,12 @@ tags:
 - peores-leyes
 - podcast-2
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
 wppost_name: cuarto-podcast-del-partido-pirata-argentino-charlando-con-beatriz-garcia-buitrago-sobre-la-ley-de-derecho-de-autor
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png"><img class="aligncenter size-medium wp-image-860" title="Ung Pirat gubben" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-300x240.png" alt="" width="300" height="240" /></a>Charla con Beatriz García Buitrago de<strong> </strong><a href="http://consumidoresarg.org.ar/index.php" target="_blank"><strong>Consumidores Argentinos.</strong></a> sobre la calificación de la Ley de Derecho de Autor Argentina <a href="http://partidopirata.com.ar/786/seguimos-en-el-last-five-de-las-peores-leyes-de-derecho-de-autor-del-mundo" target="_blank">como una de las 6 peores en el mundo</a>. <strong> </strong><a href="http://consumidoresarg.org.ar/index.php" target="_blank"><strong>Consumidores Argentinos.</strong></a> fue la institución encargada de evaluar nuestra ley.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png"><img class="aligncenter size-medium wp-image-860" title="Ung Pirat gubben" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-300x240.png" alt="" width="300" height="240" /></a>Charla con Beatriz García Buitrago de<strong> </strong><a href="http://consumidoresarg.org.ar/index.php" target="_blank"><strong>Consumidores Argentinos.</strong></a> sobre la calificación de la Ley de Derecho de Autor Argentina <a href="https://partidopirata.com.ar/786/seguimos-en-el-last-five-de-las-peores-leyes-de-derecho-de-autor-del-mundo" target="_blank">como una de las 6 peores en el mundo</a>. <strong> </strong><a href="http://consumidoresarg.org.ar/index.php" target="_blank"><strong>Consumidores Argentinos.</strong></a> fue la institución encargada de evaluar nuestra ley.
 
 &nbsp;
 

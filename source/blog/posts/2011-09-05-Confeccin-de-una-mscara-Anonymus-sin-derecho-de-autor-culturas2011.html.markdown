@@ -8,12 +8,12 @@ tags:
 - derecho-de-autor
 - mascara
 - warner
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg
 wppost_name: confeccion-de-una-mascara-anonymus-sin-derecho-de-autor-culturas2011
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg"><img class="aligncenter size-full wp-image-1760" title="anonymus" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg" alt="" width="434" height="416" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg"><img class="aligncenter size-full wp-image-1760" title="anonymus" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg" alt="" width="434" height="416" /></a>
 <a href="https://www.nytimes.com/2011/08/29/technology/masked-anonymous-protesters-aid-time-warners-profits.html?_r=1&amp;ref=timewarnerinc" target="_blank">Fuente New York Times.</a>
 
 Por<a class="meta-per" title="More Articles by Nick Bilton" href="http://topics.nytimes.com/top/reference/timestopics/people/b/nick_bilton/index.html?inline=nyt-per" rel="author"> NICK BILTON</a>

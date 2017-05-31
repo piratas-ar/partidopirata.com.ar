@@ -12,8 +12,8 @@ tags:
 - patentes-de-semillas
 - propiedad-intelectual
 - soberania-alimenticia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31-150x150.jpg
 wppost_name: no-a-la-ley-monsanto
 ---
 
@@ -26,7 +26,7 @@ Desde la Fundación Rockefeller lanzaron la llamada "Revolución Verde", que ter
 
 Las semillas transgénicas significan de hecho la renovación del catálogo de productos de Monsanto, Novartis, Du Pont, Aventis ó Astra Zéneca, quienes dominan por completo el mercado mundial de estas semillas.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg" alt="" title="Impacto transgénico" width="493" height="480" class="size-full wp-image-6174" /></a> Como los transgénicos redujeron la biodiversidad en los alimentos.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/08/impacto_trasgenico.jpg" alt="" title="Impacto transgénico" width="493" height="480" class="size-full wp-image-6174" /></a> Como los transgénicos redujeron la biodiversidad en los alimentos.
  
 
 Y pronto serán los propietarios de las semillas existentes, ya que lo que no dice ni las empresas, ni los gobiernos cómplices la existencia de una profunda erosión genética, un ejemplo es el Maiz que paso de 307 especies diferentes a solo 12. NOS ESTAN MATANDO MATANDO NUESTROS ECOSISTEMAS, si la variedad muere, morirá la naturaleza y el hombre. Tendrán el poder de decidir quién vive y quién muere.
@@ -40,7 +40,7 @@ Kissinger quería reorganizar el mercado global de alimentos, destruir las granj
 
 <strong>La lucha</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/cog_logo_big.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/08/cog_logo_big.jpg" alt="" title="cog_logo_big" width="400" height="382" class="alignright size-full wp-image-6178" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/cog_logo_big.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/08/cog_logo_big.jpg" alt="" title="cog_logo_big" width="400" height="382" class="alignright size-full wp-image-6178" /></a>
 
 Las organizaciones campesinas y ambientalistas, hace más de 20 años que vienen exigiendo que no se deben promover políticas que empoderen a empresas como MONSANTO y otras multinacionales del monocultivo extensivo con el uso de agroquímicos; mucho menos de los cultivos transgénicos.
 

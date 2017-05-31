@@ -9,8 +9,8 @@ tags:
 - digital-millennium-act
 - dmca
 - drm
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.jpg
 wppost_name: el-copyright-explicado-por-david-holmes
 ---
 
@@ -108,7 +108,7 @@ El sistema es defectuoso y ha sido durante mucho tiempo
 <hr />
 <p style="text-align: center;">Algunas Aclaraciones:</p>
 <p style="text-align: center;">DMCA Digital Millennium Copyriright Act,<a href="https://es.wikipedia.org/wiki/Digital_Millennium_Copyright_Act" target="_blank"> la ley de derecho de autor de EE.UU [DRMC]</a></p>
-<p style="text-align: center;">Lo que se comenta en el video es el mecanismo llamado "Notice and Take Down" o Notificación y Borrado, es el acuerdo entre privados mediante el cual un supuesto titular de derechos de autor le pide a un proveedor o dueño de un lugar o un buscador (como Google) que retire enlaces o contenidos supuestamente infractores. Todo esto sin la participación de un juez, sólo un acuerdo entre privados. (<strong><a href="http://partidopirata.com.ar/7805/los-peligros-del-notice-and-take-down-o-notificacion-y-retiro">más sobre "Notice and Take Down")</a>.</strong>
+<p style="text-align: center;">Lo que se comenta en el video es el mecanismo llamado "Notice and Take Down" o Notificación y Borrado, es el acuerdo entre privados mediante el cual un supuesto titular de derechos de autor le pide a un proveedor o dueño de un lugar o un buscador (como Google) que retire enlaces o contenidos supuestamente infractores. Todo esto sin la participación de un juez, sólo un acuerdo entre privados. (<strong><a href="https://partidopirata.com.ar/7805/los-peligros-del-notice-and-take-down-o-notificacion-y-retiro">más sobre "Notice and Take Down")</a>.</strong>
 <strong>Según Matías Botbol (uno de los fundadores de Taringa)</strong>:
 "“El DMCA es el mejor sistema hasta el momento para gestionar los derechos de autor en Internet, ya que contempla tanto los derechos de los usuarios a expresarse libremente, a los propietarios de de autor, como a las plataformas intermediarias de Internet” sostuvieron Hernán Botbol y Matías Botbol"
 <strong><a href="http://www.telam.com.ar/notas/201212/911-taringa-introdujo-mejoras-en-el-sistema-de-denuncias-por-derecho-de-autor.html" target="_blank">Fuente Telam</a></strong>

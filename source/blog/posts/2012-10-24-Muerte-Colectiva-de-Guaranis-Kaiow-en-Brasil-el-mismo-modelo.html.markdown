@@ -12,12 +12,12 @@ tags:
 - pistoleros
 - soja
 - sojeros
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199-150x150.jpg
 wppost_name: muerte-colectiva-de-guaranis-kaiowa-en-brasil-el-mismo-modelo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199.jpg"><img class="aligncenter size-full wp-image-7055" title="guarani-kaiowa-tribu-brasil-web-300x199" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199.jpg"><img class="aligncenter size-full wp-image-7055" title="guarani-kaiowa-tribu-brasil-web-300x199" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199.jpg" alt="" width="300" height="199" /></a>
 
 El Cimi (Consejo Indigenista Misionero) divulgó una nota en su site este miércoles (23) informando que, a diferencia de lo que se publicó en algunos medios, los indios kaiowás y guaranis de Pyelito Kue, en Mato Grosso do Sul, no manifestaron la intención de promoverem un “suicídio colectivo”. Según la nota, “los kaiowás y guaranis hablan en muete colectiva (lo que es diferente de suicidio colectivo) en el contexto de la lucha por la tierra, o sea, si la Justicia y los pistoleros contratados por los estancieros insisten en desalojarlos de sus tierras tradicionales, están dispuestos a morir todos en ella, sin abandonarlas jamás”.
 
@@ -55,7 +55,7 @@ Atentamente, Guarani-Kaiowá de Pyelito Kue/Mbarakay"
 
 El modelo es el mismo, Argentina, Brasil, extractivismo y todo lo que se oponga a ello muerte o sobrevivir como se pueda en algún lugar lejano , lo que para los indios es lo mismo que la muerte.
 <p style="text-align: center;">
-<strong><a href="http://partidopirata.com.ar/7107/documental-a-la-sombra-de-un-delirio-verde">A la sombra de un delirio verde</a> para entender el porqué se llega a esta situación.</strong></p>
+<strong><a href="https://partidopirata.com.ar/7107/documental-a-la-sombra-de-un-delirio-verde">A la sombra de un delirio verde</a> para entender el porqué se llega a esta situación.</strong></p>
 <p style="text-align: center;"><strong><a href="http://www.adital.com.br/site/noticia.asp?lang=ES&amp;cat=10&amp;cod=71573" target="_blank">Estudio denuncia producción de soja y de caña en tierras Guaraní-kaiowá</a></strong></p>
 <p style="text-align: center;">No es un suicidio es un genocidio a manos de sojeros, y demás, el mismo modelo !</p>
 <p style="text-align: center;">En Twitter el hashtag es <strong>#GenocidioGuaraniKaiowa</strong></p>

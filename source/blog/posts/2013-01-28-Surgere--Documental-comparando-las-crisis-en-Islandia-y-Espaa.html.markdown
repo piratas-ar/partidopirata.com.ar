@@ -9,12 +9,12 @@ tags:
 - neoliberalismo
 - sugere
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/surgere_1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/surgere_1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/surgere_1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/surgere_1-150x150.jpg
 wppost_name: surgere-documental-comparando-las-crisis-en-islandia-y-espana
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/surgere_1.jpg"><img class="aligncenter size-full wp-image-8316" alt="surgere_1" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/surgere_1.jpg" width="580" height="377" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/surgere_1.jpg"><img class="aligncenter size-full wp-image-8316" alt="surgere_1" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/surgere_1.jpg" width="580" height="377" /></a>
 <h3>Un viaje a través de la historia reciente de Islandia y El Estado Español, para intentar explicar como dos “ejemplos” de esplendor económico pueden llegar a convertirse en Estados fallido
 <a href="http://surgere.org/" target="_blank">Site del Documental</a></h3>
 <iframe src="http://www.youtube.com/embed/5vtJM2fI2Lo" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>

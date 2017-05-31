@@ -13,7 +13,7 @@ thumb:
 wppost_name: sobre-la-distribucion-y-exhibicion-de-cine-argentino-en-el-pais-%c2%bfy-una-cuevana-de-cine-argentino
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="alignleft size-full wp-image-2318" title="Cuevana" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a><strong><a href="http://www.pagina12.com.ar/diario/suplementos/espectaculos/17-23565-2011-11-19.html" target="_blank">En Página 12 anuncian el ciclo "“CINE ARGENTINO AL CINE”</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="alignleft size-full wp-image-2318" title="Cuevana" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a><strong><a href="http://www.pagina12.com.ar/diario/suplementos/espectaculos/17-23565-2011-11-19.html" target="_blank">En Página 12 anuncian el ciclo "“CINE ARGENTINO AL CINE”</a></strong>
 
 "Cincuenta y cuatro directores. Veintiséis largometrajes. Seis cortos. Un problema nodal. Con la idea de concientizar al público y a las autoridades sobre las dificultades con que se topan jueves tras jueves las películas nacionales para llegar al circuito comercial, la Asociación de realizadores Proyecto Cine Independiente (PCI) organiza el ciclo “Cine argentino al cine”, que se desarrolla desde ayer en la sala Cosmos-UBA (ver recuadro). “El tema de la exhibición siempre es una urgencia para el cine argentino. Tenemos un gran apoyo del Estado para producir y nos parece que tiene que haber una intervención para que también se dé en la distribución y exhibición. Es un sistema muy antiguo que hay que modernizar”, diagnostica el actual presidente de la entidad, Pepe Salvia. El director de Cuento chino clasista y combativo y sus colegas Andrés Di Tella, Julián Giulianelli, Anahí Berneri y Tamae Garateguy analizaron ante Página/12 el actual panorama del mercado cinematográfico.
 
@@ -63,4 +63,4 @@ Muchas películas argentinas no se exhiben y tampoco se venden, si le agregamos 
 ¿No podrían pensar en una forma de exhibirlas online? o ¿que pudieran descargarse para aquellos lugares donde la velocidad de internet es pésima? ¿buscar otro modelo de negocios? . Tal vez que el Estado financie un poco esa exhibición, que haya publicidad y se reparta.
 
 Internet logró que la intermediación fuera innecesaria, ¿por qué no pensar en otras formas de zafar de ella?
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/2352/sobre-cine-nigeriano">Sobre la realidad del cine en Nigeria.</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/2352/sobre-cine-nigeriano">Sobre la realidad del cine en Nigeria.</a></strong></p>

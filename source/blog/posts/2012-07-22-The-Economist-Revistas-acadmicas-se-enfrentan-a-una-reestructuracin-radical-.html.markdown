@@ -9,8 +9,8 @@ tags:
 - repositorios-cientificos
 - revistas-cientificas
 - the-economist
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
 wppost_name: the-economist-revistas-academicas-se-enfrentan-a-una-reestructuracion-radical
 ---
 

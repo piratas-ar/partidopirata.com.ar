@@ -4,8 +4,8 @@ date: '2012-09-10'
 tags:
 - material-para-difusion
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/libreriaconhdsposterizado21.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/libreriaconhdsposterizado21-150x150.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/libreriaconhdsposterizado21.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/libreriaconhdsposterizado21-150x150.gif
 wppost_name: entrevista-a-los-piratas-de-madrid-sobre-la-escuela-de-pirateria
 ---
 
@@ -19,7 +19,7 @@ El 19 de Julio el programa de radio <span style="font-size: large;"><a href="ht
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/entrevista-del-programa-madrid-norte-onda-audios-mp3_rf_1418072_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart4.png"><img class="size-full wp-image-6424" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivio mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart4.png"><img class="size-full wp-image-6424" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivio mp3
 
 
 &nbsp;

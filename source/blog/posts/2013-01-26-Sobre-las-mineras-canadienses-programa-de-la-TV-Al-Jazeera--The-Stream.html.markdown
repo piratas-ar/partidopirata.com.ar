@@ -8,8 +8,8 @@ tags:
 - mineria
 - the-stream
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/no-a-la-mineria-a-cielo-abierto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/no-a-la-mineria-a-cielo-abierto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/no-a-la-mineria-a-cielo-abierto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/no-a-la-mineria-a-cielo-abierto-150x150.jpg
 wppost_name: sobre-las-mineras-canadienses-programa-de-la-tv-al-jazeera-the-stream
 ---
 

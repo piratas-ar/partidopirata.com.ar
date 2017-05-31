@@ -8,8 +8,8 @@ tags:
 - la-nacion
 - refutacion
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
 wppost_name: sala-alberdi-el-discurso-de-los-medios-hegemonicos-deformacion-y-desinformacion
 ---
 
@@ -30,5 +30,5 @@ oponemos al traslado.
 El verdadero conflicto pasa por la disputa ideológica entre quienes defendemos el espacio público y la cultura popular y aquellos que promueven proyectos privados desde la gestión estatal, fomentando una cultura de elite. El gobierno se jacta de "actuar conforme al derecho" mientras ultraja el derecho a la integridad física y moral de nuestros compañeros, el derecho a acceder a la educación, el
 derecho a protestar, el derecho a elegir una cultura alternativa a la que se propone hegemónicamente, el derecho a trabajar. El CCGSM no se encuentra tomado; sus puertas están cerradas por dentro por orden de la propia Dirección.
 
-<strong><a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/refutación.pdf">Si quieren descargar el archivo pdf con este texto</a></strong>
-<p style="text-align: center;"><strong>La terrible <a href="http://partidopirata.com.ar/8634/para-hacer-un-ejercicio-de-analisis-del-mensaje-jorge-lanata-y-el-acampe-cultural-y-la-sala-alberdi">editorial del programa Lanata Sin Filtro por la situación en la Sala Alberdi</a></strong></p>
+<strong><a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/refutación.pdf">Si quieren descargar el archivo pdf con este texto</a></strong>
+<p style="text-align: center;"><strong>La terrible <a href="https://partidopirata.com.ar/8634/para-hacer-un-ejercicio-de-analisis-del-mensaje-jorge-lanata-y-el-acampe-cultural-y-la-sala-alberdi">editorial del programa Lanata Sin Filtro por la situación en la Sala Alberdi</a></strong></p>

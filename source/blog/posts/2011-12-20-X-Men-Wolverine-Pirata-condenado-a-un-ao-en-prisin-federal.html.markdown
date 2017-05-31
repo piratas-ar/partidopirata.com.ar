@@ -10,8 +10,8 @@ tags:
 - prision
 - wolverine
 - x-men
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
 wppost_name: x-men-wolverine-pirata-condenado-a-un-ano-en-prision-federal
 ---
 

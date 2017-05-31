@@ -11,8 +11,8 @@ tags:
 - ley-de-datos-personales
 - marketing-directo
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/info1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/info1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/info1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/info1-150x150.jpg
 wppost_name: brasil-diputados-le-piden-explicaciones-a-google
 ---
 
@@ -42,6 +42,6 @@ Hoy el País no tiene una regulación para el área. “El marco civil de intern
 
 <strong>¿Qué dice el proyecto de ley sobre datos personales?</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/info1.jpg"><img class="aligncenter size-full wp-image-3965" title="Sobre Privacidad" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/info1.jpg" alt="" width="590" height="764" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/info1.jpg"><img class="aligncenter size-full wp-image-3965" title="Sobre Privacidad" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/info1.jpg" alt="" width="590" height="764" /></a>
 
 <strong><a href="http://blogs.estadao.com.br/link/deputados-pedem-explicacoes-do-google/" target="_blank">Fuente Suplemento Linnk "O Estado de São Paulo"</a></strong>

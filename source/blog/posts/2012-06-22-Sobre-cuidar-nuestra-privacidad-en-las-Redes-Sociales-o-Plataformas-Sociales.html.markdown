@@ -12,8 +12,8 @@ tags:
 - plataformas-sociales
 - privacidad
 - redes-sociales
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: sobre-cuidar-nuestra-privacidad-en-las-redes-sociales-o-plataformas-sociales
 ---
 

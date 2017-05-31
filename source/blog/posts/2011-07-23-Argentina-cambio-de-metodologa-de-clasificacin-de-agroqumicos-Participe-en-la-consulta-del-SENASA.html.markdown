@@ -10,8 +10,8 @@ tags:
 - modificacion
 - podcast-2
 - senasa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
 wppost_name: argentina-cambio-de-metodologia-de-clasificacion-de-agroquimicos-participe-en-la-consulta-del-senasa
 ---
 

@@ -7,14 +7,14 @@ tags:
 - historia-del-copyright
 - divulgacion
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/LadyLiberty.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/LadyLiberty.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/LadyLiberty.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/LadyLiberty.jpg
 wppost_name: historia-del-copyright-parte-4-por-rick-falkvinge-los-estados-unidos-y-las-bibliotecas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/LadyLiberty1.jpg"><img class="aligncenter size-medium wp-image-656" title="LadyLiberty" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/LadyLiberty1-300x168.jpg" alt="" width="300" height="168" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/LadyLiberty1.jpg"><img class="aligncenter size-medium wp-image-656" title="LadyLiberty" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/LadyLiberty1-300x168.jpg" alt="" width="300" height="168" /></a>
 
-<strong><a href="http://partidopirata.com.ar/633/historia-del-copyright-parte-3-por-rick-falkvinge-el-monopolio-muere-y-resucita">Antes: El Monopolio muere y resucita!!</a></strong>
+<strong><a href="https://partidopirata.com.ar/633/historia-del-copyright-parte-3-por-rick-falkvinge-el-monopolio-muere-y-resucita">Antes: El Monopolio muere y resucita!!</a></strong>
 
 <a href="http://falkvinge.net/2011/02/08/history-of-copyright-part-4-the-us-and-libraries/" target="_blank">Original en inglés.</a>
 <div>El <em>copyright</em> no nació en los Estados Unidos. La idea habia aparecido mucho antes, en Europa, como vimos en los primeros capítulos de esta serie. Cuando llevaron las leyes del Viejo Continente al nuevo país, los Padres Fundadores [los Founding Fathers, que escribieron y firmaron la Declaración de Independencia de los EUA] tuvieron dificultad para llegar a un consenso sobre el tema del monopolio de las ideas -- el <em>copyright</em>. Thomas Jefferson escribió:</div>
@@ -36,7 +36,7 @@ wppost_name: historia-del-copyright-parte-4-por-rick-falkvinge-los-estados-unido
 <div>Alemania no tenía monopolio sobre el <em>copyright</em> en todo ese período. Muchos historiadores argumentan que eso produjo una rápida diseminación de conocimiento y que permitió a Alemania asumir el liderazgo en el desarrollo de tecnologías industriales, al frente de Inglaterra — el conocimiento, en Alemania, podia divulgarse de forma rápida y barata. Entonces, de alguna manera, cuando superó a Inglaterra y asumió ese liderazgo, Alemania probó que el Parlamento Británico tenía razón: el interés nacional supera al interés de los monopolios de las editoriales cuando se trata del acceso a la cultura y al conocimiento.</div>
 <div><strong><a href="../633/historia-del-copyright-parte-3-por-rick-falkvinge-el-monopolio-muere-y-resucita">Antes:  El Monopolio muere y resucita!!</a> </strong></div>
 <div>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/723/historia-del-copyright-parte-5-por-rick-falkvinge-derechos-morales">Siguiente: Derechos Morales.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/723/historia-del-copyright-parte-5-por-rick-falkvinge-derechos-morales">Siguiente: Derechos Morales.</a></strong></p>
 
 </div>
 <div><strong>
@@ -45,7 +45,7 @@ wppost_name: historia-del-copyright-parte-4-por-rick-falkvinge-los-estados-unido
 <hr />
 
 En España si existe el llamado "Préstamo de Pago" donde las bibliotecas tienen que pagar por cada libro que prestan.
-<div><a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/banner_550_150.png"><img class="aligncenter size-medium wp-image-657" title="banner_550_150" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/banner_550_150-300x81.png" alt="" width="300" height="81" /></a></div>
+<div><a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/banner_550_150.png"><img class="aligncenter size-medium wp-image-657" title="banner_550_150" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/banner_550_150-300x81.png" alt="" width="300" height="81" /></a></div>
 <div>
 
 <a href="http://partido-pirata.blogspot.com/2007/08/no-al-prestamo-de-pago.html" target="_blank">Acá encontrarán más información.</a>
@@ -54,7 +54,7 @@ De todas maneras es un delirio pagar por libro prestado <em>"Derecho de Autor"</
 
 </div>
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge">Índice General de la Historia del Copyright por Rick Falkvinge.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge">Índice General de la Historia del Copyright por Rick Falkvinge.</a></strong></p>
 
 
 <hr />

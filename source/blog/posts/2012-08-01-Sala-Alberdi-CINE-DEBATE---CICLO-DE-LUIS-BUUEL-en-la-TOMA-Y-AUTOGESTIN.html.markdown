@@ -7,8 +7,8 @@ tags:
 - luis-bunuel
 - sala-alberdi
 - toma-y-autogestion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/luis-bunuel.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/luis-bunuel-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/luis-bunuel.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/luis-bunuel-150x150.jpg
 wppost_name: sala-alberdi-cine-debate-ciclo-de-luis-buenuel-en-la-toma-y-autogestion
 ---
 

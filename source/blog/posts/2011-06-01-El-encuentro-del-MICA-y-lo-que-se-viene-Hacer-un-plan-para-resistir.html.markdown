@@ -12,12 +12,12 @@ tags:
 - resistencia
 - resistir
 - teddy-bautista
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png
 wppost_name: el-encuentro-del-mica-y-lo-que-se-viene-hacer-un-plan-para-resistir
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png"><img class="aligncenter size-medium wp-image-1080" title="no-al-canon-ok" src="http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-300x62.png" alt="" width="300" height="62" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png"><img class="aligncenter size-medium wp-image-1080" title="no-al-canon-ok" src="https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-300x62.png" alt="" width="300" height="62" /></a>
 
 <strong><a href="http://partido-pirata.blogspot.com/2011/04/la-forma-mas-comun-que-tenemos-de.html">Suscríbase a nuestra lista para coordinar formas de repudio lo que se está cocinando en la Argentina!!</a></strong>
 

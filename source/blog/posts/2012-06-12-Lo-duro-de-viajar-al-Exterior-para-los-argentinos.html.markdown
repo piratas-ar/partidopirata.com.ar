@@ -9,12 +9,12 @@ tags:
 - restricciones-para-comprar-dolares
 - viajar
 - viajar-al-exterior
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225-150x150.jpg
 wppost_name: lo-duro-de-viajar-al-exterior-para-los-argentinos
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225.jpg"><img class="alignright size-full wp-image-4728" title="comprar-dolares-300x225" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225.jpg" alt="" width="300" height="225" /></a><strong><a href="https://twitter.com/@faccig" target="_blank">Lo comparte @faccig</a> en Twitter o :</strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225.jpg"><img class="alignright size-full wp-image-4728" title="comprar-dolares-300x225" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/comprar-dolares-300x225.jpg" alt="" width="300" height="225" /></a><strong><a href="https://twitter.com/@faccig" target="_blank">Lo comparte @faccig</a> en Twitter o :</strong>
 
 <strong><a href="https://identi.ca/faccig">faccig en Identi.ca</a></strong>
 
@@ -36,7 +36,7 @@ Como recomendación, analicen bien donde van y si es posible hacer esto.
 En los países limítrofes, llegado el caso, podrán cambiar Pesos Argentinos ante una emergencia (aunque hoy en día a una muy mala tasa de cambio), pero no ocurre lo mismo en todos los demás países.
 No es mi intención dar un juicio de valor sobre si la medida esta bien o mal, o si es valida o invalida. Por lo que me propuse simplemente saber si se puede viajar igual, sin pedir a la AFIP el permiso de comprar dolares, una forma de mantener la privacidad.
 
-Aunque te das cuenta que esto ultimo es en vano, cuando en migraciones te encontrás con<strong><a href="http://partidopirata.com.ar/tag/sibios"> SIBIOS </a></strong>-por ahora, solo en Ezeiza y Aeroparque-, pero eso es otra historia.
+Aunque te das cuenta que esto ultimo es en vano, cuando en migraciones te encontrás con<strong><a href="https://partidopirata.com.ar/tag/sibios"> SIBIOS </a></strong>-por ahora, solo en Ezeiza y Aeroparque-, pero eso es otra historia.
 <p style="text-align: center;"><strong>Gracias a <a href="https://twitter.com/@faccig" target="_blank">@faccig</a> por su relato!</strong></p>
 
 
@@ -50,6 +50,6 @@ Tengámoslo en cuenta si vamos a viajar al Exterior. Las opciones son pocas:
 	<li><strong>Esperar que la Afip nos de <em>permiso</em> teniendo que explicar qué vamos a hacer...Y que libere lo que ellos piensen que podemos pagar, no lo que querramos comprar.</strong></li>
 	<li style="text-align: center;"><strong>Hacer lo que nos relatan más arriba, donde habría que hacer la cuenta para ver si terminamos pagando más o menos.</strong></li>
 </ol>
-<p style="text-align: center;">Al final, como con <strong><a href="http://partidopirata.com.ar/tag/sibios">SIBIOS </a></strong>  todos somos culpables hasta que se demuestre lo contrario...</p>
+<p style="text-align: center;">Al final, como con <strong><a href="https://partidopirata.com.ar/tag/sibios">SIBIOS </a></strong>  todos somos culpables hasta que se demuestre lo contrario...</p>
 <p style="text-align: center;">Tenemos que organizarnos para que el Estado deje de invadir nuestra privacidad, nuestra vida.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wiki/index.php?title=Como_Participar">Sobre la forma de coordinar acciones entre todos</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wiki/index.php?title=Como_Participar">Sobre la forma de coordinar acciones entre todos</a></strong></p>

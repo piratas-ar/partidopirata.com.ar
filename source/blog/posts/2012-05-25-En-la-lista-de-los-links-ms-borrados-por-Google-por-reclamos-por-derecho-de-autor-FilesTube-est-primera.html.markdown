@@ -12,8 +12,8 @@ tags:
 - notice-and-takedonw
 - takedwon
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/filestube.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/filestube-150x122.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/filestube.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/filestube-150x122.png
 wppost_name: en-la-lista-de-los-links-mas-borrados-por-google-por-reclamos-por-derecho-de-autor-filestube-esta-primera
 ---
 
@@ -21,7 +21,7 @@ wppost_name: en-la-lista-de-los-links-mas-borrados-por-google-por-reclamos-por-d
 
 Google ha publicado información detallada sobre la amplia variedad de peticiones de borrado por  DMCA [derecho de autor de USA] que la empresa recibe por su motor de búsqueda. Sólo durante el último mes a Google le  hicieron  eliminar vínculos de 24,129 1,246,713 dominios, incluidos sitios de torrents y muchos cyberlockers. Curiosamente, Google recibe la mayoría de los avisos de borrado para FilesTube, un motor de búsqueda cólega que de por sí honra a la peticiones de borrado por DMCA y ya elimina los enlaces, incluso más que los que Google borra.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/filestube.png"><img class="size-full wp-image-4572" title="filestube" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/filestube.png" alt="" width="216" height="122" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/filestube.png"><img class="size-full wp-image-4572" title="filestube" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/filestube.png" alt="" width="216" height="122" /></a>
 
 
 Los titulares de derechos de autortienen el derecho bajo la  DMCA de exigir que los sitios web deshabiliten el acceso a contenido infractor. Uno de los principales receptores de estos avisos es sin duda Google.
@@ -34,7 +34,7 @@ Google afirma: "Específicamente, estamos revelando el número de solicitudes qu
 
 Los datos muestran que Google recibe como mínimo,más peticiones de borrado que su motor de búsqueda colega FilesTube. Durante el último mes deshabilitaron el acceso a 43,469 enlaces después de haber sido notificados por 233 titulares de derechos de autor. Durante el año pasado Google desactivó el acceso a 389,512 enlaces de FilesTube, el doble en comparación con los 147,318 enlaces del subcampeón de Torrentz.eu.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/filestube-takedown.png"><img class="size-medium wp-image-4573" title="filestube-takedown" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/filestube-takedown-300x184.png" alt="" width="300" height="184" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/filestube-takedown.png"><img class="size-medium wp-image-4573" title="filestube-takedown" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/filestube-takedown-300x184.png" alt="" width="300" height="184" /></a>
 
 
 Lo anterior es interesante porque FilesTube, al igual que muchos otros sitios en la lista superior, honra a las solicitudes de borrado por DMCA por sí mismo. El dueño de FilesTube Arkadiusz Senko dijo a TorrentFreak que se sorprende al ver su sitio en la parte superior de la lista, y confirmó que su compañía también trabaja directamente con los titulares de derechos de autor para eliminar contenido infractor.

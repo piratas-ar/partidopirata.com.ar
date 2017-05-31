@@ -15,12 +15,12 @@ tags:
 - libre
 - software
 - talleres
-image: http://partidopirata.com.ar/wp-content/uploads/2010/04/logo_flisol.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/logo_flisol.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/04/logo_flisol.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/04/logo_flisol.png
 wppost_name: festival-latinoamericano-de-instalacion-de-software-libre-2010
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/04/logo_flisol.png"><img class="aligncenter size-full wp-image-110" title="FLISOL" src="http://partidopirata.com.ar/wp-content/uploads/2010/04/logo_flisol.png" alt="" width="465" height="220" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/04/logo_flisol.png"><img class="aligncenter size-full wp-image-110" title="FLISOL" src="https://partidopirata.com.ar/wp-content/uploads/2010/04/logo_flisol.png" alt="" width="465" height="220" /></a>
 
 El dia 24 de abril, en la UTN sede Medrano, se llevará a cabo el Festival Latinoamericano de Instalacion de Software Libre (FLISOL), evento que se replica en mas de 200 ciudades de toda america en forma simultánea. Este año se suma España a la lista de sedes.
 

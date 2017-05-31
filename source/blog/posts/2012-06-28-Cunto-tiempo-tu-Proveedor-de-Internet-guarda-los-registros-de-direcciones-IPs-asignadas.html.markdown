@@ -9,8 +9,8 @@ tags:
 - investigacion
 - registro-de-direcciones-ip
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/servers.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/servers-150x145.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/servers.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/servers-150x145.jpg
 wppost_name: cuanto-tiempo-tu-proveedor-de-internet-guarda-los-registros-de-direcciones-ips-asignadas
 ---
 
@@ -18,7 +18,7 @@ wppost_name: cuanto-tiempo-tu-proveedor-de-internet-guarda-los-registros-de-dire
 
 La avalancha de demandas judiciales en curso contra usuarios de BitTorrent en masa revelan que las<a href="https://es.wikipedia.org/wiki/Direcci%C3%B3n_IP" target="_blank"><strong> direcciones IP</strong> </a>pueden meter a la gente en un montón de problemas y no es raro que los abonados a Internet sean injustamente acusados de compartir material con derechos de autor. Esto plantea la pregunta, ¿por cuánto tiempo las  direcciones IP son almacenadas? Para averiguarlo, TorrentFreak le preguntó a algunos de los mayores proveedores de Internet en los EE.UU. acerca de sus prácticas de registros. realizar un seguimiento de las asignaciones de dirección IP-
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/servers.jpg"><img class="alignright size-full wp-image-5009" title="servers" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/servers.jpg" alt="" width="200" height="145" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/servers.jpg"><img class="alignright size-full wp-image-5009" title="servers" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/servers.jpg" alt="" width="200" height="145" /></a>
 
 En la actualidad <a href="https://www.eff.org/issues/mandatory-data-retention">no existen</a> leyes de retención de datos obligatorios en los Estados Unidos. A diferencia de Europa, los proveedores de Internet no están obligados a realizar un seguimiento de las asignaciones de direcciónes IP y  vincularlas a cuentas de sus suscriptores específicos.
 
@@ -67,7 +67,7 @@ Animamos a todos los lectores a que tweetien, escriban o llamen por teléfono a 
 
 <hr />
 
-<strong>En Brasil dentro del <a href="http://partidopirata.com.ar/3765/el-marco-civil-de-internet-en-brasil-entro-en-diputados">Marco Civil de Internet</a> si quieren leerlo <a href="http://culturadigital.br/marcocivil/debate/" target="_blank">acá está el proyecto</a>, estipula:</strong>
+<strong>En Brasil dentro del <a href="https://partidopirata.com.ar/3765/el-marco-civil-de-internet-en-brasil-entro-en-diputados">Marco Civil de Internet</a> si quieren leerlo <a href="http://culturadigital.br/marcocivil/debate/" target="_blank">acá está el proyecto</a>, estipula:</strong>
 
 <strong>Art. 13</strong>
 
@@ -91,5 +91,5 @@ La provisión de conexión a Internet impone al administrador del sistema autón
 Parágrafo único. El deber de mantener los registros de conexión no podrá ser transferido
 <p style="text-align: center;"><strong> <a href="http://culturadigital.br/marcocivil/debate/" target="_blank">Todo el proyecto de ley.</a></strong></p>
 <strong></strong>
-<strong> <a href="http://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Acá estuvimos hablando con Paulo Rená, uno de los responsables de la plataforma donde se debatió el Marco Civil de Internet en Brasil.</a></strong>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5014/siguiendo-con-el-tema-del-guardado-de-asignaciones-de-direcciones-ips-peligros-de-ese-archivo">¿Por qué es peligroso que los proveedores guarden durante mucho tiempo esa información?</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Acá estuvimos hablando con Paulo Rená, uno de los responsables de la plataforma donde se debatió el Marco Civil de Internet en Brasil.</a></strong>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5014/siguiendo-con-el-tema-del-guardado-de-asignaciones-de-direcciones-ips-peligros-de-ese-archivo">¿Por qué es peligroso que los proveedores guarden durante mucho tiempo esa información?</a></strong></p>

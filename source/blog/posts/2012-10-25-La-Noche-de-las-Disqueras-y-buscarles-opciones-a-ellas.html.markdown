@@ -12,8 +12,8 @@ tags:
 - record-store-day
 - sadaic
 - sociedades-de-gestion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/psysical1-150x150.png
 wppost_name: el-dia-de-las-disquerias-y-buscarles-opciones-a-ellas
 ---
 
@@ -51,7 +51,7 @@ Los grandes sellos, no obstante, comienzan poco a poco a ofrecer parte de su cat
 <hr />
 
 O sea cada vez más el consumo de música pasa por las descargas y no por el objeto físico (sea descargado de forma legal o no). Por eso es bueno que las disquerías piensen en la forma de sobrevivir!. O en hacer productos que valoricen al objeto físico!.
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6954/los-que-comparten-archivos-son-mas-propensos-a-pagar-por-peliculas-libros-juegos-y-conciertos" target="_blank">Algo importante es rescatar que quien descarga archivos ilegalmente gasta más en cultura que quien no lo hace!.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6954/los-que-comparten-archivos-son-mas-propensos-a-pagar-por-peliculas-libros-juegos-y-conciertos" target="_blank">Algo importante es rescatar que quien descarga archivos ilegalmente gasta más en cultura que quien no lo hace!.</a></strong></p>
 Hoy no vemos en los medios tanta <em>demonización</em> hacia quien descarga música.  Ta vez porque CAPIF ya sabe que el futuro del consumo pasa por lo digital, si habla demasiado mal de las descargas, mañana cuando cierre acuerdos con las grandes cadenas para vender online ¿qué les dirá a las disquerías?
 
 Pensando en la <em>demonización </em>de la piratería, los invito a escuchar este muy buen podcast de <strong><a href="http://manzanamecanica.org/podcast/la_guerra_moral_y_la_etica_de_la_pirateria.html" target="_blank"> Manzana Mecánica</a></strong>
@@ -99,4 +99,4 @@ Si bien estos dos últimos “hijos bobos” nacieron hace un par de años, en e
 <hr />
 
 <strong>En fin, tenemos los <em>hijos bobos</em> porque la ley se los permite!</strong>
-<p style="text-align: center;"><strong>Algo que se tendría que analizar es que el costo de comprar un cd o dvd <em>legal</em> <a href="http://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol" target="_blank">en los países emergentes es muchísimo más caro que en el primer mundo!</a></strong></p>
+<p style="text-align: center;"><strong>Algo que se tendría que analizar es que el costo de comprar un cd o dvd <em>legal</em> <a href="https://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol" target="_blank">en los países emergentes es muchísimo más caro que en el primer mundo!</a></strong></p>

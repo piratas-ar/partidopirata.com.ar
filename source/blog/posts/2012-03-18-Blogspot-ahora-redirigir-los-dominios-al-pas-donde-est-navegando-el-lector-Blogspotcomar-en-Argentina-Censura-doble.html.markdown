@@ -12,8 +12,8 @@ tags:
 - dominios
 - dominios-por-pais
 - google
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
 wppost_name: blogspot-ahora-redirigira-los-dominios-al-pais-donde-este-navegando-el-lector-blogspot-com-ar-en-argentina-mas-censura
 ---
 

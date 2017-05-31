@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - filmus
 - leon-gieco
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353-140x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353-140x150.jpg
 wppost_name: leon-gieco-hombres-de-hierro-es-un-afano-total
 ---
 
@@ -29,7 +29,7 @@ Los músicos, en su gran mayoría no viven de la venta de sus discos, viven de s
 
 En otra parte de la entrevista León comenta que empezó copiando, que compró discos de Bob Dylan y se inspiró en él para hacer canciones. Siempre es así, todos aprendemos copiando, luego iremos por nuestro estilo. Pero, lo importante, es tener acceso a quien copiar. Hoy se hace muchísima música, porque todo es más accesible!
 <p style="text-align: center;"><strong><a href="http://lomejordelosmedios.blogspot.com/2011/12/leon-gieco-con-gillespi-en-falso.html" target="_blank">En <em>Lo Mejor de los Medios</em></a></strong>  encuentran todo el programa para descargar</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii" target="_blank">No sería extraño que dentro de algunos años apareciera algún diputado con un proyecto de ley de una jubilación para los músicos que no tengan otra forma de vivir....</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii" target="_blank">No sería extraño que dentro de algunos años apareciera algún diputado con un proyecto de ley de una jubilación para los músicos que no tengan otra forma de vivir....</a></strong></p>
 
 
 <hr />

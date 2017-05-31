@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - fracking
 - video
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia-150x150.png
 wppost_name: como-calificarian-este-video-en-youtube
 ---
 
@@ -23,22 +23,22 @@ wppost_name: como-calificarian-este-video-en-youtube
 
 Si se fijan <strong><a href="http://youtu.be/xZ9U3-EQWAo" target="_blank">en la base del video a la derecha</a> </strong>verán una banderita negra para calificar el video,presionando ahí les pide que se registren o que accedan con su cuenta, si usan Gmail es esa cuenta:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubebanderita.png"><img class="size-full wp-image-8450" alt="La &quot;banderita&quot; para calificar el video" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubebanderita.png" width="636" height="161" /></a> La "banderita" para calificar el video
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubebanderita.png"><img class="size-full wp-image-8450" alt="La &quot;banderita&quot; para calificar el video" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubebanderita.png" width="636" height="161" /></a> La "banderita" para calificar el video
 
 <p style="text-align: center;"><strong>Las opciones que nos otorga Youtube para calificar un video son las que aparecen a continuación:</strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png"><img class="size-full wp-image-8449" alt="Opciones para calificar un determinado video en Youtube" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png" width="650" height="493" /></a> Opciones para calificar un determinado video en Youtube
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png"><img class="size-full wp-image-8449" alt="Opciones para calificar un determinado video en Youtube" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia.png" width="650" height="493" /></a> Opciones para calificar un determinado video en Youtube
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia1.png"><img class="size-full wp-image-8456" alt="Las opciones que aparecen cuando elegimos Actividades peligrosas" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia1.png" width="642" height="517" /></a> Las opciones que aparecen cuando elegimos Actividades peligrosas
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia1.png"><img class="size-full wp-image-8456" alt="Las opciones que aparecen cuando elegimos Actividades peligrosas" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia1.png" width="642" height="517" /></a> Las opciones que aparecen cuando elegimos Actividades peligrosas
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia2.png"><img class="size-full wp-image-8458" alt="Como queda la denuncia después" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia2.png" width="621" height="435" /></a> Como queda la denuncia después
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia2.png"><img class="size-full wp-image-8458" alt="Como queda la denuncia después" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/youtubedenuncia2.png" width="621" height="435" /></a> Como queda la denuncia después
 
 
 <hr />
@@ -54,7 +54,7 @@ Si se fijan <strong><a href="http://youtu.be/xZ9U3-EQWAo" target="_blank">en la 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/8371/nueva-york-artistas-contra-la-fractura-hidraulica-para-terminar-los-subtitulos" target="_blank">Los artistas de Nueva York, Yoko Ono y Sean Lennon entre ellos le piden al gobernador del Estado que prohíba el fracking en su estado.</a>
+<a href="https://partidopirata.com.ar/8371/nueva-york-artistas-contra-la-fractura-hidraulica-para-terminar-los-subtitulos" target="_blank">Los artistas de Nueva York, Yoko Ono y Sean Lennon entre ellos le piden al gobernador del Estado que prohíba el fracking en su estado.</a>
 
 <strong>Luego de asistir a <i>Gasland</i>, ¿cómo calificaría el discurso de Cristina Fernández de Kirchner?</strong>
 

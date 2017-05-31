@@ -7,8 +7,8 @@ tags:
 - partido-pirata-internacional
 - partido-pirata-sueco
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/partidopiratainternacional.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/partidopiratainternacional.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/partidopiratainternacional.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/partidopiratainternacional.jpg
 wppost_name: conferencia-internacional-de-los-partidos-piratas-%c2%bfpor-que-estan-aqui-rick-falkvinge
 ---
 

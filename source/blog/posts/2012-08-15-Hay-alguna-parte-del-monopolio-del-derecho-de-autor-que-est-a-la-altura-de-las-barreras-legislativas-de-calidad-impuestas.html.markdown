@@ -9,8 +9,8 @@ tags:
 - monopolio
 - monopolio-del-copyrigth
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/rick-falkvinge-div-150x150.png
 wppost_name: hay-alguna-parte-del-monopolio-del-derecho-de-autor-que-se-reune-barreras-legislativas-de-calidad
 ---
 

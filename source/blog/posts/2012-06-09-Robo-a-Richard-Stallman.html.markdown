@@ -6,8 +6,8 @@ tags:
 - facultad-de-ciencias-economicas
 - richard-stallman
 - robo-a-stallman
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/stallman-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/stallman-150x150.png
 wppost_name: robo-a-richard-stallman
 ---
 

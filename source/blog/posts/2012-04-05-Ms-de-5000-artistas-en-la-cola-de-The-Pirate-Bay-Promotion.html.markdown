@@ -8,8 +8,8 @@ tags:
 - the-pirate-bay
 - the-promo-bay
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/tpbpromo-150x150.jpg
 wppost_name: mas-de-5000-artistas-en-la-cola-de-the-pirate-bay-promotion
 ---
 
@@ -20,7 +20,7 @@ Para muchos artistas independientes la falta de difusión es un problema más gr
 
 A principios de este año, el sitio lanzó una <a href="http://thepiratebay.se/promo"> plataforma promocional</a> para cineastas, músicos, escritores y todo tipo de artistas por igual. Para ayudarles a llegar a una audiencia de decenas de millones de personas, The Pirate Bay comenzó a ofrecerle a los artistas un spot publicitario de primera en su página principal, reemplazando al icónico logo.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/Barnett.jpg"><img class="aligncenter size-full wp-image-3812" title="George Barnett, one of the artist who’s been featured worldwide" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/Barnett.jpg" alt="" width="525" height="431" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/Barnett.jpg"><img class="aligncenter size-full wp-image-3812" title="George Barnett, one of the artist who’s been featured worldwide" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/Barnett.jpg" alt="" width="525" height="431" /></a>
 
 Mientras el equipo de The Pirate Bay esperaba una respuesta decente, fueron gratamente sorprendidos por la avalancha de peticiones que han llegado desde entonces. El equipo de The Pirate Bay informó a TorrentFreak que hasta ahora han recibido<strong> más de 5000 solicitudes</strong>. Casi el 90% proviene de músicos y el 95% de ellos son hombres.
 
@@ -52,5 +52,5 @@ Los artistas que estén interesados ​​en conseguir ser destacados son bienve
 <a href="https://torrentfreak.com/5000-artists-line-up-for-a-pirate-bay-promotion-120405/" target="_blank">Fuente TorrentFreak.</a>
 
 <hr />
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/3008/promobay-la-plataforma-de-promocion-de-the-pirate-bay">El 30 de enero habíamos anunciado el lanzamiento de Promobay</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/3008/promobay-la-plataforma-de-promocion-de-the-pirate-bay">El 30 de enero habíamos anunciado el lanzamiento de Promobay</a></strong></p>
 <p style="text-align: center;"><strong>Si algún grupo argentino consigue estar en la tapa de Promobay avísenos!!!</strong></p>

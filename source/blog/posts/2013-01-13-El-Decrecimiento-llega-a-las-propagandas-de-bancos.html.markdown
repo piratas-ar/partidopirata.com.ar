@@ -10,8 +10,8 @@ tags:
 - hsbc
 - raul-taibo
 - repensar
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/consumo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/consumo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/consumo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/consumo-150x150.jpg
 wppost_name: el-decrecimiento-llega-a-las-propagandas-de-bancos
 ---
 
@@ -35,5 +35,5 @@ Esta propaganda está basada en una vieja historia y, casualmente o no tanto, se
 <p style="text-align: center;"><strong>Si no aparece el link, presionen en <i>descargar</i> <a href="http://www.ivoox.com/decrecimiento-como-alternativa-audios-mp3_rf_1702269_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart2.png"><img class="size-full wp-image-8224" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart2.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/chart2.png"><img class="size-full wp-image-8224" alt="Código QR de la dirección del archivo mp3" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/chart2.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 

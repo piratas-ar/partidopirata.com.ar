@@ -10,8 +10,8 @@ tags:
 - influencia
 - managing-ip
 - ranking
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2-150x150.jpg
 wppost_name: el-lider-del-partido-pirata-aleman-en-sexto-lugar-como-persona-mas-influyente-en-propiedad-intelectual
 ---
 
@@ -38,7 +38,7 @@ Colocaron:
 
 <strong><a href="http://www.managingip.com/Article/3062449/The-50-most-influential-people-in-IP.html" target="_blank">Fuente Managing IP</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg"><img class="size-full wp-image-5376" title="Schloemer_Bernd2" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg" alt="" width="620" height="450" /></a> Bernd Schlömer<br />Presidente del Partido Pirata Alemán
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg"><img class="size-full wp-image-5376" title="Schloemer_Bernd2" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/Schloemer_Bernd2.jpg" alt="" width="620" height="450" /></a> Bernd Schlömer<br />Presidente del Partido Pirata Alemán
 
 
 <hr />

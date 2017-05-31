@@ -17,8 +17,8 @@ tags:
 - publicas
 - simposio
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/simposio_acervos_digitales.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/simposio_acervos_digitales.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/simposio_acervos_digitales.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/simposio_acervos_digitales.jpg
 wppost_name: videos-del-simposio-internacional-de-politicas-publicas-para-acervos-digitales
 ---
 

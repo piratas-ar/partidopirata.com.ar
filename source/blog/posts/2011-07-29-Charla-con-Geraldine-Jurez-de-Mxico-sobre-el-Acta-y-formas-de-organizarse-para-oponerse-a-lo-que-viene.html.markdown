@@ -11,12 +11,12 @@ tags:
 - partido-pirata-mexicano
 - podcasts
 - radio-2
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/geraldine.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/geraldine.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/geraldine.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/geraldine.jpeg
 wppost_name: charla-con-geraldine-juarez-de-mexico-sobre-el-acta-y-formas-de-organizarse-para-oponerse-a-lo-que-viene
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/07/geraldine.jpeg"><img class="aligncenter size-full wp-image-1519" title="geraldine" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/geraldine.jpeg" alt="" width="200" height="200" />Geraldine Juárez</a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/07/geraldine.jpeg"><img class="aligncenter size-full wp-image-1519" title="geraldine" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/geraldine.jpeg" alt="" width="200" height="200" />Geraldine Juárez</a></p>
 
 
 <hr />
@@ -60,4 +60,4 @@ Para saber un poco más sobre la historia del ACTA y México que fue el único p
 
 <strong>Radio#partidopirata.com.ar</strong>
 <strong>(reemplacen # por @)</strong>
-<strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los otros podcasts y charlas que hicimos</a></strong>
+<strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los otros podcasts y charlas que hicimos</a></strong>

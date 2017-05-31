@@ -9,8 +9,8 @@ tags:
 - paco
 - policia
 - represion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/kiki-001.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/kiki-001-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/kiki-001.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/kiki-001-150x150.jpg
 wppost_name: yo-soy-kiki-lezcano-y-nadie-me-va-a-callar
 ---
 
@@ -18,7 +18,7 @@ Fuente <a href="http://www.nosdigital.com.ar/2012/08/yo-soy-kiki-lezcano-y-nadie
 
 <strong>Fue un NN. Fue un número de cadáver. Fue un consumidor de paco. Fue uno al que le costó salir. Fue alguien a quien la policía le pidió que robara. Fue hijo de una madre a la que no le quisieron decir que ya había muerto. Fue un ser humano por el que nadie hizo justicia. Fue amigo de Ezequiel Blanco, al que mataron. Fue un pibe al que asesinaron. Hoy podría contar esto.</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/kiki-001.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/08/kiki-001-300x286.jpg" alt="" title="kiki-001" width="300" height="286" class="alignright size-medium wp-image-6137" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/kiki-001.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/08/kiki-001-300x286.jpg" alt="" title="kiki-001" width="300" height="286" class="alignright size-medium wp-image-6137" /></a>
 
 Dicen que morí con mi amigo Ezequiel Blanco en un enfrentamiento. Ni que me mataron, ni que el enfrentamiento tenía balas de un solo lado. Dicen eso y les creen. Les creen gracias a que ya me callaron. Y quisieron callar a mi vieja. Bah, a mi vieja para callarla ni le dijeron que yo estaba muerto. Y lo sabía la yuta y lo sabía la morgue judicial y lo sabían todos esos hijos de puta que hicieron todo para que yo robara para la cana. Y no hicieron todo lo que tenían que hacer para que no pudiera salir de la droga, para que no me cagaran a palos sin problemas si me retobaba, para que mis amigos tuvieran miedo…
 

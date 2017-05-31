@@ -12,8 +12,8 @@ tags:
 - proxy
 - the-pirate-bay
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
 wppost_name: se-calienta-la-guerra-de-los-proxys-contra-the-pirate-bay
 ---
 

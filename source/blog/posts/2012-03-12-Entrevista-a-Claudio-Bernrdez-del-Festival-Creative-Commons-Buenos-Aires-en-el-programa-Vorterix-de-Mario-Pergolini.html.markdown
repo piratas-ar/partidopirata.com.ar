@@ -10,12 +10,12 @@ tags:
 - festival-creative-commons-buenos-aires
 - mario-pergolini
 - radio-2
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
 wppost_name: entrevista-a-claudio-bernardez-del-festival-creative-commons-buenos-aires-en-el-programa-vorterix-de-mario-pergolini
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg"><img class=" wp-image-3335 aligncenter" title="Festival Creative Commons" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg" alt="" width="632" height="443" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg"><img class=" wp-image-3335 aligncenter" title="Festival Creative Commons" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg" alt="" width="632" height="443" /></a>
 
 <hr />
 
@@ -26,12 +26,12 @@ Presione en <em>play</em> para escuchar la entrevista sin descargar o :</center>
 <strong> <a href="http://www.ccbue.com.ar" target="_blank">Más información sobre el Festival en su site.</a></strong></center><center>
 <strong> <a href="http://lomejordelosmedios.blogspot.com/2012/03/mario-pergolini-en-vorterix-rock-932012.html" target="_blank">Si quieren descargar todo el programa Vorterix del 9 de Marzo.</a></strong></center>
 <p style="text-align: center;"><strong><a href="http://lomejordelosmedios.blogspot.com/" target="_blank">Gracias a "Lo Mejor de los Medios" por compartir este audio!</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3481/entrevista-a-claudio-bernardez-del-festival-creative-commons-buenos-aires-en-el-fin-del-finde">El reportaje a Claudio Bernárdez en El Fin del Finde</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3481/entrevista-a-claudio-bernardez-del-festival-creative-commons-buenos-aires-en-el-fin-del-finde">El reportaje a Claudio Bernárdez en El Fin del Finde</a></strong></p>
 <p style="text-align: center;"><strong><a href="http://www.vorterix.com/" target="_blank">Vorterix el site de la radio de Pergolini</a></strong></p>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3433/podcast-charlando-con-claudio-bernardez-del-festival-buenos-aires-creative-commons">Si quieren escuchar la charla que tuvimos con Claudio Bernárdez</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3433/podcast-charlando-con-claudio-bernardez-del-festival-buenos-aires-creative-commons">Si quieren escuchar la charla que tuvimos con Claudio Bernárdez</a></strong></p>
 
 
 <hr />

@@ -9,8 +9,8 @@ tags:
 - hiper-consumo
 - rachel-botsman
 - tendencis
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/ted_logo.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/ted_logo-150x53.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/ted_logo.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/ted_logo-150x53.gif
 wppost_name: rachel-botsman-en-defensa-del-consumo-colaborativo
 ---
 

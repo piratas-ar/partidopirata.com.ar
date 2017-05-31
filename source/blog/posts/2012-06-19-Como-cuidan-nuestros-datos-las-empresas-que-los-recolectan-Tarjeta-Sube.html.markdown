@@ -8,15 +8,15 @@ tags:
 - manejo-de-las-bases-de-datos
 - privacidad
 - sube
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/%C3%8Dndice-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/%C3%8Dndice-150x150.jpeg
 wppost_name: como-cuidan-nuestros-datos-las-empresas-que-los-recolectan-tarjeta-sube
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg"><img class="size-full wp-image-4844" title="Tarjeta Sube" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg" alt="" width="275" height="183" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg"><img class="size-full wp-image-4844" title="Tarjeta Sube" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg" alt="" width="275" height="183" /></a>
 
 
-<a href="http://partidopirata.com.ar/4816/el-fetiche-tecnologico-ataca-de-nuevo-ahora-con-400-x-pasaporte-todos-vigilados">Asi como el pasaporte tiene información nuestra y es altamente hackeable.</a>
+<a href="https://partidopirata.com.ar/4816/el-fetiche-tecnologico-ataca-de-nuevo-ahora-con-400-x-pasaporte-todos-vigilados">Asi como el pasaporte tiene información nuestra y es altamente hackeable.</a>
 
 Hace unos meses nos preguntábamos por la tarjeta Sube.
 
@@ -49,8 +49,8 @@ EL CONSEJO DIRECTIVO DE LA FACULTAD DE CIENCIAS EXACTAS Y NATURALES RESUELVE:
 
 ARTÍCULO 1o: Solicitar a la Secretaría de Transporte de la Nación modifique la implementación actual del sistema SUBE para que se ajuste a la Ley de Protección de Datos personales No 25.326.
 <p style="text-align: center;">ARTÍCULO 2o: Comuníquese a la Secretaría de Transporte de la Nación, a quienes corresponda y cumplido archívese.
-<strong><a href="http://partidopirata.com.ar/3674/resolucion-de-la-facultad-de-ciencias-exactas-y-naturales-de-la-universidad-de-buenos-aires-sobre-las-tarjetas-sube">El post donde colocábamos la resolución de la Facultad de Ciencias Exactas y Naturales.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2976/anonymous-publica-base-de-datos-de-sube">Anonymus publicó la base de datos de la Sube</a></strong></p>
+<strong><a href="https://partidopirata.com.ar/3674/resolucion-de-la-facultad-de-ciencias-exactas-y-naturales-de-la-universidad-de-buenos-aires-sobre-las-tarjetas-sube">El post donde colocábamos la resolución de la Facultad de Ciencias Exactas y Naturales.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2976/anonymous-publica-base-de-datos-de-sube">Anonymus publicó la base de datos de la Sube</a></strong></p>
 
 
 <hr />

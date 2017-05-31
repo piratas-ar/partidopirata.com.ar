@@ -9,8 +9,8 @@ tags:
 - divulgacion
 - sociedad-de-control
 - supervisar
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
 wppost_name: brasil-ministerio-de-cultura-confirma-organismo-para-supervisar-el-cobro-de-derechos-de-autor-y-gestion-de-obras-publicas
 ---
 

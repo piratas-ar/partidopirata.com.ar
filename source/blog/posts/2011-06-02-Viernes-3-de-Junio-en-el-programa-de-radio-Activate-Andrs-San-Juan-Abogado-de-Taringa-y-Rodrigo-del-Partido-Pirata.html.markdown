@@ -9,8 +9,8 @@ tags:
 - radio
 - rodrigo
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_-300x253.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_-300x253.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_-300x253.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_-300x253.jpg
 wppost_name: viernes-3-de-junio-en-el-programa-de-radio-activate-andres-san-juan-abogado-de-taringa-y-rodrigo-del-partido-pirata
 ---
 

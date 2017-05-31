@@ -8,12 +8,12 @@ tags:
 - jujenos
 - jujuy
 - represion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios-150x150.jpg
 wppost_name: estan-reprimiendo-en-el-acampe-de-la-9-de-julio
 ---
 
-<img class="aligncenter" title="15 de Octubre" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/banner2-640x163.png" alt="" width="640" height="163" />Esto están difundiendo por Facebook, "¡Democracia Real YA! Buenos Aires" y "Efeme De la Calle" entre otros:
+<img class="aligncenter" title="15 de Octubre" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/banner2-640x163.png" alt="" width="640" height="163" />Esto están difundiendo por Facebook, "¡Democracia Real YA! Buenos Aires" y "Efeme De la Calle" entre otros:
 
 "Estamos en el acampe en la 9 de julio con las familias jujeñas y los representantes de las familias apoyando su justo reclamo pero son pocos y la gendarmería está a punto de reprimir, rodeándonos, se los ve muy agresivos. Por favor vengan a apoyar y a estar presentes. Es grave!."
 

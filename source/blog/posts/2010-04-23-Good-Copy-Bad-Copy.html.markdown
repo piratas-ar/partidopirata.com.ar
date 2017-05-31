@@ -17,8 +17,8 @@ tags:
 - remix
 - sampleo
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/gcbc_plakat_trim_sm.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/gcbc_plakat_trim_sm.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/gcbc_plakat_trim_sm.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/gcbc_plakat_trim_sm.jpg
 wppost_name: good-copy-bad-copy
 ---
 

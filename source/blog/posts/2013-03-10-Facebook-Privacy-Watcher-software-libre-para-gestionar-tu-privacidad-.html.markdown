@@ -5,8 +5,8 @@ tags:
 - material-para-difusion
 - facebook-nivel-de-privacidad-en-facebook
 - facebook-privacy-watcher
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/s1.reutersmedia.net_.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/s1.reutersmedia.net_-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/s1.reutersmedia.net_.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/s1.reutersmedia.net_-150x150.jpg
 wppost_name: facebook-privacy-watcher-software-libre-para-gestionar-tu-privacidad
 ---
 

@@ -10,12 +10,12 @@ tags:
 - material-para-difusion
 - leerle-a-los-ninos
 - sabam
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350-150x150.jpg
 wppost_name: sociedad-de-gestion-de-derechos-de-autor-en-belgica-quiere-cobrarle-a-los-que-les-leen-libros-a-ninos
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg"><img class="size-full wp-image-3501 aligncenter" title="Niños Leyendo" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg" alt="" width="520" height="346" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg"><img class="size-full wp-image-3501 aligncenter" title="Niños Leyendo" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg" alt="" width="520" height="346" /></a>
 
 <strong><a href="http://thenextweb.com/media/2012/03/13/belgian-rightsholders-group-wants-to-charge-libraries-for-reading-books-to-kids/" target="_blank">Fuente The Next Web</a></strong>
 
@@ -59,8 +59,8 @@ Tal vez hay algo más que podemos hacer. Le he pedido a la comunidad de Twitter 
 
 Parece que todas las sociedades de gestión tienen un manejo bastante irregular:
 <ul>
-	<li><a href="http://partidopirata.com.ar/2288/un-documental-para-recomendarle-a-jorge-coscia-y-su-invitado-teddy-bautista">La trístemente famosa SGAE de Teddy Bautista, el invitado de Jorge Coscia nuestro Secretrio de Cultura</a></li>
-	<li><a href="http://partidopirata.com.ar/3472/el-ecad-sadaic-brasileno-retrocede-en-el-cobro-a-blogs">El ECAD brasileño y la Comisión Parlamentaria de Investigación que está viendo sus cuentas</a></li>
+	<li><a href="https://partidopirata.com.ar/2288/un-documental-para-recomendarle-a-jorge-coscia-y-su-invitado-teddy-bautista">La trístemente famosa SGAE de Teddy Bautista, el invitado de Jorge Coscia nuestro Secretrio de Cultura</a></li>
+	<li><a href="https://partidopirata.com.ar/3472/el-ecad-sadaic-brasileno-retrocede-en-el-cobro-a-blogs">El ECAD brasileño y la Comisión Parlamentaria de Investigación que está viendo sus cuentas</a></li>
 	<li><a href="http://www.elintransigente.com/notas/2012/2/24/oscuro-manejo-institucional-diezmando-derechos-compositores-nacionales-123162.asp">En la Argentina, para no ser menos, también SADAIC tiene toda su historia turbia atrás</a></li>
 	<li><a href="http://noalprestamodepago.org/" target="_blank">No nos olvidemos que en España las bibliotecas pagan <em>Derecho de Autor</em> por los libros que prestan...</a></li>
 </ul>

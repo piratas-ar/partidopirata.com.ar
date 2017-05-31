@@ -9,8 +9,8 @@ tags:
 - musicos-brasilenos
 - tatiana-de-mello-dias
 - tatiana-de-melo-dias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons-150x129.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons-150x129.jpg
 wppost_name: brasil-musicos-a-favor-de-compartir-con-miedo-del-compromiso
 ---
 

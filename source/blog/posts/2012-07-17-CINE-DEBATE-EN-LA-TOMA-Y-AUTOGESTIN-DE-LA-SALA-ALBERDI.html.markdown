@@ -9,8 +9,8 @@ tags:
 - los-edukadores
 - sala-alberdi
 - toma
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000-150x150.jpg
 wppost_name: cine-debate-en-la-toma-y-autogestion-de-la-sala-alberdi
 ---
 
@@ -31,7 +31,7 @@ ORGANIZATIVAS DE LA AUTOGESTIÓN TIENEN ESE CARÁCTER.</li>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg"><img class="aligncenter  wp-image-5327" title="cine debate_00000" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg" alt="" width="773" height="464" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg"><img class="aligncenter  wp-image-5327" title="cine debate_00000" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg" alt="" width="773" height="464" /></a>
 
 <hr />
 

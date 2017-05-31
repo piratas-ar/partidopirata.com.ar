@@ -26,4 +26,4 @@ Teddy Bautista fue <strong>invitado estrella</strong> en el seminario de derecho
 <p style="text-align: center;">Ojalá que Jorge Coscia pueda asistir al programa de TV antes de implantar el Canon Digital en la Argentina....(lo dudo mucho)
 <strong><a href="http://www.elpais.com/articulo/tecnologia/sentencia/canon/digital/definitiva/elpeputec/20111114elpeputec_4/Tes" target="_blank">Finalmente en España se derogó el Canon Digital</a>,</strong> en la Argentina lo quieren aprobar...</p>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873 aligncenter" title="225px-Coscia" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="size-full wp-image-873 aligncenter" title="225px-Coscia" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="Jorge Coscia - Secretario de Cultura de la Argentina" width="225" height="149" /></a>

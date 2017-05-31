@@ -11,8 +11,8 @@ tags:
 - no-tengo-nada-que-ocultar
 - pinochet
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: no-tengo-nada-que-ocultar-bis-para-terminar-la-traduccion
 ---
 
@@ -44,6 +44,6 @@ wppost_name: no-tengo-nada-que-ocultar-bis-para-terminar-la-traduccion
 <p style="text-align: center;">Tenemos la <strong>traducción</strong> de un paper sobre el tema de la privacidad a medio terminar.</p>
 <p style="text-align: center;"><strong>“No tengo nada que ocultar ‘y otras confusiones sobre la Privacidad</strong></p>
 <p style="text-align: center;">Si alguien quiere concluirlo sería bueno para que pensáramos sobre privacidad, invasión de ella por parte del Estado o empresas privadas, cuidado de nuestra privacidad y algo más.</p>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/4329/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-indice">Acá encuentran lo que se fue traduciendo del paper <em>"No tengo nada que ocultar"</em></a></strong>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/4329/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-indice">Acá encuentran lo que se fue traduciendo del paper <em>"No tengo nada que ocultar"</em></a></strong>
 <strong> </strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/contacto">Si quieren escribirnos por cualquier duda</a> </strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/contacto">Si quieren escribirnos por cualquier duda</a> </strong></p>

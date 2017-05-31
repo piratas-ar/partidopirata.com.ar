@@ -12,8 +12,8 @@ tags:
 - quebrada-de-humahuaca
 - rodolfo-kusch
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/Póster-A.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/P%C3%B3ster-A-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/Póster-A.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/P%C3%B3ster-A-150x150.jpg
 wppost_name: hombre-bebiendo-luz-rodolfo-kusch-en-procura-de-un-pensamiento-continental-autonomo
 ---
 
@@ -23,12 +23,12 @@ wppost_name: hombre-bebiendo-luz-rodolfo-kusch-en-procura-de-un-pensamiento-cont
 <p style="text-align: center;">En Vimeo está la opción para descargar los archivos, en la base donde está el video, a la derecha verán la opción <strong>Descargar:</strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/basevimeo.png"><img class=" wp-image-7342" title="basevimeo" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/basevimeo.png" alt="" width="475" height="139" /></a> En la parte inferior donde aparece el video verán la opción para descargarlo:
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/basevimeo.png"><img class=" wp-image-7342" title="basevimeo" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/basevimeo.png" alt="" width="475" height="139" /></a> En la parte inferior donde aparece el video verán la opción para descargarlo:
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/vimeo2.png"><img class=" wp-image-7341" title="vimeo2" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/vimeo2.png" alt="" width="497" height="215" /></a> En la base del video verán la opción para realizar descargas, pueden elegirlo con mayor definición (pero casi 1 giga) o más liviano.<br /><br />
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/vimeo2.png"><img class=" wp-image-7341" title="vimeo2" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/vimeo2.png" alt="" width="497" height="215" /></a> En la base del video verán la opción para realizar descargas, pueden elegirlo con mayor definición (pero casi 1 giga) o más liviano.<br /><br />
 
 <p style="text-align: center;"><strong><strong></strong>También pueden descargarlo si usan Firefox con el complemento <a href="https://addons.mozilla.org/es/firefox/addon/video-downloadhelper/" target="_blank">Download Helper</a>
 </strong></p>
@@ -64,7 +64,7 @@ wppost_name: hombre-bebiendo-luz-rodolfo-kusch-en-procura-de-un-pensamiento-cont
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Póster-A.jpg"><img class="size-full wp-image-7149 aligncenter" title="Póster A" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Póster-A.jpg" alt="" width="533" height="758" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/Póster-A.jpg"><img class="size-full wp-image-7149 aligncenter" title="Póster A" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/Póster-A.jpg" alt="" width="533" height="758" /></a>
 
 <hr />
 <p align="center"><strong> Rodolfo Kusch en procura de un pensamiento continental autónomo </strong></p>

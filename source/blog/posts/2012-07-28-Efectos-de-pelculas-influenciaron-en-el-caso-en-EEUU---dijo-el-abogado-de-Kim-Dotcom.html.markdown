@@ -9,12 +9,12 @@ tags:
 - kim-dotcom
 - megaupload
 - new-zeland-herald
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147-150x147.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147-150x147.jpg
 wppost_name: efectos-de-peliculas-influenciaron-en-el-caso-en-ee-uu-abogado-de-kim-dotcom
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg"><img class="size-full wp-image-5637" title="kim-dotcom_220x147" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg" alt="" width="220" height="147" /></a> Kim Dotcom
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg"><img class="size-full wp-image-5637" title="kim-dotcom_220x147" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/kim-dotcom_220x147.jpg" alt="" width="220" height="147" /></a> Kim Dotcom
 
 
 <strong><a href="http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=10822879" target="_blank">Fuente New Zeland Herald.</a></strong>

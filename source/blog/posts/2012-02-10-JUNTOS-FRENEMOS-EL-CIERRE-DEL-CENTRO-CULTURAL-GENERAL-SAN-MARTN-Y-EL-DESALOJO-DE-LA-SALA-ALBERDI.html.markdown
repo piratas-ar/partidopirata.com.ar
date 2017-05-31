@@ -11,12 +11,12 @@ tags:
 - mauricio-macri
 - politicas-neoliberales
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/Flyer-Viernes-Sabado-Actividades.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/Flyer-Viernes-Sabado-Actividades-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/Flyer-Viernes-Sabado-Actividades.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/Flyer-Viernes-Sabado-Actividades-150x150.jpg
 wppost_name: juntos-frenemos-el-cierre-del-centro-cultural-general-san-martin-y-el-desalojo-de-la-sala-alberdi
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/Flyer-Viernes-Sabado-Actividades.jpg"><img class="aligncenter size-large wp-image-3139" title="Flyer Viernes - Sabado Actividades" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/Flyer-Viernes-Sabado-Actividades-1024x406.jpg" alt="Sala Alberdi" width="620" height="245" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/Flyer-Viernes-Sabado-Actividades.jpg"><img class="aligncenter size-large wp-image-3139" title="Flyer Viernes - Sabado Actividades" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/Flyer-Viernes-Sabado-Actividades-1024x406.jpg" alt="Sala Alberdi" width="620" height="245" /></a>
 <pre>Con la toma de la* Sala Alberdi*, *situada en el 6to piso del Centro Cultural General San Martin  (Sarmiento 1551)*, hace casi un año y medio
 que venimos resistiendo el cierre de un teatro público. Funcionamos de manera horizontal, con comisiones de trabajo y decidiendo a partir del
 debate en conjunto en Asamblea. Trabajando a partir de la autogestión, garantizamos talleres gratuitos y a la gorra (de cine, teatro, literatura,

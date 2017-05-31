@@ -7,12 +7,12 @@ tags:
 - exportacion
 - importacion
 - moreno
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/Moreno-censura-peliculas-extranJeras.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/Moreno-censura-peliculas-extranJeras-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/Moreno-censura-peliculas-extranJeras.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/Moreno-censura-peliculas-extranJeras-150x150.jpg
 wppost_name: las-andanza-de-moreno-y-las-peliculas-extranjeras
 ---
 
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/Moreno-censura-peliculas-extranJeras.jpg"><img class="aligncenter size-full wp-image-2396" title="Moreno-censura-peliculas-extranJeras" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/Moreno-censura-peliculas-extranJeras.jpg" alt="Las Andanzas de Moreno" width="383" height="279" /></a><a href="http://blogsdelagente.com/paricioykorina/2011/11/24/moreno-dijo-basta-de-peliculas-extranjeras-a-no-alarmarse-aqui-titulos-alternativos-en-dvd/" target="_blank">Imagen de Patricio y Korina.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/Moreno-censura-peliculas-extranJeras.jpg"><img class="aligncenter size-full wp-image-2396" title="Moreno-censura-peliculas-extranJeras" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/Moreno-censura-peliculas-extranJeras.jpg" alt="Las Andanzas de Moreno" width="383" height="279" /></a><a href="http://blogsdelagente.com/paricioykorina/2011/11/24/moreno-dijo-basta-de-peliculas-extranjeras-a-no-alarmarse-aqui-titulos-alternativos-en-dvd/" target="_blank">Imagen de Patricio y Korina.</a></strong></p>
 
 
 <hr />
@@ -25,7 +25,7 @@ Según lo que informa<strong><a href="http://www.ambito.com/diario/noticia.asp?i
 
 &nbsp;<hr>
 
-<a href="http://partidopirata.com.ar/2364/para-que-guillermo-moreno-evalue-%C2%BFcuanto-paga-por-patentes-y-royalties-la-argentina">¿Cuánto paga la Argentina en concepto de royalties, patentes y derecho de autor?</a>
+<a href="https://partidopirata.com.ar/2364/para-que-guillermo-moreno-evalue-%C2%BFcuanto-paga-por-patentes-y-royalties-la-argentina">¿Cuánto paga la Argentina en concepto de royalties, patentes y derecho de autor?</a>
 
 En algún momento tendremos que saber cuánto es lo que se paga por todos esos conceptos.
 Tal vez Moreno debiera pensar en reformar la ley de Derecho de Autor...

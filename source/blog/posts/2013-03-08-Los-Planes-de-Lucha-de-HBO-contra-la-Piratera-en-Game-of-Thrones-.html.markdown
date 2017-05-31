@@ -9,16 +9,16 @@ tags:
 - mas-pirateada
 - pirateria
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11-150x150.jpg
 wppost_name: los-planes-de-lucha-de-hbo-contra-la-pirateria-en-game-of-thrones
 ---
 
 <strong><a href="http://torrentfreak.com/hbo-plans-to-combat-game-of-thrones-piracy-130305/" target="_blank">Fuente Torrentfreak</a></strong>
 
-La semana pasada el<a href="http://partidopirata.com.ar/8585/game-of-thrones-pirateria-buena-para-el-director-no-para-hbo"> director de  Game of Thrones[Juego de Tronos] David Petrarca,</a> dijo que la piratería no le está haciendo daño a su programa, y ​​que en realidad puede ayudar a construir un público. Varios de los actores de la serie, por otra parte, tienen una visión más negativa hacia la piratería y la equiparan a robar. A HBO no le hace gracia tampoco y ella  tiene un plan para combatir la piratería en 2013. ¿Será suficiente?
+La semana pasada el<a href="https://partidopirata.com.ar/8585/game-of-thrones-pirateria-buena-para-el-director-no-para-hbo"> director de  Game of Thrones[Juego de Tronos] David Petrarca,</a> dijo que la piratería no le está haciendo daño a su programa, y ​​que en realidad puede ayudar a construir un público. Varios de los actores de la serie, por otra parte, tienen una visión más negativa hacia la piratería y la equiparan a robar. A HBO no le hace gracia tampoco y ella  tiene un plan para combatir la piratería en 2013. ¿Será suficiente?
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg"><img class="alignright size-full wp-image-8586" alt="gameofthrones13_11" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg" width="373" height="248" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg"><img class="alignright size-full wp-image-8586" alt="gameofthrones13_11" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg" width="373" height="248" /></a>
 
 Con 4,3 millones de descargas por episodio, Game of Thrones fue la serie de TV <a href="http://torrentfreak.com/game-of-thrones-most-pirated-tv-show-of-2012-121223/">más pirateada</a> vía Internet el año pasado.
 

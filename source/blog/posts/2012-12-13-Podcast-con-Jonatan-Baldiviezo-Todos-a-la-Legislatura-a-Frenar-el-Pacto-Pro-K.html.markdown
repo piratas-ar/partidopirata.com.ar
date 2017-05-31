@@ -12,12 +12,12 @@ tags:
 - legislatura
 - pacto-pro-k
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/chart2-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/chart2-115x115.png
 wppost_name: podcast-con-jonatan-baldiviezo-todos-a-la-legislatura-a-frenar-el-pacto-pro-k
 ---
 
-Charla con<strong>Jonatan Baldiviezo</strong> del Colectivo x la Igualdad y de Es nuestra la ciudad sobre las<strong><a href="http://partidopirata.com.ar/7778/comunicado-jornada-de-lucha-en-defensa-de-lo-publico-dia-1312" target="_blank"> Jornadas que se harán hoy (13/12/2012) para frenar el Pacto Pro K.</a></strong>
+Charla con<strong>Jonatan Baldiviezo</strong> del Colectivo x la Igualdad y de Es nuestra la ciudad sobre las<strong><a href="https://partidopirata.com.ar/7778/comunicado-jornada-de-lucha-en-defensa-de-lo-publico-dia-1312" target="_blank"> Jornadas que se harán hoy (13/12/2012) para frenar el Pacto Pro K.</a></strong>
 Todos a la legislatura para frenar esta entrega de la Ciudad a la empresa IRSA!
 
 <hr />
@@ -31,16 +31,16 @@ Todos a la legislatura para frenar esta entrega de la Ciudad a la empresa IRSA!
 <p style="text-align: center;"><strong>Reemplacen # por @</strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png"><img class="size-full wp-image-7808" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png" alt="" width="150" height="150" /></a> Código QR de la Dirección del Archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png"><img class="size-full wp-image-7808" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart2.png" alt="" width="150" height="150" /></a> Código QR de la Dirección del Archivo mp3
 
 
 <hr />
 
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/7778/comunicado-jornada-de-lucha-en-defensa-de-lo-publico-dia-1312" target="_blank">Más información sobre las Jornadas en Defensa de lo Público enfrente a la legislatura de la ciudad</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/7778/comunicado-jornada-de-lucha-en-defensa-de-lo-publico-dia-1312" target="_blank">Más información sobre las Jornadas en Defensa de lo Público enfrente a la legislatura de la ciudad</a></strong></li>
 	<li><strong><a href="http://www.anred.org/" target="_blank">La Agencia ANRED para saber qué está pasando</a></strong></li>
 	<li><strong><a href="https://twitter.com/partidopirataar" target="_blank">Nuestro Twitter</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Los otros Podcasts que hicimos</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Los otros Podcasts que hicimos</a></strong></li>
 </ul>
 
 <hr />

@@ -11,8 +11,8 @@ tags:
 - monsanto
 - patentes
 - raul-montenegro
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: sobre-la-instalacion-de-monsanto-y-malvinas-argentinas-y-el-peligro-de-la-ley-de-semillas
 ---
 
@@ -30,7 +30,7 @@ Audio de la entrevista a Raúl Montenegro
 <strong> Si el link anterior no funciona presione en <em>descargar</em> <a href="http://www.ivoox.com/entrevista-a-raul-montenegro-sobre-monsanto-13-09-2012-audios-mp3_rf_1575350_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart6.png"><img class="size-full wp-image-7401" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart6.png"><img class="size-full wp-image-7401" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />

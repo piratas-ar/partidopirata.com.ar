@@ -10,8 +10,8 @@ tags:
 - terror
 - terrorista
 - tor
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/fbi_seal.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/fbi_seal-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/fbi_seal.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/fbi_seal-150x150.jpg
 wppost_name: le-gusta-la-privacidad-online-usted-puede-ser-un-terrorista-segun-el-fbi
 ---
 

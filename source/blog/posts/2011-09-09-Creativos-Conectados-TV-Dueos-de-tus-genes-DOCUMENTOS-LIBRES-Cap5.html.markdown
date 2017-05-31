@@ -9,8 +9,8 @@ tags:
 - patentes
 - patentes-humanas
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/encabezado_623x175.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/encabezado_623x175.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/encabezado_623x175.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/encabezado_623x175.jpg
 wppost_name: creativos-conectados-tv-duenos-de-tus-genes-documentos-libres-cap-5
 ---
 

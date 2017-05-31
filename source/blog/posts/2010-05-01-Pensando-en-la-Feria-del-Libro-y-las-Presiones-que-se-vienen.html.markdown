@@ -16,12 +16,12 @@ tags:
 - ponencia
 - presion
 - tecnicos
-image: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros1-300x225.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros1-300x225.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros1-300x225.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros1-300x225.jpg
 wppost_name: pensando-en-la-feria-del-libro-y-las-presiones-que-se-vienen
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros1.jpg"><img class="aligncenter size-medium wp-image-152" title="mercadolibros" src="http://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros1-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros1.jpg"><img class="aligncenter size-medium wp-image-152" title="mercadolibros" src="https://partidopirata.com.ar/wp-content/uploads/2010/05/mercadolibros1-300x225.jpg" alt="" width="300" height="225" /></a>
 <a href="http://culturadigital.br/simposioacervosdigitais/" target="_blank">Sobre una ponencia en el Simposio Internacional de Políticas Públicas para Acervos Digitales</a>
 
 <hr />

@@ -11,8 +11,8 @@ tags:
 - periodismo
 - periodismo-independiente
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/Leakymails.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/Leakymails-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/Leakymails.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/Leakymails-150x150.jpg
 wppost_name: censuran-leakymails-com
 ---
 

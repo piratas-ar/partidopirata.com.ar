@@ -13,12 +13,12 @@ tags:
 - privacidad
 - seguridad
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/08/Freedom-2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/08/Freedom-2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/08/Freedom-2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/08/Freedom-2-150x150.jpg
 wppost_name: septiembre-mes-de-la-privacidad
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/08/Freedom-2.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2013/08/Freedom-2.jpg" alt="Freedom not fear" width="650" height="265" class="aligncenter size-full wp-image-9210" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/08/Freedom-2.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2013/08/Freedom-2.jpg" alt="Freedom not fear" width="650" height="265" class="aligncenter size-full wp-image-9210" /></a>
 
 Estamos horrorizados al conocer el <strong>seguimiento sin precedentes de los usuarios de internet</strong> a través de PRISM y programas similares. Vigilancias generalizadas como ésta, especialmente cuando son implementadas sin conocimiento ni consentimiento de los ciudadanos, <strong>amenazan seriamente los derechos humanos de libertad de expresión y privacidad, y con ellos, los cimientos de nuestras democracias.</strong>
 
@@ -39,13 +39,13 @@ Varias agrupaciones estan organizando los 30 años de GNU y nos sumamos a los fe
 
 <strong>29</strong> Hackaton a confirmar en el Hacklab de Barracas?
 <h3>Cosas que podés hacer YA!</h3>
-<a href="http://partidopirata.com.ar/2013/04/20/ya-esta-disponible-para-descargar-el-manual-de-la-cryptoparty-en-espanol/">Consultá la guia de privacidad</a>
+<a href="https://partidopirata.com.ar/2013/04/20/ya-esta-disponible-para-descargar-el-manual-de-la-cryptoparty-en-espanol/">Consultá la guia de privacidad</a>
 
 <a href="https://www.gnu.org/distros/free-distros.es.html">Pasate a GNU/Linux</a>
 
 Nunca pongas tus datos reales en Internet (usa un <a href="http://nicks.partidopirata.com.ar/">pseudónimo</a>)
 <h3>Veni a aprender</h3>
-<a href="http://partidopirata.com.ar/2012/07/20/extensiones-libres-para-mozilla-firefox-y-derivados/">Como configurar tu navegador</a>
+<a href="https://partidopirata.com.ar/2012/07/20/extensiones-libres-para-mozilla-firefox-y-derivados/">Como configurar tu navegador</a>
 
 Como encriptar tus conversaciones (<a href="http://wiki.partidopirata.com.ar/Pidgin_con_OTR" target="_blank">GNU/Linux, Windows, etc.</a> o <a href="http://wiki.partidopirata.com.ar/Gibberbot_con_OTR" target="_blank">Android</a>)
 

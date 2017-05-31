@@ -10,8 +10,8 @@ tags:
 - politicas-de-privacidad
 - proteccion-de-datos
 - union-europea
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-150x150.jpg
 wppost_name: nueva-politica-de-privacidad-de-google-puede-violar-las-normas-de-la-comunidad-europea-de-proteccion-de-datos
 ---
 

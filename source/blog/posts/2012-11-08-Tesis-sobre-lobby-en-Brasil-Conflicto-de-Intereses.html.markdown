@@ -11,12 +11,12 @@ tags:
 - reglacion
 - reglacion-de-la-publicidad
 - universidad-de-san-pablo
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução23-280x300.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodu%C3%A7%C3%A3o23-280x300-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução23-280x300.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodu%C3%A7%C3%A3o23-280x300-150x150.jpg
 wppost_name: tesis-sobre-lobby-en-brasil-conflicto-de-intereses
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução5-300x183.jpg"><img class="size-full wp-image-7319 aligncenter" title="9-Reprodução5-300x183" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução5-300x183.jpg" alt="" width="300" height="183" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução5-300x183.jpg"><img class="size-full wp-image-7319 aligncenter" title="9-Reprodução5-300x183" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução5-300x183.jpg" alt="" width="300" height="183" /></a>
 
 <strong><a href="http://espaber.uspnet.usp.br/jorusp/?p=26115" target="_blank">Fuente Jornal da USP [<strong></strong></a><strong><a href="http://espaber.uspnet.usp.br/jorusp/?p=26115" target="_blank">Universidad de San Pablo </a></strong>]</strong>
 
@@ -34,7 +34,7 @@ La acción de los grupos de interés empresarial contra la reglamentación empez
 
 <strong>Legislativo y judicial –</strong> El lobby empresarial también actuó en el poder legislativo, sugiriéndoles a miembros del Congreso Nacional a que convocaran a directores de la Anvisa para audiencias públicas, que servia como instrumentos de presión. “Por fim, la RDC 24/2010 fue publicada, pero reglamentando sólo sobre la vehiculación de advertencias en la propaganda sobre los malefícios de los alimentos”, afirma el científico político. “Inmediatamente, los empresarios publicaron un manifiesto contra la resolución. Un proyecto de decreto legislativo fue presentado por el diputado federal Milton Monti (PR-SP) quitándole la medida a la agencia, que todavía está en tramitación en el Congreso, y la AGU fue accionada”.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução23-280x300.jpg"><img class="alignright size-full wp-image-7318" title="9-Reprodução23-280x300" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução23-280x300.jpg" alt="" width="280" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução23-280x300.jpg"><img class="alignright size-full wp-image-7318" title="9-Reprodução23-280x300" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/9-Reprodução23-280x300.jpg" alt="" width="280" height="300" /></a>
 
 La AGU, que asesora juridicamente al poder ejecutivo, ya habia emitido dos pareceres contrarios a las reglamentaciones de la Anvisa sobre publicidad de bebidas alcóholicas y medicamentos. “Para el organismo, ese tipo de regulación debe pasar por el Congreso Nacional, lo que reapareció en el parecer sobre la publicidad de alimentos”, resalta Baird. “En base a esa decisión, los empresarios entraron en ça justicia y obtuvieron diversos amparos que suspendieron la aplicación de la RDC 24/2010. Actualmente, hay diez acciones en tramite impidiendo la vigencia de la resolución.”
 Incluso después que las acciones políticas habían migrado al poder judicial, debido a las acciones contra la RDC 24/2010, el científico político destaca que el empresariado emprendió algunas acciones en el sentido de aumentar su influencia sobre la Anvisa. “Eso significó" la articulación junto al comité de campaña de la candidatura de Dilma Rouseff a la Presidencia de la República, en 2010, y la indicación, al año siguiente, de un director más afinado con los intereses empresariales, lo que resultó en la reestructuración del área de publicidad de la Anvisa, reduciendole la fuerza regulatoria”, concluye.

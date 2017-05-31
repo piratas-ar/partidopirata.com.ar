@@ -9,12 +9,12 @@ tags:
 - material-para-difusion
 - gobierno-de-brasil
 - hector-polino
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/signup-banner1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/signup-banner1-150x106.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/signup-banner1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/signup-banner1-150x106.png
 wppost_name: brasil-llaman-a-voluntarios-para-testear-las-conexiones-de-banda-ancha
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/signup-banner1.png"><img class="wp-image-6271 aligncenter" title="signup-banner1" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/signup-banner1-300x49.png" alt="" width="300" height="49" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/signup-banner1.png"><img class="wp-image-6271 aligncenter" title="signup-banner1" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/signup-banner1-300x49.png" alt="" width="300" height="49" /></a>
 <p style="text-align: center;"><strong>El Programa de estandarización de la Cualidad de la Banda Ancha en Brasil, busca medir los indicadores de cualidad y necesita voluntarios.</strong></p>
 <strong>En el site donde se busca medir la calidad de la banda ancha <a href="http://www.brasilbandalarga.com.br/index.php/" target="_blank">hay un test para hacerlo online.</a></strong>
 

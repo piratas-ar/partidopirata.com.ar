@@ -11,8 +11,8 @@ tags:
 - proteccion-de-los-datos
 - redes-p2p
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/happy-pirate.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/happy-pirate-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/happy-pirate.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/happy-pirate-150x150.jpg
 wppost_name: bonanza-bittorrent-monitoreo-de-los-que-comparten-archivos-esta-suspendido-en-noruega
 ---
 
@@ -20,7 +20,7 @@ wppost_name: bonanza-bittorrent-monitoreo-de-los-que-comparten-archivos-esta-sus
 
 A partir de hoy, los que comparten archivos en Noruega puede descargar casi todo lo que les gusta sin tener que enfrentar las consecuencias. Los piratas recibieron efectivamente la luz verde después que la única firma de abogados que tenía permiso en el país para monitorizar las redes de intercambio de archivos perdió su licencia y se les negó una nueva
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/happy-pirate.jpg"><img class="alignright size-full wp-image-6195" title="happy-pirate" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/happy-pirate.jpg" alt="" width="154" height="200" /></a>Por más de un lustro la firma de abogados Simonsen había conseguido la obtención de licencias de la oficina noruega de protección de datos permitiéndole a la empresa supervisar a quienes comparten archivos y recoger sus direcciones IP.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/happy-pirate.jpg"><img class="alignright size-full wp-image-6195" title="happy-pirate" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/happy-pirate.jpg" alt="" width="154" height="200" /></a>Por más de un lustro la firma de abogados Simonsen había conseguido la obtención de licencias de la oficina noruega de protección de datos permitiéndole a la empresa supervisar a quienes comparten archivos y recoger sus direcciones IP.
 
 Ha habido momentos difíciles, sin embargo, como en 2009, cuando la licencia <a href="http://torrentfreak.com/anti-piracy-lawyers-loses-license-to-chase-pirates-090622/"> de la compañía expiró</a> en medio de un debate sobre lo que los licenciatarios pueden y no pueden hacer. Ahora, tres años más tarde, Simonsen enfrenta otra crisis.
 

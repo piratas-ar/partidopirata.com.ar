@@ -12,8 +12,8 @@ tags:
 - nam-qom
 - qom
 - represion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/namqom.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/namqom-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/namqom.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/namqom-150x150.jpg
 wppost_name: comunidad-nam-qom-enrejada-y-rodeada-por-la-policia-formosa
 ---
 

@@ -11,8 +11,8 @@ tags:
 - informe-301
 - leyes
 - pirateria
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/bandera-pirata.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/bandera-pirata-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/bandera-pirata.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/bandera-pirata-150x150.png
 wppost_name: argentina-paraiso-pirata-ojala
 ---
 

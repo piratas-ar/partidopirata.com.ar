@@ -10,8 +10,8 @@ tags:
 - protestas
 - represion
 - venezuela
-image: http://partidopirata.com.ar/wp-content/uploads/2014/02/venezuela-paz.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/02/venezuela-paz-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2014/02/venezuela-paz.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/02/venezuela-paz-150x150.jpeg
 wppost_name: el-ppar-frente-a-las-protestas-en-venezuela
 ---
 

@@ -10,8 +10,8 @@ tags:
 - plan-ceibal
 - podcasts
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/lm_reasonably_small.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/lm_reasonably_small-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/lm_reasonably_small.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/lm_reasonably_small-115x115.jpg
 wppost_name: sabiendo-un-poco-mas-que-pasa-en-la-rioja-con-manuela-calvo-de-la-fundacion-lola-mora
 ---
 

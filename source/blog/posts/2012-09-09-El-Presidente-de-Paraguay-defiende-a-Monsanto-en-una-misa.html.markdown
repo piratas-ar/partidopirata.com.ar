@@ -14,12 +14,12 @@ tags:
 - paraguay
 - patentes
 - transgenicos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto-150x150.jpg
 wppost_name: el-presidente-de-paraguay-defiende-a-monsanto-en-una-misa
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg"><img class="alignright size-full wp-image-6394" title="millonescontramonsanto" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg" alt="" width="180" height="180" /></a>Antes en la Argentina Cristina Fernández de Kirchner elogia públicamente a Monsanto y a las patentes durante una cadena nacional:
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg"><img class="alignright size-full wp-image-6394" title="millonescontramonsanto" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/millonescontramonsanto.jpg" alt="" width="180" height="180" /></a>Antes en la Argentina Cristina Fernández de Kirchner elogia públicamente a Monsanto y a las patentes durante una cadena nacional:
 
 <center>
 <iframe src="http://www.youtube.com/embed/N0UGR_UvcGA" frameborder="0" width="560" height="315"></iframe>
@@ -60,6 +60,6 @@ Lo del EPP se usa para descalificar al otro:
 La vinculación de referentes sociales y organizaciones con el Ejército Paraguayo del Pueblo (EPP) es una medida bastante extendida desde el gobierno de Nicanor Duarte Frutos, utilizada por partidos políticos conservadores y la fiscalía, para criminalizar y descalificar a sectores de izquierda principalmente."
 
 <strong> <a href="http://ea.com.py/tras-las-criticas-franco-insinua-simpatia-de-melanio-medina-con-el-epp/" target="_blank">Fuente EA</a></strong>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6393/el-17-de-setiembre-dia-de-accion-mundial-contra-monsanto">El 17 de Setiembre, Millones contra Monsanto.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6393/el-17-de-setiembre-dia-de-accion-mundial-contra-monsanto">El 17 de Setiembre, Millones contra Monsanto.</a></strong></p>
 <p style="text-align: center;">Tanto sea desde el "progresismo" argentino como desde un golpista paraguayo ambos están de acuerdo con Monsanto, también lo está Clarín y sus grupos asociados, Lanata no hace un programa sobre la Soja.</p>
 <p style="text-align: center;"></p>

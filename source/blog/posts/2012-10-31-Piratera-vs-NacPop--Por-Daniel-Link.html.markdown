@@ -10,18 +10,18 @@ tags:
 - financiacion-del-estado
 - politica-cultural
 - subsidios
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/cda.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/cda-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/cda.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/cda-150x150.png
 wppost_name: pirateria-vs-nacpop-por-daniel-link
 ---
 
-<a href="http://partidopirata.com.ar/7162/contenidos-digitales-abiertos-pero-no-tanto">Acá decíamos que los <em>Contenidos Digitales Abiertos</em> no eran tan abiertos</a> que no estaban disponibles online para quienes navegan desde el Exterior de la Argentina.
+<a href="https://partidopirata.com.ar/7162/contenidos-digitales-abiertos-pero-no-tanto">Acá decíamos que los <em>Contenidos Digitales Abiertos</em> no eran tan abiertos</a> que no estaban disponibles online para quienes navegan desde el Exterior de la Argentina.
 
 Ahora Daniel Link avisa que tampoco están online y escribó este muy buen post:
 
 <strong><a href="http://linkillo.blogspot.com.ar/2012/10/pirateria-vs-nac.html" target="_blank">Fuente Blog de Daniel Link.</a></strong>
 
-El <a href="http://partidopirata.com.ar/7162/contenidos-digitales-abiertos-pero-no-tanto">Partido Pirata de Argentina ya lo dijo todo</a>, pero conviene subrayar lo que de mezquino hay en una política cultural: los así llamados "contenidos digitales abiertos" no pueden bajarse y, ahora, <a href="http://cda.gob.ar/serie/918/capitulos/23-pares">tampoco pueden verse online</a>, ni en otros países ni en el propio país que, con el dinero de sus contribuyentes, ha financiado esas producciones erráticas: convengamos en que <em>23 pares</em> está muy bien, pero también señalemos que <em>Babylon</em> (de Gastón Portal) es una abominación, ya desde el título.
+El <a href="https://partidopirata.com.ar/7162/contenidos-digitales-abiertos-pero-no-tanto">Partido Pirata de Argentina ya lo dijo todo</a>, pero conviene subrayar lo que de mezquino hay en una política cultural: los así llamados "contenidos digitales abiertos" no pueden bajarse y, ahora, <a href="http://cda.gob.ar/serie/918/capitulos/23-pares">tampoco pueden verse online</a>, ni en otros países ni en el propio país que, con el dinero de sus contribuyentes, ha financiado esas producciones erráticas: convengamos en que <em>23 pares</em> está muy bien, pero también señalemos que <em>Babylon</em> (de Gastón Portal) es una abominación, ya desde el título.
 Si yo quiero saber en qué ha gastado el Estado (por la vía del Consejo Interuniversitario Nacional y el Ministerio de Planificación Federal, Inversión Pública y Servicios) mis impuestos, no puedo hacerlo sin someterme, además, a las odiosas tandas publicitarias de los canales de aire.
 La pretendida "cultura nac&amp;pop" queda así, desnudada de sus ropajes ideológicos y se revela como lo que es: un mecanismo (estatal) para promover el consumo.
 "¡El consumo, el consumo!", esa obsesión tan boudoudista que no deja de aparecer en cada cadena nacional.

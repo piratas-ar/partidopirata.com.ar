@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - partido-pirata-de-brasil
 - piratas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas-brasil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas-brasil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/piratas-brasil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/piratas-brasil-150x150.jpg
 wppost_name: carta-abierta-a-los-piratas-del-mundo
 ---
 
@@ -17,7 +17,7 @@ Un pirata de Brasil nos hizo llegar una carta abierta que escribió a los pirata
 
 
 <blockquote>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas-brasil.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas-brasil-300x225.jpg" alt="" title="piratas-brasil" width="300" height="225" class="alignright size-medium wp-image-5644" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/piratas-brasil.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/piratas-brasil-300x225.jpg" alt="" title="piratas-brasil" width="300" height="225" class="alignright size-medium wp-image-5644" /></a>
 Queridos Piratas,
 
 Empecé a participar de las actividades del Partido a mediados de 2009. Esto porque, buscando la historia del movimiento y asistiendo a conferencias en que los valores del partido eran expuestos, me identifiqué con esa lucha, un tanto innovadora.

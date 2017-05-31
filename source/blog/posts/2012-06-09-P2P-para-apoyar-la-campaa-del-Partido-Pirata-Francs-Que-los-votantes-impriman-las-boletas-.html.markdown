@@ -8,8 +8,8 @@ tags:
 - imprimir-boletas
 - papeletas-de-votacion
 - partido-pirata-frances
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio-150x150.jpg
 wppost_name: p2p-para-apoyar-la-campana-del-partido-pirata-frances-que-los-votantes-impriman-las-boletas
 ---
 
@@ -53,5 +53,5 @@ magnet:?xt=urn:btih:981c376dd0f103dd1d93bbe77546f89aafa224e6&amp;dn=bulletins_di
 <strong> <a href="http://lists.pirateweb.net/pipermail/pp.international.general/2012-June/date.html#11950" target="_blank">Más información en la lista del PPI</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio.jpg"><img class="size-medium wp-image-4706" title="banner-blog-votez4-natio" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio-300x53.jpg" alt="" width="300" height="53" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio.jpg"><img class="size-medium wp-image-4706" title="banner-blog-votez4-natio" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/banner-blog-votez4-natio-300x53.jpg" alt="" width="300" height="53" /></a>
 

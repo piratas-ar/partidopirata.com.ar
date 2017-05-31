@@ -9,8 +9,8 @@ tags:
 - hotfile
 - mpaa
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/hotfile1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/hotfile1-150x87.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/hotfile1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/hotfile1-150x87.jpg
 wppost_name: los-archivos-mas-descargados-de-hotfile-son-software-de-codigo-abierto
 ---
 
@@ -18,7 +18,7 @@ wppost_name: los-archivos-mas-descargados-de-hotfile-son-software-de-codigo-abie
 
 En la batalla legal en curso entre la MPAA[grandes estudios de cine de USA] y el cyberlocker Hotfile [lugares para guardar o descargar archivos como megaupload], el profesor de Derecho James Boyle de la Universidad de Duke  ha presentado un importante informe de expertos Ante lucha de la industria del cine afirmando que Hotfile tiene pocos usos no infractores, el profesor indica que los archivos más descargados en el cyberlocker son softwares de código abierto. Además, sostiene que los programas de afiliados son útiles para compensar a los creadores de contenido por sus esfuerzos.
 El año pasado, la MPAA inició una demanda en contra de Hotfile, uno de los servicios de cyberlocker más populares de Internet .
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/hotfile1.jpg"><img class="alignright size-full wp-image-3914" title="hotfile1" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/hotfile1.jpg" alt="" width="172" height="87" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/hotfile1.jpg"><img class="alignright size-full wp-image-3914" title="hotfile1" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/hotfile1.jpg" alt="" width="172" height="87" /></a>
 Los estudios de cine le reclamaron al proveedor de alojamiento de archivos por la promoción de "robo digital masivo" y quiere que se desconecte, una acusación a la que Hotfile rechaza ferozmente. En los últimos meses ambas partes han presentado docenas de papeles en la corte para apoyar sus respectivos argumentos.
 
 La MPAA describe a Hotfile como un <a href="http://torrentfreak.com/hotfile-as-bad-megaupload-mpaa-tells-court-120307/">paraíso de la piratería</a> con un alcance similar al de Megaupload. Para fundamentar esta acusación los estudios contrataron a un experto que afirmó que más del 90% de todas las descargas en el sitio están infringiendo el derecho de autor.

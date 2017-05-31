@@ -7,8 +7,8 @@ tags:
 - multimedia
 - vigilancia
 - vigilancia-electronica
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/150420121278.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/150420121278-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/150420121278.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/150420121278-150x150.jpg
 wppost_name: el-documental-para-el-fin-de-semana-sigueme-si-puedes
 ---
 

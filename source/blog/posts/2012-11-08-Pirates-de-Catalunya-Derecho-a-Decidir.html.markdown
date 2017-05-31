@@ -10,8 +10,8 @@ tags:
 - elecciones-en-catalunya
 - pirates
 - pirates-de-catalunya
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/icono_menu.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/icono_menu.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/icono_menu.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/icono_menu.png
 wppost_name: pirates-de-catalunya-derecho-a-decidir
 ---
 

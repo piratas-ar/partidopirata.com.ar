@@ -13,8 +13,8 @@ tags:
 - sopa
 - torrentfreak
 - wupload
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers-150x150.jpg
 wppost_name: no-somos-ningun-sitio-delincuente-putlocker-le-responde-a-hollywood
 ---
 
@@ -54,5 +54,5 @@ De nuestras conversaciones con PutLocker parece claro que mientras se mantienen 
 
 "Al mismo tiempo, siempre estamos deseando trabajar con los productores de contenidos, distribuidores y sus agentes para diversificar sus estrategias de distribución y defender los derechos de propiedad intelectual", concluye Petroff
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg"><img class="aligncenter size-full wp-image-3710" title="Lista para borrar cyberlockers" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg" alt="" width="610" height="442" /></a>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3801/mediafire-shockeado-por-la-campana-de-difamacion-de-hollywood">Mediafire también le responde a Hollywood.</a></strong></p>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg"><img class="aligncenter size-full wp-image-3710" title="Lista para borrar cyberlockers" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/down-cyberlockers.jpg" alt="" width="610" height="442" /></a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3801/mediafire-shockeado-por-la-campana-de-difamacion-de-hollywood">Mediafire también le responde a Hollywood.</a></strong></p>

@@ -9,8 +9,8 @@ tags:
 - gran-hermano
 - intimidacion
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner-150x150.jpg
 wppost_name: para-que-se-puede-usar-la-informacion-que-recopila-el-estado
 ---
 

@@ -19,12 +19,12 @@ tags:
 - rayos-x
 - sociedad
 - violento
-image: http://partidopirata.com.ar/wp-content/uploads/2010/05/escaner-personal-seguridad-aeropuerto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/05/escaner-personal-seguridad-aeropuerto.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/05/escaner-personal-seguridad-aeropuerto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/05/escaner-personal-seguridad-aeropuerto.jpg
 wppost_name: una-idea-para-el-concurso-de-cuentos-sobre-la-sociedad-de-control
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/05/escaner-personal-seguridad-aeropuerto.jpg"><img class="size-full wp-image-187" title="Escaner personal aeroportuario" src="http://partidopirata.com.ar/wp-content/uploads/2010/05/escaner-personal-seguridad-aeropuerto.jpg" alt="" width="400" height="331" /></a> Este tipo de escaner permite ver bajo las ropas de las personas.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/05/escaner-personal-seguridad-aeropuerto.jpg"><img class="size-full wp-image-187" title="Escaner personal aeroportuario" src="https://partidopirata.com.ar/wp-content/uploads/2010/05/escaner-personal-seguridad-aeropuerto.jpg" alt="" width="400" height="331" /></a> Este tipo de escaner permite ver bajo las ropas de las personas.
 
 
 Un guardia de seguridad del Aeropuerto Internacional de Miami, Rolando Negrin, golpeó a un compañero de nombre Hugo Osorno luego de que este último hiciera mofa del tamaño de sus genitales tras observarlo en una máquina de Rayos X de cuerpo entero, de acuerdo a un reporte del Daily Mail.

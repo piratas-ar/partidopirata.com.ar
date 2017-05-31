@@ -8,12 +8,12 @@ tags:
 - exhibicion
 - festival
 - festival-creative-commons-de-buenos-aires
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
 wppost_name: festival-buenos-aires-creative-commons-13-14-15-y-16-de-marzo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg"><img class="aligncenter size-full wp-image-3335" title="Festival Creative Commons" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg" alt="" width="800" height="561" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg"><img class="aligncenter size-full wp-image-3335" title="Festival Creative Commons" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg" alt="" width="800" height="561" /></a>
 
 Es muy probable que participemos en algunos de los debates!
 

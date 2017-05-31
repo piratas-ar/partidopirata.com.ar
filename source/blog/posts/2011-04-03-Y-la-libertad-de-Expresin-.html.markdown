@@ -7,12 +7,12 @@ tags:
 - divulgacion
 - pro
 - proyecto
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
 wppost_name: '660'
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg"><img class="aligncenter size-medium wp-image-661" title="censura" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-300x269.jpg" alt="" width="300" height="269" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg"><img class="aligncenter size-medium wp-image-661" title="censura" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-300x269.jpg" alt="" width="300" height="269" /></a>
 <table class="tabla" style="font-size: 12px;" border="0" cellspacing="1" cellpadding="2" bgcolor="#aca899">
 <tbody>
 <tr>

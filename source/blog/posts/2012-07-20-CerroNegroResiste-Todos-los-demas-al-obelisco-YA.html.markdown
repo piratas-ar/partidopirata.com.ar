@@ -8,12 +8,12 @@ tags:
 - derechos-humanos
 - megamineria
 - tinogasta
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/cerronegro-e1342822207746.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/cerronegro-e1342822207746-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/cerronegro-e1342822207746.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/cerronegro-e1342822207746-150x150.jpeg
 wppost_name: cerronegroresiste-todos-los-demas-al-obelisco-ya
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/cerronegro.jpeg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/cerronegro-e1342822207746-300x189.jpeg" alt="" title="cerro negro" width="300" height="189" class="alignleft size-medium wp-image-5425" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/cerronegro.jpeg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/cerronegro-e1342822207746-300x189.jpeg" alt="" title="cerro negro" width="300" height="189" class="alignleft size-medium wp-image-5425" /></a>
 
 Desde hoy a la tarde estuvimos denunciando la presencia de patotas pro-mineras (o paramilitares como se les debería decir) en el bloqueo selectivo de Cerro Negro y Tinogasta. 
 

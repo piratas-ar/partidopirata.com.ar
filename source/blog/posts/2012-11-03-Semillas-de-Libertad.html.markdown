@@ -11,8 +11,8 @@ tags:
 - soja
 - transgenicos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/339688359_640.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/339688359_640-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/339688359_640.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/339688359_640-150x150.jpg
 wppost_name: semillas-de-libertad
 ---
 
@@ -33,5 +33,5 @@ Semillas de Libertad pretende cuestionar el mantra de que a gran escala, la agri
 
 <hr />
 <p style="text-align: center;"><strong>Luego de ver el documental piensen en la "Ley de las semillas" (o Ley Monsanto) que el gobierno está impulsando"</strong>
-<strong> <a href="http://partidopirata.com.ar/6213/renace-frente-a-la-propuesta-de-reforma-de-ley-de-semillas-no-a-la-privatizacion-de-la-vida">Algo más en esta entrada del blog.</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/6213/renace-frente-a-la-propuesta-de-reforma-de-ley-de-semillas-no-a-la-privatizacion-de-la-vida">Algo más en esta entrada del blog.</a></strong></p>
 <p style="text-align: center;"><strong>Sobre todo piensen en la "policía genética" que se implantará en nuestro país donde si le encuentran a una persona semillas transgénicas podrían ser multadas. Sin importar si sus cultivos fueron contaminados.</strong></p>

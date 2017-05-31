@@ -10,12 +10,12 @@ tags:
 - ley
 - martin-niemoller
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/sam-pirate.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/sam-pirate-150x130.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/sam-pirate.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/sam-pirate-150x130.jpg
 wppost_name: el-cada-vez-mas-largo-brazo-de-la-ley-pirata-del-tio-sam
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/sam-pirate.jpg"><img class="alignright size-full wp-image-4357" title="sam-pirate" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/sam-pirate.jpg" alt="Justicia &quot;Pirata&quot; de EE.UU." width="230" height="130" /></a><strong><a href="https://torrentfreak.com/the-lengthening-arm-of-uncle-sams-pirate-justice-120506/" target="_blank">Fuente Torrentfreak.</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/sam-pirate.jpg"><img class="alignright size-full wp-image-4357" title="sam-pirate" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/sam-pirate.jpg" alt="Justicia &quot;Pirata&quot; de EE.UU." width="230" height="130" /></a><strong><a href="https://torrentfreak.com/the-lengthening-arm-of-uncle-sams-pirate-justice-120506/" target="_blank">Fuente Torrentfreak.</a></strong>
 
 El intercambio de archivos estaba firmemente en la agenda cuando el jefe del Departamento de Seguridad Nacional de los EE.UU.  aterrizó en la capital australiana la semana pasada. Los cuatro nuevos acuerdos - firmados con prontitud antes de que la secretaria Janet Napolitano, vuele de regreso de Canberra fueron menos sobre compartir la segunda temporada de Game of Thrones y más acerca de compartir información privada de los ciudadanos australianos con las autoridades estadounidenses.
 
@@ -49,7 +49,7 @@ Hemos llegado a un punto en Australia, donde los ciudadanos pueden ser detenidos
 
 <hr />
 
-Mientras tanto en la Argentina recolectamos información vía <strong><a href="http://partidopirata.com.ar/2231/sibios-todo-el-mundo-controlado-la-policia-y-la-side-sabran-quien-estuvo-en-una-marcha-manifestacion">Sibios</a></strong>, no sabemos si se firmarán o no nuevos tratados, esas enooormes bases de datos no sabemos para dónde irán...
+Mientras tanto en la Argentina recolectamos información vía <strong><a href="https://partidopirata.com.ar/2231/sibios-todo-el-mundo-controlado-la-policia-y-la-side-sabran-quien-estuvo-en-una-marcha-manifestacion">Sibios</a></strong>, no sabemos si se firmarán o no nuevos tratados, esas enooormes bases de datos no sabemos para dónde irán...
 
 Podríamos decir:
 

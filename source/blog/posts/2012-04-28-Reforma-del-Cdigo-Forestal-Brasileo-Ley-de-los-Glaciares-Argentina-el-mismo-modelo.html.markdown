@@ -11,12 +11,12 @@ tags:
 - nacientes
 - reforma
 - rios
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo-150x150.jpg
 wppost_name: reforma-del-codigo-forestal-brasileno-ley-de-los-glaciares-argentina-el-mismo-modelo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg"><img class="size-full wp-image-732" title="Aldo-Rebelo" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg" alt="Aldo Rebelo -Partido Comunista do Brsil" width="283" height="320" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg"><img class="size-full wp-image-732" title="Aldo-Rebelo" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/Aldo-Rebelo.jpg" alt="Aldo Rebelo -Partido Comunista do Brsil" width="283" height="320" /></a>
 
 
 <strong><a href="http://www.elnuevoherald.com/2012/04/25/1187960/brasil-aprueba-reforma-a-codigo.html" target="_blank">Fuente El Nuevo Herald.</a></strong>

@@ -29,10 +29,10 @@ wppost_name: mientras-esperamos-la-conferencia-tedxriodelaplata-dos-de-hernan-ca
 <hr />
 <p style="text-align: center;"><strong><a href="http://orsai.bitacoras.com/" target="_blank">Site de Orsai.</a></strong></p>
 <p style="text-align: center;"><strong>Y también esperaremos a que <em>cuelguen</em> las Orsai!!</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2406/hernan-casciari-ted-x-rio-de-la-plata">Finalmente nos avisan que <em>colgaron</em> la conferencia.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2406/hernan-casciari-ted-x-rio-de-la-plata">Finalmente nos avisan que <em>colgaron</em> la conferencia.</a></strong></p>
 <p style="text-align: center;"><strong><a href="http://partido-pirata.blogspot.com/2011/11/salio-la-revista-orsai-nro-4.html" target="_blank">Y por acá dejaron las revistas.</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/orsai.jpg"><img class="aligncenter size-full wp-image-374" title="Revista Orsai" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/orsai.jpg" alt="" width="405" height="306" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/orsai.jpg"><img class="aligncenter size-full wp-image-374" title="Revista Orsai" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/orsai.jpg" alt="" width="405" height="306" /></a>

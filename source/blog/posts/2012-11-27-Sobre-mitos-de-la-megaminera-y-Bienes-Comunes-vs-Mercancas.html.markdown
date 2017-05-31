@@ -11,15 +11,15 @@ tags:
 - megamineria
 - megamineriia
 - norma-giarracca
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/tapa-mineria-209x300.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/tapa-mineria-209x300-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/tapa-mineria-209x300.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/tapa-mineria-209x300-150x150.jpg
 wppost_name: sobre-mitos-de-la-megamineria-y-bienes-comunes-vs-mercancias
 ---
 
 <strong><a href="https://twitter.com/normagiarracca" target="_blank">Norma Giarracca</a></strong> nos avisa de varios libros que están disponibles para su descarga en el site del Grupo de Estudios Rurales
 Grupo de Estudios de Movimientos Sociales en América Latina , elegimos dos, <strong><a href="http://www.ger-gemsal.org.ar/publicaciones/libros/" target="_blank">pero en el mismo site pueden revisar, chusmear, por muchos otros que están</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/tapa-mineria-209x300.jpg"><img class="aligncenter size-full wp-image-7551" title="tapa-mineria-209x300" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/tapa-mineria-209x300.jpg" alt="" width="209" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/tapa-mineria-209x300.jpg"><img class="aligncenter size-full wp-image-7551" title="tapa-mineria-209x300" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/tapa-mineria-209x300.jpg" alt="" width="209" height="300" /></a>
 <p style="text-align: center;"><strong>15 Mitos y Realidades de la minería transnacional en Argentina. Guía para desmontar el imaginario prominero</strong></p>
 <p style="text-align: center;">Los "mitos" de la gran minería, que genera trabajos, que es fuente de riquezas, que es necesaria para "crecer", etc. etc..Desmontados para entender un poco más de qué estamos hablando.</p>
 <p style="text-align: center;"><strong><a href="http://www.ger-gemsal.org.ar/publicaciones/libros/15-mitos-y-realidades-de-la-mineria-transnacional-en-argentina-guia-para-desmontar-el-imaginario-prominero/" target="_blank">Acá lo encuentran para su descarga en el site del Grupo de Estudios Rurales

@@ -8,14 +8,14 @@ tags:
 - ibirapuera
 - lawrence-lessig
 - musica
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg
 wppost_name: gilberto-gil-encara-discusiones-sobre-el-reflujo-autoritario-en-internet
 ---
 
 <div>Jotabê Medeiros - O Estado de S.Paulo</div>
 <strong>Gilberto Gil
-</strong>CANTOR, COMPOSITOR Y ACTIVISTA<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg"><img class="aligncenter size-thumbnail wp-image-1654" title="gilbertogil" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil-150x150.jpg" alt="" width="150" height="150" /></a>
+</strong>CANTOR, COMPOSITOR Y ACTIVISTA<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil.jpg"><img class="aligncenter size-thumbnail wp-image-1654" title="gilbertogil" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/gilbertogil-150x150.jpg" alt="" width="150" height="150" /></a>
 <strong><a href="http://www.estadao.com.br/noticias/impresso,gilberto-gil-encara-discussoes-sobre-refluxo-autoritario-na-internet,761786,0.htm" target="_blank">Fuente "O Estado de São Paulo"</a></strong>
 
 La temperatura descendió, pero el debate se calentó en los trópicos. La semana pasada, el cantor Gilberto Gil, de 69 años, fue la estrella del primer festival <a href="http://youpix.com.br/festival/" target="_blank">youPIX</a>, de cultura de internet, en São Paulo. El ex ministro de Cultura vuelve a la ciudad este miércoles, a las 20 h, para discutir creatividad, tecnologia y políticas públicas en el Auditorio Ibirapuera (al lado de Lawrence Lesig, de Creative Commons, y Danilo Miranda, del Sesc São Paulo). Incansable, el jueves, en Rio, debate con el filósofo tunecino Pierre Lévy el concepto de cibercultura, en Oi Futuro, en Flamengo, a las 19h30.

@@ -8,8 +8,8 @@ tags:
 - derechos-humanos
 - desarrollo-sustentable
 - san-isidro
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/volante-Aguantala-lunes.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/volante-Aguantala-lunes-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/volante-Aguantala-lunes.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/volante-Aguantala-lunes-150x150.jpg
 wppost_name: bosque-alegre-en-peligro
 ---
 

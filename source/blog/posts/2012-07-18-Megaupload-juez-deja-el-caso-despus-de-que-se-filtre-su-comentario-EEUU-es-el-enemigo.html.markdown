@@ -11,8 +11,8 @@ tags:
 - kim-dotcom
 - megaupload
 - nueva-zelandia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
 wppost_name: megaupload-juez-deja-el-caso-despues-de-que-se-filtre-su-comentario-ee-uu-es-el-enemigo
 ---
 

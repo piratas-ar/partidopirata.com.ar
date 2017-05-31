@@ -11,8 +11,8 @@ tags:
 - sidh
 - sistema-interamericano-de-derechos-humanos
 - suenos-posibles
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/medio_fort_si_web.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/medio_fort_si_web-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/medio_fort_si_web.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/medio_fort_si_web-150x150.jpg
 wppost_name: defiende-los-derechos-humanos-en-las-americas-sidh
 ---
 
@@ -33,7 +33,7 @@ Estamos a tiempo de defender a quienes nos defienden. Cientos de celebridades 
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6341/yesid-doncel-barrera-hablando-sobre-la-reforma-de-la-sidh-derechos-humanos-oea" target="_blank">Acá estuvimos hablando con Yesid Doncel Barrera sobre la reforma de la SIDH</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6341/yesid-doncel-barrera-hablando-sobre-la-reforma-de-la-sidh-derechos-humanos-oea" target="_blank">Acá estuvimos hablando con Yesid Doncel Barrera sobre la reforma de la SIDH</a></strong></p>
 &nbsp;
 
 <hr />
@@ -56,6 +56,6 @@ En el programa "Sueños Posibles "entrevistan a los padres de Marcela Iglesias <
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/caso-marcela-iglesias-llevado-a-la_md_1867396_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart6.png"><img class="size-full wp-image-8804" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart6.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/chart6.png"><img class="size-full wp-image-8804" alt="Código QR de la dirección del archivo mp3" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/chart6.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 <p style="text-align: center;"><strong><a href="http://partido-pirata.blogspot.com/2013/02/suenos-posibles-del-11-de-febrero.html">Si quieren descargar o escuchar todo el programa "Sueños Posibles" del 11 de Febrero</a></strong></p>

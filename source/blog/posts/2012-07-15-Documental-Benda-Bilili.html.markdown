@@ -10,8 +10,8 @@ tags:
 - polio
 - poliomelitis
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/MV5BMTM2ODI1NzE0OV5BMl5BanBnXkFtZTcwODM1NDc4Ng@@._V1._SX169_SY243_.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/MV5BMTM2ODI1NzE0OV5BMl5BanBnXkFtZTcwODM1NDc4Ng@@._V1._SX169_SY243_-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/MV5BMTM2ODI1NzE0OV5BMl5BanBnXkFtZTcwODM1NDc4Ng@@._V1._SX169_SY243_.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/MV5BMTM2ODI1NzE0OV5BMl5BanBnXkFtZTcwODM1NDc4Ng@@._V1._SX169_SY243_-150x150.jpg
 wppost_name: documental-benda-bilili
 ---
 

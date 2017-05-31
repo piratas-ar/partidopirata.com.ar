@@ -7,8 +7,8 @@ tags:
 - javier-rodriguez-pardo
 - megamineria
 - radio-2
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart12.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart12-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart12.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart12-115x115.png
 wppost_name: conferencia-megamineria-y-salud-hospital-garrahan
 ---
 
@@ -28,7 +28,7 @@ El miércoles 19 realizamos en el Hospital de Pediatría Juan P.Garrahan una cha
 <strong> <a href="http://www.ivoox.com/charla-megamineria-y-salud-htal-garrahan-javier-audios-mp3_rf_1613318_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart12.png"><img class="size-full wp-image-7588" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart12.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart12.png"><img class="size-full wp-image-7588" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart12.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 &nbsp;
@@ -47,7 +47,7 @@ Segunda parte de la Conferencia</center>&nbsp;
 <strong> Si el enlace anterior no funcioana presionen en <em>descargar</em><a href="http://www.ivoox.com/charla-megamineria-y-salud-htal-garrahan-javier-audios-mp3_rf_1613401_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart13.png"><img class="size-full wp-image-7589" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart13.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart13.png"><img class="size-full wp-image-7589" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart13.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 
 <hr />

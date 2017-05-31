@@ -8,8 +8,8 @@ tags:
 - propiedad-intelectual
 - propietario-de-las-fotos
 - publicacion-de-fotos
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: instagram-dice-ahora-que-tiene-el-derecho-de-vender-tus-fotos
 ---
 

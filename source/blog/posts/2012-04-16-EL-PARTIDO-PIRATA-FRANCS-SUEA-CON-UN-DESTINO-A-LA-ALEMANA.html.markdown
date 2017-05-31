@@ -8,8 +8,8 @@ tags:
 - maxime-rouquet
 - partido-pirata-de-francia
 - susana-merino
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179-150x150.jpg
 wppost_name: el-partido-pirata-frances-suena-con-un-destino-a-la-alemana
 ---
 
@@ -64,7 +64,7 @@ Por el momento, el partido les propone a sus candidatos, diferentes fórmulas pa
 
 <strong>Notas</strong>
 
-(1) Hadopi : La Ley Hadopi, es también llamada Ley Creación e Internet, o, de manera más formal, Ley promotora de la difusión y la protección de la creación en Internet <strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast" target="_blank">Acá hicimos un podcast sobre <em>HADOPI</em> con un oficial de esa institución</a></strong>
+(1) Hadopi : La Ley Hadopi, es también llamada Ley Creación e Internet, o, de manera más formal, Ley promotora de la difusión y la protección de la creación en Internet <strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast" target="_blank">Acá hicimos un podcast sobre <em>HADOPI</em> con un oficial de esa institución</a></strong>
 (2) Loppsi: – La ley francesa denominada LOPPSI 2, Ley de Orientación y Programación para la Eficacia de la Seguridad Interior.
 (3) ACTA (del inglés Anti-Counterfeiting Trade Agreement, traducido como Acuerdo comercial anti-falsificación) es un acuerdo multilateral voluntario recientemente aprobado.
 
@@ -72,5 +72,5 @@ Por el momento, el partido les propone a sus candidatos, diferentes fórmulas pa
 
 Traducción Susana Merino
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg"><img class="size-full wp-image-3982" title="1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg" alt="" width="540" height="270" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg"><img class="size-full wp-image-3982" title="1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/1685372_3_7a15_l-apero-pirate-est-une-reunion-d-information_7fbfd8fd2b362e652149fb85e0304179.jpg" alt="" width="540" height="270" /></a>
 

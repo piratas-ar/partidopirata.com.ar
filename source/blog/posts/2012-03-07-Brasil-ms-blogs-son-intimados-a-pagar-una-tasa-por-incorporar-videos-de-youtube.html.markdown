@@ -10,12 +10,12 @@ tags:
 - ecad
 - poder
 - sadaic
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/formecad.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/formecad-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/formecad.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/formecad-150x150.jpg
 wppost_name: brasil-mas-blogs-son-intimados-a-pagar-una-tasa-por-incorporar-videos-de-youtube
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/formecad.jpg"><img class="size-full wp-image-3423 aligncenter" title="Formulario ECAD" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/formecad.jpg" alt="" width="576" height="743" /></a><strong>Formulario del ECAD (SADAIC brasileño) para cobrar por música que un blog tiene "incorporado", fecha de vencimiento y dirección de cobro
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/formecad.jpg"><img class="size-full wp-image-3423 aligncenter" title="Formulario ECAD" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/formecad.jpg" alt="" width="576" height="743" /></a><strong>Formulario del ECAD (SADAIC brasileño) para cobrar por música que un blog tiene "incorporado", fecha de vencimiento y dirección de cobro
 </strong></p>
 
 
@@ -43,7 +43,7 @@ Sólo que el Ecad ya cobra derechos de autor de vídeos subidos a YouTube. La of
 
 Según la asesoria, el Ecad está realizando un trabajo enfocado en la “concientización” para la necesidad de pagos de derechos de autor. Si los blogueros contactados no pagan, ellos pueden ser objeto de una acción judicial. “Todo usuario que ejecuta música publicamente en site o blog al ser captado por el sector responsable delEcad, puede recibir un contacto”, dice la oficiana.
 
-El diario O Globo <a href="http://oglobo.globo.com/cultura/ecad-cobra-taxa-mensal-de-blogs-que-utilizam-videos-do-youtube-4233380" target="_blank">divulgó </a>este miércoles, 7, que otro blog, <a href="http://partidopirata.com.ar/3415/ecad-el-sadaic-brasileno-cobra-una-taza-mensual-de-blogs-que-utilizan-videos-de-youtube">Caligraffiti</a>, también recibió una cobranza de ese tipo.
+El diario O Globo <a href="http://oglobo.globo.com/cultura/ecad-cobra-taxa-mensal-de-blogs-que-utilizam-videos-do-youtube-4233380" target="_blank">divulgó </a>este miércoles, 7, que otro blog, <a href="https://partidopirata.com.ar/3415/ecad-el-sadaic-brasileno-cobra-una-taza-mensual-de-blogs-que-utilizan-videos-de-youtube">Caligraffiti</a>, también recibió una cobranza de ese tipo.
 
 <hr />
 <p style="text-align: center;"><strong>

@@ -20,8 +20,8 @@ tags:
 - socio
 - multimedia
 - ypf
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/index1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/index1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/index1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/index1-150x150.jpg
 wppost_name: crudo-sobre-el-desastre-de-chevron-en-ecuador-y-los-derrames-en-el-atlantico-del-socio-de-ypf
 ---
 
@@ -93,4 +93,4 @@ El procurador concluye que los denunciados deben responder criminalmente por hab
 <hr />
 <p style="text-align: center;"><strong>Con este <em>socio</em> que ya produjo desastres en Sudamérica vamos a <em>explotar</em> Vaca Muerta....</strong>
 <strong> Viva el Modelo Extractivista!!!</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/index1.jpg"><img class="aligncenter size-full wp-image-6481" title="Crude" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/index1.jpg" width="183" height="275" /></a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/index1.jpg"><img class="aligncenter size-full wp-image-6481" title="Crude" alt="" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/index1.jpg" width="183" height="275" /></a></strong></p>

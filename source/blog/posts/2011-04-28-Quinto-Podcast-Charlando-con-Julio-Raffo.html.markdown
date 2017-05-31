@@ -11,12 +11,12 @@ tags:
 - paradigmas
 - podcast-2
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben.png
 wppost_name: quinto-podcast-charlando-con-julio-raffo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben.png"><img class="aligncenter size-medium wp-image-849" title="Ung Pirat gubben" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben-300x240.png" alt="" width="300" height="240" /></a>En esta ocasión charlo con <a href="http://julioraffo.com/" target="_blank"> Julio Raffo,</a> por la próxima presentación de su libro:
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben.png"><img class="aligncenter size-medium wp-image-849" title="Ung Pirat gubben" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben-300x240.png" alt="" width="300" height="240" /></a>En esta ocasión charlo con <a href="http://julioraffo.com/" target="_blank"> Julio Raffo,</a> por la próxima presentación de su libro:
 
 <strong>“Derecho Autoral. Hacia un nuevo paradigma”</strong>
 
@@ -49,7 +49,7 @@ Cordialmente, Julio Raffo</blockquote>
 <hr />
 
 <div style="text-align: center;"><strong>Agradezco a Julio Raffo que haya atendido mi llamada!!!</strong></div>
-<div style="text-align: center;"><strong><a href="http://partidopirata.com.ar/979/julio-raffo-en-rebeldes-stereotipos-analizando-lo-que-dijo-jorge-coscia">Julio Raffo charlando en Rebeldes Stereótipos</a>
+<div style="text-align: center;"><strong><a href="https://partidopirata.com.ar/979/julio-raffo-en-rebeldes-stereotipos-analizando-lo-que-dijo-jorge-coscia">Julio Raffo charlando en Rebeldes Stereótipos</a>
 </strong></div>
 
 <hr />

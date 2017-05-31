@@ -8,12 +8,12 @@ tags:
 - secretaria-de-cultura
 - teddy-bautista
 - tito-cosa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-150x150.jpg
 wppost_name: los-gastos-de-teddy-bautista-el-invitado-estrella-de-jorge-coscia
 ---
 
-<img class="aligncenter" title="Teddy Bautista" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-300x225.jpg" alt="" width="300" height="225" />
+<img class="aligncenter" title="Teddy Bautista" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-300x225.jpg" alt="" width="300" height="225" />
 <strong><a href="http://www.larazon.es/noticia/4606-sgae-pago-un-ano-al-chofer-de-bautista-que-no-trabajaba-por-beber-alcohol" target="_blank">Fuente La Razón-España.</a></strong>
 
 Mientras el presunto cabecilla de la trama de corrupción de la Sociedad   General de Autores y Editores (SGAE), José Luis Rodríguez Neri, advertía sobre el mal momento económico que atravesaba la entidad y sus dificultades económicas, varios directivos de la SGAE seguían percibiendo sueldos elevados y no se privaban de invertir el dinero en viajes de lujo, regalos de empresa o joyas, según consta en el sumario del caso.
@@ -25,7 +25,7 @@ La responsable de personal, Natividad Lamela, declaró ante la Guardia Civil que
 
 <hr />
 
-Hubo un viaje al que , por lo menos, la SGAE no le pagó a Teddy, <strong><a href="http://partidopirata.com.ar/1074/cuiden-las-billeteras-llega-teddy-bautista-a-la-argentina">el que hizo invitado por Jorge Coscia</a></strong> (Secretario de Cultura, alguien muy <em>progre </em>que quiere imponer el Canon Digital en la Argentina.
+Hubo un viaje al que , por lo menos, la SGAE no le pagó a Teddy, <strong><a href="https://partidopirata.com.ar/1074/cuiden-las-billeteras-llega-teddy-bautista-a-la-argentina">el que hizo invitado por Jorge Coscia</a></strong> (Secretario de Cultura, alguien muy <em>progre </em>que quiere imponer el Canon Digital en la Argentina.
 
 En esa oportunidad, Teddy, invitado por Coscia, nos explicó cómo hacer negocios con los derechos de autor.
 

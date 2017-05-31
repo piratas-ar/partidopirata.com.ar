@@ -10,15 +10,15 @@ tags:
 - suecia
 - the-pirate-bay
 - the-student-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/sblogo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/sblogo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/sblogo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/sblogo-150x150.jpg
 wppost_name: the-student-bay-lugar-de-intercambio-de-archivos-su-administrador-camina-libre
 ---
 
 <strong><a href="https://torrentfreak.com/student-bay-file-sharing-admin-walks-free-120413/" target="_blank">Fuente Torrentfreak.</a></strong>
 Después de un proceso legal que duró más de tres años, el supuesto administrador de The Student Bay, un sitio web sueco dedicado a la  indexación de libros de texto, ha sido absuelto hoy. El tribunal dictaminó que no había evidencia de que el joven de 23 años de edad, había creado o administrado la página web, o había tenido un papel directo en la infringir el copyright.
 
-<em></em><a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/sblogo.jpg"><img class="alignright size-full wp-image-3938" title="Student Bay" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/sblogo.jpg" alt="" width="190" height="183" /></a><em>"En Suecia,se afirma que  la educación es gratuita. A pesar de esto los estudiantes se ven obligados todos los años a gastar miles de coronas en los libros necesarios para su educación. "</em>
+<em></em><a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/sblogo.jpg"><img class="alignright size-full wp-image-3938" title="Student Bay" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/sblogo.jpg" alt="" width="190" height="183" /></a><em>"En Suecia,se afirma que  la educación es gratuita. A pesar de esto los estudiantes se ven obligados todos los años a gastar miles de coronas en los libros necesarios para su educación. "</em>
 
 Estas fueron las palabras que acompañaron el lanzamiento de un nuevo site de intercambio de archivos en 2008. El objetivo de The Student Bay era acercar los libros gratuitos a las masas.
 

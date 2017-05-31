@@ -11,8 +11,8 @@ tags:
 - musica-divulgacion
 - promocion
 - trabalhos-carnivoros
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/Trabalhos_Carnivoros_Capa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/Trabalhos_Carnivoros_Capa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/Trabalhos_Carnivoros_Capa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/Trabalhos_Carnivoros_Capa-150x150.jpg
 wppost_name: download-por-tiempo-limitado-trabajos-carnivoros-de-gui-amabis
 ---
 
@@ -32,7 +32,7 @@ SÃO PAULO – Cuando Gui Amabis lanzó su primer disco solo, <em>Memorias Luso 
 
 Download grátis si, ilimitado no. Puesto para download la semana passada, el segundo lanzamiento del compositor, cantor, arreglador y productor, estará disponible gratuitamente solamente hasta el día 17 de noviembre.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Trabalhos_Carnivoros_Capa.jpg"><img class=" wp-image-7087" title="Trabalhos_Carnivoros_Capa" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Trabalhos_Carnivoros_Capa.jpg" alt="" width="335" height="331" /></a> Tapa del Cd Trabajos Carnívoros
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/Trabalhos_Carnivoros_Capa.jpg"><img class=" wp-image-7087" title="Trabalhos_Carnivoros_Capa" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/Trabalhos_Carnivoros_Capa.jpg" alt="" width="335" height="331" /></a> Tapa del Cd Trabajos Carnívoros
 
 
 Para Amabis el nuevo método es una forma de premiar a quien estuvo atento a su trabajo. “Es bueno, mi primer disco está ahí, pero este tendrá productos, tendrá el CD, tendrá el vinilo – creo que el download grátis es un regalo para quien estuvo más atento y también para que esas personas puedan difundir la música”, afirma el compositor, que también trabaja con música para películas – hizo la de Bruna Surfistinha, Senhor das Armas, entre otras películas.

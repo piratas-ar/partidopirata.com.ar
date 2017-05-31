@@ -6,8 +6,8 @@ tags:
 - canon-digital
 - democracy-now
 - julian-assange
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks-150x150.jpg
 wppost_name: noalcanon-preguntarle-a-julian-assange-si-tiene-info-sobre-el-canon-en-argentina
 ---
 

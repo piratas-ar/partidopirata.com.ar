@@ -6,8 +6,8 @@ tags:
 - impacto
 - divulgacion
 - no-al-canon
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: los-sectores-mas-pobres-si-van-a-sufrir-este-canon-noalcanon
 ---
 
@@ -21,7 +21,7 @@ wppost_name: los-sectores-mas-pobres-si-van-a-sufrir-este-canon-noalcanon
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/07/canon-6.jpg"><img class="alignleft size-medium wp-image-1332" title="canon-6" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/canon-6-300x128.jpg" alt="" width="300" height="128" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/07/canon-6.jpg"><img class="alignleft size-medium wp-image-1332" title="canon-6" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/canon-6-300x128.jpg" alt="" width="300" height="128" /></a>
 <strong><a href="http://tirandoalmedio.blogspot.com/2011/06/el-canon-digital-y-la-revolucion-20.html" target="_blank">Tirando al Medio.</a></strong>
 
 &nbsp;

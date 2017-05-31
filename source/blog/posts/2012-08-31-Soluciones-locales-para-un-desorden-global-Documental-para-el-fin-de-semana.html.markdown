@@ -17,8 +17,8 @@ tags:
 - soluciones-locales
 - transgenicos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/1272_soluciones_locales_para_un_desorden_global.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/1272_soluciones_locales_para_un_desorden_global-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/1272_soluciones_locales_para_un_desorden_global.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/1272_soluciones_locales_para_un_desorden_global-150x150.jpg
 wppost_name: soluciones-locales-para-un-desorden-global-documental-para-el-fin-de-semana
 ---
 
@@ -41,6 +41,6 @@ wppost_name: soluciones-locales-para-un-desorden-global-documental-para-el-fin-d
 
 "<span style="font-size: small;">Según la directora,“<em><strong>Hoy en día es necesario mostrar que existen soluciones, dar la palabra a filósofos y economistas que, explicando las causas que han llevado al modelo actual a la crisis ecológica,  financiera y política, inventen y experimenten alternativas</strong>. El documental pretende ser lúdico y poético, revolucionar las ideas, cuestionar nuestras certezas acerca de la normalidad y hacer reflexionar sobre el funcionamiento de nuestras relaciones sociales y económicas.</em>”</span>"
 <p style="text-align: center;"> <a href="http://www.ladyverd.com/articulo/1272/soluciones_locales_para_un_desorden_global.htm" target="_blank">Fuente Ladyverd</a></p>
-<p style="text-align: left;">La película es del año 2010, y en la Argentina tiene más actualidad que nunca por los anuncios del ministro de agriclutura del envío al congreso de la <strong><em><a href="http://partidopirata.com.ar/6173/no-a-la-ley-monsanto">Ley Monsanto</a></em></strong> que permitirá que se patenten semillas y limitará el intercambio de semillas criollas entre los agricultores.
+<p style="text-align: left;">La película es del año 2010, y en la Argentina tiene más actualidad que nunca por los anuncios del ministro de agriclutura del envío al congreso de la <strong><em><a href="https://partidopirata.com.ar/6173/no-a-la-ley-monsanto">Ley Monsanto</a></em></strong> que permitirá que se patenten semillas y limitará el intercambio de semillas criollas entre los agricultores.
 Es muy interesante ver las diferentea alternativas al <em>modelo</em> agropecuario impuesto en nuestros países.
 Tratar de encontrar otras salidas a él.</p>

@@ -13,7 +13,7 @@ thumb:
 wppost_name: suprema-corte-decidira-el-destino-de-millones-de-obras-en-dominio-publico
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg"><img class="aligncenter size-full wp-image-1949" title="dominio-publico" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg" alt="Dominio Público" width="317" height="361" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg"><img class="aligncenter size-full wp-image-1949" title="dominio-publico" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg" alt="Dominio Público" width="317" height="361" /></a>
 <strong><a href="http://www.washingtonpost.com/politics/supreme-court-copyright-case-will-decide-fate-of-millions-of-once-public-works/2011/10/03/gIQAfX6LLL_story.html" target="_blank">Fuente Washington Post.</a></strong>
 
 &nbsp;
@@ -54,7 +54,7 @@ Las orquestas que solían ser capaces de comprar la sinfonía de Prokofiev por $
 
 <hr />
 <p style="text-align: center;">Actualización:
-<strong> <a href="http://partidopirata.com.ar/2873/ee-uu-corte-suprema-le-dice-al-congreso-que-pueden-tener-copyright-obras-que-estaban-en-dominio-publico">Finalmente la Corte Suprema otorgó derechos de autor a Stravinsky y otros, perdimos todos, ganaron...Muy pocos.</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/2873/ee-uu-corte-suprema-le-dice-al-congreso-que-pueden-tener-copyright-obras-que-estaban-en-dominio-publico">Finalmente la Corte Suprema otorgó derechos de autor a Stravinsky y otros, perdimos todos, ganaron...Muy pocos.</a></strong></p>
 
 
 <hr />

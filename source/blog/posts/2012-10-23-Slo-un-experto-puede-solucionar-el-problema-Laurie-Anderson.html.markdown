@@ -10,13 +10,13 @@ tags:
 - solucion-de-problemas
 - transgenicos-colonialidad
 - urnas-electronicas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono-150x150.png
 wppost_name: solo-un-experto-puede-solucionar-el-problema-laurie-anderson
 ---
 
 <p style="text-align: center;"><a href="http://www.pagina12.com.ar/diario/cdigital/31-166037-2011-04-12.html" target="_blank"><strong>En esta nota Mariano Blejman</strong> </a>ironizaba sobre la "solución" de las urnas electrónicas y que su control sólo sería posible por expertos, él parafraseaba la canción de Laurie Anderson</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6732/sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben">Acá dejamos bastante documentación sobre las urnas electrónicas</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6732/sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben">Acá dejamos bastante documentación sobre las urnas electrónicas</a></strong></p>
 <p style="text-align: center;">Así que dejamos la canción de Laurie Anderson con los subtítulos que encontramos<a href="http://saurio.blogspot.com.ar/2007/12/laurie-anderson-only-expert.html" target="_blank"> en este blog.</a></p>
 
 

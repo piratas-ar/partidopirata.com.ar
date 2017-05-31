@@ -6,12 +6,12 @@ tags:
 - censura
 - destacados
 - the-pirate-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2014/12/tpb.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/12/tpb-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2014/12/tpb.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/12/tpb-150x150.png
 wppost_name: que-florezcan-mil-bahias-piratas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2014/12/tpb.png"><img class="aligncenter wp-image-9586 size-large" src="http://partidopirata.com.ar/wp-content/uploads/2014/12/tpb-1024x509.png" alt="tpb" width="620" height="308" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2014/12/tpb.png"><img class="aligncenter wp-image-9586 size-large" src="https://partidopirata.com.ar/wp-content/uploads/2014/12/tpb-1024x509.png" alt="tpb" width="620" height="308" /></a>
 
 Luego que la policía sueca lograse allanar finalmente los servidores de la Bahía Pirata (The Pirate Bay) y que Brokep (Peter Sunde), uno de sus fundadores, expresara que el grupo que mantiene el sitio ha perdido el espíritu original, virando hacia intereses puramente comerciales de dudosa ética y sin compromiso con su resiliencia característica, resultó obvio que ya no podíamos confiarles el acceso y cuidado de nuestra cultura.
 <blockquote>"Pirate bay se convirtió en una institución, la gente simplemente espera que permanezca ahí" -- Brokep <a href=" http://blog.brokep.com/2014/12/09/the-pirate-bay-down-forever/" target="_blank">Lee la nota completa (en inglés)</a></blockquote>

@@ -9,8 +9,8 @@ tags:
 - occupy-wall-street
 - pizza
 - pizzeria
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/preciobitcoin.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/preciobitcoin-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/preciobitcoin.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/preciobitcoin-150x150.png
 wppost_name: pizza-por-bitcoins-algo-interesante-para-apoyar-algunas-movidas-sociales
 ---
 
@@ -35,9 +35,9 @@ El artículo de Nakamoto describe <strong> los bitcoins como una moneda sin auto
 
 <strong>El año pasado estuvimos hablando con Mariana y Marcelo sobre los Bitcoins para tratar de entender un poco más de qué se trata.</strong>
 <ol>
-	<li><strong><a href="http://partidopirata.com.ar/5086/podcast-sobre-bitcoin-aprendiendo-una-nueva-manera-de-intercambiar">Con Mariana y Marcelo charlando sobre los Bitcoins I.</a></strong></li>
-	<li><em><strong><a href="http://partidopirata.com.ar/6328/con-mariana-y-marcelo-sobre-bitcoin-ii">Con Mariana y Marcelo  sobre Bitcoins II</a></strong></em></li>
-	<li><strong><a href="http://partidopirata.com.ar/6763/charlando-con-mariana-y-marcelo-sobre-bitcoins-iii">Con Mariana y Marcelo sobre Bitcoins III</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5086/podcast-sobre-bitcoin-aprendiendo-una-nueva-manera-de-intercambiar">Con Mariana y Marcelo charlando sobre los Bitcoins I.</a></strong></li>
+	<li><em><strong><a href="https://partidopirata.com.ar/6328/con-mariana-y-marcelo-sobre-bitcoin-ii">Con Mariana y Marcelo  sobre Bitcoins II</a></strong></em></li>
+	<li><strong><a href="https://partidopirata.com.ar/6763/charlando-con-mariana-y-marcelo-sobre-bitcoins-iii">Con Mariana y Marcelo sobre Bitcoins III</a></strong></li>
 </ol>
 
 <hr />

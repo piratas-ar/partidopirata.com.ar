@@ -11,19 +11,19 @@ tags:
 - educacion-en-chile
 - podcast-2
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671-150x150.jpg
 wppost_name: charlando-con-christian-alvarez-quien-fuera-acusado-de-ser-administrador-de-cuevana-en-chile
 ---
 
 <p style="text-align: right;"><strong>El fin del caso, ahí los grandes medios no sacaron la foto con Christian esposado:</strong>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/sin_cargos-300x159.jpg"><img class="alignright size-full wp-image-5821" title="sin_cargos-300x159" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/sin_cargos-300x159.jpg" alt="" width="300" height="159" /></a></p>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/sin_cargos-300x159.jpg"><img class="alignright size-full wp-image-5821" title="sin_cargos-300x159" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/sin_cargos-300x159.jpg" alt="" width="300" height="159" /></a></p>
 <p style="text-align: right;"><a href="http://culturadigital.cl/wp/?p=2045" target="_blank">Caso Cuevana:HBO derrotada en Chile.</a></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671.jpg"><img class="size-medium wp-image-5801" title="600x0_518671" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671-300x225.jpg" alt="" width="300" height="225" /></a> Christian Álvarez Rojas y el circo que montaron en torno a su acusación como colaborador de Cuevana
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671.jpg"><img class="size-medium wp-image-5801" title="600x0_518671" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/600x0_518671-300x225.jpg" alt="" width="300" height="225" /></a> Christian Álvarez Rojas y el circo que montaron en torno a su acusación como colaborador de Cuevana
 
 
 <strong>Cristian Álvarez Rojas</strong> era investigado por las autoridades chilenas por<strong> infringir la Ley de Propiedad Intelectual.</strong> Está acusado de subir a la red las películas del vecino país. La denuncia que desembocó en la detención fue presentada por HBO. Hay otros ocho administradores del sitio en América Latina
@@ -37,7 +37,7 @@ Presionen en <em>play</em> para escucharl osin descargar o
 <a href="http://www.ivoox.com/charlando-christian-alvarez-colaborador-cuevana-en_md_1368381_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-christian-alvarez-colaborador-cuevana-en-audios-mp3_rf_1368381_1.html" target="_blank">en el siguiente enlace.</a></center>&nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart2.png"><img class="size-full wp-image-5800" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart2.png"><img class="size-full wp-image-5800" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart2.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 
 <hr />
@@ -60,7 +60,7 @@ Reportaje en CNN luego del fin del caso
 <ul>
 	<li><strong><a href="https://twitter.com/huronio" target="_blank">Twitter de Christian Álvarez.</a></strong></li>
 	<li><strong><a href="https://es.wikipedia.org/wiki/Los_Blops" target="_blank">Entrada en la wiki del conjunto musical chileno Los Blops</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5436/vienen-por-el-oro-vienen-por-todo-documental" target="_blank">El documental <em>Vienen por el oro, vienen por todo</em></a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5436/vienen-por-el-oro-vienen-por-todo-documental" target="_blank">El documental <em>Vienen por el oro, vienen por todo</em></a></strong></li>
 	<li><strong><a href="http://culturadigital.cl/wp/?p=2045" target="_blank">Caso Cuevana: HBO Derrotada en Chile</a></strong></li>
 </ul>
 </ul>
@@ -80,6 +80,6 @@ Reportaje en CNN luego del fin del caso
 <hr />
 
 <center>
-<strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Los otros podcast del partido pirata argentino.</a></strong></center>
+<strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Los otros podcast del partido pirata argentino.</a></strong></center>
 
 <hr />

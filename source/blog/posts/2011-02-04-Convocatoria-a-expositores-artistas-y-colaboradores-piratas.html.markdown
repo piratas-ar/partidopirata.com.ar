@@ -21,8 +21,8 @@ tags:
 - piratefest
 - privacidad
 - software
-image: http://partidopirata.com.ar/wp-content/uploads/2011/02/250px-Pirate_Flag_of_Rack_Rackham.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/02/250px-Pirate_Flag_of_Rack_Rackham.svg_.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/02/250px-Pirate_Flag_of_Rack_Rackham.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/02/250px-Pirate_Flag_of_Rack_Rackham.svg_.png
 wppost_name: convocatoria-a-expositores-artistas-y-colaboradores-piratas-pf11
 ---
 
@@ -38,8 +38,8 @@ Internet, pero ante todo queremos pasarla bien, compartir ideas y difundir la cu
 
 Lugar:  OnceLibre (Pueyrredon 19 3º piso, Buenos Aires)
 Fecha y Horarios: 12 y 13 de marzo
-Contacto: <a href="http://partidopirata.com.ar/contacto">http://partidopirata.com.ar/contacto</a>
+Contacto: <a href="https://partidopirata.com.ar/contacto">https://partidopirata.com.ar/contacto</a>
 
-Más sobre el Partido Pirata <a href="http://partidopirata.com.ar">http://partidopirata.com.ar</a>
+Más sobre el Partido Pirata <a href="https://partidopirata.com.ar">https://partidopirata.com.ar</a>
 Mas sobre PirateFest 2011 <a href="http://piratefest.partidopirata.com.ar">http://piratefest.partidopirata.com.ar</a>
 Más sobre OnceLibre <a href="http://oncelibre.com.ar">http://oncelibre.com.ar</a>

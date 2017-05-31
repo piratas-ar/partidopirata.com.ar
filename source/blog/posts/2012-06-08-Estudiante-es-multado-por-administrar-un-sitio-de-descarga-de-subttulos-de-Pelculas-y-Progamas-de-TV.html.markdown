@@ -12,8 +12,8 @@ tags:
 - site-cerrado
 - site-de-subtitulos
 - subtitulos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/norsublogo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/norsublogo-150x140.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/norsublogo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/norsublogo-150x140.jpg
 wppost_name: estudiante-multado-por-administrar-un-sitio-de-descarga-de-subtitulos-de-peliculas-y-progamas-de-tv
 ---
 
@@ -21,7 +21,7 @@ wppost_name: estudiante-multado-por-administrar-un-sitio-de-descarga-de-subtitul
 
 Un estudiante que dirigía un sitio que permitía la descarga de archivos de millones de subtítulos de programas de televisión y películas  ha sido declarado culpable de delitos de infracción de derechos de autor. A pesar de que se reconoció que él, de 25 años de edad, no hizo ningún dinero durante los tres años en que estuvo operativo el site, los fiscales exigían una sentencia de cárcel. Después de luchar debido a la falta de jurisprudencia, al final el tribunal lo sentenció a una multa.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/norsublogo.jpg"><img class="alignright size-full wp-image-4684" title="norsublogo" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/norsublogo.jpg" alt="" width="162" height="140" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/norsublogo.jpg"><img class="alignright size-full wp-image-4684" title="norsublogo" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/norsublogo.jpg" alt="" width="162" height="140" /></a>
 
 Desde las personas sordas a las que simplemente no entienden el lenguaje usado, para millones de personas en todo el mundo los subtítulos son necesarios para disfrutar películas y programas de televisión.
 
@@ -35,7 +35,7 @@ En abril de este año el sitio, que TorrentFreak había identificado como Norsub
 
 Como resultado, Norsub dijo que había elegido "distanciarse de esta actividad" cerrándolo, pero ahora resulta que sus problemas estaban corriendo un poco más profundamente que el mero hecho de ser "informado".
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/norsub1.jpg"><img class="aligncenter size-medium wp-image-4685" title="norsub1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/norsub1-300x154.jpg" alt="" width="300" height="154" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/norsub1.jpg"><img class="aligncenter size-medium wp-image-4685" title="norsub1" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/norsub1-300x154.jpg" alt="" width="300" height="154" /></a>
 
 De acuerdo con un <a href="http://www.adressa.no/nyheter/trondheim/article1832646.ece">informe</a> de la Corte del Condado Sur Trøndelag, un estudiante de la Universidad Noruega de Ciencia y Tecnología de Trondheim ha enfrentado un juicio por operar Norsub.
 

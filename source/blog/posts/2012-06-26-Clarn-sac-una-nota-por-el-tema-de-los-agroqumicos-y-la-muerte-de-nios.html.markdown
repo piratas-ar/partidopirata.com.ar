@@ -10,8 +10,8 @@ tags:
 - modelo-agricola
 - monsanto
 - soja
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/RepublicaSoja-150x150.jpg
 wppost_name: clarin-saco-una-nota-por-el-tema-de-los-agroquimicos-y-la-muerte-de-ninos
 ---
 
@@ -60,6 +60,6 @@ José, el menor de los cuatro hijos de don David, empezó a vomitar un lunes a l
 <object style="height: 390px; width: 640px;" width="640" height="360" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="https://www.youtube.com/v/xngdzZpgTbI?version=3&amp;feature=player_embedded" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed style="height: 390px; width: 640px;" width="640" height="360" type="application/x-shockwave-flash" src="https://www.youtube.com/v/xngdzZpgTbI?version=3&amp;feature=player_embedded" allowFullScreen="true" allowScriptAccess="always" allowfullscreen="true" allowscriptaccess="always" /></object>
 Lejos los tiempos en que el Ingeniero Huergo del Suplemento Rural de Clarín y el ministro de ciencia y tecnología Lino Barañao.
 
-<a href="http://partidopirata.com.ar/815/rehenes-del-copyright-tambien">Lo que decía el Ingeniero Huergo sobre los libros sobre medio ambiente del Ministerio del Medio Ambiente que cuestionaba el modelo transgénico impuesto en la Argentina </a></center>
+<a href="https://partidopirata.com.ar/815/rehenes-del-copyright-tambien">Lo que decía el Ingeniero Huergo sobre los libros sobre medio ambiente del Ministerio del Medio Ambiente que cuestionaba el modelo transgénico impuesto en la Argentina </a></center>
 
 <hr />

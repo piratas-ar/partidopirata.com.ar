@@ -12,12 +12,12 @@ tags:
 - noticias
 - protestas
 - sustentabilidad-de-la-mineria
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/cerro-famatina-argentina1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/cerro-famatina-argentina1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/cerro-famatina-argentina1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/cerro-famatina-argentina1-150x150.jpg
 wppost_name: cerra-que-se-escapan-los-politicos
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/cerro-famatina-argentina.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/01/cerro-famatina-argentina-300x208.jpg" alt="" title="cerro-famatina-argentina" width="300" height="208" class="alignleft size-medium wp-image-2684" /></a> Cuenta la historia que en un pueblo de apenas siete mil habitantes, tres mil de ellos se levantaron contra las minas, a la siesta, como con 40 grados, y que cortaron el acceso al famatinium. Que hasta el cura del pueblo sonaba las campanas cuando se acercaba la gente de la minera.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/cerro-famatina-argentina.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/01/cerro-famatina-argentina-300x208.jpg" alt="" title="cerro-famatina-argentina" width="300" height="208" class="alignleft size-medium wp-image-2684" /></a> Cuenta la historia que en un pueblo de apenas siete mil habitantes, tres mil de ellos se levantaron contra las minas, a la siesta, como con 40 grados, y que cortaron el acceso al famatinium. Que hasta el cura del pueblo sonaba las campanas cuando se acercaba la gente de la minera.
 
 Mientras, un gobernador cipayo decía que las minas "se abren cueste lo que cueste", que en la provincia de al lado se hacia lo mismo y no pasaba nada Que importa más escarbar, para sacar lo que se van a llevar para algún país del norte, que el agua. Que tampoco hay tanta como para andarse preocupando.
 

@@ -11,8 +11,8 @@ tags:
 - pueblos-originarios
 - qom
 - tratado-interetnico
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/tierra-un-documento-historico-para-las-comunidades-indigenas-de-argentina.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/tierra-un-documento-historico-para-las-comunidades-indigenas-de-argentina-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/tierra-un-documento-historico-para-las-comunidades-indigenas-de-argentina.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/tierra-un-documento-historico-para-las-comunidades-indigenas-de-argentina-150x150.jpg
 wppost_name: documento-t-ie-r-r-a
 ---
 
@@ -24,7 +24,7 @@ wppost_name: documento-t-ie-r-r-a
 <div></div>
 <div>HOY, NOSOTROS, LOS DESENDIENTES ABYA YALA, LAS NACIONES, LOS PUEBLOS Y COMUNIDADES INDÍGENAS QUE EXISTIMOS ANTES DE  LA FORMACIÓN DEL ESTADO ARGENTINO Y CONTINUAMOS EXISTIENDO EN EL PRESENTE, DECIDIMOS UNIRNOS EN UN SOLO GRITO.     <strong>                                        </strong></div>
 <div>
-<div><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/tierranumero1.jpg"><img class=" wp-image-5847 alignright" title="tierranumero1" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/tierranumero1.jpg" alt="" width="384" height="576" /></a></strong></div>
+<div><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/tierranumero1.jpg"><img class=" wp-image-5847 alignright" title="tierranumero1" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/tierranumero1.jpg" alt="" width="384" height="576" /></a></strong></div>
 </div>
 <div>HOY, NOSOTROS ASI COMO LO HICIMOS EL 25 DE MAYO DE 2010, DOSCIENTOS AÑOS DESPUÉS DE LA REVOLUCIÓN DE MAYO DECIDIMOS ALZAR NUESTRA VOZ AL MUNDO.</div>
 <div></div>

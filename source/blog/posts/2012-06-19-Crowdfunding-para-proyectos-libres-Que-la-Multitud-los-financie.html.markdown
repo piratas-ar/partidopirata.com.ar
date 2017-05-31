@@ -10,16 +10,16 @@ tags:
 - kickstarter
 - multidao
 - proyectos-libros
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven-150x150.jpg
 wppost_name: crowdfunding-para-proyectos-libres-que-la-multitud-los-financie
 ---
 
-Para saber un poco más sobre <em>Financiación Colaborativa</em> o <em>Crowdfunding</em> acá un podcast, un programa de radio grabado con<strong><a href="http://partidopirata.com.ar/916/916"> Rodrigo Maia de <em>Multidão</em> un site de financiación colaborativa.</a></strong>
+Para saber un poco más sobre <em>Financiación Colaborativa</em> o <em>Crowdfunding</em> acá un podcast, un programa de radio grabado con<strong><a href="https://partidopirata.com.ar/916/916"> Rodrigo Maia de <em>Multidão</em> un site de financiación colaborativa.</a></strong>
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/crowdfunding-para-projetos-livres/" target="_blank">Fuente Tatiana de Mello Dias</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven.jpg"><img class="size-medium wp-image-4848" title="beethoven" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven-300x221.jpg" alt="" width="300" height="221" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven.jpg"><img class="size-medium wp-image-4848" title="beethoven" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/beethoven-300x221.jpg" alt="" width="300" height="221" /></a>
 
 
 El site de crowdfunding[financiación colaborativa] Kickstarter tiene una sección dedicada apenas a proyectos que serán licenciados con Creative Commons.

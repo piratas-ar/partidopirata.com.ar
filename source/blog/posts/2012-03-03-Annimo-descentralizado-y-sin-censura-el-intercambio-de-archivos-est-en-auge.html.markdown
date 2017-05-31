@@ -14,8 +14,8 @@ tags:
 - retroshared
 - torren-freak
 - tribler
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare-monthly.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare-monthly-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare-monthly.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare-monthly-150x150.png
 wppost_name: anonimo-descentralizado-y-sin-censura-el-intercambio-de-archivos-esta-en-auge
 ---
 
@@ -31,7 +31,7 @@ Mientras que muchos sitios BitTorrent y cyberlockers siguen funcionando como de 
 
 Anónimo, descentralizado y sin censura son las funciones principales más buscadas. Para algunos esto significa la firma con una <a href="http://torrentfreak.com/which-vpn-providers-really-take-anonymity-seriously-111007/"> VPN</a> para hacer el intercambio de BitTorrent más privado, pero los clientes nuevos también están generando interés.
 
-A principios de este mes escribimos acerca de <a href="http://partidopirata.com.ar/3108/tribler-hace-imposible-cerrar-bittorrent">Tribler, </a>un cliente de BitTorrent descentralizado, que hace a los sitios torrent obsoletos. Hemos cubierto a Tribler hace más de la mitad de una década, pero fue sólo después de nuestro mensaje más reciente que realmente despegó con más de <a href="http://statistics.tribler.org/"> cien mil descargas</a> en pocos días.
+A principios de este mes escribimos acerca de <a href="https://partidopirata.com.ar/3108/tribler-hace-imposible-cerrar-bittorrent">Tribler, </a>un cliente de BitTorrent descentralizado, que hace a los sitios torrent obsoletos. Hemos cubierto a Tribler hace más de la mitad de una década, pero fue sólo después de nuestro mensaje más reciente que realmente despegó con más de <a href="http://statistics.tribler.org/"> cien mil descargas</a> en pocos días.
 
 Pero hay más herramientas para compartir archivos que se están construyendo específicamente para resistir ataques externos. Algunos incluso agregan el anonimato entre las opciones. RetroShare es como una organización privada y sin censura de intercambio de archivos, y los desarrolladores también han notado un auge significativo en los usuarios recientemente.
 
@@ -42,13 +42,13 @@ El fundador de RetroShare DrBob nos dijo que el software existe desde el 2006, d
 
 "En enero nuestras descargas se triplicaron cuando el interés por SOPA estaba en su apogeo. Fue más del doble de nuevo en febrero, cuando los cyberlockers [Megaupload] deshabilitaron el compartir o se borraron por completo. En este momento estamos recibiendo 10 veces más  descargas  que en diciembre de 2011. "
 <h5 style="text-align: center;"><a href="http://sourceforge.net/projects/retroshare/files/stats/timeline?dates=2010-10-02+to+2012-02-28">Descargas </a>de RetroShare a través de Sourceforge</h5>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare-monthly.png"><img class="aligncenter size-full wp-image-3362" title="Descargas de Retroshare" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare-monthly.png" alt="" width="525" height="187" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare-monthly.png"><img class="aligncenter size-full wp-image-3362" title="Descargas de Retroshare" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare-monthly.png" alt="" width="525" height="187" /></a>
 
 El fundador de RetroShare cree que hay una mayor necesidad de seguridad, privacidad y libertad entre los que comparten archivos, características que se encuentran en el núcleo de su aplicación.
 
 "RetroShare trata de crear un espacio privado en Internet. Una red de colaboración social donde puedes compartir todo lo que quieras. Un espacio que está libre de las miradas indiscretas de los gobiernos, empresas y anunciantes. Esto es de vital importancia ya que nuestra libertad en Internet está cada vez más amenazada ", dijo a TorrentFreak DrBob.
 <p style="text-align: center;"><strong>Descargando con RetroShare</strong></p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare1.jpg"><img class="aligncenter size-full wp-image-3363" title="Descargando con Retroshared" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare1.jpg" alt="" width="525" height="330" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare1.jpg"><img class="aligncenter size-full wp-image-3363" title="Descargando con Retroshared" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/retroshare1.jpg" alt="" width="525" height="330" /></a>
 Es imposible predecir con exactitud a que se parecerá  el intercambio de archivos dentro de 5. Sin embargo, una suposición segura es que el <a href="http://torrentfreak.com/15-percent-of-us-file-sharers-hide-their-ip-address-111229/">anonimato </a>tendrá un papel más central que nunca.
 
 Redadas recientes han hecho que los operadores de centrales de intercambio de archivos y sites de servicios sean más prudente con la infracción al copyright. Algunos incluso fueron tan lejos como el cierre de forma voluntaria, como Btjunkie.

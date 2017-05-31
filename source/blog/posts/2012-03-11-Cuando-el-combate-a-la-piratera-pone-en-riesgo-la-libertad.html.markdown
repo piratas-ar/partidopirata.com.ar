@@ -10,8 +10,8 @@ tags:
 - libertad-de-expresion
 - techdirt
 - torrenffreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault-150x150.jpg
 wppost_name: cuando-el-combate-a-la-pirateria-pone-en-riesgo-la-libertad
 ---
 
@@ -31,10 +31,10 @@ A falta de leyes que garanticen princípios básicos como libertad y privacidad 
 
 Hay iniciativas, sin embargo, para intentar regular ese ambiente. Open Knowledge Foundation propuso algunas reglas para el borrado de contenido. Como, por ejemplo, penalizar pedidos de borrado indebidos. Esa y otras propuestas están en el site Internet Blueprint, que quiere discutir las reglas para garantizar una “internet mejor” y proteger a los usuarios de eventuales abusos. Reddit propuso “Free Internet Act”, ley que está siendo discutida colaborativamente y debe ser presentada en Europa dentro de poco. Y en Brasil, el Marco Civil de Internet es discutido hace casi dos años – y todavía no se sabe cuál sera su destino, aunque el gobierno garantice que la ley es prioritaria. Mientras, quien produce contenido corre el riesgo de tener que borrar algo. O ser borrado.
 
-<a href="http://partidopirata.com.ar/3458/brasil-tasa-para-colocar-videos-con-musica-en-blogs-google-condena-al-ecad-y-pide-el-fin-de-cobros">[1] Sobre la exigencia del ECAD que los blogs que tienen videos de música paguen una tasa</a>
+<a href="https://partidopirata.com.ar/3458/brasil-tasa-para-colocar-videos-con-musica-en-blogs-google-condena-al-ecad-y-pide-el-fin-de-cobros">[1] Sobre la exigencia del ECAD que los blogs que tienen videos de música paguen una tasa</a>
 
-<a href="http://partidopirata.com.ar/3320/sites-que-cuestionan-el-argumento-oficial-sobre-pirateria-son-censurados">[2] TorrenFreak y Techdirt con sus contenidos censurados en Google</a>
+<a href="https://partidopirata.com.ar/3320/sites-que-cuestionan-el-argumento-oficial-sobre-pirateria-son-censurados">[2] TorrenFreak y Techdirt con sus contenidos censurados en Google</a>
 
-<a href="http://partidopirata.com.ar/3375/la-dmca-horrores-de-una-herramienta-de-censura-amplia-y-automatizada">[3]Sobre Notice and Take Down o Notificación y borrado, los abusos que genera esa ley.</a>
+<a href="https://partidopirata.com.ar/3375/la-dmca-horrores-de-una-herramienta-de-censura-amplia-y-automatizada">[3]Sobre Notice and Take Down o Notificación y borrado, los abusos que genera esa ley.</a>
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/quando-o-combate-a-pirataria-coloca-em-risco-a-liberdade/" target="_blank">Fuente Suplemento Link.</a></strong>

@@ -9,8 +9,8 @@ tags:
 - privacidad
 - sociedad-de-control
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_-150x150.png
 wppost_name: neutralidad-en-internet
 ---
 

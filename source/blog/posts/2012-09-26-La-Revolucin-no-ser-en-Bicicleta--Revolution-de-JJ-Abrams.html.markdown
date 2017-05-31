@@ -7,8 +7,8 @@ tags:
 - jj-abrams
 - revolucion-en-bicicleta
 - revolution
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/images1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/images1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/images1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/images1-150x150.jpg
 wppost_name: la-revolucion-no-sera-en-bicicleta-revolution-de-j-j-abrams
 ---
 

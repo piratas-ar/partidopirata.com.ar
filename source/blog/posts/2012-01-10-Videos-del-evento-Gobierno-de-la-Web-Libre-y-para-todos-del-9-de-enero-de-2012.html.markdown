@@ -10,8 +10,8 @@ tags:
 - pablo-d%c2%b4amico
 - sopa
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red-150x150.jpg
 wppost_name: videos-del-evento-gobierno-de-la-web-libre-y-para-todos-del-9-de-enero-de-2012
 ---
 

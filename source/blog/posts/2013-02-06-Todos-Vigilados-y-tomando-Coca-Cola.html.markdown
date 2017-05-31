@@ -10,8 +10,8 @@ tags:
 - registro-de-acciones
 - vias-publicas
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
 wppost_name: todos-vigilados-y-tomando-coca-cola
 ---
 
@@ -27,4 +27,4 @@ A través de <strong><a href="http://www.ieco.clarin.com/empresas/publicidad-arg
 
 Y es inevitable no pensar en cuanto que somos vigilados. Cuanto somos registrados. Si los publicistas de Coca Cola tienen acceso a esas imágenes,<strong> ¿cuántos más tendrán acceso a ellas?.</strong>
 <p style="text-align: center;">Todos vigilados y tomando Coca Cola podría ser el eslogan...</p>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/8389/sobre-el-proyecto-indect-en-europa-vigilancia-masiva-y-posibles-consecuencias">Algunos de los motivos por los que estamos en contra de tanta vigilancia</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/8389/sobre-el-proyecto-indect-en-europa-vigilancia-masiva-y-posibles-consecuencias">Algunos de los motivos por los que estamos en contra de tanta vigilancia</a></strong></p>

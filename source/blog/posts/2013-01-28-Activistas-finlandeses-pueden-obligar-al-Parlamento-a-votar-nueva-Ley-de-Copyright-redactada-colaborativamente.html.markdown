@@ -9,8 +9,8 @@ tags:
 - finlandia
 - reforma-del-derecho-de-autor
 - sites
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro-150x150.jpg
 wppost_name: activistas-finlandeses-pueden-obligar-al-parlamento-a-votar-nueva-ley-de-copyright-redactada-colaborativamente
 ---
 
@@ -26,8 +26,8 @@ si llegan a las 50.000 firmas, se puede esperar grandes que los grupos de presi�
 
 <hr />
 
-En Brasil hay un<a href="http://www.cultura.gov.br/consultadireitoautoral/" target="_blank"> proyecto de ley para la reforma del derecho de autor realizado colaborativamente</a> así como el<a href="http://partidopirata.com.ar/7357/brasil-sobre-el-marco-civil-de-internet"> Marco Civil de Internet que define </a>derechos y deberes de usuarios, proveedores, empresas y Estado en Internet que, lamentáblemente, está parado en el Congreso por todas las presiones de las telefónicas (sobre neutralidad de la red) y de los que lucran con el copyright.
+En Brasil hay un<a href="http://www.cultura.gov.br/consultadireitoautoral/" target="_blank"> proyecto de ley para la reforma del derecho de autor realizado colaborativamente</a> así como el<a href="https://partidopirata.com.ar/7357/brasil-sobre-el-marco-civil-de-internet"> Marco Civil de Internet que define </a>derechos y deberes de usuarios, proveedores, empresas y Estado en Internet que, lamentáblemente, está parado en el Congreso por todas las presiones de las telefónicas (sobre neutralidad de la red) y de los que lucran con el copyright.
 
 En la Argentina ninguna página oficial tiene, ni siquiera, la opción de dejar comentarios.
 
-Hay proyectos de ley que nos modificarán la vida a todos como la Reforma del Código Civil y Comercial, en su site, <strong><a href="http://partidopirata.com.ar/5935/reforma-del-codigo-civil-argentino-este-no-es-un-proyecto-de-un-jurista-ni-siquiera-de-tres-y-la-gente">no hay ninguna opción para colocar una opinión...</a></strong>
+Hay proyectos de ley que nos modificarán la vida a todos como la Reforma del Código Civil y Comercial, en su site, <strong><a href="https://partidopirata.com.ar/5935/reforma-del-codigo-civil-argentino-este-no-es-un-proyecto-de-un-jurista-ni-siquiera-de-tres-y-la-gente">no hay ninguna opción para colocar una opinión...</a></strong>

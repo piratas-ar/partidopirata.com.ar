@@ -10,12 +10,12 @@ tags:
 - podcasts
 - praga
 - senador-pirata
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/chart-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/chart-115x115.png
 wppost_name: conversando-con-petr-del-partido-pirata-checo
 ---
 
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6975/primer-senador-pirata-en-la-republica-checa">Acá anunciábamos la elección del primer senador pirata</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6975/primer-senador-pirata-en-la-republica-checa">Acá anunciábamos la elección del primer senador pirata</a></strong></p>
 Así que estuvimos hablando con Petr que es del Partido Pirata de la región de Pilsen sobre esta elección y la situación del PP Checo.
 
 <hr />
@@ -25,7 +25,7 @@ Así que estuvimos hablando con Petr que es del Partido Pirata de la región de 
 <p style="text-align: center;">Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/conversando-petr-desde-republica-checa-audios-mp3_rf_1542391_1.html" target="_blan">En este link.</a></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png"><img class="size-full wp-image-7199" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png"><img class="size-full wp-image-7199" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/chart.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 <hr />

@@ -7,12 +7,12 @@ tags:
 - libros
 - libros-divulgacion
 - uso-de-internet
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/hacktivistas_logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/hacktivistas_logo.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/hacktivistas_logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/hacktivistas_logo.png
 wppost_name: contra-guia-para-el-buen-uso-de-internet-entre-los-jovenes
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/hacktivistas_logo.png"><img class="aligncenter size-medium wp-image-834" title="hacktivistas_logo" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/hacktivistas_logo-300x51.png" alt="" width="300" height="51" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/hacktivistas_logo.png"><img class="aligncenter size-medium wp-image-834" title="hacktivistas_logo" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/hacktivistas_logo-300x51.png" alt="" width="300" height="51" /></a>
 <div id="h">Hoy se publica y difunde una Contra-Guía para el buen  uso de Internet entre los jóvenes.</div>
 Promusicae, la SGAE, la FAP y otros  lobbies de las industrias  culturales a través de Childnet han publicado una Guía para padres y  profesores sobre el uso de Internet con la intención de hacerla circular 		entre los y las  alumnas de primaria y secundaria, difundida ésta a su  vez por el Ministerio de Cultura a sus <a href="http://guia.hacktivistas.net/sinde.html">suscritos</a>.
 Esta  Guía es un intento gravísimo de manipulación de los jóvenes para  hacer  de ellos clientes pasivos de productos de entretenimiento de  baja  calidad con los que los lobbies culturales hacen su fortuna.
@@ -30,7 +30,7 @@ La educación como responsabilidad, no como lavado de cerebro.
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wiki/index.php?title=Libros_Piratas#Libros">Màs libros en nuestra wiki.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wiki/index.php?title=Libros_Piratas#Libros">Màs libros en nuestra wiki.</a></strong></p>
 
 
 <hr />

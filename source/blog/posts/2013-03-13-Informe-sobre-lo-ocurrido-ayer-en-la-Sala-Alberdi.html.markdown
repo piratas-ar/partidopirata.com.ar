@@ -9,8 +9,8 @@ tags:
 - hernan-lombardi
 - mauricio-macri
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/represion_sala_alberdi-150x150.jpg
 wppost_name: informe-sobre-lo-ocurrido-ayer-en-la-sala-alberdi
 ---
 

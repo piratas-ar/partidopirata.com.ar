@@ -17,12 +17,12 @@ tags:
 - marcha
 - no-los-votes
 - sociedad-de-control
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1-150x150.png
 wppost_name: unidos-por-un-cambio-global-15o
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1-298x300.png" alt="" title="15O - unidos por el cambio global" width="298" height="300" class="alignleft size-medium wp-image-2017" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png"><img src="https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1-298x300.png" alt="" title="15O - unidos por el cambio global" width="298" height="300" class="alignleft size-medium wp-image-2017" /></a>
 Mañana <strong>15 de Octubre</strong> es la marcha <strong>Unidos por el cambio global</strong>, hay hasta el momento confirmadas <a href="http://map.15october.net" target="_blank"><strong>más de 900 marchas</strong></a>, en más de 80 países, en todos los continentes excepto Antártida.
 
 La marcha es pacifica, apartidaria, de personas que buscan un cambio, una alternativa al sistema actual, que no concentre la riqueza en unas pocas personas ni que se base en la destrucción sistemática del medio ambiente.

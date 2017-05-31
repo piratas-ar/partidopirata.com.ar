@@ -11,8 +11,8 @@ tags:
 - sopa
 - visa
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks-150x150.jpg
 wppost_name: un-ejemplo-practico-de-lo-que-podria-pasar-con-las-leyes-que-quieren-aprobar-en-ee-uu
 ---
 
@@ -39,4 +39,4 @@ Pero piensen qué pasaría si es alguien que está luchando contra la injusticia
 <p style="text-align: center;">¿Querrán otros 30 mil desaparecidos?</p>
 <p style="text-align: center;">Serán responsables, aquellos que sufrieron exilios y hoy piden más "protección" , sépanlo!</p>
 <p style="text-align: center;">Ogranicémonos para resistir, lo que se viene es duro!</p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg"><img class="aligncenter size-full wp-image-252" title="Wikileaks" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg" alt="" width="450" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg"><img class="aligncenter size-full wp-image-252" title="Wikileaks" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg" alt="" width="450" height="300" /></a>

@@ -8,8 +8,8 @@ tags:
 - uit
 - union-internacional-de-las-telecomunicaciones
 - wcti
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
 wppost_name: post-cmti-declaracion-de-la-sociedad-civil-un-paso-adelante
 ---
 

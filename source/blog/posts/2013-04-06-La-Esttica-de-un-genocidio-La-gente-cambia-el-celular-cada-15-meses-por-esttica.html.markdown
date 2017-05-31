@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - nokia
 - sangre-en-el-celular
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/111111111111111xperia_x2_man_talking_on_phone110705190845-scaled1000.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/111111111111111xperia_x2_man_talking_on_phone110705190845-scaled1000-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/111111111111111xperia_x2_man_talking_on_phone110705190845-scaled1000.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/111111111111111xperia_x2_man_talking_on_phone110705190845-scaled1000-150x150.jpg
 wppost_name: la-estetica-de-un-genocidio-la-gente-cambia-el-celular-cada-15-meses-por-estetica
 ---
 
@@ -35,7 +35,7 @@ Como una muestra de esto una nota de<strong><a href="https://twitter.com/blejman
 <hr />
 
 <strong><a href="https://www.google.com/search?q=coltan%2C+site%3Ahttp%3A%2F%2Fwww.nokia.com%2F&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:es-AR:official&amp;client=firefox-a" target="_blank">Buscando encontramos una página en el site de Nokia que fue borrada o la movieron:</a></strong>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/nokia.png"><img class="aligncenter size-medium wp-image-9039" alt="nokia" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/nokia-300x143.png" width="300" height="143" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/nokia.png"><img class="aligncenter size-medium wp-image-9039" alt="nokia" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/nokia-300x143.png" width="300" height="143" /></a>
 
 <strong> <a href="https://webcache.googleusercontent.com/search?q=cache:jdveaTRosKUJ:www.nokia.com/in-en/about-nokia/people-and-planet/environmental-and-social-impact/supply-chain/mining-of-metals-from-the-democratic-republic-of-congo/+&amp;cd=2&amp;hl=es-419&amp;ct=clnk&amp;client=firefox-a" target="_blank">Según lo que dice la memoria cache de Google</a>:</strong>
 

@@ -10,8 +10,8 @@ tags:
 - esto-no-es-el-dakar
 - evento-colonial
 - muerte
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/peru-dakar2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/peru-dakar2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/peru-dakar2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/peru-dakar2-150x150.jpg
 wppost_name: dakar-los-500-boludos-vienen-de-nuevo-con-subsidios-y-apoyo-del-estado
 ---
 

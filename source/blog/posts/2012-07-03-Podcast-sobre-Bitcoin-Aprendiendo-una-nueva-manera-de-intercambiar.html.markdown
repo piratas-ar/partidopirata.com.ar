@@ -12,12 +12,12 @@ tags:
 - monedas-alternativas
 - monedas-virtuales
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1-150x73.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1-150x73.png
 wppost_name: podcast-sobre-bitcoin-aprendiendo-una-nueva-manera-de-intercambiar
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png"><img class="size-full wp-image-5087" title="Bitcoin en español" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png" width="450" height="73" /></a> El Bitcoin en Español
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png"><img class="size-full wp-image-5087" title="Bitcoin en español" alt="" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/Logo-Lucida-Handwriting-HEA1.png" width="450" height="73" /></a> El Bitcoin en Español
 
 
 <hr />
@@ -29,7 +29,7 @@ Charlando con Mariana y Marcelo sobre los Bitcoins. Presionen en <em>play</em> p
 <a href="http://www.ivoox.com/charlando-mariana-marcelo-sobre-bitcoin_md_1317784_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-mariana-marcelo-sobre-bitcoin-audios-mp3_rf_1317784_1.html" target="_blank">en esta página.</a></center>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart.png"><img class="size-full wp-image-5093" title="chart" alt="" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/chart.png" width="150" height="150" /></a> Código QR de la dirección del audio
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/chart.png"><img class="size-full wp-image-5093" title="chart" alt="" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/chart.png" width="150" height="150" /></a> Código QR de la dirección del audio
 
 
 &nbsp;
@@ -40,9 +40,9 @@ Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http:
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6328/con-mariana-y-marcelo-sobre-bitcoin-ii">Segunda Parte de la charla sobre Bitcoins.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6763/charlando-con-mariana-y-marcelo-sobre-bitcoins-iii">Tercera chara sobre Bitcoins , su compra y venta !</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2013/04/09/charlando-con-juan-que-vende-un-departamento-en-caseros-pcia-de-buenos-aires-en-bitcoins/">Con Juan que vende un departamento en Bitcoins</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6328/con-mariana-y-marcelo-sobre-bitcoin-ii">Segunda Parte de la charla sobre Bitcoins.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6763/charlando-con-mariana-y-marcelo-sobre-bitcoins-iii">Tercera chara sobre Bitcoins , su compra y venta !</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2013/04/09/charlando-con-juan-que-vende-un-departamento-en-caseros-pcia-de-buenos-aires-en-bitcoins/">Con Juan que vende un departamento en Bitcoins</a></strong></p>
 
 
 <hr />
@@ -60,9 +60,9 @@ Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http:
 
 <hr />
 <p style="text-align: center;"><strong>Escuchamos la música de los <a href="http://radiolg.blogspot.com/2012/06/las-canciones-de-los-monty-pithon.html" target="_blank">Monty Pithon.</a></strong></p>
-<p style="text-align: center;"><strong><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Lo que comentamos en el podcast sobre Hadopi en Francia con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos </a></strong></strong></p>
+<p style="text-align: center;"><strong><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Lo que comentamos en el podcast sobre Hadopi en Francia con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos </a></strong></strong></p>
 <p style="text-align: center;"><strong><strong>
-<a href="http://partidopirata.com.ar/4907/paypal-bloquea-proveedor-vpn-amigable-con-torrents">Paypal bloquea un proveedor amigable con Torrents.</a></strong></strong></p>
+<a href="https://partidopirata.com.ar/4907/paypal-bloquea-proveedor-vpn-amigable-con-torrents">Paypal bloquea un proveedor amigable con Torrents.</a></strong></strong></p>
 <p style="text-align: center;"><strong><strong><a href="http://www.elpentagrama.com/4001.htm" target="_blank">El cuento de Stevenson "El Diablo en la Botella"</a>
 </strong></strong></p>
 
@@ -79,7 +79,7 @@ Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http:
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los podcast en español.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los podcast en español.</a></strong></p>
 
 
 <hr />

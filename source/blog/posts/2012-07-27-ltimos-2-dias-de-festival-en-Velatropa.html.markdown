@@ -9,8 +9,8 @@ tags:
 - ecoaldea
 - festival
 - velatropa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/vela06.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/vela06-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/vela06.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/vela06-150x150.jpg
 wppost_name: ultimos-2-dias-de-festival-en-velatropa
 ---
 

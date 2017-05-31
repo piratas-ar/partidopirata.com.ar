@@ -7,8 +7,8 @@ tags:
 - feria-del-libro
 - hackeeando-la-feria-del-libro
 - tutorial
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-150x150.png
 wppost_name: pequeno-tutorial-para-hacer-archivos-qrs-y-hackear-la-feria-del-libro
 ---
 
@@ -18,7 +18,7 @@ Hackeando la Feria del Libro, Bogotá Colombia</center><strong>
 </strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">Sobre la Feria del Libro,</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">Sobre la Feria del Libro,</a></strong></p>
 <p style="text-align: center;">Pequeño Tutorial:</p>
 <p style="text-align: center;">Supongamos que quiero pasar a ese formato un libro que está en la web, por ejemplo :</p>
 <p style="text-align: center;">“<strong>Argentina Copyleft. La crisis del modelo de derecho de autor y las prácticas para democratizar la cultura”.</strong>
@@ -35,9 +35,9 @@ Y luego lo reproducen con un programa para leer QRs</p>
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/piracymedia.png"><img class="size-full wp-image-4106" title="piracymedia" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/piracymedia.png" alt="" width="312" height="312" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/piracymedia.png"><img class="size-full wp-image-4106" title="piracymedia" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/piracymedia.png" alt="" width="312" height="312" /></a>
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">
 <strong>Piratería de medios en las economías emergentes- El informe en Español</strong></a>
 <strong> Entre otras cosas el informe demuestra que no existe vínculo entre los que venden cds y dvds truchos y el crimen organizado...
 </strong></p>
@@ -60,14 +60,14 @@ Saludos
 <hr />
 
 <strong> Si alguien quiere explicar paso a paso cómo reproducir los archivos en cuestión luego en el celular o en una computadora, por favor hágalo así completamos bien el tutorial.</strong>
-<p style="text-align: center;"><strong>Pueden dejarlo en los comentarios de esta entrada o <a href="http://partidopirata.com.ar/contacto" target="_blank">usar nuestro formulario de contacto</a></strong>
+<p style="text-align: center;"><strong>Pueden dejarlo en los comentarios de esta entrada o <a href="https://partidopirata.com.ar/contacto" target="_blank">usar nuestro formulario de contacto</a></strong>
 <strong><a href="http://www.4shared.com/file/E1BCcU1u/xren_qrcode.html" target="_blank">Un lector de códigos QR</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png"><img class="size-medium wp-image-810" title="criminalizados-2011" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-140x300.png" alt="" width="140" height="300" />Click para ver de un tamaño mayor</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011.png"><img class="size-medium wp-image-810" title="criminalizados-2011" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/criminalizados-2011-140x300.png" alt="" width="140" height="300" />Click para ver de un tamaño mayor</a>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">Sobre la Feria del Libro,</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">Sobre la Feria del Libro,</a></strong></p>

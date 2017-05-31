@@ -11,14 +11,14 @@ tags:
 - top-charts
 - torrentfreak
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/sharingiscaring.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/sharingiscaring-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/sharingiscaring.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/sharingiscaring-150x150.jpg
 wppost_name: the-pirate-bay-impulsa-compartir-es-cuidar-en-los-rankings-de-las-canciones-mas-vendidas
 ---
 
 <strong><a href="https://torrentfreak.com/pirate-bay-boosts-sharing-is-caring-into-the-music-charts-120427/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/caring.png"><img class="size-full wp-image-4229" title="caring" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/caring.png" alt="" width="225" height="286" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/caring.png"><img class="size-full wp-image-4229" title="caring" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/caring.png" alt="" width="225" height="286" /></a>
 
 
 Los piratas de todo el mundo están trabajando en un intento de asaltar los rankings individuales de canciones más vendids, y con la ayuda del sitio más notorio de BitTorrents estos esfuerzos están dando sus frutos. Abrazando el mantra de The Pirate Bay, la canción  Dan Bull "Compartir es cuidar" aparece ahora en una variedad de listas de descargas diarias, obteniendo un puesto en las listas oficiales de canciones semanales de todo el mundo este fin de semana.
@@ -29,7 +29,7 @@ Con una canción titulada "Compartir es cuidar," Bull no es exactamente el tipo 
 
 Dan Bull no tiene una máquina de promoción corporativa detrás de él. No tiene prácticamente ningún programa de radio y su música no se puede comprar en tiendas de música de no virtuales. En su lugar, Bull es un confeso 'pirata', que se basa en una multitud de personas de ideas afines para ganarse la vida.
 
-Sitios como The Pirate Bay hacen más para ayudar a los artistas que no tienen contratos con las discográficas que lo que hacen los lobbystaas de la industria. Proyectos como The Promo Bay, que dedica la página  inicial de The Pirate Bay, de forma gratuita, a cualquier músico que sea seleccionado, crea historias de éxito del día a la noche ", <a href="http://partidopirata.com.ar/4159/dan-bull-the-pirate-bay-atacan-los-rankings-de-musica-con-compartir-es-cuidar">explicó</a> Bull .
+Sitios como The Pirate Bay hacen más para ayudar a los artistas que no tienen contratos con las discográficas que lo que hacen los lobbystaas de la industria. Proyectos como The Promo Bay, que dedica la página  inicial de The Pirate Bay, de forma gratuita, a cualquier músico que sea seleccionado, crea historias de éxito del día a la noche ", <a href="https://partidopirata.com.ar/4159/dan-bull-the-pirate-bay-atacan-los-rankings-de-musica-con-compartir-es-cuidar">explicó</a> Bull .
 
 Así que en lugar de firmarle la renuncia de sus derechos a un importante sello discográfico, Bull está compartiendo su trabajo con el público de forma gratuita. Eso ha funcionado hasta ahora bien para el rapero, para mostrar lo poderoso que Internet puede ser que <a href="http://itsdanbull.com/single/">está apuntando a una lista</a> entre los singles internacionales más vendidos. No es para el reconocimiento, sino para hacer una declaración.
 
@@ -64,11 +64,11 @@ Aquellos que quieran ayudarlo pueden ir a la página de la <a href="http://itsda
 <strong>Pueden verlo con los subtítulos en inglés o los que están hechos de forma automática en español apretando donde dice CC en Rojo.</strong>
 <strong> A los subtítulos en español hay que revisarlos y corregirlos.</strong>
 <strong> <a href="https://rapidshare.com/#%21download%7C487p6%7C2811841497%7Cdanbull.srt%7C7" target="_blank">La letra de la canción colocada en los subtítulos del video de arriba en inglés</a></strong>
-<strong> <a href="https://rapidshare.com/files/4210634869/danbulles.srt" target="_blank">La letra de la canción traducida de forma automática al español para revisar y corregir</a></strong><center><strong>Pueden abrir los archivos srt con el blok de notas.</strong></center><center><strong><a href="http://partidopirata.com.ar/contacto">Cualquier duda pueden escribirnos a nuestra dirección de correo.</a></strong></center></center>
+<strong> <a href="https://rapidshare.com/files/4210634869/danbulles.srt" target="_blank">La letra de la canción traducida de forma automática al español para revisar y corregir</a></strong><center><strong>Pueden abrir los archivos srt con el blok de notas.</strong></center><center><strong><a href="https://partidopirata.com.ar/contacto">Cualquier duda pueden escribirnos a nuestra dirección de correo.</a></strong></center></center>
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/3811/mas-de-5000-artistas-en-la-cola-de-the-pirate-bay-promotion">Más sobre Promo Bay la página de promoción de artistas de The Pirate Bay</a>
+<strong><a href="https://partidopirata.com.ar/3811/mas-de-5000-artistas-en-la-cola-de-the-pirate-bay-promotion">Más sobre Promo Bay la página de promoción de artistas de The Pirate Bay</a>
 </strong>
 
 &nbsp;

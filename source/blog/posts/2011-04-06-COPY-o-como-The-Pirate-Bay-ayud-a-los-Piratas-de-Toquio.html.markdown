@@ -7,8 +7,8 @@ tags:
 - piratas-de-toquio
 - the-pirate-bay
 - toquio
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/kaysoku-tokyo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/kaysoku-tokyo.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/kaysoku-tokyo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/kaysoku-tokyo.jpg
 wppost_name: copy-o-como-the-pirate-bay-ayudo-a-los-piratas-de-toquio
 ---
 
@@ -23,7 +23,7 @@ Fuimos uno mas de los que, el último 10 de marzo, entramos en <a href="http://t
 <div style="text-align: justify;">A continuación, un pouco mas sobre la banda en las palabras de Tetsumaru Fukuda, el vocalista:</div>
 <blockquote>
 <div style="text-align: justify;"><em>Our band, Kaisoku Tokyo was formed with my college friends. All of the members are students of my Art College.</em><em>My  friend, who made the COPY clip is Takahiro Yasuda and he is also  my college friend. I, as a vocal, write all lyrics, and we, all players,  make all melodies as playing. COPY was made by drumming phrase./</em></div></blockquote>
-<div style="text-align: justify;">Lo que parece, es que la apareción del video  de “Copy” en  The Pirate Bay fue una súbita e inusitada decisión de la cúpula del  site, ya que la banda sólo lo supo después de ver el video ahí. Si  acompañan a The P<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/kaysoku-tokyo.jpg"><img class="aligncenter size-medium wp-image-690" title="kaysoku-tokyo" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/kaysoku-tokyo-300x213.jpg" alt="Los Piratas de Toquio" width="300" height="213" /></a>irate Bay saben que no es novedad esos “<a href="http://thepiratebay.org/doodles">jueguitos</a>” con los <a href="http://pt.wikipedia.org/wiki/Doodle">doodles</a> de la primera página; algunos posts atrás, <a href="http://baixacultura.org/2011/02/15/pirate-bay-jornalismo-e-cultura-livre/" target="_blank">Eliane Fronza destacó</a> algunos de ellos en prints en su monografia. Quien sabe los administradores  del site también pudiesen hacer una competencia  de dibujos para promover la  página, como hizo el vivo de <a href="http://www.google.com.br/doodle4google/">Google recientemente</a>.</div>
+<div style="text-align: justify;">Lo que parece, es que la apareción del video  de “Copy” en  The Pirate Bay fue una súbita e inusitada decisión de la cúpula del  site, ya que la banda sólo lo supo después de ver el video ahí. Si  acompañan a The P<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/kaysoku-tokyo.jpg"><img class="aligncenter size-medium wp-image-690" title="kaysoku-tokyo" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/kaysoku-tokyo-300x213.jpg" alt="Los Piratas de Toquio" width="300" height="213" /></a>irate Bay saben que no es novedad esos “<a href="http://thepiratebay.org/doodles">jueguitos</a>” con los <a href="http://pt.wikipedia.org/wiki/Doodle">doodles</a> de la primera página; algunos posts atrás, <a href="http://baixacultura.org/2011/02/15/pirate-bay-jornalismo-e-cultura-livre/" target="_blank">Eliane Fronza destacó</a> algunos de ellos en prints en su monografia. Quien sabe los administradores  del site también pudiesen hacer una competencia  de dibujos para promover la  página, como hizo el vivo de <a href="http://www.google.com.br/doodle4google/">Google recientemente</a>.</div>
 <div style="text-align: justify;">Como dijo el vocalista Tetsumaru: ”<em>This  is such a creative and ultramodern happening that unknown japanese  band’s song is shown up on the website which is one of the biggest  illegal download website, and I think this can be caused because of this  time</em>“.</div>
 <div style="text-align: justify;">Abajo la letra completa, que  Tetsumaru gentilmente envió, atendiendo a nuestro pedido de que nada más de copy habiamos entendido de ella (y se necesita?).</div>
 <blockquote>

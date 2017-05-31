@@ -11,12 +11,12 @@ tags:
 - kim-dotcom
 - megaupload
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/liberation.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/liberation-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/liberation.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/liberation-150x150.jpg
 wppost_name: kim-dotcom-de-nuevo-online-se-prepara-para-lanzar-un-album-de-musica
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/liberation.jpg"><img class="aligncenter size-full wp-image-3729" title="Kim Dotcom" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/liberation.jpg" alt="" width="200" height="283" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/liberation.jpg"><img class="aligncenter size-full wp-image-3729" title="Kim Dotcom" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/liberation.jpg" alt="" width="200" height="283" /></a>
 
 <strong><a href="https://torrentfreak.com/kim-dotcom-back-online-prepares-to-release-music-album-120402/" target="_blank">Fuente Torrentfreak</a></strong>
 

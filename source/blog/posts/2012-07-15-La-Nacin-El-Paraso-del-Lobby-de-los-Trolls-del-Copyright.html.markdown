@@ -6,14 +6,14 @@ tags:
 - la-nacion
 - pirateria
 - presion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/communism-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/communism-150x150.jpg
 wppost_name: la-nacion-el-paraiso-del-lobby-de-los-trolls-del-copyright-primera-reflexion-antes-de-comer
 ---
 
 Algunas reflexiones sobre <strong><a href="http://www.lanacion.com.ar/1490243-la-argentina-paraiso-pirata" target="_blank">este artículo del diario La Nación: La Argentina, paraíso pirata</a></strong>
 <p style="text-align: center;"><strong>
-<a href="http://partidopirata.com.ar/5276/los-links-para-responder-al-articulo-de-la-nacion-la-argentina-paraiso-pirata">Todos los enlaces que coloqué en esta respuesta, por si quieren analizarlos con más detenimiento.</a></strong></p>
+<a href="https://partidopirata.com.ar/5276/los-links-para-responder-al-articulo-de-la-nacion-la-argentina-paraiso-pirata">Todos los enlaces que coloqué en esta respuesta, por si quieren analizarlos con más detenimiento.</a></strong></p>
 Si leen todo el artículo verán que hay varios fenómenos diferentes mezclados, vayamos por partes como el amigo Jack:
 
 <hr />
@@ -22,7 +22,7 @@ Si leen todo el artículo verán que hay varios fenómenos diferentes mezclados,
 
 <hr />
 
-A lo que se refiere el periodista es a la inclusión de Argentina en el famoso <a href="http://partidopirata.com.ar/4294/informe-301-argentina-junto-con-chile-y-venezuela-se-sentaran-en-el-banco-de-adelante-por-hacer-lio">informe 301</a>
+A lo que se refiere el periodista es a la inclusión de Argentina en el famoso <a href="https://partidopirata.com.ar/4294/informe-301-argentina-junto-con-chile-y-venezuela-se-sentaran-en-el-banco-de-adelante-por-hacer-lio">informe 301</a>
 
 <strong><a href="http://keionline.org/sites/default/files/2012Special301Report.pdf" target="_blank">Del informe 301 en relación a la Argentina, es un archivo pdf.</a></strong>
 
@@ -68,7 +68,7 @@ Ahora, el periodista mezcla cosas diferentes:
 
 Pareciera que comprar una <strong><em>"Louis Vuitton"</em></strong>  en La Salada es lo mismo que reunirse en un lugar privado e intercambiar archivos.
 
-<strong>Algo así como el <a href="http://partidopirata.com.ar/1589/charlando-con-alvaro-sobre-truequedigital-en-la-ciudad-de-buenos-aires">Trueque Digital que realizamos el año pasado</a></strong>
+<strong>Algo así como el <a href="https://partidopirata.com.ar/1589/charlando-con-alvaro-sobre-truequedigital-en-la-ciudad-de-buenos-aires">Trueque Digital que realizamos el año pasado</a></strong>
 
 Cualquiera puede darse cuenta que no es lo mismo, son cosas dferentes. Comparar a juntarse con amigos (o conocidos vía Facebook) llevando un pendrive o una notebook e intercambiar archivos sin ningún ánimo de lucro no es lo mismo que La Salada.
 
@@ -94,7 +94,7 @@ El otro testimonio que coloca la nota es similar. Gente que se hace unos mangos 
 Tal vez pensar dos cosas:
 <ol>
 	<li>La necesidad de trabajo de la gente. En los dos testimonios, el del peruano que vende en el restaurante y el de la marplatense ambos hacen eso porque no consiguen nada mejor. Algo que habría que decirle, sobre todo a la marplatense es que, a partir de ahora, se cuide un poco más, dado el carácter alcahueteril de la nota, así como a la gente que se reunió en Colegiales, que tengan cuidado. No se analiza mucho qué pasa, por qué no pueden tener un ingreso digno haciendo otra cosa...Eso quedará para otra vez</li>
-	<li>El otro punto es el precio de los productos originales en la Argentina, ¿cuánto sale comprarse un cd o dvd original?. Sería interesante que le dieran una mirada a este estudio sobre el precio de los poductos originales, comparados con los ingresos de la población, en varios países emergentes.<strong><a href="http://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">Acá está el estudio sobre cuánto sale comprar un producto original, comparado con la cantidad de tiempo que saldría comprarlo en EE.UU., por ejemplo</a> </strong>en países como Brasil, Bolivia, Mèxico, Sudáfrica, Rusia e India...(lamentáblemente no se hizo en la Argentina). Si pueden analizar cuánto tendría que trabajar una persona en la Argentina para comprar un producto original comparado con lo que saldría en EE.UU. sería algo bueno para saber qué está pasando.</li>
+	<li>El otro punto es el precio de los productos originales en la Argentina, ¿cuánto sale comprarse un cd o dvd original?. Sería interesante que le dieran una mirada a este estudio sobre el precio de los poductos originales, comparados con los ingresos de la población, en varios países emergentes.<strong><a href="https://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">Acá está el estudio sobre cuánto sale comprar un producto original, comparado con la cantidad de tiempo que saldría comprarlo en EE.UU., por ejemplo</a> </strong>en países como Brasil, Bolivia, Mèxico, Sudáfrica, Rusia e India...(lamentáblemente no se hizo en la Argentina). Si pueden analizar cuánto tendría que trabajar una persona en la Argentina para comprar un producto original comparado con lo que saldría en EE.UU. sería algo bueno para saber qué está pasando.</li>
 </ol>
 
 <hr />
@@ -133,9 +133,9 @@ Tampoco se pregunta qué pasaría si se aplicaran a rajatabla medidas antipirate
 <hr />
 <p style="text-align: center;">Tal vez pretendan impulsar el <em>Canon por fotocopiadoras</em> que pagan las principales universidades argentinas. Dinero que no se sabe adónde va.
 Lo que si el <em>periodista</em> piensa que exigir una fotocopiadora en un colegio es algo ridículo o extraño. Como si las fotocopiadoras sólo se usaran para copiar libros con derechos de autor. No se fotocopian carpetas, ejercicios, trabajos prácticos, libros sin derechos de autor...<strong>¿Todo en las fotocopias tiene derechos?
-<a href="http://partidopirata.com.ar/2179/actividades-diversas-para-el-mes-de-noviembre-debate-sobre-el-canon-por-fotocopias">Sobre el Canon por fotocopiadoras</a></strong></p>
+<a href="https://partidopirata.com.ar/2179/actividades-diversas-para-el-mes-de-noviembre-debate-sobre-el-canon-por-fotocopias">Sobre el Canon por fotocopiadoras</a></strong></p>
 <p style="text-align: center;"><strong>Infografía sobre el Canon por Fotocopiadoras<a href="http://www.derechoaleer.org/" target="_blank">Por Derecho a Leer</a>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png"><img class="aligncenter  wp-image-2180" title="infocadra_baja_64" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png" alt="Información sobre el acuerdo CADRA- Universidades" width="530" height="377" />Click para Agrandar</a></strong></p>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png"><img class="aligncenter  wp-image-2180" title="infocadra_baja_64" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png" alt="Información sobre el acuerdo CADRA- Universidades" width="530" height="377" />Click para Agrandar</a></strong></p>
 <p style="text-align: left;">Siempre en todo lo que tenga que ver con falsificaciones, piratería y demás aparecen números monstruosos, son:</p>
 
 <ul>
@@ -144,15 +144,15 @@ Lo que si el <em>periodista</em> piensa que exigir una fotocopiadora en un coleg
 </ul>
 Y así siguiendo, falta, al autor de la nota se le pasó, la parte en que dicen que la<em> "piratería" </em>está vinculada con el narcotráfico y todo eso...(esa se le pasó).
 
-En nuestro blog tenemos una sección dedicada a la <em><a href="http://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">"Numerología Pirata"</a></em>.
+En nuestro blog tenemos una sección dedicada a la <em><a href="https://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">"Numerología Pirata"</a></em>.
 <p style="text-align: center;">De toda la sección la más divertida es esta conferencia TED:</p>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/3609/las-dificiles-matematicas-de-los-derechos-de-autor-o-mas-numerologia-pirata-con-subtitulos-en-espanol">Las difíciles matemáticas del Derecho de Autor, o el Ipod que vale mil millones de dólares.</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/3609/las-dificiles-matematicas-de-los-derechos-de-autor-o-mas-numerologia-pirata-con-subtitulos-en-espanol">Las difíciles matemáticas del Derecho de Autor, o el Ipod que vale mil millones de dólares.</a></strong></p>
 <p style="text-align: center;">También sería interesante informar que los escritores que viven de sus derechos de autor son muy, muy pocos</p>
 
 <ol>
-	<li><strong><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">De que no viven los escritores II-El proyecto de ley de Heller para dar una jubilación a los escritores.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">De que no viven los escritores II-El proyecto de ley de Heller para dar una jubilación a los escritores.</a></strong></li>
 	<li><strong><a type="_moz" href="http://www.derechoaleer.org/2009/09/de-que-no-viven-los-escritores.html" target="_blank">De que no viven los escritors I-Borges pudo vivir de sus derechos de autor recién a los 60 años, otros autores </a><a type="_moz" href="http://www.derechoaleer.org/2009/09/de-que-no-viven-los-escritores.html" target="_blank">viven de otra cosa, pero no de sus derechos de autor.</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/4183/de-que-no-viven-los-escritores-hoy-escritores-de-libros-universitarios">Los escritores de textos universitarios no viven de sus derechos de autor.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/4183/de-que-no-viven-los-escritores-hoy-escritores-de-libros-universitarios">Los escritores de textos universitarios no viven de sus derechos de autor.</a></strong></li>
 </ol>
 
 <hr />
@@ -206,11 +206,11 @@ Es obvio que no es así, pero siguen con esa afirmación, tal vez como aquella m
 
 "Son anarquistas, hackers, piratas en el sentido cultural del término. En la Argentina, donde todo siempre parece posible, hay quien pretende convertir a la política en una forma de la piratería. La época propone límites tan borrosos que es difícil adivinar si se trata de una apología de la delincuencia o de la lucidez."
 <p style="text-align: center;">El Partido Pirata existe en muchísimos países, posee dos eurodiputados (por Suecia) y varios diputados regionales en Alemania, así como también en Austria y otros países.</p>
-<p style="text-align: center;"><strong>Otra entrada sobre el tema es la que hizo<a href="https://twitter.com/__aza_" target="_blank"> Aza</a> en esta otra <a href="http://partidopirata.com.ar/5268/argentina-paraiso-pirata-ojala">entrada del Blog.</a></strong></p>
+<p style="text-align: center;"><strong>Otra entrada sobre el tema es la que hizo<a href="https://twitter.com/__aza_" target="_blank"> Aza</a> en esta otra <a href="https://partidopirata.com.ar/5268/argentina-paraiso-pirata-ojala">entrada del Blog.</a></strong></p>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5276/los-links-para-responder-al-articulo-de-la-nacion-la-argentina-paraiso-pirata">Todos los enlaces que coloqué en esta respuesta, por si quieren analizarlos con más detenimiento.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5276/los-links-para-responder-al-articulo-de-la-nacion-la-argentina-paraiso-pirata">Todos los enlaces que coloqué en esta respuesta, por si quieren analizarlos con más detenimiento.</a></strong></p>
 
 
 <hr />

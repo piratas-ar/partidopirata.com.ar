@@ -7,12 +7,12 @@ tags:
 - derecho-de-autor
 - reina-ana
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/forever-less-one-day.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/forever-less-one-day.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/forever-less-one-day.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/forever-less-one-day.png
 wppost_name: copyright-para-siempre-menos-un-dia-para-revisar-los-subtitulos-culturas2011
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/forever-less-one-day.png"><img class="aligncenter size-full wp-image-1766" title="forever-less-one-day" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/forever-less-one-day.png" alt="" width="180" height="176" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/forever-less-one-day.png"><img class="aligncenter size-full wp-image-1766" title="forever-less-one-day" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/forever-less-one-day.png" alt="" width="180" height="176" /></a>
 
 <a href="http://www.manzanamecanica.org/2011/09/copyright_para_siempre_menos_un_dia.html" target="_blank">En Manzana Mecánica dejan el siguiente video</a>
 

@@ -12,8 +12,8 @@ tags:
 - lista-negra-en-google
 - megaupload
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/mega-censored2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/mega-censored2-150x66.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/mega-censored2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/mega-censored2-150x66.png
 wppost_name: por-que-google-censura-todavia-a-megaupload-con-el-filtro-de-pirateria
 ---
 
@@ -21,20 +21,20 @@ Los servicios Autocompletar e Instantáneo de Google son los que en un caso nos 
 
 Por ejemplo:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Cristina1.png"><img class=" wp-image-7137" title="Cristina1" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Cristina1.png" alt="" width="722" height="147" /></a> Si colocamos Cristina, Google nos va sugiriendo algunas opciones, Cristina Aguilera, etc. etc..
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/Cristina1.png"><img class=" wp-image-7137" title="Cristina1" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/Cristina1.png" alt="" width="722" height="147" /></a> Si colocamos Cristina, Google nos va sugiriendo algunas opciones, Cristina Aguilera, etc. etc..
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/Cristina2.png"><img class=" wp-image-7138" title="Cristina2" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/Cristina2.png" alt="" width="731" height="634" /></a> Si seguimos completando la búsqueda, en este caso Cristina Fern,  además de sugerencias va mostrando instantáneamente, sin que nosotros lo hayamos completado, los resultados de esa búsqueda
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/Cristina2.png"><img class=" wp-image-7138" title="Cristina2" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/Cristina2.png" alt="" width="731" height="634" /></a> Si seguimos completando la búsqueda, en este caso Cristina Fern,  además de sugerencias va mostrando instantáneamente, sin que nosotros lo hayamos completado, los resultados de esa búsqueda
 
 
 <hr />
 
 Las palabras que están en la <em>lista negra</em> de Google no muestran autocompletar ni realizan las búsquedas instantáneamente, por ejemplo si buscamos <strong>Taringa</strong>:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/taringa1.png"><img class=" wp-image-7139" title="taringa1" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/taringa1.png" alt="" width="666" height="212" /></a> Hasta Tari tenemos opciones en autocompletar
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/taringa1.png"><img class=" wp-image-7139" title="taringa1" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/taringa1.png" alt="" width="666" height="212" /></a> Hasta Tari tenemos opciones en autocompletar
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/taringa2.png"><img class=" wp-image-7140" title="taringa2" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/taringa2.png" alt="" width="622" height="144" /></a> Si colocamos Tarin se acaban las opciones en Autocompletar
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/taringa2.png"><img class=" wp-image-7140" title="taringa2" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/taringa2.png" alt="" width="622" height="144" /></a> Si colocamos Tarin se acaban las opciones en Autocompletar
 
 
 El tema es que una palabra que entra en la <em>lista negra</em> de Google luego no sale, tal como Megaupload donde ya es imposible que haya algo que infrinja el derecho de autor ya que el site está bloqueado por el FBI, sin embargo en Google sigue en la lista negra.
@@ -49,7 +49,7 @@ El tema es que una palabra que entra en la <em>lista negra</em> de Google luego 
 
 Para reducir la piratería en línea, Google ha implementado, en los últimos años,  varios cambios en su motor de búsqueda. Entre otras cosas, Google ha puesto en la lista negra a docenas de términos relacionados con piratería para que no aparezcan en sus servicios de autocompletado y al instante. Megaupload es uno de esos términos de búsqueda, y nueve meses después que la última infracción tuvo lugar el nombre del servicio de hosting de archivos de Kim Dotcom está siendo censurado. Esto plantea la pregunta, ¿qué otros términos están inútilmente censurados por la lista negra de Google?
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/mega-censored2.png"><img class="alignright size-full wp-image-7119" title="mega-censored2" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/mega-censored2.png" alt="" width="208" height="66" /></a>Desde enero de 2011, Google ha <a href="http://torrentfreak.com/google-starts-censoring-bittorrent-rapidshare-and-more-110126/">filtrado términos  “relacionados con piratería”</a> de los servicios  'Autocompletar' e  'inmediato'.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/mega-censored2.png"><img class="alignright size-full wp-image-7119" title="mega-censored2" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/mega-censored2.png" alt="" width="208" height="66" /></a>Desde enero de 2011, Google ha <a href="http://torrentfreak.com/google-starts-censoring-bittorrent-rapidshare-and-more-110126/">filtrado términos  “relacionados con piratería”</a> de los servicios  'Autocompletar' e  'inmediato'.
 
 Los usuarios de Google que buscan términos como "torrent", "BitTorrent" y "Megaupload" se darán cuenta de que no hay sugerencias y los resultados de búsqueda aparecen antes de que se escriba la palabra completa. Si bien no se eliminan los resultados de la búsqueda del índice de Google, hay un <a href="http://torrentfreak.com/googles-anti-piracy-filter-110712/">fuerte descenso </a> en las búsquedas de estos términos.
 
@@ -69,7 +69,7 @@ Curiosamente, el algoritmo de búsqueda de Google deja pasar por el filtro, en c
 
 Dicho esto, la preocupación es que una vez que un término se pone en lista negra de piratería de Google no es tan fácil conseguir sacarlo .
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/google-correct.png"><img class="size-full wp-image-7120" title="google-correct" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/google-correct.png" alt="" width="538" height="273" /></a> Algoritmos de filtro de Google para evitar la piratería?.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/google-correct.png"><img class="size-full wp-image-7120" title="google-correct" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/google-correct.png" alt="" width="538" height="273" /></a> Algoritmos de filtro de Google para evitar la piratería?.
 
 
 En este punto aún no está claro qué factores determinan que un término sea colocado en la lista negra de piratería de Google. También es desconocido cuántos términos relacionados con la piratería son censurados ya que la lista no es pública.

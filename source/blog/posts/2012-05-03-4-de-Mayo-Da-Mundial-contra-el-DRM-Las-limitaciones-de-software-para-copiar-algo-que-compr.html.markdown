@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - drm
 - restriccion-digital-de-derechos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500-150x150.png
 wppost_name: 4-de-mayo-dia-mundial-contra-el-drm-las-limitaciones-de-software-para-copiar-algo-que-compre
 ---
 
@@ -30,7 +30,7 @@ El uso de DRM es polémico. Los que abogan por su uso, argumentan que es necesar
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png"><img class="size-full wp-image-4318" title="NoDRM.es-500" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png" alt="" width="500" height="707" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png"><img class="size-full wp-image-4318" title="NoDRM.es-500" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png" alt="" width="500" height="707" /></a>
 
 <p style="text-align: center;"><strong><a href="http://volantini.votopirata.it/NoDRM.es.svg" target="_blank">En un tamaño mayor.</a></strong></p>
 <p style="text-align: center;"><strong>Gracias al<a href="http://votopirata.it/" target="_blank"> Partido Pirata Italiano</a> por su diseño y por compartirlo con nosotros.</strong></p>

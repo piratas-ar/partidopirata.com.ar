@@ -13,8 +13,8 @@ tags:
 - talleres-protegidos
 - video
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/xye31mb3o3w619if3xr0w.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/xye31mb3o3w619if3xr0w-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/xye31mb3o3w619if3xr0w.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/xye31mb3o3w619if3xr0w-150x150.jpg
 wppost_name: la-solucion-a-la-pobreza-matar-a-los-pobres-la-solucion-para-la-salud-mental
 ---
 

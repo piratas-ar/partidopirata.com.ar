@@ -3,8 +3,8 @@ title: El Gigante not evil
 date: '2011-07-24'
 tags:
 - noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/bios.shmoo_.bw_.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/bios.shmoo_.bw_-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/bios.shmoo_.bw_.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/bios.shmoo_.bw_-150x150.jpg
 wppost_name: el-gigante-not-evil
 ---
 

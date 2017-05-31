@@ -10,8 +10,8 @@ tags:
 - mezclar-pornografia-con-copyright
 - pornografia-infantil
 - wired
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/chains.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/chains-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/chains.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/chains-150x150.jpg
 wppost_name: confundir-una-infraccion-de-copyright-con-la-pornografia-infantil-es-un-juego-sucio-y-peligroso
 ---
 
@@ -20,7 +20,7 @@ wppost_name: confundir-una-infraccion-de-copyright-con-la-pornografia-infantil-e
 Duncan Geere
 News Editor, Wired.co.uk
 
-<a href="http://twitter.com/DuncanGeere" target="_blank">@DuncanGeere</a><a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chains.jpg"><img class="aligncenter size-full wp-image-4321" title="Cadenas" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chains.jpg" alt="" width="620" height="413" /></a>
+<a href="http://twitter.com/DuncanGeere" target="_blank">@DuncanGeere</a><a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/chains.jpg"><img class="aligncenter size-full wp-image-4321" title="Cadenas" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/chains.jpg" alt="" width="620" height="413" /></a>
 
 BT [proveedor de internet de Gran Breataña] se <a href="http://www.wired.co.uk/news/archive/2011-07/28/newzbin2-block">ha visto obligada</a> por un juez del Tribunal Superior a utilizar la tecnología diseñada para bloquear pornografía infantil para bloquear un sitio web que devuelve links a las personas hacia lugares donde pueden encontrar contenidos con derechos de autor en la web.
 For <a href="http://www.techdirt.com/articles/20100427/1437179198.shtml">hace</a> <a href="http://www.techdirt.com/articles/20090210/1050313726.shtml">tiempo</a> <a href="http://christianengstrom.wordpress.com/2010/04/27/ifpis-child-porn-strategy/">algún</a>, copyright lobbyists have been accused by their opponents of intentionally associating child pornography with copyright infringement. The idea is that once politicians are introduced to the idea of filtering the web for child porn, they'll be more receptive to the idea of filtering it for censoring what the lobbyists see as "unlicensed" content. Once the concept of censorship of undesirable content is established, it's easy to expand the remit of that censorship.

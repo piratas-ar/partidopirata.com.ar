@@ -10,8 +10,8 @@ tags:
 - material-para-difusion
 - estudio-sobre-las-peliculas
 - peliculas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink-150x150.jpg
 wppost_name: daniel-link-consumos-culturales
 ---
 
@@ -45,13 +45,13 @@ Ya que el fin de año y los balances se aproximan, que digan los editores y los 
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2467/gobierno-suizo-descargar-peliculas-y-musica-es-legal-alt1040">Recordemos que para el gobierno suizo descargar música y películas no afecta a las <em>industrias culturales</em></a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2467/gobierno-suizo-descargar-peliculas-y-musica-es-legal-alt1040">Recordemos que para el gobierno suizo descargar música y películas no afecta a las <em>industrias culturales</em></a></strong></p>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1885/%E2%80%9Cla-industria-musical-es-mayor-de-lo-que-vos-pensas%E2%80%9D">Sobre la evolución de la venta de música en el mundo.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1885/%E2%80%9Cla-industria-musical-es-mayor-de-lo-que-vos-pensas%E2%80%9D">Sobre la evolución de la venta de música en el mundo.</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink.jpg"><img class="aligncenter size-full wp-image-1799" title="daniellink" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink.jpg" alt="" width="460" height="200" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink.jpg"><img class="aligncenter size-full wp-image-1799" title="daniellink" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/daniellink.jpg" alt="" width="460" height="200" /></a>

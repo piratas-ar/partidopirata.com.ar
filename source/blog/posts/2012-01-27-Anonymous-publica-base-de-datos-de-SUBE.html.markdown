@@ -9,8 +9,8 @@ tags:
 - sociedad-de-control
 - sube
 - vigilar-a-los-vigiladores
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/anon.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/anon-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/anon.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/anon-150x150.png
 wppost_name: anonymous-publica-base-de-datos-de-sube
 ---
 

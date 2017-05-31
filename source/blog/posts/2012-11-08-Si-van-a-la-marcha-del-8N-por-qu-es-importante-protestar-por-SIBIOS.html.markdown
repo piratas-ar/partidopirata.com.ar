@@ -8,8 +8,8 @@ tags:
 - reconocimiento-facial
 - reprimir-la-protesta
 - sibios
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: si-van-a-la-marcha-del-8n-por-que-es-importante-protestar-por-sibios
 ---
 
@@ -20,7 +20,7 @@ wppost_name: si-van-a-la-marcha-del-8n-por-que-es-importante-protestar-por-sibio
 <hr />
 <p style="text-align: center;"><iframe src="http://www.youtube.com/embed/ARWx6uWxHtU" frameborder="0" width="560" height="315"></iframe>
 <strong>Las <em>bondades</em> del reconocimiento facial</strong></p>
-<a href="http://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros" target="_blank">Acá lo hablábamos con Ramiro Álvarez Ugarte y dejamos una nota para protestar por el 8N</a>
+<a href="https://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros" target="_blank">Acá lo hablábamos con Ramiro Álvarez Ugarte y dejamos una nota para protestar por el 8N</a>
 
 Si la protesta social es reprimida con todas estas bases de datos será mucho más fácil identificar y castigar.
 Luchemos para que SIBIOS sea desmantelado!

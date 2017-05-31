@@ -7,8 +7,8 @@ tags:
 - material-para-difusion
 - susana-merino
 - tomas-paine
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/bienes_comunes.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/bienes_comunes-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/bienes_comunes.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/bienes_comunes-150x150.jpg
 wppost_name: el-bien-comun-y-los-bienes-comunes
 ---
 

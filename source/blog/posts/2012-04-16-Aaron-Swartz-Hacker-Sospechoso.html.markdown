@@ -6,8 +6,8 @@ tags:
 - material-para-difusion
 - hacker
 - manifiesto-guerrilla
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500-150x150.png
 wppost_name: aaron-swartz-hacker-sospechoso
 ---
 
@@ -23,7 +23,7 @@ Aaron Swartz – On Peer To Peer, Digital Rights Management and Web 2 0</center>
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/aaronprocesso.jpg"><img class="size-full wp-image-4000" title="aaronprocesso" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/aaronprocesso.jpg" alt="" width="610" height="428" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/aaronprocesso.jpg"><img class="size-full wp-image-4000" title="aaronprocesso" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/aaronprocesso.jpg" alt="" width="610" height="428" /></a>
 
 
 SÃO PAULO – “Información es poder”, escribió el programador Aaron Swartz, entonces con 22 años, en el manifiesto Guerilla Open Acces. El texto, de 2008, defendia el acceso libre y gratuito a los textos de investigaciones científicas y de revistas acadêmicas, protegidos por sites que cobran caro por el acceso.
@@ -53,7 +53,7 @@ Por tener más tiempo libre que las demás personas del equipo del proyecto, tom
 Fue en esta época que Swartz conoció a Lawrence Lesig. Leyó una noticia sobre la posible creación de las licencias Creative Commons y se quedó interesado. Entró en contacto con el abogado estadounidense para intentar convencerlo a usar las tecnologias que estaba desarrollando con Tim Berners-Lee.
 <div>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/Aaron_Swartz_and_Lawrence_Lessig1.jpg"><img class=" wp-image-4001   " title="Swartz y Lawrence Lessig. FOTO: Achvo Personal " src="http://partidopirata.com.ar/wp-content/uploads/2012/04/Aaron_Swartz_and_Lawrence_Lessig1.jpg" alt="" width="332" height="442" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/Aaron_Swartz_and_Lawrence_Lessig1.jpg"><img class=" wp-image-4001   " title="Swartz y Lawrence Lessig. FOTO: Achvo Personal " src="https://partidopirata.com.ar/wp-content/uploads/2012/04/Aaron_Swartz_and_Lawrence_Lessig1.jpg" alt="" width="332" height="442" /></a>
 
 
 “Él respondió que era una buena idea y que yo debía implementarla”, dijo. Ayudó en la arquitetura del sistema de las licencias y en la programación. “La manera como Lesig alienta a las personas es inspiradora, así como su estilo único de comunicarse y su foco intenso en problemas importantes”, dice Swartz sobre su antiguo patrón.
@@ -85,8 +85,8 @@ Para él, es necesario que la comunidad de tecnologia se reúna para presionar a
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500.png"><img class="aligncenter" title="support_aaron-500" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500.png" alt="" width="502" height="177" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500.png"><img class="aligncenter" title="support_aaron-500" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500.png" alt="" width="502" height="177" /></a>
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/1600/aaron-swartz-y-el-manifiesto-de-la-guerrilla-open-acces">Aaron Swartz y el manifiesto Guerrilla Open.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/1600/aaron-swartz-y-el-manifiesto-de-la-guerrilla-open-acces">Aaron Swartz y el manifiesto Guerrilla Open.</a></strong></li>
 	<li><strong><a href="../1463/aaron-swartz-acusado-de-descargar-demasiados-papers">Formas de apoyar la causa de Aaron.</a></strong></li>
 </ul>

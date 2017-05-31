@@ -10,8 +10,8 @@ tags:
 - pipa
 - sopa
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252-150x150.jpg
 wppost_name: documental-demasiado-copyright
 ---
 
@@ -23,7 +23,7 @@ Presione en donde dice <em>CC</em> con fondo rojo para ver los subtítulos en es
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg"><img class="size-full wp-image-4264" title="Curva de Mickey Mouse" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg" alt="" width="500" height="357" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg"><img class="size-full wp-image-4264" title="Curva de Mickey Mouse" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/3810282105_3f3b299252.jpg" alt="" width="500" height="357" /></a>
 
 <p style="text-align: center;"><strong><a href="https://www.techdirt.com/articles/20120419/14462618567/too-much-copyright-this-generations-prohibition.shtml" target="_blank">Fuente Techdirt.</a></strong></p>
 

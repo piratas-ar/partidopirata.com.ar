@@ -16,12 +16,12 @@ tags:
 - prensa
 - red
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg
 wppost_name: freeassange
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg"><img class="alignleft size-full wp-image-254" title="Julian Assange" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg" alt="" width="220" height="168" /></a>EEUU esta intentando extraditar a Julian Assange (portavoz de Wikileaks) bajo cargos que los especialistas de dicho país consideran ilegales.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg"><img class="alignleft size-full wp-image-254" title="Julian Assange" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg" alt="" width="220" height="168" /></a>EEUU esta intentando extraditar a Julian Assange (portavoz de Wikileaks) bajo cargos que los especialistas de dicho país consideran ilegales.
 Un senador (Joe Lieberman) esta intentando prohibir a Wikileaks e incluso perseguir The New York Times por publicar los cables.
 Este es un ataque a la libertad de expresión y la libertad de prensa, es
 lisa y llanamente censura y persecución política.

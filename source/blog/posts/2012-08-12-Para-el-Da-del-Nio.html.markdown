@@ -8,8 +8,8 @@ tags:
 - divulgacion
 - regalos
 - sandokan
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/pig.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/pig-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/pig.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/pig-150x150.jpg
 wppost_name: para-el-dia-del-nino
 ---
 
@@ -114,7 +114,7 @@ La Isla del Tesoro
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/pig.jpg"><img class="alignright size-full wp-image-5903" title="pig" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/pig.jpg" alt="" width="225" height="225" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/pig.jpg"><img class="alignright size-full wp-image-5903" title="pig" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/pig.jpg" alt="" width="225" height="225" /></a>
 
 <a href="http://www.manzanamecanica.org/2009/02/un_comic_para_ninos_sobre_cultura_libre.html" target="_blank">De una entrada de "La Manzana Mecánica"</a>:
 

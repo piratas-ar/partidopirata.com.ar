@@ -7,12 +7,12 @@ tags:
 - divulgacion
 - no-al-canon
 - piquete-digital
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/anibal-pj-digital.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/anibal-pj-digital.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/anibal-pj-digital.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/anibal-pj-digital.jpg
 wppost_name: noalcanon-anibal-fernandez-nos-comimos-un-piquete-digital
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/07/anibal-pj-digital.jpg"><img class="alignleft size-medium wp-image-1318" title="anibal-pj-digital" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/anibal-pj-digital-300x229.jpg" alt="" width="300" height="229" /></a><strong><a href="http://www.bea.org.ar/2011/07/nos-comimos-un-error-anibal-fernandez-sobre-el-canon-digital/" target="_blank">Leído en el blog de Beatriz Busaniche.</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/07/anibal-pj-digital.jpg"><img class="alignleft size-medium wp-image-1318" title="anibal-pj-digital" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/anibal-pj-digital-300x229.jpg" alt="" width="300" height="229" /></a><strong><a href="http://www.bea.org.ar/2011/07/nos-comimos-un-error-anibal-fernandez-sobre-el-canon-digital/" target="_blank">Leído en el blog de Beatriz Busaniche.</a></strong>
 
 "Un tema del que hablé durante la presentación y al que me gustaría referirme especialmente, es el proyecto de <strong>canon digital</strong> que se discutió en comisión en Senadores, y que finalmente no fue  llevado al recinto. Les dejo un audio muy breve que expone nuestra  posición sobre el tema:"
 

@@ -11,8 +11,8 @@ tags:
 - numerologia
 - numerologia-pirata
 - numeros-falsos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
 wppost_name: mas-numerologia-pirata-en-este-caso-danesa-para-justificar-el-acta
 ---
 
@@ -44,4 +44,4 @@ La idea es siempre la misma, mandó cualquier número catastrófico sin ningún 
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3049/sobre-numerologia-pirata-los-numeros-que-largan-sobre-perdidas-por-pirateria">Más <em>numerología pirata</em></a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3049/sobre-numerologia-pirata-los-numeros-que-largan-sobre-perdidas-por-pirateria">Más <em>numerología pirata</em></a></strong></p>

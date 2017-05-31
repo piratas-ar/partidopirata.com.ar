@@ -11,8 +11,8 @@ tags:
 - privatizacion
 - privatizacion-de-las-semillas
 - semillas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/semilla.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/semilla-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/semilla.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/semilla-150x150.jpg
 wppost_name: 10-motivos-para-luchar-contra-el-proyecto-de-ley-que-pretende-privatizar-las-semillas-en-la-argentina
 ---
 

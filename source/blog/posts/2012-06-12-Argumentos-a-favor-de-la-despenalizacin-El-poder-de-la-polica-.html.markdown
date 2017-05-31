@@ -11,8 +11,8 @@ tags:
 - policia
 - rati-horror-show
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: argumentos-a-favor-de-la-despenalizacion-el-poder-de-la-policia
 ---
 

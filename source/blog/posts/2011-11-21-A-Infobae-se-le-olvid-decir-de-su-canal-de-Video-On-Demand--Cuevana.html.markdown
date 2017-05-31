@@ -18,7 +18,7 @@ thumb:
 wppost_name: a-infobae-se-le-olvido-decir-de-su-canal-de-video-on-demand-cuevana
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="alignleft size-full wp-image-2318" title="Cuevana" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a> Algo que publica <strong><a href="http://www.infobae.com/notas/617860-El-sitio-Cuevana-fue-denunciado-penalmente-ante-la-Justicia-argentina.html" target="_Blank">Infobae sobre Cuevana</a>:</strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="alignleft size-full wp-image-2318" title="Cuevana" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a> Algo que publica <strong><a href="http://www.infobae.com/notas/617860-El-sitio-Cuevana-fue-denunciado-penalmente-ante-la-Justicia-argentina.html" target="_Blank">Infobae sobre Cuevana</a>:</strong>
 
 "<strong>Telefe es el primero de una larga lista de productores y cineastas que tomaron la decisión de ir a la Justicia para evitar el robo de productos culturales. Tanto compañías de cine norteamericanas, como la Academia Nacional del Cine Argentino expresaron  su desagrado frente a la pasividad de jueces y fiscales ante la clara comisión de delitos por parte del sitio pirata."</strong>
 
@@ -59,5 +59,5 @@ Y la <em>frutilla del postre </em>lo que dice el INCAA:
 No deja de ser irónico. El dinero que invierte el INCAA en cine es <strong>NUESTRO </strong>dinero, es dinero del Estado. Ellos no dejarán que otros se <em>apropien </em>prefieren que todo tenga los viejos candados del derecho de autor.
 
 Luchemos para que la libertad de expresión no sea cercenada, <strong>NO VEAMOS TELEFÈ, ni sus cómplices como INFOBAE.</strong>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2348/sobre-la-distribucion-y-exhibicion-de-cine-argentino-en-el-pais-%C2%BFy-una-cuevana-de-cine-argentino">Sobre la distribución y exhibición de cine argentino en el país.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2348/sobre-la-distribucion-y-exhibicion-de-cine-argentino-en-el-pais-%C2%BFy-una-cuevana-de-cine-argentino">Sobre la distribución y exhibición de cine argentino en el país.</a></strong></p>
 &nbsp;

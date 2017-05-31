@@ -9,12 +9,12 @@ tags:
 - desalojo
 - kasa-pirata
 - rosario
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/kasa-pirata1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/kasa-pirata1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/kasa-pirata1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/kasa-pirata1-150x150.jpg
 wppost_name: kasa-pirata-llamado-a-solidaridad-y-lucha-rosario
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/kasa-pirata1.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/10/kasa-pirata1.jpg" alt="" title="kasa pirata" width="356" height="267" class="alignleft size-full wp-image-6931" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/kasa-pirata1.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/10/kasa-pirata1.jpg" alt="" title="kasa pirata" width="356" height="267" class="alignleft size-full wp-image-6931" /></a>
 
 <strong>La Kasa Pirata, centro contra-cultural en el centro de Rosario que brindaba talleres y funciones a la gorra, fue desalojada el pasado 1 de octubre.  El 12 de octubre desalojaron el acampe que vecinos y artistas mantenían en protesta. ... Otra vez la cultura es víctima de las especulaciones inmobiliarias, esta vez bajo una intendencia "socialista". Seis personas de la Kasa Pirata fueron procesadas por delitos que no cometieron, en un procedimiento de violencia desproporcionada y plagados de irregularidades. </strong>
 

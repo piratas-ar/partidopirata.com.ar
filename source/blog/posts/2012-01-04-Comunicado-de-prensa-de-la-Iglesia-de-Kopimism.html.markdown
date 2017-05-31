@@ -6,8 +6,8 @@ tags:
 - material-para-difusion
 - iglesia-misionera
 - kopimism
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363-150x150.jpg
 wppost_name: comunicado-de-prensa-de-la-iglesia-de-kopimism
 ---
 
@@ -26,7 +26,7 @@ Ser reconocidos por el Estado de Suecia es un gran paso para todos los kopimi. E
 La Iglesia de Kopimism es una organización religiosa con sus raíces a partir de 2010. La organización formaliza una comunidad que ha sido muy difundida desde hace ya mucho tiempo. La comunidad de kopimi no requiere membresía formal. Sólo tienes que sentir un llamado a adorar lo que es el más santo de los más santos, la información y la copia. Para ello, organizamos kopyactings - servicios religiosos - donde los kopimist comparten la información entre si a través de la copia y el remix.
 <p style="text-align: center;">Copia y siembra.
 <strong><a href="http://kopimistsamfundet.se/blog/2012/01/04/det-missionerande-kopimistsamfundet-erkanns-av-svenska-staten/" target="_blank">Fuente Blog de la Iglesia de Kopimism.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2693/el-intercambio-de-archivos-es-una-religion-reconocida-en-suecia">La noticia en el blog de Rick Falkvinge</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2693/el-intercambio-de-archivos-es-una-religion-reconocida-en-suecia">La noticia en el blog de Rick Falkvinge</a></strong></p>
 
 
 <hr />

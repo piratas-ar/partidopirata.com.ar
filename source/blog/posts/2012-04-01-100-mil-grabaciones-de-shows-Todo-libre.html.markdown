@@ -6,8 +6,8 @@ tags:
 - multimedia
 - dominio-publico
 - archive
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/gratefuldead1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/gratefuldead1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/gratefuldead1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/gratefuldead1-150x150.jpg
 wppost_name: '100_mil_grabaciones_de_shows_todo_libre'
 ---
 
@@ -25,7 +25,7 @@ Es que Grateful Dead fue el pionero en ese tipo de registro. Ellos comenzaron en
 </a>
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/gratefuldead1.jpg"><img class="aligncenter size-full wp-image-3695" title="Grateful Dead" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/gratefuldead1.jpg" alt="" width="441" height="381" /></a><em>Grateful Dead en 1987 (foto: <a href="http://pt.wikipedia.org/wiki/Ficheiro:Jerry-Mickey_at_Red_Rocks_taken_08-11-87.jpg" target="_blank">Wikipedia</a>)</em></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/gratefuldead1.jpg"><img class="aligncenter size-full wp-image-3695" title="Grateful Dead" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/gratefuldead1.jpg" alt="" width="441" height="381" /></a><em>Grateful Dead en 1987 (foto: <a href="http://pt.wikipedia.org/wiki/Ficheiro:Jerry-Mickey_at_Red_Rocks_taken_08-11-87.jpg" target="_blank">Wikipedia</a>)</em></p>
 (Recordemos: el compositor de Grateful Dead, John Perry Barlow, fue uno de los fundadores de Eletronic Frontier Foundation, una de las principales organizaciones que luchan por la libertad en la web)
 
 La práctica se tornó rutinaría y llegó a otras bandas. Barlow adaptó el permiso de grabarse en la web. Em 2002 el site que almacenaba las grabaciones ( <a title="http://eTree. " href="http://etree.org/" target="_blank">eTree.org</a>) se tornó parte de Internet Archive. La propuesta fue osada: Archive ofreció al projeto “almacenamiento ilimitado, banda ilimitada, para siempre, gratis”.

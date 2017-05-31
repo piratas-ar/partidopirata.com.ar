@@ -8,12 +8,12 @@ tags:
 - marcha
 - marcha-contra-el-acta
 - quadrature-du-net
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion-150x150.jpg
 wppost_name: 6-razones-para-oponerse-a-acta-11-de-febrero-marcha-contra-el-acta-en-buenos-aires
 ---
 
-<strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion.jpg"><img class="aligncenter size-full wp-image-3136" title="Día Internacional Contra el ACTA" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion.jpg" alt="" width="400" height="400" /></a><a href="http://killacta.org/#map" target="_blank">Fuente KillActa</a></strong>
+<strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion.jpg"><img class="aligncenter size-full wp-image-3136" title="Día Internacional Contra el ACTA" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/acta_dia_internacional_accion.jpg" alt="" width="400" height="400" /></a><a href="http://killacta.org/#map" target="_blank">Fuente KillActa</a></strong>
 <ol>
 	<li>ACTA encierra a los países en leyes obsoletas de derechos de autor y patentes. Si una democracia decide sobre leyes menos restrictivas que reflejen la realidad de Internet, si firmó ACTA no podría modificarlas.</li>
 	<li>ACTA criminaliza a los usuarios, que hacen remixes no comerciales, si está hecho "a escala comercial" <a href="http://www.laquadrature.net/en/acta-updated-analysis-of-the-final-version#footnote10_tuwtomp" target="_blank">(art. 2.14.1)</a>. Muchas de las obras de aficionados llegan a una escala comercial en sitios como Youtube. ACTA, como sopa, podría significar penas de cárcel para los <a href="http://freebieber.com/" target="_blank">Justin Biebers</a> del mundo.</li>
@@ -29,7 +29,7 @@ Faltaría el tema de los medicamentos genéricos que los equipara con falsificad
 &nbsp;
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3077/acto-el-11-de-febrero-en-el-obelisco-contra-el-acta">Por todo esto convocamos el 11 de Febrero a una marcha al Obelisco contra el ACTA! de 18 a 20,30!</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3077/acto-el-11-de-febrero-en-el-obelisco-contra-el-acta">Por todo esto convocamos el 11 de Febrero a una marcha al Obelisco contra el ACTA! de 18 a 20,30!</a></strong></p>
 <p style="text-align: center;">No sabemos cuál será la posición Argentina cuando la convoquen a firmar el ACTA, Timerman no dice nada!</p>
 
 
@@ -40,4 +40,4 @@ Faltaría el tema de los medicamentos genéricos que los equipara con falsificad
 
 <hr />
 
-<strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/373472_205843089513113_1068301294_n.jpg"><img class="aligncenter size-full wp-image-3078" title="Pulpo ACTA" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/373472_205843089513113_1068301294_n.jpg" alt="" width="180" height="209" /></a>
+<strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/373472_205843089513113_1068301294_n.jpg"><img class="aligncenter size-full wp-image-3078" title="Pulpo ACTA" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/373472_205843089513113_1068301294_n.jpg" alt="" width="180" height="209" /></a>

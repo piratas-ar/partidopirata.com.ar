@@ -15,8 +15,8 @@ tags:
 - plataforma
 - source
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/500px-Arduino-logo.svg_-300x300.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/500px-Arduino-logo.svg_-300x300.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/500px-Arduino-logo.svg_-300x300.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/500px-Arduino-logo.svg_-300x300.png
 wppost_name: arduino-el-documental
 ---
 

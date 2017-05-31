@@ -9,8 +9,8 @@ tags:
 - san-rafael
 - ulises-dumont
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/images1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/images1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/images1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/images1-150x150.jpg
 wppost_name: tus-ojos-cuando-llueven-liberado-por-su-director
 ---
 

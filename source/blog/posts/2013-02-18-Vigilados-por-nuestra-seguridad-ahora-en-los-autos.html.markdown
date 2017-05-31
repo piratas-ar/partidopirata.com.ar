@@ -10,8 +10,8 @@ tags:
 - monitoreados
 - todos-vigilados
 - vigilados
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/primer-batimovil-619x348.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/primer-batimovil-619x348-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/primer-batimovil-619x348.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/primer-batimovil-619x348-150x150.jpg
 wppost_name: vigilados-por-nuestra-seguridad-ahora-en-los-autos
 ---
 

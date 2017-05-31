@@ -11,8 +11,8 @@ tags:
 - plaza-de-mayo
 - tragedia-de-once
 - tren-sarmiento
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/images-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/images-150x150.jpg
 wppost_name: discurso-22f-maria-lujan-rey-paolo-menghini-plaza-de-mayo
 ---
 

@@ -7,14 +7,14 @@ tags:
 - editoriales
 - libres
 - noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/escritores-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/escritores-150x150.jpg
 wppost_name: de-que-no-viven-los-escritores-iii
 ---
 
-<img class="aligncenter" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg" alt="" width="300" height="300" />
+<img class="aligncenter" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg" alt="" width="300" height="300" />
 
-<strong><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">En otra entrada comentábamos de que NO viven los escritores</a>.</strong>
+<strong><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">En otra entrada comentábamos de que NO viven los escritores</a>.</strong>
 
 Leemos este artículo de<strong> <a href="http://www.pagina12.com.ar/diario/sociedad/3-177071-2011-09-19.html" target="_blanK">Página 12</a></strong>
 

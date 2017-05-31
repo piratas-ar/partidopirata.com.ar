@@ -13,8 +13,8 @@ tags:
 - sellos-independientes
 - sudara-williams
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/casette.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/casette-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/casette.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/casette-150x150.jpg
 wppost_name: la-pirateria-musical-no-es-un-problema-es-una-excusa
 ---
 
@@ -24,7 +24,7 @@ Por <a title="Posts by Sudara Williams" href="https://torrentfreak.com/author/su
 
 Es 2012 y la "piratería" sigue siendo un tema candente en las conversaciones de la industria. Las personas que comparten vía torrent o tienen una enorme biblioteca musical están acusadas de joder a los artistas,  de robar y,  tienen derecho. La piratería sigue siendo citada como la razón principal por la qué los artistas están en la ruina.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/casette.jpg"><img class="alignright size-full wp-image-5054" title="casette" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/casette.jpg" alt="" width="175" height="153" /></a>Al parecer, la investigación independiente no es suficiente para ilustrar que la situación es compleja y multidimensional, y que es probable que las pérdidas de la industria no tengan nada que ver con el intercambio de archivos.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/casette.jpg"><img class="alignright size-full wp-image-5054" title="casette" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/casette.jpg" alt="" width="175" height="153" /></a>Al parecer, la investigación independiente no es suficiente para ilustrar que la situación es compleja y multidimensional, y que es probable que las pérdidas de la industria no tengan nada que ver con el intercambio de archivos.
 
 Como artista y empresario de la música,  sé con certeza que es el momento de seguir adelante y darle a energía nuevas a nuestras empresas para innovadar y que los artistas cobreb. <a href="http://ramenmusic.com">Mi empresa  </a> está a favor del intercambio y es pro-artista - Considero que el compartir es una característica y es la principal fuente de nuestros ingresos.
 <h3 style="text-align: center;">Bienvenido a Internet</h3>

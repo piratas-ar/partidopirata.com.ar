@@ -6,12 +6,12 @@ tags:
 - inta
 - divulgacion
 - reconocimiento
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_.jpg
 wppost_name: articultores-declaracion-de-interes
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_.jpg"><img class="aligncenter size-medium wp-image-994" title="article_image.php" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_-212x300.jpg" alt="" width="212" height="300" /></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_.jpg"><img class="aligncenter size-medium wp-image-994" title="article_image.php" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/article_image.php_-212x300.jpg" alt="" width="212" height="300" /></a>
 <strong><a href="http://articultores.net/tiki-read_article.php?articleId=243" target="_blank">Fuente Articultores.</a></strong></p>
 
 

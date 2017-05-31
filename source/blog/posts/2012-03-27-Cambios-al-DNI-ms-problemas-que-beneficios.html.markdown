@@ -10,8 +10,8 @@ tags:
 - sociedad-de-control
 - vigilancia
 - voto-electronico
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/rfid-dni.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/rfid-dni-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/rfid-dni.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/rfid-dni-150x150.jpg
 wppost_name: cambios-al-dni-mas-problemas-que-beneficios
 ---
 

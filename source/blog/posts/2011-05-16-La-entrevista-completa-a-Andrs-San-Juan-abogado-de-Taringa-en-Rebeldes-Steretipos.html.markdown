@@ -9,8 +9,8 @@ tags:
 - radio-2
 - rebeldes-stereotipos
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
 wppost_name: la-entrevista-completa-a-andres-san-juan-abogado-de-taringa-en-rebeldes-stereotipos
 ---
 
@@ -31,7 +31,7 @@ La charla con el Dr. Andrés San Juan, abogado de <a href="http://www.taringa.ne
 
 <hr />
 
-</strong><strong><a href="http://partidopirata.com.ar/1015/taringa-el-ajusticiamiento-tiene-un-caracter-aleccionador-para-el-resto-abogado-de-taringa">Resumen de lo dicho por Andrés San Juan.</a></strong>
+</strong><strong><a href="https://partidopirata.com.ar/1015/taringa-el-ajusticiamiento-tiene-un-caracter-aleccionador-para-el-resto-abogado-de-taringa">Resumen de lo dicho por Andrés San Juan.</a></strong>
 
 </div>
 

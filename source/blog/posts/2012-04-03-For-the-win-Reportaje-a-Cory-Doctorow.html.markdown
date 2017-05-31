@@ -9,8 +9,8 @@ tags:
 - cory-doctorow
 - material-para-difusion
 - pornografia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/Cory_Doctorow_in_Borough_Market-150x150.jpg
 wppost_name: for-the-win-reportaje-a-cory-doctorow
 ---
 
@@ -62,7 +62,7 @@ Poole, en crítica directa a la caída de las inversiones en curadoria digital, 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">La Charla de Cory Doctorw sobre la <em>Guerra </em> en la computadora de propósito general</a>
+<a href="https://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">La Charla de Cory Doctorw sobre la <em>Guerra </em> en la computadora de propósito general</a>
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://www.openrightsgroup.org/orgcon-2012" target="_blank">El site de Open Right Groups, pero no hay videos de las conferencias</a></strong></p>

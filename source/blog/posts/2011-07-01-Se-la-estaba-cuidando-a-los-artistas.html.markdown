@@ -11,8 +11,8 @@ tags:
 - noticias
 - teddy-bautista
 - transparencia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-150x150.jpg
 wppost_name: eduardo-teddy-bautista-detenido-sgae
 ---
 
@@ -26,4 +26,4 @@ Se espera que el presidente de esta sociedad de fomento, Eduardo "Teddy" Bautist
 
 Recordemos que el procesado Teddy Bautista, presidente de la SGAE, fue invitado en el último <a href="http://www.mica.gob.ar/noticias.php?id=24">Mercado de Industrias Culturales por el Secretario de Cultura Jorge Coscia</a>. Teddy presento el seminario "Chorreando con el curro de lo del Derecho de autor"? Wait,No... pero parecido: “Derecho de autor en industrias culturales. Alcances de la legislación, protección y nuevas tecnologías”.
 
-¿Los dirigentes de las Sociedades de Gestión habrán "aprendido" mucho con él?... Tal vez no lo precisen... Menos mal que avisamos en su momento para que <a href="http://partidopirata.com.ar/1074/cuiden-las-billeteras-llega-teddy-bautista-a-la-argentina">cuiden sus billeteras!!!</a>
+¿Los dirigentes de las Sociedades de Gestión habrán "aprendido" mucho con él?... Tal vez no lo precisen... Menos mal que avisamos en su momento para que <a href="https://partidopirata.com.ar/1074/cuiden-las-billeteras-llega-teddy-bautista-a-la-argentina">cuiden sus billeteras!!!</a>

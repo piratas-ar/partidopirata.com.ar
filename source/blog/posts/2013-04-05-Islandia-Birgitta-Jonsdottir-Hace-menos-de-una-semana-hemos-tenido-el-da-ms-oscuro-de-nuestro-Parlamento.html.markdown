@@ -10,16 +10,16 @@ tags:
 - partido-pirata-islandes
 - pay-pal
 - reddit
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/5ba0ce4fb25e6baf97c680536d74046a_L.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/5ba0ce4fb25e6baf97c680536d74046a_L-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/5ba0ce4fb25e6baf97c680536d74046a_L.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/5ba0ce4fb25e6baf97c680536d74046a_L-150x150.jpg
 wppost_name: islandia-birgitta-jonsdottir-hace-menos-de-una-semana-hemos-tenido-el-dia-mas-oscuro-de-nuestro-parlamento
 ---
 
 <strong><a href="http://www.newsoficeland.com/home/politics/parliamentministries/item/1033-birgitta-jonsdottir-less-than-a-week-ago-we-had-the-darkest-day-of-our-parliament" target="_blank">Fuente Newsoficeland</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/5ba0ce4fb25e6baf97c680536d74046a_L.jpg"><img class="aligncenter size-medium wp-image-9015" alt="5ba0ce4fb25e6baf97c680536d74046a_L" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/5ba0ce4fb25e6baf97c680536d74046a_L-300x226.jpg" width="300" height="226" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/5ba0ce4fb25e6baf97c680536d74046a_L.jpg"><img class="aligncenter size-medium wp-image-9015" alt="5ba0ce4fb25e6baf97c680536d74046a_L" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/5ba0ce4fb25e6baf97c680536d74046a_L-300x226.jpg" width="300" height="226" /></a>
 
-Birgitta Jonsdottir, voluntaria de Wikileaks y miembro del Partido Pirata islandés, respondió a algunas preguntas en Reddit hoy. Este evento se llama Ask me anything [Pregúntenme lo que quieran], y los usuarios pueden hacer preguntas vía Reddit correos y Birgitta responde. En Reddit Birgitta por ejemplo, dijo que los islandeses tuvieron su día más oscuro en el parlamento la semana pasada, debido a que la nueva Constitución no se aprobó. [<strong><a href="http://partidopirata.com.ar/2013/03/31/el-experimento-de-islandia-con-su-constitucion-redactada-colaborativamente-acaba-de-morir/">Algo más en esta otra entrada del blog</a>]</strong>
+Birgitta Jonsdottir, voluntaria de Wikileaks y miembro del Partido Pirata islandés, respondió a algunas preguntas en Reddit hoy. Este evento se llama Ask me anything [Pregúntenme lo que quieran], y los usuarios pueden hacer preguntas vía Reddit correos y Birgitta responde. En Reddit Birgitta por ejemplo, dijo que los islandeses tuvieron su día más oscuro en el parlamento la semana pasada, debido a que la nueva Constitución no se aprobó. [<strong><a href="https://partidopirata.com.ar/2013/03/31/el-experimento-de-islandia-con-su-constitucion-redactada-colaborativamente-acaba-de-morir/">Algo más en esta otra entrada del blog</a>]</strong>
 
 Birgitta Jonsdottir se encuentra actualmente en los EE.UU. para mostrar su apoyo a Bradley Manning, entre otras cosas.
 

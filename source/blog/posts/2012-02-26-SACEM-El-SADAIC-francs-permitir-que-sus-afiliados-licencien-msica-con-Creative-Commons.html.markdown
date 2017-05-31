@@ -14,12 +14,12 @@ tags:
 - sadaic
 - sociedad-de-gestion
 - sociedades-de-gestion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons-150x129.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons-150x129.jpg
 wppost_name: sacem-el-sadaic-frances-permitira-que-sus-afiliados-licencien-musica-con-creative-commons
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons.jpg"><img class="aligncenter size-full wp-image-3297" title="SACEM-Creative Commons" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons.jpg" alt="" width="600" height="129" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons.jpg"><img class="aligncenter size-full wp-image-3297" title="SACEM-Creative Commons" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/logo_sacem_creative_commons.jpg" alt="" width="600" height="129" /></a>
 <p style="text-align: center;"><a href="https://creativecommons.org/tag/sacem" target="_blank">Fuente Creative Commons Org</a></p>
 <p style="text-align: center;"><strong>Un nuevo proyecto piloto permite a los miembros de la sociedad de gestión SACEM utilizar las licencias Creative Commons</strong></p>
 Paul Keller, 10 de enero 2012

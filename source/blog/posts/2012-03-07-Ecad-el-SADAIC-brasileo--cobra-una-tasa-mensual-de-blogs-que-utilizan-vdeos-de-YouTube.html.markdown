@@ -12,14 +12,14 @@ tags:
 - musica-en-los-blogs
 - sadaic
 - taza-para-blogs
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-150x150.jpg
 wppost_name: ecad-el-sadaic-brasileno-cobra-una-taza-mensual-de-blogs-que-utilizan-videos-de-youtube
 ---
 
 <a href="http://oglobo.globo.com/cultura/ecad-cobra-taxa-mensal-de-blogs-que-utilizam-videos-do-youtube-4233380" target="_blank">Fuente O Globo</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube.jpg"><img class=" wp-image-3416 aligncenter" title="youtube" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube.jpg" alt="" width="500" height="375" /></a>RIO - La saga de cobros inusitados del Escritorio Central de Recadaudación y Distribución (Ecad-en su sigla en portugués, el SADAIC brasileño) ganó un capítulo más la semana pasada. Los chicos de <a href="http://www.caligraffiti.com.br/por-uma-internet-livre/" rel="external">blog Caligraffiti</a> recibieron el martes 28 de febrero un email de la entidad recaudadora avisando que tedrían que pagar derechos de autor por los videos de YouTube y Vimeo que aparecian en el site. Sorprendido, Uno de Oliveira, uno de los responsables del blog, llamó a las oficinas del Ecad en São Paulo, ya que nunca había escuchado de ese tipo de cobros.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube.jpg"><img class=" wp-image-3416 aligncenter" title="youtube" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube.jpg" alt="" width="500" height="375" /></a>RIO - La saga de cobros inusitados del Escritorio Central de Recadaudación y Distribución (Ecad-en su sigla en portugués, el SADAIC brasileño) ganó un capítulo más la semana pasada. Los chicos de <a href="http://www.caligraffiti.com.br/por-uma-internet-livre/" rel="external">blog Caligraffiti</a> recibieron el martes 28 de febrero un email de la entidad recaudadora avisando que tedrían que pagar derechos de autor por los videos de YouTube y Vimeo que aparecian en el site. Sorprendido, Uno de Oliveira, uno de los responsables del blog, llamó a las oficinas del Ecad en São Paulo, ya que nunca había escuchado de ese tipo de cobros.
 
 "Elloss dijeron que YouTube paga, pués es un transmisor, pero que los blogs son retransmisores y también tienen que pagar", cuenta el designer, "El Ecad está dentro de la ley, no están cobrando indebidamente. Pero la ley está totalmente desfasada. Ellos se basan en la ley para encontrar alguna brecha y ganar más dinero", critica.
 
@@ -62,10 +62,10 @@ Ahora, en la Argentina<a href="http://www.aliadodigital.com/2010/08/argentina-go
 
 ¿Será la próxima etapa querer cobrar por los videos que hay en los blogs?
 <p style="text-align: center;">Estemos atentos y nuestra solidaridad con el blog <a href="http://www.caligraffiti.com.br/" target="_blank">Caligraffiti</a> y con todos los brasileños que se enfrentan a estos monstruos a los que sólo les interesa cobrar, poco importa luego cómo distribuyen todo lo que reciben!</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2450/cuanto-hay-que-pagarle-a-las-sociedades-de-gestion-por-abrir-un-bar-orsai-bar">La lógica es la misma que usa SADAIC para cobrarle a los bares que pasan música, siempre es el mismo esquema.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2450/cuanto-hay-que-pagarle-a-las-sociedades-de-gestion-por-abrir-un-bar-orsai-bar">La lógica es la misma que usa SADAIC para cobrarle a los bares que pasan música, siempre es el mismo esquema.</a></strong></p>
  Es importante recalcar que el ECAD igual que SADAIC ya le está cobrando a Youtube una tasa por la música que circula a través del site.
 
 Lo que hacen los blogs es copiar el código que aparece en youtube para "incorporar" el video, pero el video y la transmisión corren por cuenta de youtube.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3458/brasil-tasa-para-colocar-videos-con-musica-en-blogs-google-condena-al-ecad-y-pide-el-fin-de-cobros">Google se posiciona contra el ECAD por el cobro de una tasa por videos con música en los blogs</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3458/brasil-tasa-para-colocar-videos-con-musica-en-blogs-google-condena-al-ecad-y-pide-el-fin-de-cobros">Google se posiciona contra el ECAD por el cobro de una tasa por videos con música en los blogs</a></strong></p>

@@ -10,12 +10,12 @@ tags:
 - privacidad
 - seguridad-2
 - seguridad-nacional
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: ee-uu-cispa-seguridad-nacional-y-la-capacidad-de-la-agencia-de-seguridad-para-leer-tus-correos-electronicos
 ---
 
-<strong><a href=" http://partidopirata.com.ar/3888/cispa-proyecto-de-ley-le-permite-a-los-proveedores-de-internet-espiar-a-sus-suscriptores">Información sobre CISPA en nuestro blog.</a></strong>
+<strong><a href=" https://partidopirata.com.ar/3888/cispa-proyecto-de-ley-le-permite-a-los-proveedores-de-internet-espiar-a-sus-suscriptores">Información sobre CISPA en nuestro blog.</a></strong>
 
 <strong><a href="https://www.eff.org/deeplinks/2012/04/cispa-national-security-and-nsa-ability-read-your-emails">Fuente Electronic Frontier Foundation</a></strong>
 Esta semana la Cámara de Diputados está debatiendo CISPA, el peligroso proyecto de ley de  'ciberseguridad' que amenaza con diezmar la privacidad de los usuarios de Internet en el nombre de la seguridad. EFF y una amplia variedad de otros grupos han estado protestando las disposiciones de la ley dándole a las empresas el poder de leer los correos electrónicos y otras comunicaciones y entregarlos al gobierno sin ningún tipo de supervisión judicial alguna-en esencia una gigante excepción de la ciberseguridad de los usuarios  'a todas las leyes de privacidad existentes .

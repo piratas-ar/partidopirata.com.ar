@@ -9,8 +9,8 @@ tags:
 - igualdad
 - licencias
 - plan-nacional-de-igualdad-cultural
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/signo-igual.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/signo-igual-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/signo-igual.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/signo-igual-150x150.png
 wppost_name: sobre-el-plan-nacional-de-igualdad-cultural
 ---
 

@@ -7,8 +7,8 @@ tags:
 - material-para-difusion
 - drm
 - restricciones-tecnologica
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500-150x150.png
 wppost_name: 4-de-mayo-dia-mundial-contra-los-drm
 ---
 
@@ -35,7 +35,7 @@ El Equipo de Eliminación de DRM
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png"><img class="size-full wp-image-4318" title="NoDRM.es-500" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png" alt="" width="500" height="707" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png"><img class="size-full wp-image-4318" title="NoDRM.es-500" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/NoDRM.es-500.png" alt="" width="500" height="707" /></a>
 
 
 <hr />

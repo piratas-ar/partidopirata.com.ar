@@ -9,8 +9,8 @@ tags:
 - iinet
 - recopilacion-de-datos-de-los-usuarios
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/tf-dmca.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/tf-dmca-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/tf-dmca.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/tf-dmca-150x150.png
 wppost_name: australia-proveedores-de-internet-salen-de-las-conversaciones-anti-pirateria-no-somos-la-policia-de-internet
 ---
 
@@ -53,6 +53,6 @@ Será una gran preocupación, sobre todo para los estudios de Hollywood, que no 
 "Hollywood, ya sabes dónde estamos. Es hora de cambiar la melodía ", concluye Dalby.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast"> Si quieren saber como funciona la Ley Hadopi o de los 3 avisos en Francia donde vigilan lo que hacen los usuarios para advertirlos en caso de infracción a los derechos de autor.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast"> Si quieren saber como funciona la Ley Hadopi o de los 3 avisos en Francia donde vigilan lo que hacen los usuarios para advertirlos en caso de infracción a los derechos de autor.</a></strong></p>
 <p style="text-align: center;">
 Menos mal que alguien está dándole batalla con este tema!!!, que más Proveedores de Internet se junten a esta batalla, sino todo será cada vez más difícil</p>

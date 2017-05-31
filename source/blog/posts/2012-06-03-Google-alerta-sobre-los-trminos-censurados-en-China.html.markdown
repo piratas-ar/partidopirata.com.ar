@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - google
 - terminos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1-150x150.png
 wppost_name: google-alerta-sobre-los-terminos-censurados-en-china
 ---
 
@@ -22,9 +22,9 @@ Por Redacción Link
 SÃO PAULO – Google creó un sistema de alertas que buscan ayudar a la población china a usar el buscador sin tener su acceso bloqueado en función de los términos buscados. Sin citar la palabra “censura”, el buscador explicó el mecanismo <a href="http://insidesearch.blogspot.com.br/2012/05/better-search-in-mainland-china.html">en un blog</a>  diciendo que el motivo de la novedad es hacerle evidente al usuario lo que está causando las caídas de conexión.
 
 Dependiendo del término, si es previamente censurado por el gobierno chino, la conexión del usuario con los servidores de Google es interrumpida y mensajes como “Esa página no está disponible” o “La conexión fue reiniciada” aparecian en la pantalla (<em>veanlo en el vídeo abajo</em>).
-<div class="mceTemp mceIEcenter" style="text-align: center;"><dl id="attachment_4612" class="wp-caption  aligncenter" style="width: 310px;"><dt class="wp-caption-dt"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1.png"><img class=" wp-image-4612" title="google-china1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1-300x133.png" alt="" width="300" height="133" /></a></dt><dd class="wp-caption-dd">Censura de Google en China 1
+<div class="mceTemp mceIEcenter" style="text-align: center;"><dl id="attachment_4612" class="wp-caption  aligncenter" style="width: 310px;"><dt class="wp-caption-dt"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1.png"><img class=" wp-image-4612" title="google-china1" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/google-china1-300x133.png" alt="" width="300" height="133" /></a></dt><dd class="wp-caption-dd">Censura de Google en China 1
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2.png"><img class="size-medium wp-image-4613" title="google-china2" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2-300x133.png" alt="" width="300" height="133" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2.png"><img class="size-medium wp-image-4613" title="google-china2" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2-300x133.png" alt="" width="300" height="133" /></a>
 
 
 </dd></dl></div>

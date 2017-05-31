@@ -10,8 +10,8 @@ tags:
 - presion-popular
 - republica-checa
 - timerman
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/373472_205843089513113_1068301294_n.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/373472_205843089513113_1068301294_n-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/373472_205843089513113_1068301294_n.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/373472_205843089513113_1068301294_n-150x150.jpg
 wppost_name: antes-polonia-ahora-la-republica-checa-se-bajan-del-acta-la-movilizacion-popular-crece
 ---
 

@@ -12,12 +12,12 @@ tags:
 - represion
 - sube
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/gen1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/gen1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/gen1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/gen1-150x150.jpg
 wppost_name: gendarmeria-nos-cuida-tambien-nos-vigila
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/gen1.jpg"><img class="aligncenter size-full wp-image-3039" title="Gendarmería Nacional" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/gen1.jpg" alt="" width="254" height="198" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/gen1.jpg"><img class="aligncenter size-full wp-image-3039" title="Gendarmería Nacional" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/gen1.jpg" alt="" width="254" height="198" /></a>
 
 <strong><a href="http://www.pagina12.com.ar/diario/elpais/1-186655-2012-02-01.html" target="_blank">Fuente Página 12.</a></strong>
 
@@ -48,7 +48,7 @@ Si a esto le sumamos que podrán saber todos los viajes realizados en transporte
 
 Es tiempo de parar tanto control, demasiado control en fuerzas que no están controladas.
 <p style="text-align: center;">Que la tarjeta SUBE no guarde tanta información, que se repiense el sistema de reconocimiento facial, la represión puede ser mucho peor para todos con estos sistemas.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2973/en-el-dia-internacional-de-la-privacidad-para-que-no-nos-rastreen-con-la-tarjeta-sube">Carta para solicitar que se resguarde nuestra privacidad con las tarjetas SUBE</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2973/en-el-dia-internacional-de-la-privacidad-para-que-no-nos-rastreen-con-la-tarjeta-sube">Carta para solicitar que se resguarde nuestra privacidad con las tarjetas SUBE</a></strong></p>
 
 
 <hr />

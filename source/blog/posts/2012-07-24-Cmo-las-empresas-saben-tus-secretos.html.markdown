@@ -10,8 +10,8 @@ tags:
 - prediccion-del-compartamiento
 - target
 - the-new-york-times
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/19target_span-articleLarge.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/19target_span-articleLarge-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/19target_span-articleLarge.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/19target_span-articleLarge-150x150.jpg
 wppost_name: como-las-empresas-saben-tus-secretos
 ---
 

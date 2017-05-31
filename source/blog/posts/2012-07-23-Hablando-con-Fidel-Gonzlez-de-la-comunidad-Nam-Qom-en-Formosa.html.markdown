@@ -9,8 +9,8 @@ tags:
 - nam-qom
 - pueblo-cercado
 - pueblos-originarios
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/namqom.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/namqom-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/namqom.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/namqom-150x150.jpg
 wppost_name: hablando-con-fidel-gonzalez-de-la-comunidad-nam-qom-en-formosa
 ---
 

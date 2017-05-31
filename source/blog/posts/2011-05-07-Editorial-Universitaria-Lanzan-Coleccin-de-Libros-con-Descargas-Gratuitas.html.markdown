@@ -10,12 +10,12 @@ tags:
 - libros-liberados
 - divulgacion
 - unesp
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg
 wppost_name: editorial-universitaria-lanzan-coleccion-de-libros-con-descargas-gratuitas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg"><img class="aligncenter size-medium wp-image-975" title="livro-cadeado" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado-300x222.jpg" alt="" width="300" height="222" /></a><strong><a href="http://baixacultura.org/2011/05/06/os-livros-da-unesp-para-download-mas-so-pra-isso-ou-nao-a-gente-da-um-jeito/" target="_blank">Fuente Baixa Cultura</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg"><img class="aligncenter size-medium wp-image-975" title="livro-cadeado" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado-300x222.jpg" alt="" width="300" height="222" /></a><strong><a href="http://baixacultura.org/2011/05/06/os-livros-da-unesp-para-download-mas-so-pra-isso-ou-nao-a-gente-da-um-jeito/" target="_blank">Fuente Baixa Cultura</a></strong>
 
 En <strong></strong><strong><a href="http://baixacultura.org/2011/05/06/os-livros-da-unesp-para-download-mas-so-pra-isso-ou-nao-a-gente-da-um-jeito/" target="_blank">Baixa Cultura</a> informan sobre una colección de libros universitarios que están disponibles gratuitamente a través de la web, entre otras cosas dice:</strong>
 <strong>"</strong>Los títulos integran el sello <a href="http://www.culturaacademica.com.br/">Cultura Académica</a> (creado en 1987) y dan continuidad a la Colección Propg Digital, que ofrece obras inéditas para descargar. La primera fase del programa fue en 2010, cuando lanzaron <a href="http://splufes.wordpress.com/2010/11/13/colecao-propg-digital/">46 obras</a>.

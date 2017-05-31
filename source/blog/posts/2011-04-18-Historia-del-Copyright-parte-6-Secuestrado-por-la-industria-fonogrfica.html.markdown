@@ -7,12 +7,12 @@ tags:
 - divulgacion
 - rick
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Hijack1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Hijack1.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Hijack1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Hijack1.jpg
 wppost_name: historia-del-copyright-parte-6-secuestrado-por-la-industria-fonografica
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/Hijack1.jpg"><img class="alignleft size-medium wp-image-753" title="Hijack1" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/Hijack1-300x168.jpg" alt="" width="300" height="168" /></a><a href="http://falkvinge.net/2011/02/16/history-of-copyright-part-6-hijacked-by-record-industry/" target="_blank">Original en inglés.</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/Hijack1.jpg"><img class="alignleft size-medium wp-image-753" title="Hijack1" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/Hijack1-300x168.jpg" alt="" width="300" height="168" /></a><a href="http://falkvinge.net/2011/02/16/history-of-copyright-part-6-hijacked-by-record-industry/" target="_blank">Original en inglés.</a>
 
 <a href="http://partido-pirata.blogspot.com/2011/04/historia-del-copyright-parte-5-por-rick.html">Anterior: Derechos Morales.</a>
 
@@ -49,8 +49,8 @@ En segundo lugar,  quedamos a un pelo de considerar a los sellos discográficos 
 
 <a href="http://partido-pirata.blogspot.com/2011/04/historia-del-copyright-parte-5-por-rick.html">Anterior: Derechos Morales.</a>
 
-<a href="http://partidopirata.com.ar/755/historia-del-copyright-capitulo-7-secuestrado-por-pfizer">Siguiente  Secuestrado por Pfizer.</a>
-<div style="text-align: center;"><strong><a href="http://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge">Índice de Historia del Copyright por Rick Falkvinge</a></strong></div>
+<a href="https://partidopirata.com.ar/755/historia-del-copyright-capitulo-7-secuestrado-por-pfizer">Siguiente  Secuestrado por Pfizer.</a>
+<div style="text-align: center;"><strong><a href="https://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge">Índice de Historia del Copyright por Rick Falkvinge</a></strong></div>
 <strong>
 </strong>
 
@@ -77,6 +77,6 @@ otro dato notable es su concurrencia oficial al infame acto del Luna Park del 10
 
 <hr />
 
-<a href="http://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge">Índice sobre La Historia del Copyright por Rick Falkvinge.</a>
+<a href="https://partidopirata.com.ar/759/indice-de-la-historia-del-copyright-por-rick-falkvinge">Índice sobre La Historia del Copyright por Rick Falkvinge.</a>
 
 <hr />

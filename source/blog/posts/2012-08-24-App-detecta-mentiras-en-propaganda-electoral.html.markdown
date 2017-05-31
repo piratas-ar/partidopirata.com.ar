@@ -10,14 +10,14 @@ tags:
 - factcheck-org
 - mentiras-en-campanas
 - politifact
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/superpacapp.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/superpacapp-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/superpacapp.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/superpacapp-150x150.jpg
 wppost_name: app-detecta-mentiras-en-propaganda-electoral
 ---
 
 <strong><a href="http://blogs.estadao.com.br/link/aplicativo-detecta-mentiras-em-propaganda-eleitoral/" target="_blank">Fuente Suplemento Link.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/superpacapp.jpg"><img class="alignright size-medium wp-image-6182" title="superpacapp" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/superpacapp-300x193.jpg" alt="" width="300" height="193" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/superpacapp.jpg"><img class="alignright size-medium wp-image-6182" title="superpacapp" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/superpacapp-300x193.jpg" alt="" width="300" height="193" /></a>
 
 Por Redacción Link
 

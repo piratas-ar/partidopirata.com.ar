@@ -9,8 +9,8 @@ tags:
 - ministerio-de-cultura
 - ministerio-de-cultura-de-brasil
 - pirateria-en-brasil
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
 wppost_name: brasil-la-pirateria-puede-matar-a-la-cultura-dice-el-ministerio-de-cultura
 ---
 

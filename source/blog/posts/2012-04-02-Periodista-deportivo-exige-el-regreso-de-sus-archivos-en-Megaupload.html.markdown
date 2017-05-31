@@ -9,8 +9,8 @@ tags:
 - estados-unidos
 - megaupload
 - virginia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/megaupload-150x150.jpg
 wppost_name: periodista-deportivo-exige-el-regreso-de-sus-archivos-de-megaupload
 ---
 

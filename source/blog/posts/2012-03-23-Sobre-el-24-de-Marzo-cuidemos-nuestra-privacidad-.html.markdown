@@ -10,8 +10,8 @@ tags:
 - golpe
 - intimidad
 - tank-man
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
 wppost_name: sobre-el-24-de-marzo-cuidemos-nuestra-privacidad
 ---
 
@@ -31,7 +31,7 @@ Cristina Kirchner avisa que se creó el sistema Biométrico que permitirá hacer
 
 <hr />
 
-Si a todo esto le sumamos a las empresas privadas como<strong><a href="http://partidopirata.com.ar/3304/twitter-almacena-los-contactos-de-iphone-sin-que-el-usuario-lo-sepa"> Twitter,</a> <a href="http://partidopirata.com.ar/3317/aplicaciones-gratis-pueden-espiar-los-textos-y-las-llamadas-de-los-usuarios-de-smartphones-advirtien-sobre-los-peligros-a-la-privacidad">Facebook</a> y <a href="http://partidopirata.com.ar/3324/nueva-politica-de-privacidad-de-google-puede-violar-las-normas-de-la-comunidad-europea-de-proteccion-de-datos">Google</a></strong> que tienen muchísima información sobre nosotros, empezando por nuestra agenda de teléfonos a los que permiten que esos programas acceden a ella.
+Si a todo esto le sumamos a las empresas privadas como<strong><a href="https://partidopirata.com.ar/3304/twitter-almacena-los-contactos-de-iphone-sin-que-el-usuario-lo-sepa"> Twitter,</a> <a href="https://partidopirata.com.ar/3317/aplicaciones-gratis-pueden-espiar-los-textos-y-las-llamadas-de-los-usuarios-de-smartphones-advirtien-sobre-los-peligros-a-la-privacidad">Facebook</a> y <a href="https://partidopirata.com.ar/3324/nueva-politica-de-privacidad-de-google-puede-violar-las-normas-de-la-comunidad-europea-de-proteccion-de-datos">Google</a></strong> que tienen muchísima información sobre nosotros, empezando por nuestra agenda de teléfonos a los que permiten que esos programas acceden a ella.
 
 Cada vez más es necesario cuidar nuestra privacidad, ojalá que nunca vuelvan los tiempos terribles de la dictadura, pero tenemos que aprender a cuidarnos más!!!, no regalemos alegremente nuestra privacidad!
 <a href="http://nicks.partidopirata.com.ar/">Por lo menos Volvamos a los Nics!!!, no dejemos todos nuestros datos a merced de cualquiera!</a>

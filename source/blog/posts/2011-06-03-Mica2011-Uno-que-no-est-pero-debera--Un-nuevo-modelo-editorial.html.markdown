@@ -10,8 +10,8 @@ tags:
 - libros-divulgacion
 - mica-2011
 - divulgacion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/altuna_thumb.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/altuna_thumb.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/altuna_thumb.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/altuna_thumb.png
 wppost_name: mica2011-uno-que-no-esta-pero-deberia-un-nuevo-modelo-editorial
 ---
 
@@ -19,7 +19,7 @@ wppost_name: mica2011-uno-que-no-esta-pero-deberia-un-nuevo-modelo-editorial
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/06/altuna_thumb.png"><img class="aligncenter size-medium wp-image-1123" title="altuna_thumb" src="http://partidopirata.com.ar/wp-content/uploads/2011/06/altuna_thumb-300x238.png" alt="" width="300" height="238" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/06/altuna_thumb.png"><img class="aligncenter size-medium wp-image-1123" title="altuna_thumb" src="https://partidopirata.com.ar/wp-content/uploads/2011/06/altuna_thumb-300x238.png" alt="" width="300" height="238" /></a>
 <strong><a href="http://orsai.bitacoras.com/2011/06/adios-industria-editorial.php" target="_blank">Fuente Orsai.</a></strong>
 
 &nbsp;

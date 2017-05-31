@@ -15,26 +15,26 @@ tags:
 - patentes
 - piratas-de-hollywood
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/EBA.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/EBA-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/EBA.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/EBA-150x150.jpg
 wppost_name: hacer-fortuna-robando-la-propiedad-intelectual-de-otros-los-piratas-de-hollywood
 ---
 
 <strong><a href="http://www.derechoaleer.org/2012/01/hacer-fortuna-robando-la-propied.html" rel="nofollow" target="_blank">Originalmente postado en "Derecho a Leer"</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/EBA.jpg"><img class="size-full wp-image-6910" title="EBA" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/EBA.jpg" alt="" width="560" height="329" /></a> Los empresarios legales del cine, integrantes de la Motion Picture Patents Company. El tercero desde la izquierda, es Thomas Alba Edison. Nadie podía filmar sin equipos autorizados por los titulares de las patentes sobre la tecnología cinematográfica
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/EBA.jpg"><img class="size-full wp-image-6910" title="EBA" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/EBA.jpg" alt="" width="560" height="329" /></a> Los empresarios legales del cine, integrantes de la Motion Picture Patents Company. El tercero desde la izquierda, es Thomas Alba Edison. Nadie podía filmar sin equipos autorizados por los titulares de las patentes sobre la tecnología cinematográfica
 
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/95C.jpg"><img class="size-full wp-image-6911" title="95C" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/95C.jpg" alt="" width="560" height="234" /></a> Los estudios piratas "independientes" de Hollywood: Adolph Zukor (Paramount), William Fox (Twenty Century Fox), Carl Laemmle (Universal), Samuel Goldwyn (MGM), William Wadsworth Hodkinson (Paramount). Desafiaron la ley y no pagaron ni pidieron autorización para usar las patentes de Edison y la MPPC.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/95C.jpg"><img class="size-full wp-image-6911" title="95C" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/95C.jpg" alt="" width="560" height="234" /></a> Los estudios piratas "independientes" de Hollywood: Adolph Zukor (Paramount), William Fox (Twenty Century Fox), Carl Laemmle (Universal), Samuel Goldwyn (MGM), William Wadsworth Hodkinson (Paramount). Desafiaron la ley y no pagaron ni pidieron autorización para usar las patentes de Edison y la MPPC.
 
 
 <em>En 1907 una corte estadounidense <strong>falló a favor de Thomas Edison</strong> y sus patentes relacionadas con una novedosa tecnología: <strong>la cámara cinematográfica</strong>. Patentó hasta la cinta de película con perforaciones. Esto significó que virtualmente <a href="http://books.google.com.ar/books?id=h-XmuZvNgy4C&amp;amp;lpg=PA442&amp;amp;ots=XfJotnZC6u&amp;amp;dq=edison%20patente%20camara&amp;amp;hl=es&amp;amp;pg=PA442#v=onepage&amp;amp;q&amp;amp;f=false" rel="nofollow" target="_blank"><strong>cualquier cámara de cine que estuviera rodando en Estados Unidos, necesitaba el permiso de Edison para funcionar</strong></a>: como con cualquier otro producto patentado, no había forma de eludir al inventor a la hora de fabricar la cámara o el film.</em>
 
 Hasta entonces el hostigamiento de Edison sobre los fabricantes o distribuidores "no autorizados" era bien conocido. Si bien la amenaza de litigio era suficiente como para intimidar y expulsar a otros emprendedores del mercado, con el respaldo legal del fallo, al año siguiente Edison pudo terminar sus pleitos con otras compañías y acordar la formación de la <a href="http://www.cobbles.com/simpp_archive/edison_trust.htm" rel="nofollow" target="_blank"><strong>"Motion Picture Patents Company"</strong></a> (MPPC), un cartel de patentes integrado por las principales empresas y proveedores cinematográficos de la época, establecidos la mayoría en la ciudad de Nueva York, la meca del cine mudo en cortometraje de principios de siglo.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/D02.jpg"><img class="size-full wp-image-6912" title="D02" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/D02.jpg" alt="" width="365" height="620" /></a> Patente del proyector o kinetoscopio de Edison. Su verdadero inventor fue su empleado W.K.L. Dickson. Hollywood se sirvió de los inventos de Edison para hacer una fortuna, pero nunca pagó por ellos.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/D02.jpg"><img class="size-full wp-image-6912" title="D02" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/D02.jpg" alt="" width="365" height="620" /></a> Patente del proyector o kinetoscopio de Edison. Su verdadero inventor fue su empleado W.K.L. Dickson. Hollywood se sirvió de los inventos de Edison para hacer una fortuna, pero nunca pagó por ellos.
 
 
 <em>Pero como si no fuera suficiente con controlar quien fabricaba y usaba las cámaras y proyectores, la recién formada MPPC <strong>fundó otra compañia llamada <a href="http://en.wikipedia.org/wiki/General_Film_Company" rel="nofollow" target="_blank">"General Film Company"</a></strong>, cuyo objetivo era <strong>adquirir las bolsas de distribución de films de todo el país</strong>, y de paso, bloquear la importación de películas extranjeras. <a href="http://books.google.com.ar/books?id=h-XmuZvNgy4C&amp;amp;lpg=PA442&amp;amp;ots=XfJotnZC6u&amp;amp;dq=edison%20patente%20camara&amp;amp;hl=es&amp;amp;pg=PA442#v=onepage&amp;amp;q&amp;amp;f=false" rel="nofollow" target="_blank">En 1911 la General Film Company había adquirido 68 bolsas de distribución de películas y había negado la licencia a 11 más</a>. Sin embargo <strong>una decidió rebelarse</strong>: la "Greater New York Film Rental Company" optó por no vender, ni tampoco aceptar la baja de su licencia. El dueño de esta compañía era un empresario de origen húngaro que había comenzado en 1904 comprando por 1600 dólares un destartalado <em>nickelodeon</em> en Brooklyn, que convertiría en <a href="http://en.wikipedia.org/wiki/Fox_Film_Corporation#Fox_Film_Corporation" rel="nofollow" target="_blank">un imperio de 400 millones</a> algunas décadas después. Su nombre era <strong>William Fox</strong>.</em>
@@ -57,7 +57,7 @@ Los exhibidores, productores o proveedores que integraban esta sociedad <strong>
 
 En efecto, <strong>el mismo cartel corporativo que actualmente lidera la MPAA y denuncia escandalizado "el robo de propiedad intelectual"</strong>, hace un siglo atrás, <strong>huía para no pagarle al "dueño de la propiedad intelectual"</strong> de la innovacion técnica que había posibilitado todo su negocio: <strong>¡la cámara de cine!</strong><a href="http://#438-02" rel="nofollow" target="_blank">[2]</a>. Hoy, los nuevos emprendedores del ciberespacio huyen de los abogados de Hollywood para no pagar por el contenido que desean utilizar en sus innovaciones técnicas o de mercadeo para distribuir y promocionar contenidos en internet, ya sea el P2P, la descarga directa o las páginas de enlaces: "escapan" a lugares como las <a href="http://derechoaleer.org/2011/10/bienvenidos-la-jungla-del-p2p.html" rel="nofollow" target="_blank">Islas Vanuatu</a>, a <a href="http://es.wikipedia.org/wiki/The_Pirate_Bay" rel="nofollow" target="_blank">Suecia</a>, a <a href="http://derechoaleer.org/2012/01/alderaan-destruido-quien-sigue.html" rel="nofollow" target="_blank">Nueva Zelandia</a>, o a <a href="http://es.wikipedia.org/wiki/RapidShare" rel="nofollow" target="_blank">Suiza</a>. Sin embargo luego de un siglo de globalización, parece que ya no hay distancia lo suficientemente segura como antes, al menos <a href="http://www.neoteo.com/un-servidor-bittorrent-en-el-espacio" rel="nofollow" target="_blank">no dentro dentro del planeta tierra</a>.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/DF8.jpg"><img class="size-full wp-image-6913" title="DF8" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/DF8.jpg" alt="" width="560" height="150" /></a> Panorámica de Hollywood en 1912 [<a href="http://www.hellolosangeles.com/photos_panoramic.cfm" target="_blank">fuente</a>]
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/DF8.jpg"><img class="size-full wp-image-6913" title="DF8" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/DF8.jpg" alt="" width="560" height="150" /></a> Panorámica de Hollywood en 1912 [<a href="http://www.hellolosangeles.com/photos_panoramic.cfm" target="_blank">fuente</a>]
 &nbsp;
 
 <hr />
@@ -66,7 +66,7 @@ En efecto, <strong>el mismo cartel corporativo que actualmente lidera la MPAA y 
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/kim.jpeg"><img class="size-full wp-image-6916" title="kim" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/kim.jpeg" alt="" width="500" height="500" /></a> Kim Dotcom dueño de Megaupload
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/kim.jpeg"><img class="size-full wp-image-6916" title="kim" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/kim.jpeg" alt="" width="500" height="500" /></a> Kim Dotcom dueño de Megaupload
 
 
 <strong><span style="text-decoration: underline;">Paralelismos</span></strong>
@@ -82,7 +82,7 @@ Puede observarse un segundo paralelismo: <strong>es por fuera del monopolio que 
 
 <hr />
 <p style="text-align: center;"><em><strong><span style="text-decoration: underline;">El hombre que inventó Hollywood</span></strong></em></p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/472.jpg"><img class="aligncenter size-full wp-image-6914" title="472" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/472.jpg" alt="" width="250" height="229" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/472.jpg"><img class="aligncenter size-full wp-image-6914" title="472" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/472.jpg" alt="" width="250" height="229" /></a></p>
 <p style="text-align: center;"><em>
 <strong>W. W. Hodkinson</strong>, <a href="http://www.cobbles.com/simpp_archive/hodkinson_system.htm" rel="nofollow" target="_blank">visionario de la industria</a>, es conocido simplemente como <em>"el hombre que inventó Hollywood"</em>. Diseñó una forma de comercialización vertical entre estudios, productores y exhibidores que permitió la producción de largometrajes de varios rollos y la distribución a gran escala<a href="http://#438-03" rel="nofollow" target="_blank">[3]</a>. Inventó el <em>marketing</em> en el cine e implementó un sistema de promoción ya conocido en ámbitos teatrales, el <em>"star system"</em>, un reducido grupo de estrellas taquilleras que garantizaban el éxito de la película. Hodkinson estuvo con la MPPC de Edison en un comienzo, pero encontró bastante resistencia del <em>Trust</em> a sus ideas. Para 1912 estableció contacto con "los independientes", en especial con <a href="http://en.wikipedia.org/wiki/Adolph_Zukor" rel="nofollow" target="_blank">Adolph Zukor</a>, con quien en 1914 fundara una nueva compañía que iba a llamarse "Progressive Pictures", pero como el nombre ya estaba registrado tuvo que pensar otro en la misma oficina de marcas. Buscó un nombre al azar en la letra "P" de la guía telefónica y eligió "Paramount". Ahí mismo sobre una hoja de papel, dibujó una montaña como logotipo de la compañia <em>"Paramount Pictures"</em>.</em></p>
 
@@ -98,7 +98,7 @@ Puede observarse un segundo paralelismo: <strong>es por fuera del monopolio que 
 <iframe src="http://www.youtube.com/embed/LHoBJ1kTE_M" frameborder="0" width="420" height="315"></iframe>
 <a href="link: http://www.youtube.com/watch?v=LHoBJ1kTE_M" target="_blank">Fuente</a></center><em>En <a href="http://query.nytimes.com/gst/abstract.html?res=FA0815F7345813738DDDA80894DA415B828DF1D3" rel="nofollow" target="_blank">un artículo del New York Times de 1912</a>, el mismo Laemmle relata las consecuencias de filmar fuera de la ley: entonces el trust emitió una demanda contra mi por la cámara que yo estaba usando, alegando que esta constituía una infracción de sus patentes, Laemmle apeló pero finalmente fugó hacia Hollywood junto con las demás compañías de la IMP que se fusionaron en otra llamada <em>"Universal Film Manufacturing Company"</em>.</em>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/E3F.jpg"><img class="size-full wp-image-6915" title="E3F" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/E3F.jpg" alt="" width="400" height="378" /></a> Carl Laennle, en 1910 sosteniendo un equipo cinematográfico muy probablemte "pirata", por infringir patentes y no estar autorizado por Edison.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/E3F.jpg"><img class="size-full wp-image-6915" title="E3F" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/E3F.jpg" alt="" width="400" height="378" /></a> Carl Laennle, en 1910 sosteniendo un equipo cinematográfico muy probablemte "pirata", por infringir patentes y no estar autorizado por Edison.
 
 
 <hr />
@@ -138,7 +138,7 @@ La leyes de <a href="http://www.derechoaleer.org/2011/11/infografia-otra-vez-sop
 	<li><strong><a href="http://www.taringa.net/posts/info/13766094/Hacer-fortuna-robando-la-propiedad-intelectual-de-otros.html" target="_blank">Rescatado en este post en Taringa</a></strong></li>
 	<li><strong><a href="http://baixacultura.org/2012/10/17/como-fazer-fortuna-roubando-dos-outros-os-piratas-de-hollywood/" target="_blank">Traducido al portugués en Baixa Cultura</a></strong></li>
 </ul>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6919/hbo-y-los-piratas-del-cable-blog-derecho-a-leer">HBO y los piratas del Cable</a> otro post de <em>Derecho a Leer</em> sobre la TV por cable y sus orígenes.</strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6919/hbo-y-los-piratas-del-cable-blog-derecho-a-leer">HBO y los piratas del Cable</a> otro post de <em>Derecho a Leer</em> sobre la TV por cable y sus orígenes.</strong></p>
 
 
 <hr />

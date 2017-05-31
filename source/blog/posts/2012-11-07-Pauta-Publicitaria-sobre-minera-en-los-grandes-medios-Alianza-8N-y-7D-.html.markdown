@@ -13,8 +13,8 @@ tags:
 - mineria-responsable
 - pauta-publicitaria
 - soborno
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/barrick-150x121.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/barrick-150x121.png
 wppost_name: pauta-publicitaria-sobre-mineria-en-los-grandes-medios-alianza-8n-y-7d
 ---
 
@@ -39,7 +39,7 @@ Pauta Publicitaria de Barrrick Gold en Radio Mitre luego del programa de Chiche 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png"><img class="size-full wp-image-7282" title="barrick" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png" alt="" width="513" height="121" /></a> Vía Twitter <a href="https://twitter.com/AlejoGariglio">nos dicen los otros medios donde hay pauta sobre minería</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png"><img class="size-full wp-image-7282" title="barrick" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/barrick.png" alt="" width="513" height="121" /></a> Vía Twitter <a href="https://twitter.com/AlejoGariglio">nos dicen los otros medios donde hay pauta sobre minería</a>
 
 
 Así que para leer o acceder a información crítica sobre minería habrá que buscar medios alternativos.
@@ -50,5 +50,5 @@ Así que para leer o acceder a información crítica sobre minería habrá que b
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/dailymotionpauta.png"><img class="size-full wp-image-7290" title="dailymotionpauta" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/dailymotionpauta.png" alt="" width="572" height="338" /></a> La censura al video con la pauta publicitaria sobre megaminería en Palabras +, -
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/dailymotionpauta.png"><img class="size-full wp-image-7290" title="dailymotionpauta" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/dailymotionpauta.png" alt="" width="572" height="338" /></a> La censura al video con la pauta publicitaria sobre megaminería en Palabras +, -
 

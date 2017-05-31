@@ -12,8 +12,8 @@ tags:
 - svartholm-gottfrid
 - the-pirate-bay
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1-150x150.jpg
 wppost_name: el-fundador-de-pirate-bay-es-mantenido-en-confinamiento-solitario-escribanle-una-carta-hoy
 ---
 
@@ -22,7 +22,7 @@ A finales de agosto el  fundador de Pirate Bay Svartholm Gottfrid fue arrestado
 
 Durante los últimos días de agosto, el fundador de The Pirate Bay Gottfrid Svartholm <a href="http://torrentfreak.com/pirate-bay-founder-arrested-in-cambodia-120901/">fue arrestado</a> por la policía camboyana de Phnom Penh, la ciudad que él hizo su hogar hace varios años. Desde su cómodo departamento encima del bar Cadillac en la orilla del río, Gottfrid fue puesto bajo custodia.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg"><img class="size-full wp-image-6503" title="Gottfrid Svartholm" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg" alt="" width="200" height="248" /></a> Gottfrid Svartholm cofundador de The Pirate Bay
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg"><img class="size-full wp-image-6503" title="Gottfrid Svartholm" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/gottfrid1.jpg" alt="" width="200" height="248" /></a> Gottfrid Svartholm cofundador de The Pirate Bay
 
 
 El sueco inmediatamente reconocible es mejor conocido por sus conexiones a un infame sitio BitTorrent y se suponía que inicialmente  iba a volver a Suecia para hacerle frente a una sentencia de cárcel pendiente por delitos de infracción del derechos de autor. Eso resultó ser sólo una parte del rompecabezas.

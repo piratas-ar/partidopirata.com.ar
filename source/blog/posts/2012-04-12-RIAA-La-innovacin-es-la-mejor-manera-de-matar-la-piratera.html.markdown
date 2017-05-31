@@ -8,15 +8,15 @@ tags:
 - limewhire
 - riaa
 - spotify
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate_logo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate_logo-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/pirate_logo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/pirate_logo-115x115.jpg
 wppost_name: riaa-la-innovacion-es-la-mejor-manera-de-matar-la-pirateria
 ---
 
 <strong><a href="https://torrentfreak.com/riaa-innovation-is-the-best-way-to-kill-piracy-120412/" target="_blank">Fuente Torrentfreak.</a></strong>
 Se tardó más de la mitad de una década, pero por fin hay algo en lo que podemos estar de acuerdo con la RIAA [discográficas de USA]. Después de demandar a estudiantes universitarios, el cierre de LimeWire y presionando para draconianas leyes contra la piratería, la RIAA ahora finalmente admite que la mejor respuesta a la descarga ilegal es la innovación. Un hito, pero desafortunadamente también es un mensaje que se incluye con las estadísticas habituales creativas que tienen que ser desmentidas.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate_logo.jpg"><img class="alignright size-full wp-image-3922" title="pirate_logo" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/pirate_logo.jpg" alt="" width="150" height="150" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/pirate_logo.jpg"><img class="alignright size-full wp-image-3922" title="pirate_logo" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/pirate_logo.jpg" alt="" width="150" height="150" /></a>
 Durante años, cuando la gente sugiere que las grabadoras debían adaptar sus modelos de negocio a la era digital y competir con la piratería, la RIAA afirmaba que era imposible competir con lo gratis.
 
 Hoy la RIAA toma esta noción de vuelta.
@@ -32,7 +32,7 @@ El vicepresidente de análisis de datos estratégicos de la RIAA , Joshua Friedl
 
 El primer estudio puesto de relieve por la RIAA muestra que las ventas de iTunes fueron impulsadas po la  ley anti-piratería Hadopi en Francia . Un informe <a href="http://torrentfreak.com/anti-piracy-no-effect-on-itunes-sales-120124/">muy controvertido</a> ya que la principal conclusión es el rumor de los medios de comunicación un año antes de que la ley entró en vigor era la única causa para este salto.
 
-No hay terceras variables consideradas seriamente, y los autores no mencionan que las ventas digitales en realidad <a href="http://torrentfreak.com/french-three-strikes-law-slashes-piracy-but-fails-to-boost-sales-120330/">cayeron</a> en 2011, el  primer año completo en que Hadopi fue activo. Más sobre esto en nuestro<a href="http://partidopirata.com.ar/3702/francia-la-ley-antipirateria-de-los-tres-avisos-no-logra-aumentar-las-ventas"> análisis completo </a>del informe.
+No hay terceras variables consideradas seriamente, y los autores no mencionan que las ventas digitales en realidad <a href="http://torrentfreak.com/french-three-strikes-law-slashes-piracy-but-fails-to-boost-sales-120330/">cayeron</a> en 2011, el  primer año completo en que Hadopi fue activo. Más sobre esto en nuestro<a href="https://partidopirata.com.ar/3702/francia-la-ley-antipirateria-de-los-tres-avisos-no-logra-aumentar-las-ventas"> análisis completo </a>del informe.
 
 El segundo "estudio" no es realmente un estudio, sino un intento de la propia RIAA para mostrar cuan eficaz fue el cierre de LimeWire.
 
@@ -54,7 +54,7 @@ Curiosamente, hay una caída más grande entre mayo de 2011 y septiembre de 2011
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/riaa-creative.png"><img class="aligncenter size-full wp-image-3923" title="riaa-creative" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/riaa-creative.png" alt="" width="439" height="348" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/riaa-creative.png"><img class="aligncenter size-full wp-image-3923" title="riaa-creative" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/riaa-creative.png" alt="" width="439" height="348" /></a>
 
 Qué pasó, no lo sabemos, pero algo sucedió el verano pasado al mismo tiempo Spotify fue introducida en los EE.UU. .......
 

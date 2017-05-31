@@ -9,14 +9,14 @@ tags:
 - guiones
 - guionistas
 - proteccion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353-140x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353-140x150.jpg
 wppost_name: un-poco-de-gataflorismo-los-guionistas-se-quejan-pero-se-alegran
 ---
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353.jpg"><img class="alignleft size-full wp-image-2414" title="La Gata Flora" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353.jpg" alt="La Gata Flora" width="140" height="200" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353.jpg"><img class="alignleft size-full wp-image-2414" title="La Gata Flora" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/n112552685445838_1353.jpg" alt="La Gata Flora" width="140" height="200" /></a>
 <strong> <a href="http://www.lacapital.com.ar/escenario/Guionistas-denuncian-el-vaciamiento-de-sus-derechos-de-autor--20111128-0007.html" target="_blank">Según esta nota del diario La Capital.</a></strong>
 
 &nbsp;

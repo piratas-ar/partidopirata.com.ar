@@ -11,8 +11,8 @@ tags:
 - rick-falkvinge
 - secom
 - uit
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
 wppost_name: parlamento-europeo-aprueba-resolucion-contra-el-control-de-la-uit-sobre-internet
 ---
 

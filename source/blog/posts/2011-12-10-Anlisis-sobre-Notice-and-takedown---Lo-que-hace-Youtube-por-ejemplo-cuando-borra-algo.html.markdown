@@ -9,12 +9,12 @@ tags:
 - sociedad-de-control
 - youtube
 - "%e2%80%9cnotice-and-takedown%e2%80%9d"
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
 wppost_name: analisis-sobre-%e2%80%9cnotice-and-takedown%e2%80%9d-lo-que-hace-youtube-por-ejemplo-cuando-borra-algo
 ---
 
-<strong><a href="http://partidopirata.com.ar/2510/brasil-nueva-ley-de-derechos-de-autor-retroceso">Lo que habíamos escrito sobre el proyecto de reforma de la ley de derechos de autor en Brasil.</a></strong>
+<strong><a href="https://partidopirata.com.ar/2510/brasil-nueva-ley-de-derechos-de-autor-retroceso">Lo que habíamos escrito sobre el proyecto de reforma de la ley de derechos de autor en Brasil.</a></strong>
 
 <hr />
 
@@ -69,9 +69,9 @@ Espera-se que a Casa Civil da Presidência da República reveja o asunto. Espera
 <strong><a href="http://pedroparanagua.net/2011/12/10/notice-and-takedown-na-reforma-autoral/" target="_blank">Fuente- Pedro Paranagua.</a></strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2548/un-ejemplo-de-notice-and-take-down-la-censura-al-video-de-megaupload">Un ejemplo de <em>Notice and takedown</em> la censura a la canción de Megaupload.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2548/un-ejemplo-de-notice-and-take-down-la-censura-al-video-de-megaupload">Un ejemplo de <em>Notice and takedown</em> la censura a la canción de Megaupload.</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png"><img title="brasil-copyright" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png" alt="Tomado de &quot;Derecho de Autor" width="500" height="404" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png"><img title="brasil-copyright" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png" alt="Tomado de &quot;Derecho de Autor" width="500" height="404" /></a>

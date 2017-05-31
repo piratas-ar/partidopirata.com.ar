@@ -11,8 +11,8 @@ tags:
 - ofensiva
 - propuestas
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
 wppost_name: rick-falkvinge-es-hora-de-pasar-a-la-ofensiva-por-la-libertad-de-expresion
 ---
 

@@ -9,12 +9,12 @@ tags:
 - material-para-difusion
 - fotografia
 - reporteros-graficos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/6.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/6-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/6.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/6-150x150.jpg
 wppost_name: propuesta-de-los-reporteros-graficos-argentinos-liberar-las-fotos-luego-de-70-anos-de-la-muerte-del-autor
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/6.jpg"><img class="size-medium wp-image-6132 aligncenter" title="6" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/6-300x231.jpg" alt="" width="300" height="231" /></a>image © <a href="http://erika.openphoto.net">Erika Mlejova</a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/6.jpg"><img class="size-medium wp-image-6132 aligncenter" title="6" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/6-300x231.jpg" alt="" width="300" height="231" /></a>image © <a href="http://erika.openphoto.net">Erika Mlejova</a>
 for <a href="http://16750.openphoto.net">openphoto.net</a> CC:NonCommercial-ShareAlike</p>
 <p style="text-align: center;"><strong>Foto de <a href="http://www.openphoto.net/" target="_blank">Open Photo</a></strong></p>
 Si leemos esta propuesta de la<strong><a href="http://www.argra.com.ar/web/asociacion/ley-de-autor.html" target="_blank"> Asociación de Reporteros Gráficos de la Argentina</a></strong>:

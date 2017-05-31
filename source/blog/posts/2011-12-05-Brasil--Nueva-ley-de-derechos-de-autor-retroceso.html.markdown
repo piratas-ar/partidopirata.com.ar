@@ -7,8 +7,8 @@ tags:
 - ley-de-derechos-de-autor
 - modificacion-de-la-ley-de-derechos-de-autor
 - notice-and-take-down
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
 wppost_name: brasil-nueva-ley-de-derechos-de-autor-retroceso
 ---
 
@@ -42,4 +42,4 @@ En otras palabras, seria una especie de Creative Commons gobernamental. Sólo qu
 
 <hr />
 
-Estemos atentos, en la Argentina la propuesta de Pinedo tenía una cláusula semejante...Pero bastante peor.<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png"><img class="aligncenter size-full wp-image-360" title="brasil-copyright" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png" alt="Tomado de &quot;Derecho de Autor" width="500" height="404" /></a>
+Estemos atentos, en la Argentina la propuesta de Pinedo tenía una cláusula semejante...Pero bastante peor.<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png"><img class="aligncenter size-full wp-image-360" title="brasil-copyright" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png" alt="Tomado de &quot;Derecho de Autor" width="500" height="404" /></a>

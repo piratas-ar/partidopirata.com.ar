@@ -7,12 +7,12 @@ tags:
 - congreso
 - congreso-nacional-de-escuelas-de-cine
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/afichon-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/afichon-150x150.jpg
 wppost_name: primer-congreso-nacional-de-escuelas-de-cine-avellaneda-del-6-al-9-de-julio
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg"><img class=" wp-image-5028" title="afichon" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg" alt="" width="426" height="364" /></a> Primer Congreso Nacional de Escuelas de Cine
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg"><img class=" wp-image-5028" title="afichon" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/afichon.jpg" alt="" width="426" height="364" /></a> Primer Congreso Nacional de Escuelas de Cine
 
 
 <div>
@@ -28,7 +28,7 @@ wppost_name: primer-congreso-nacional-de-escuelas-de-cine-avellaneda-del-6-al-9-
 <strong><span style="font-family: Arial; font-size: medium;">Del 6 al 9 de Julio de 2012
 Sede: Instituto de Arte Cinematográfico (IDAC)
 Italia 36 – Avellaneda - Buenos Aires - Argentina.
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/congreso-nuevo.pdf">Archivo pdf con más información sobre el Congreso.</a></span></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/congreso-nuevo.pdf">Archivo pdf con más información sobre el Congreso.</a></span></strong>
 
 <span style="font-family: Arial; font-size: medium;">Para más información:</span>
 

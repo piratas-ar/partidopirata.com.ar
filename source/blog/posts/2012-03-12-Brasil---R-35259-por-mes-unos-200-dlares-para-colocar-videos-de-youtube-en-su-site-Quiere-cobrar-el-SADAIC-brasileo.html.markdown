@@ -12,12 +12,12 @@ tags:
 - tasa
 - video
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21-150x150.jpg
 wppost_name: brasil-r-35259-por-mes-unos-200-dolares-para-colocar-videos-de-youtube-en-su-site-quiere-cobrar-el-sadai-brasileno
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg"><img class="size-full wp-image-3470 aligncenter" title="Youtube Ecad" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg" alt="" width="390" height="264" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg"><img class="size-full wp-image-3470 aligncenter" title="Youtube Ecad" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg" alt="" width="390" height="264" /></a>
 <strong><a href="http://blogs.estadao.com.br/link/r-35259-por-mes/" target="_blank">Fuente Suplemento Link "O Estado de São Paulo"</a></strong>
 
 “El cobro es absolutamente ilegal”, afirma Sergio Branco, doctor en derecho civil por la Universidad Estadual de Rio de Janerio [UERJ] e investigaador de la Fundación Getulio Vargas [FGV-Rio]. “Quien está haciendo streaming es YouTube, que ya tiene un acuerdo con el Ecad ”, explica. El abogado Pedro Paranaguá, doctorando en la Duke University School of Law. “Un blog que inserta canciones disponibles en YouTube no está retransmitiendo nada.La transmisión es via YouTube. No hay que hablar en ninguna cobranza.”
@@ -40,7 +40,7 @@ Según él, la principal conclusión de la CPI hasta ahora es la necesidad de in
 
 <strong><a href="http://blogs.estadao.com.br/link/r-35259-por-mes/" target="_blank">Fuente Suplemento Link "O Estado de São Paulo"</a></strong><hr>
 
-<a href="http://partidopirata.com.ar/2107/el-ecad-sadaic-brasileno-en-el-medio-de-una-comision-parlamentaria-de-investigacion">Sobre la Comisión Parlamentaria de Investigación del ECAD en Brasil.</a>
+<a href="https://partidopirata.com.ar/2107/el-ecad-sadaic-brasileno-en-el-medio-de-una-comision-parlamentaria-de-investigacion">Sobre la Comisión Parlamentaria de Investigación del ECAD en Brasil.</a>
 
 Quién fiscaliza a <i>nuestro</i> SADAIC?
 Estamos preparados por si vienen con algo así en la Argentina?

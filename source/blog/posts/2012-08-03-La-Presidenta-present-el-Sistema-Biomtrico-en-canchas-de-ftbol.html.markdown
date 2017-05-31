@@ -10,8 +10,8 @@ tags:
 - sibios
 - sistemas-de-vigilancia
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/50171f7a66636_490x0.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/50171f7a66636_490x0-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/50171f7a66636_490x0.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/50171f7a66636_490x0-150x150.jpg
 wppost_name: la-presidenta-presento-el-sistema-biometrico-en-canchas-de-futbol
 ---
 

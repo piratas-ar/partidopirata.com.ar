@@ -11,12 +11,12 @@ tags:
 - libros-electronicos
 - privacidad
 - sony
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
 wppost_name: privacidad-y-electura-parte-2-amazon-bn-kobo-sony
 ---
 
-Antes:<strong><a title="Link a Privacidad y e-lectura 1: BN Amazon, Sony y Kobo" href="http://partidopirata.com.ar/5461/privacidad-y-e-lectura-1-bn-amazon-sony-y-kobo" rel="bookmark">Privacidad y e-lectura 1: BN Amazon, Sony y Kobo</a></strong>
+Antes:<strong><a title="Link a Privacidad y e-lectura 1: BN Amazon, Sony y Kobo" href="https://partidopirata.com.ar/5461/privacidad-y-e-lectura-1-bn-amazon-sony-y-kobo" rel="bookmark">Privacidad y e-lectura 1: BN Amazon, Sony y Kobo</a></strong>
 
 <strong><a href="http://dearauthor.com/ebooks/privacy-and-ereading-part-2-amazon/" target="_blank">Fuente Dear Author</a></strong>
 

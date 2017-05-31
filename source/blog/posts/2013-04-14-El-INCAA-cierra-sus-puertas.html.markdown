@@ -8,8 +8,8 @@ tags:
 - denuncias
 - incaa
 - quien-mato-a-mariano-ferreyra
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/quien-mato-a-mariano-ferreyra.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/quien-mato-a-mariano-ferreyra-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/quien-mato-a-mariano-ferreyra.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/quien-mato-a-mariano-ferreyra-150x150.jpg
 wppost_name: el-incaa-cierra-sus-puertas
 ---
 

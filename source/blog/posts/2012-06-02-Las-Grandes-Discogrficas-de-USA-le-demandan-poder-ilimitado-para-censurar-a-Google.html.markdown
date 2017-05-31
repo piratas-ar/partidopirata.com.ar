@@ -10,8 +10,8 @@ tags:
 - material-para-difusion
 - google
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1-150x150.jpg
 wppost_name: las-grandes-discograficas-de-usa-le-demandan-poder-ilimitado-para-censurar-a-google
 ---
 
@@ -19,9 +19,9 @@ wppost_name: las-grandes-discograficas-de-usa-le-demandan-poder-ilimitado-para-c
 
 La  Recording Industry Association of America [RIAA, las grandes discográficas de EE.UU] le reclaman a Google poder ilimitado para censurar con la excusa del derecho de autor [DMCA en EE.UU.]
 
-Cuando se trata de derecho, pocas empresas privadas pueden coincidir con la RIAA. La última fuente de sus gemidos es Google. Después de que<strong><a href="http://partidopirata.com.ar/4579/google-se-enfrenta-con-un-millon-de-solicitudes-al-mes-para-eliminar-material-con-derechos-de-autor-de-sus-busquedas"> Google publicó su informe </a></strong>la semana pasada de pedido de borrado de links por DMCA, la RIAA está decidida a hacer que Google sea el problema, porque casi 1,25 millones enlaces eliminados en un año no es suficiente, y todo es culpa de Google, a pesar que el gigante de las búsquedas no tiene absolutamente ninguna responsabilidad en poner alguno de ellos en línea.
+Cuando se trata de derecho, pocas empresas privadas pueden coincidir con la RIAA. La última fuente de sus gemidos es Google. Después de que<strong><a href="https://partidopirata.com.ar/4579/google-se-enfrenta-con-un-millon-de-solicitudes-al-mes-para-eliminar-material-con-derechos-de-autor-de-sus-busquedas"> Google publicó su informe </a></strong>la semana pasada de pedido de borrado de links por DMCA, la RIAA está decidida a hacer que Google sea el problema, porque casi 1,25 millones enlaces eliminados en un año no es suficiente, y todo es culpa de Google, a pesar que el gigante de las búsquedas no tiene absolutamente ninguna responsabilidad en poner alguno de ellos en línea.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg"><img class="size-full wp-image-4604" title="riaa_cop1" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg" alt="" width="199" height="253" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg"><img class="size-full wp-image-4604" title="riaa_cop1" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/riaa_cop1.jpg" alt="" width="199" height="253" /></a>
 
 
 Pobre Google no puede hacer nada bien a los ojos de la RIAA.
@@ -30,7 +30,7 @@ El motor de búsqueda de Mountain View está siendo criticado por el lobby en Wa
 
 Peor aún, se afirma que Google está activamente dificultando a la RIAA, porque no le están permitiendo al grupo de la industria que reine libremente para que borre a todos y cada enlace sospechoso perpetuamente.
 
-Cuando Google publicó su informe sobre los pedidos de borrado de enlaces por  DMCA <a href="http://partidopirata.com.ar/4579/google-se-enfrenta-con-un-millon-de-solicitudes-al-mes-para-eliminar-material-con-derechos-de-autor-de-sus-busquedas">la semana pasada,</a> la RIAA no se dejó impresionar. De hecho, no se mostraron impresionados por el promedio de sólo 3.400 enlaces + para borrar por día, eso es lo que cualquier grupo de lobby bien conectado haría - lo llevó a su blog y escribió una <a href="http://www.riaa.com/blog.php?content_selector=riaa-news-blog&amp;blog_selector=Clear-Facts-&amp;blog_type=&amp;news_month_filter=5&amp;news_year_filter=2012">lista de los op-5</a>  hechos culpanndo de todo  A GOOGLE!
+Cuando Google publicó su informe sobre los pedidos de borrado de enlaces por  DMCA <a href="https://partidopirata.com.ar/4579/google-se-enfrenta-con-un-millon-de-solicitudes-al-mes-para-eliminar-material-con-derechos-de-autor-de-sus-busquedas">la semana pasada,</a> la RIAA no se dejó impresionar. De hecho, no se mostraron impresionados por el promedio de sólo 3.400 enlaces + para borrar por día, eso es lo que cualquier grupo de lobby bien conectado haría - lo llevó a su blog y escribió una <a href="http://www.riaa.com/blog.php?content_selector=riaa-news-blog&amp;blog_selector=Clear-Facts-&amp;blog_type=&amp;news_month_filter=5&amp;news_year_filter=2012">lista de los op-5</a>  hechos culpanndo de todo  A GOOGLE!
 <h2>Hecho 1</h2>
 <strong>Google coloca límites artificiales en el  número de consultas que puede hacer el dueño del  copyright para identificar las infracciones.</strong>
 
@@ -65,7 +65,7 @@ Si el tono aquí raya en el absurdo, es probable que haya una buena razón. Las 
 
 <hr />
 
-Esta sería una primera versión de la traducción de la nota en <strong><a href="https://torrentfreak.com/riaa-demands-unlimited-dmca-power-from-google-120502/" target="_blank"> Torrentfreak</a></strong>, por favor, si quieren revisarla así dejamos una versión mejor, conéctense con nosotros a través de<strong><a href="http://partidopirata.com.ar/contacto" target="_blank"> nuestro formulario.</a></strong>
+Esta sería una primera versión de la traducción de la nota en <strong><a href="https://torrentfreak.com/riaa-demands-unlimited-dmca-power-from-google-120502/" target="_blank"> Torrentfreak</a></strong>, por favor, si quieren revisarla así dejamos una versión mejor, conéctense con nosotros a través de<strong><a href="https://partidopirata.com.ar/contacto" target="_blank"> nuestro formulario.</a></strong>
 Es importante que esto que están haciendo con Google se está repitiendo en nuestro país con Taringa y Cuevana.
 Quieren quedarse con el control de todo y censurarnos a todos con la excusa del derecho de autor!
 

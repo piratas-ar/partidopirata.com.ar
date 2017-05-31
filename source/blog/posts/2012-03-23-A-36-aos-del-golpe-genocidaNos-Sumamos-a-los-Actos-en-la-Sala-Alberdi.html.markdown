@@ -8,8 +8,8 @@ tags:
 - golpe-militar
 - recuerdo
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
 wppost_name: a-36-anos-del-golpe-genocida-nos-sumamos-a-los-actos-en-la-sala-alberdi
 ---
 

@@ -9,8 +9,8 @@ tags:
 - licencias
 - mapa-conceptual
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/400px-Mapa_conceptual_del_software_libre.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/400px-Mapa_conceptual_del_software_libre.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/400px-Mapa_conceptual_del_software_libre.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/400px-Mapa_conceptual_del_software_libre.svg_-150x150.png
 wppost_name: que-es-software-libre
 ---
 

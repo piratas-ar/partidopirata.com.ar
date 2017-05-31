@@ -10,17 +10,17 @@ tags:
 - registro-de-cultos
 - religion
 - religiones
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/iStock_000017848678Small-646x363-150x150.jpg
 wppost_name: para-registrar-la-iglesia-del-kopimismo-en-la-argentina
 ---
 
-<strong><a href="http://partidopirata.com.ar/2693/el-intercambio-de-archivos-es-una-religion-reconocida-en-suecia">La iglesia del Koptimismo está registrada legalmente en Suecia</a>, entre sus principios:</strong>
+<strong><a href="https://partidopirata.com.ar/2693/el-intercambio-de-archivos-es-una-religion-reconocida-en-suecia">La iglesia del Koptimismo está registrada legalmente en Suecia</a>, entre sus principios:</strong>
 
 Copia las chispas de la confusión que vuelan desde todos los monopolistas del antiguo régimen en la industria del copyright, al darse cuenta de que compartir archivos ahora disfruta de la libertad de la protección de la religión, en 3 … 2 … 1 …
 
 “Sed fecundos y multiplicaos, abunden en la tierra, y multiplicaos en ella.”
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4369/la-iglesia-del-kopimism-casa-a-su-primer-pareja">Ya se han celebrado casamientos en este culto</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4369/la-iglesia-del-kopimism-casa-a-su-primer-pareja">Ya se han celebrado casamientos en este culto</a></strong></p>
 <p style="text-align: left;">Así que buscando legalizar la iglesia en la Argentina, ya que un partido político tal vez sea más difícil, veamos que es lo que pide el Estado para ser reconocidos como culto:</p>
 <p style="text-align: left;"><strong><a href="http://www.culto.gov.ar/dircul_t_inscrorgrel.php" target="_blank">Secretaría de Cultos de la Nación.</a></strong></p>
 

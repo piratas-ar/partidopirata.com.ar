@@ -10,12 +10,12 @@ tags:
 - resultados-de-google
 - takedown
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
 wppost_name: las-solicitudes-a-google-para-borrar-respuestas-subieron-hasta-un-100-en-un-mes-y-1137-desde-2011
 ---
 
-<strong><a href="https://torrentfreak.com/google-url-takedown-requests-up-100-in-a-month-up-1160-on-2011-120824/" target="_blank">Fuente TorrentFreak.</a><a href="http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg"><img class="alignright size-full wp-image-243" title="The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg" alt="" width="275" height="295" /></a></strong>
+<strong><a href="https://torrentfreak.com/google-url-takedown-requests-up-100-in-a-month-up-1160-on-2011-120824/" target="_blank">Fuente TorrentFreak.</a><a href="https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg"><img class="alignright size-full wp-image-243" title="The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg" alt="" width="275" height="295" /></a></strong>
 
 La ola masiva de soliditud de borrados de enlaces por la DMCA[ley de copyright de EE.UU.]  enviadas por los titulares de derechos a Google en los últimos meses está creciendo a un ritmo asombroso. Durante el mes pasado, el número de solicitudes recibidas para borrar links por el  gigante de las búsquedas se duplicó a casi 1,5 millones de URLs por semana. Para poner esto en perspectiva, hace exactamente un año el número de solicitudes de borrado de  URL eran sólo 131.577 por semana, con un incremento de 1.137%.
 
@@ -27,13 +27,13 @@ Aunque Google regularmente publica los mensajes de las peticiones para borrar en
 
 Lo que esa base de datos continuamente actualizada muestra hoy es un esfuerzo enorme y cada vez mayor de los titulares de derechos para que oculten vínculos con contenido copyright oculto a las miradas indiscretas de los usuarios de Google en una escala nunca antes vista.
 
-El mes pasado <a href="http://partidopirata.com.ar/4579/google-se-enfrenta-con-un-millon-de-solicitudes-al-mes-para-eliminar-material-con-derechos-de-autor-de-sus-busquedas">informamos</a> que Google acababa de recibir un número récord de solicitudes de borrado de URL en un período de siete días. En la semana que comienza el 9 de julio a Google se le pidió borrar 719.416 URLs, desde el récord anterior de 609.800 semanal establecido en junio.
+El mes pasado <a href="https://partidopirata.com.ar/4579/google-se-enfrenta-con-un-millon-de-solicitudes-al-mes-para-eliminar-material-con-derechos-de-autor-de-sus-busquedas">informamos</a> que Google acababa de recibir un número récord de solicitudes de borrado de URL en un período de siete días. En la semana que comienza el 9 de julio a Google se le pidió borrar 719.416 URLs, desde el récord anterior de 609.800 semanal establecido en junio.
 
 A raíz de ese artículo el límite se elevó otra vez durante la semana que comienza el 17 de julio. Un total de 736.477 URLs fueron borradas, pero dos semanas más tarde, otro lote enorme eclipsaría incluso este récord.
 
 En la semana que comienza el 23 de julio, los titulares de derechos pidieron que  1107659 URLs fueran borradas, un aumento de más del 50% con respecto al récord semanal anterior. Pero, sorprendentemente, incluso este récord estaba a punto de ser aplastado.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/googletakedown.jpg"><img class="size-medium wp-image-6170" title="Pedidos para borrar URLs por semana" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/googletakedown-300x155.jpg" alt="" width="300" height="155" /></a> Pedidos para borrar URLs por semana
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/googletakedown.jpg"><img class="size-medium wp-image-6170" title="Pedidos para borrar URLs por semana" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/googletakedown-300x155.jpg" alt="" width="300" height="155" /></a> Pedidos para borrar URLs por semana
 
 
 Durante la semana que comienza el 13 de agosto, Google recibió solicitudes para borrar 1.496.220 direcciones URLs, un 35% más que el récord establecido apenas dos semanas antes y un enorme aumento de 1.137% de las 131577 URLs solicitadas para borrar el 08 de agosto 2011.
@@ -54,6 +54,6 @@ En una señal de que Google no siempre cumple con los borrados, la ficha policia
 
 <hr />
 
-A pesar de que Google se esfuerza para <a href="http://partidopirata.com.ar/5883/google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-busquedas">empujar para abajo en los resultados</a> a los sites más denunciados, los pedidos para que borre enlaces seguirán y seguirán.
+A pesar de que Google se esfuerza para <a href="https://partidopirata.com.ar/5883/google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-busquedas">empujar para abajo en los resultados</a> a los sites más denunciados, los pedidos para que borre enlaces seguirán y seguirán.
 Esto nos demuestra que son insaciables y que tenemos que dejar de usar Google también.
 Buscar directamente en <a href="https://duckduckgo.com/" target="_blank">https://duckduckgo.com</a> o procurar otras alternativas, castiguemos nosotros también a quien se inclina ante la locura de quienes quieren censurar Internet!!

@@ -12,14 +12,14 @@ tags:
 - fsf
 - iphone
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/freeandroid.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/freeandroid-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/freeandroid.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/freeandroid-150x150.jpeg
 wppost_name: manten-tu-celular-seguro-con-aplicaciones-libres
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/freeandroid.jpeg"><img class="aligncenter size-full wp-image-3330" title="Libera Tu Android" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/freeandroid.jpeg" alt="" width="264" height="191" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/freeandroid.jpeg"><img class="aligncenter size-full wp-image-3330" title="Libera Tu Android" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/freeandroid.jpeg" alt="" width="264" height="191" /></a>
 
-<a href="http://partidopirata.com.ar/3317/aplicaciones-gratis-pueden-espiar-los-textos-y-las-llamadas-de-los-usuarios-de-smartphones-advirtien-sobre-los-peligros-a-la-privacidad">Facebook y </a><a href="http://partidopirata.com.ar/3304/twitter-almacena-los-contactos-de-iphone-sin-que-el-usuario-lo-sepa">Twitter </a> toman información de tu celular, usá software libre para cuidarte:
+<a href="https://partidopirata.com.ar/3317/aplicaciones-gratis-pueden-espiar-los-textos-y-las-llamadas-de-los-usuarios-de-smartphones-advirtien-sobre-los-peligros-a-la-privacidad">Facebook y </a><a href="https://partidopirata.com.ar/3304/twitter-almacena-los-contactos-de-iphone-sin-que-el-usuario-lo-sepa">Twitter </a> toman información de tu celular, usá software libre para cuidarte:
 
 <a href="http://www.linuxzone.es/2012/02/29/la-fsfe-inicia-una-campana-llamada-libera-tu-android/" target="_blank">Fuente Linux Zone</a>
 

@@ -11,12 +11,12 @@ tags:
 - hospital-de-ninos
 - hospital-de-pediatria-juan-garrahan
 - marines
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/Embajador-Marines-EE-UU.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/Embajador-Marines-EE-UU-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/Embajador-Marines-EE-UU.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/Embajador-Marines-EE-UU-150x150.jpg
 wppost_name: primero-los-ametrallamos-y-luego-les-ponemos-una-curita-apocalypse-now
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/garr2.jpg"><img class="alignleft size-full wp-image-5908" title="garr2" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/garr2.jpg" alt="" width="260" height="195" /></a><strong><a href="http://spanish.argentina.usembassy.gov/garrahan.html" target="_blank">Fuente Embajada de USA en la Argentina</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/garr2.jpg"><img class="alignleft size-full wp-image-5908" title="garr2" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/garr2.jpg" alt="" width="260" height="195" /></a><strong><a href="http://spanish.argentina.usembassy.gov/garrahan.html" target="_blank">Fuente Embajada de USA en la Argentina</a></strong>
 
 El embajador Wayne visitó el 28 de marzo el <strong>Hospital de Pediatría Juan Garrahan</strong> para realizar una donación de juguetes como parte del programa<strong> "Toys for Tots" de los infantes de Marina estadounidenses</strong> y con el auspicio de Continental Airlines.
 

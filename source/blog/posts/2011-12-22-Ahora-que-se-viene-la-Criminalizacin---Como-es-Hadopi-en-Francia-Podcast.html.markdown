@@ -7,8 +7,8 @@ tags:
 - hadopi
 - ley-de-los-tres-avisos
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg-150x150.png
 wppost_name: ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast
 ---
 

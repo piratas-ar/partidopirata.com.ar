@@ -10,14 +10,14 @@ tags:
 - pepe-biondi
 - pepe-soriano
 - sagai
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/314151-4096x2000.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/314151-4096x2000-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/314151-4096x2000.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/314151-4096x2000-150x150.jpg
 wppost_name: la-ompi-esta-firmando-tranquilamente-un-acuerdo-para-darle-a-las-estrellas-de-hollywood-su-propia-version-especial-de-derecho-de-autor
 ---
 
 <strong>Novedad: <a href="http://www.ag-ip-news.com/news.aspx?id=28341&amp;lang=en" target="_blank">Finalmente la OMPI aprobó el tema de los derechos para actores </a></strong>
 
-<strong>Si alguien quiere hacer una traducción de ese artículo, envíenlo a<a href="http://partidopirata.com.ar/contacto"> nuestra dirección de contacto.</a></strong>
+<strong>Si alguien quiere hacer una traducción de ese artículo, envíenlo a<a href="https://partidopirata.com.ar/contacto"> nuestra dirección de contacto.</a></strong>
 
 &nbsp;
 
@@ -79,12 +79,12 @@ El problema sería en algún caso una nostalgia evocativa: sentir lástima por n
 <hr />
 <p style="text-align: center;">Sería interesante hablar con alguien que entienda bien sobre estos <em>derechos morales</em> que ahora quieren imponer en el mundo.
 Los <em>derechos de propiedad intelectual</em> de actores, bailarines y dobladores
-<strong>Si alguien quiere explicarnos un poco más el tema, <a href="http://partidopirata.com.ar/contacto">Escríbannos por favor!</a></strong></p>
+<strong>Si alguien quiere explicarnos un poco más el tema, <a href="https://partidopirata.com.ar/contacto">Escríbannos por favor!</a></strong></p>
 
 
 <hr />
 <p style="text-align: center;"><strong>Novedad: <a href="http://www.ag-ip-news.com/news.aspx?id=28341&amp;lang=en" target="_blank">Finalmente la OMPI aprobó el tema de los derechos para actores </a></strong></p>
-<p style="text-align: center;"><strong>Si alguien quiere hacer una traducción de ese artículo, envíenlo a<a href="http://partidopirata.com.ar/contacto"> nuestra dirección de contacto.</a></strong></p>
+<p style="text-align: center;"><strong>Si alguien quiere hacer una traducción de ese artículo, envíenlo a<a href="https://partidopirata.com.ar/contacto"> nuestra dirección de contacto.</a></strong></p>
 
 
 <hr />

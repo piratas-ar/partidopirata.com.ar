@@ -10,8 +10,8 @@ tags:
 - privacidad
 - ronaldo-lemos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv_650.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv_650-150x112.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv_650.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv_650-150x112.jpg
 wppost_name: mod-mtv-octavo-programa-privacidad
 ---
 

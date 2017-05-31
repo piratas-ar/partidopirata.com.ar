@@ -8,12 +8,12 @@ tags:
 - derecho
 - material-para-difusion
 - duenos-de-la-propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
 wppost_name: el-debate-sobre-cuevana-opiniones-de-sites-de-abogados
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="aligncenter size-full wp-image-2318" title="Cuevana" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a>Algunas opiniones y comentarios de blogs de abogados sobre el caso Cuevana:
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="aligncenter size-full wp-image-2318" title="Cuevana" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a>Algunas opiniones y comentarios de blogs de abogados sobre el caso Cuevana:
 <h4><strong>Algunas reflexiones sobre el fallo</strong></h4>
 Me llama un poco la atención que la medida haya sido dirigida en contra de los proveedores de acceso a Internet en vez de intentar primero con Cuevana, ordenandole la baja del contenido y después, si fracasaba esta medida, entonces recién intentar ésta. De todos modos entiendo los motivos: Cuevana está <a href="http://whois.webrankstats.com/whois/cuevana.tv" target="_blank">registrada</a> como sitio web en el extranjero; en su sitio no figura ni su razón social ni su domicilio (lo que viola varias leyes) y, para peor, hace días que su <a href="http://www.cuevana.tv/#%21/legal" target="_blank">aviso de legales</a> arroja como resultado “Error: página no encontrada”.
 

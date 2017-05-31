@@ -3,8 +3,8 @@ title: Grupo de Lucha contra la Piratería cierra Proxies de The Pirate Bay en H
 date: '2012-03-23'
 tags:
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: grupo-de-lucha-contra-la-pirateria-grupo-cierra-proxies-de-the-pirate-bay-en-holanda
 ---
 

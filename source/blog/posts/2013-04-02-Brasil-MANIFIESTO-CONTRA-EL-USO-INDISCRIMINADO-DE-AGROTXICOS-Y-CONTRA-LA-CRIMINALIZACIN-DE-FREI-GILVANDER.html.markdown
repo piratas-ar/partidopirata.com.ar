@@ -11,8 +11,8 @@ tags:
 - frei-gilvander
 - minas-gerais
 - unai
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto-150x150.jpg
 wppost_name: brasil-manifiesto-contra-el-uso-indiscriminado-de-agrotoxicos-y-contra-la-criminalizacion-de-frei-gilvander
 ---
 

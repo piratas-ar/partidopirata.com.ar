@@ -13,8 +13,8 @@ tags:
 - pontecorvo
 - queimada
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/images2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/images2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/images2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/images2-150x150.jpg
 wppost_name: algunas-peliculas-y-documentales-pensando-en-descolonizarnos-12-de-octubre
 ---
 
@@ -129,7 +129,7 @@ La Revolución del Coco- The Coconut Revolution
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6277/soluciones-locales-para-un-desorden-global-documental-para-el-fin-de-semana" rel="bookmark">Soluciones locales para un desorden global</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6277/soluciones-locales-para-un-desorden-global-documental-para-el-fin-de-semana" rel="bookmark">Soluciones locales para un desorden global</a></strong></p>
 <p style="text-align: center;">“<em><strong>Hoy en día es necesario mostrar que existen soluciones, dar la palabra a filósofos y economistas que, explicando las causas que han llevado al modelo actual a la crisis ecológica,  financiera y política, inventen y experimenten alternativas</strong>. El documental pretende ser lúdico y poético, revolucionar las ideas, cuestionar nuestras certezas acerca de la normalidad y hacer reflexionar sobre el funcionamiento de nuestras relaciones sociales y económicas.</em>””</p>
 
 
@@ -143,12 +143,12 @@ El racismo contra los pobladores originarios no fue casual: fue la coartada que 
 
 <hr />
 
-<h1 style="text-align: center;"><a href="http://partidopirata.com.ar/5436/vienen-por-el-oro-vienen-por-todo-documental" rel="bookmark">Vienen por el Oro Vienen por Todo</a></h1>
+<h1 style="text-align: center;"><a href="https://partidopirata.com.ar/5436/vienen-por-el-oro-vienen-por-todo-documental" rel="bookmark">Vienen por el Oro Vienen por Todo</a></h1>
 Sinopsis
 En Esquel, Patagónia Argentina, una empresa canadiense obtiene los derechos para extraer oro y plata de una mina ubicada a 7 km. de la ciudad, usando enormes cantidades de agua y cianuro. El emprendimiento minero parece ser la gran solución para el 50% de población que vive por debajo de los límites de pobreza.”Vienen por el oro, vienen por todo” narra la victoria épica de este pueblo patagónico que logró vencer al poder económico y político, impidiendo que se llevara a cabo el emprendimiento minero.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6753/documental-los-piratas-de-los-seres-vivos-marie-monique-robin" target="_blank">Los piratas de los seres Vivos, es un documental escrito y producido por la periodista francesa Marie Monique Robin.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6753/documental-los-piratas-de-los-seres-vivos-marie-monique-robin" target="_blank">Los piratas de los seres Vivos, es un documental escrito y producido por la periodista francesa Marie Monique Robin.</a></strong></p>
 <strong>“El patentado es la continuidad de la colonización”.</strong>
 
 “He calificado de ‘reduccionista’ la particular tradición epistemológica que de la ‘revolución científica’ tiene el patriarcado occidental moderno porque redujo la capacidad humana de conocer la naturaleza al excluir a otras personas y otras vías de conocimiento y redujo la capacidad de la naturaleza para regenerarse y renovarse creativamente manipulándola como materia fragmentada. El reduccionismo tiene una serie de características que lo distinguen de otros sistemas no reduccionistas de conocimiento a los que sojuzgó y reemplazó”.

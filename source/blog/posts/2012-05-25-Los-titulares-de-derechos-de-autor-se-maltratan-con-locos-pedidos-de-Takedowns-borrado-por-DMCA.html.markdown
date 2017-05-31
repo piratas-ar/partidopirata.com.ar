@@ -9,14 +9,14 @@ tags:
 - notice-and-takedown
 - pedido-de-borrado-de-enlaces
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/dmca.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/dmca-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/dmca.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/dmca-150x150.jpg
 wppost_name: los-titulares-de-derechos-de-autor-se-maltratan-con-locos-pedidos-de-takedowns-borrado-por-dmca
 ---
 
 <strong><a href="https://torrentfreak.com/copyright-holders-punish-themselves-with-crazy-dmca-takedowns-120525/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/dmca.jpg"><img class="size-full wp-image-4576" title="dmca" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/dmca.jpg" alt="" width="173" height="242" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/dmca.jpg"><img class="size-full wp-image-4576" title="dmca" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/dmca.jpg" alt="" width="173" height="242" /></a>
 
 
 Ayer Google publicó gentilmente una base de datos de las solicitudes de borrado enviados al gigante de las búsquedas por motivos de derechos de autor. Las notificaciones de DMCA [derecho de autor en USA} se supone que son para ayudar a proteger las ventas legítimas, pero las compañías de entretenimiento que las envin están claramente teniendo problemas. Sea testigo de algunas de las mayores compañías del mundo de música y películas que borrando de todo, desde artículos de noticias que promueven sus últimas versiones, a su propio contenido de marketing.

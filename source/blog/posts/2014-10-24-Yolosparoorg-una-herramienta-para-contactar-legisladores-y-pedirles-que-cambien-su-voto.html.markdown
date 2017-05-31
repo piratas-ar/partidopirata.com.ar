@@ -14,12 +14,12 @@ tags:
 - fracking
 - mineria
 - senadores
-image: http://partidopirata.com.ar/wp-content/uploads/2014/10/yolosparto.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/10/yolosparto-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2014/10/yolosparto.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/10/yolosparto-150x150.png
 wppost_name: yolosparo-org-una-herramienta-para-contactar-legisladores-y-pedirles-que-cambien-su-voto
 ---
 
-<a href="http://yolosparo.org"><img class="aligncenter wp-image-9564 size-medium" src="http://partidopirata.com.ar/wp-content/uploads/2014/10/yolosparto-300x300.png" alt="yolosparo" width="300" height="300" /></a>
+<a href="http://yolosparo.org"><img class="aligncenter wp-image-9564 size-medium" src="https://partidopirata.com.ar/wp-content/uploads/2014/10/yolosparto-300x300.png" alt="yolosparo" width="300" height="300" /></a>
 <h2>Yolosparo.org una herramienta para contactar legisladores y pedirles que cambien su voto</h2>
 <h2></h2>
 <h3>Esta semana la nueva ley de hidrocarburos podría ser aprobada. Con media sanción ya otorgada por el senado, las nuevas medidas propuestas constituyen un peligro para la soberanía energética del país y como reacción a la misma nace una herramienta ciudadana: Yolosparo.org</h3>

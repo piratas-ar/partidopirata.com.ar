@@ -8,8 +8,8 @@ tags:
 - rock
 - tucuman
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/unapartecaratula584.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/unapartecaratula584-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/unapartecaratula584.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/unapartecaratula584-150x150.jpg
 wppost_name: documental-sobre-los-fanzines-en-tucuman-y-argentina
 ---
 

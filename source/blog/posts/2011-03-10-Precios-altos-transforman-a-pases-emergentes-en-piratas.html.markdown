@@ -21,14 +21,14 @@ tags:
 - research
 - science
 - social
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/pirataria.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/pirataria.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/pirataria.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/pirataria.jpg
 wppost_name: precios-altos-transforman-a-paises-emergentes-en-piratas
 ---
 
 &nbsp;
 
-<img src="http://partidopirata.com.ar/wp-content/uploads/2011/03/pirataria.jpg" alt="" />
+<img src="https://partidopirata.com.ar/wp-content/uploads/2011/03/pirataria.jpg" alt="" />
 
 <strong><a href="http://blogs.estadao.com.br/p2p/2011/03/09/precos-altos-transformam-emergentes-em-piratas-diz-estudo/" target="_blank">Fuente Blog P2P</a></strong>
 
@@ -47,10 +47,10 @@ El archivo <em>Media Piracy in Emerging Economies</em> está circulando con una 
 &nbsp;
 
 <strong> </strong><strong><a href="http://blogs.estadao.com.br/p2p/2011/03/09/precos-altos-transformam-emergentes-em-piratas-diz-estudo/" target="_blank">Fuente Blog P2P</a></strong>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">Nos avisan que dejaron el informe en español para descargar</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">Nos avisan que dejaron el informe en español para descargar</a></strong></p>
 <strong>
 </strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3821/pirateria-de-medios-en-las-economias-emergentes-el-informe-en-espanol">
 </a></strong></p>

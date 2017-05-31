@@ -100,5 +100,5 @@ Y vos que leíste hasta acá, hacé lo que quieras pero prestá atención. Como 
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2145/wikileaks-nos-necesita-apoyemosawikileaks">Video de Julián Assange solicitando nuestra ayuda.</a></strong></p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg"><img class="aligncenter size-full wp-image-252" title="Wikileaks" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg" alt="" width="450" height="300" /></a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2145/wikileaks-nos-necesita-apoyemosawikileaks">Video de Julián Assange solicitando nuestra ayuda.</a></strong></p>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg"><img class="aligncenter size-full wp-image-252" title="Wikileaks" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg" alt="" width="450" height="300" /></a>

@@ -12,8 +12,8 @@ tags:
 - torrentfreak
 - torrentfreak-noticias
 - tpb-afk
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2-150x150.jpg
 wppost_name: el-documental-sobre-the-pirate-bay-primer-certamen-tendra-su-premiere-en-linea-y-en-una-gran-festival
 ---
 
@@ -22,7 +22,7 @@ wppost_name: el-documental-sobre-the-pirate-bay-primer-certamen-tendra-su-premie
 TPB AFK-, el próximo documental sobre The Pirate Bay y sus fundadores, tiene una fecha de lanzamiento. La película se estrenará con un lugar destacado en el prestigioso Festival de Cine de Berlín el 8 de febrero. Al mismo tiempo TPB AFK-también se dará a conocer de forma gratuita en Internet., Por lo que es la primera película que se estrena tanto en línea como en un gran festival.
 Hollywood escucha a menudo que obligan a la gente a piratear películas al no hacer su que su contenido esté disponible ampliamente.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg"><img class="alignright size-full wp-image-8299" alt="tpb-afk2" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg" width="240" height="196" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg"><img class="alignright size-full wp-image-8299" alt="tpb-afk2" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg" width="240" height="196" /></a>
 
 A menudo toman meses antes de que una exitosa película aparezca en línea después de que se estrena en los cines, aunque el público exija un acceso instantáneo.
 

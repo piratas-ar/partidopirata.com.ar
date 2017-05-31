@@ -10,12 +10,12 @@ tags:
 - numeros
 - ropa
 - venta-ilegal
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
 wppost_name: mas-numerologia-pirata-los-manteros-facturan-500-mil-por-dia
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg"><img class="aligncenter size-full wp-image-595" title="exagerado" src="http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg" alt="" width="227" height="400" /></a><strong><a href="http://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">Un artículo anterior sobre como se <em>cocinan</em> algunos números cuando se habla de mercadería <em>pirata</em></a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg"><img class="aligncenter size-full wp-image-595" title="exagerado" src="https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg" alt="" width="227" height="400" /></a><strong><a href="https://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">Un artículo anterior sobre como se <em>cocinan</em> algunos números cuando se habla de mercadería <em>pirata</em></a></strong>
 
 Acá , cabe aclararlo, estamos hablando de falsificación, que no es lo mismo que piratería. Cuando alguien compra un cd o dvd a un mantero sabe que lo que compra es algo que no es el <em>original.  </em>Cuando alguien compra en algún mantero un producto de marca, digamos una <em>Louis Vuitton </em>a un precio muy inferior al de mercado debería preguntarse si está falsificado.
 Con el término <em>piratería </em>muchas veces se confunde todo, esta confusión no es inocente. Entran en la misma bolsa los que hacen copias de cds y dvds , los que venden productos falsificados y , hasta , los que fabrican medicamentos falsos. Obvio que no es lo mismo un cd o dvd <em>genérico </em>que un medicamento falsificado....Y obvio que tampoco es lo mismo un medicamento genérico de uno falso.
@@ -40,4 +40,4 @@ Nunca sabremos cómo llegan a estos números.. Eso si, siempre tienen que ser gr
 
 Si con la ropa pensamos que , muchas veces, los que la venden son los mismos que las fabrican para las marcas <em>legales</em> como si las grandes marcas como Adidas, Nike, etc. etc.. No usaran talleres clandestinos con inmigrantes ilegales...
 
-<strong><a href="http://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">Algo más sobre Numerología Pi<em>rata</em></a></strong>
+<strong><a href="https://partidopirata.com.ar/593/la-falsificacion-de-la-numerologia-pirata">Algo más sobre Numerología Pi<em>rata</em></a></strong>

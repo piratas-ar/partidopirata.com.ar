@@ -7,18 +7,18 @@ tags:
 - material-para-difusion
 - kopimismo
 - koptimismo
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01-150x150.jpg
 wppost_name: primer-culto-de-la-iglesia-del-koptimismo-en-america-el-download-como-religion
 ---
 
-<strong><a href="http://partidopirata.com.ar/2693/el-intercambio-de-archivos-es-una-religion-reconocida-en-suecia">Otras noticias sobre la Iglesia del Kopimismo en nuestro blog</a></strong>
+<strong><a href="https://partidopirata.com.ar/2693/el-intercambio-de-archivos-es-una-religion-reconocida-en-suecia">Otras noticias sobre la Iglesia del Kopimismo en nuestro blog</a></strong>
 
 Durante el Campus Party en San Pablo Brasil, <strong><a href="http://blogs.estadao.com.br/link/o-download-como-religiao/" target="_blank">Fuente O Estado de São Paulo</a></strong>
 
 <em>Primera manifestación pública de la religión fue en el Campus Party</em>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg"><img class=" wp-image-8340 " alt="Operador de la religión koptimista en Brasil, conocido como &quot;op.frederico.jpg&quot;, realizó primer culto público" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg" width="244" height="183" /></a> Operador de la religión kopimista en Brasil, conocido como "op.frederico.jpg", realizó primer culto público
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg"><img class=" wp-image-8340 " alt="Operador de la religión koptimista en Brasil, conocido como &quot;op.frederico.jpg&quot;, realizó primer culto público" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/kopimista01.jpg" width="244" height="183" /></a> Operador de la religión kopimista en Brasil, conocido como "op.frederico.jpg", realizó primer culto público
 
 
 <em>Por Vinicius Felix

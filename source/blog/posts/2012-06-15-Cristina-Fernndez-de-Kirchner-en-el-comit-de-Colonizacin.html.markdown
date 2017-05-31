@@ -13,8 +13,8 @@ tags:
 - neodesarrollismo
 - patagonia
 - wall-mart
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/cristina-turner-150x150.jpg
 wppost_name: cristina-fernandez-de-kirchner-en-el-comite-de-colonizacion
 ---
 

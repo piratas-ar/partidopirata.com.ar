@@ -9,13 +9,13 @@ tags:
 - mumble
 - reunion-eventos
 - reunion-virtual
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion_Online.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion_Online-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion_Online.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion_Online-150x150.png
 wppost_name: reunion-online-via-mumble-el-4-de-abril-estan-todos-invitados
 ---
 
 &nbsp;
-<p style="text-align: center"><a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion_Online.png"><img class="aligncenter  wp-image-8969" alt="Reunion_Online" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion_Online.png" width="604" height="288" /></a></p>
+<p style="text-align: center"><a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion_Online.png"><img class="aligncenter  wp-image-8969" alt="Reunion_Online" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/Reunion_Online.png" width="604" height="288" /></a></p>
 La reunión es el 4 de Abril a partir de las 20 hs. vía Mumble que es una plataforma para charlar online, puede ser a través del chat o con micrófono con la voz.
 
 Empezamos a las 20 hs. La idea es debatir la carta orgánica y organizarnos.

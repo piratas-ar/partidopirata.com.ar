@@ -11,8 +11,8 @@ tags:
 - nbc
 - streaming
 - transmision
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/london.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/london-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/london.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/london-150x150.jpg
 wppost_name: nbc-y-el-comite-olimpico-internacional-listos-para-acabar-con-los-piratas-olimpicos
 ---
 
@@ -20,7 +20,7 @@ wppost_name: nbc-y-el-comite-olimpico-internacional-listos-para-acabar-con-los-p
 
 El próximo viernes la ceremonia de apertura de los Juegos Olímpicos de 2012 será transmitida de forma gratuita en más de un centenar de países, pero no en los Estados Unidos. En los EE.UU.,las transmisiones Olímpicas en vivo estarán disponible sólo para aquellos que tienen una suscripción pagada por cable, lo que excluye a millones de personas. Este acceso restringido es un caldo de cultivo para la piratería, pero la NBC y el COI están completamente preparados para actuar contra los piratas Olímpicos para proteger sus intereses comerciales.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/london.jpg"><img class="alignright size-full wp-image-5564" title="london" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/london.jpg" alt="" width="200" height="226" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/london.jpg"><img class="alignright size-full wp-image-5564" title="london" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/london.jpg" alt="" width="200" height="226" /></a>
 
 Hace cuatro años, la ceremonia inaugural de los Juegos Olímpicos 2008 en Beijing se descargaron  <a href="http://torrentfreak.com/millions-download-olympics-via-bittorrent-080812/">millones de veces</a>  a través de BitTorrents.
 

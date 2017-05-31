@@ -8,8 +8,8 @@ tags:
 - floresta-vermelha
 - hardware-libre
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1-150x150.jpg
 wppost_name: sobre-floresta-vermelha-bosque-rojo-cortometraje-hecho-con-soft-y-hard-libre
 ---
 
@@ -22,6 +22,6 @@ wppost_name: sobre-floresta-vermelha-bosque-rojo-cortometraje-hecho-con-soft-y-h
 
 Blque del programa de TV brasileña Metrópolis dedicado al cortometraje hecho con soft y hard libre Floresta Vermelha -Bosque Rojo
 
-<a href="http://partidopirata.com.ar/7457/un-proyecto-libre-para-el-cine-una-camara-para-hacer-cine-de-codigo-abierto">Acá habíamos agregado algo más sobre el cortometraje</a>
+<a href="https://partidopirata.com.ar/7457/un-proyecto-libre-para-el-cine-una-camara-para-hacer-cine-de-codigo-abierto">Acá habíamos agregado algo más sobre el cortometraje</a>
 
 </center>

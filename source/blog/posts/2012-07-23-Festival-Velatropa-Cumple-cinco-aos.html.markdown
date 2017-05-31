@@ -10,14 +10,14 @@ tags:
 - festival
 - gratiferia
 - velatropa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/vela02.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/vela02-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/vela02.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/vela02-150x150.jpg
 wppost_name: velatropa-cumple-cinco-anos
 ---
 
 Los amigos de <a href="http://www.velatropa.com.ar" target="_blank">Velatropa</a> nos envian lo siguiente: 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela02.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela02-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignleft size-medium wp-image-5477" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela02.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela02-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignleft size-medium wp-image-5477" /></a>
 
 Te invitamos a compartir los días <strong>Miércoles 25 a Domingo 29 en el Pabellón 5 de Ciudad Universitaria</strong> una jornada de arte, aprendizaje y conexión con la naturaleza.
 
@@ -38,7 +38,7 @@ Un momento para materializar un encuentro de reflexión y debate, de concientiza
 (( muchas actividades se están confirmando durante estos últimos días y las iremos actualizando en nuestra web ))
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela04.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela04-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignright size-medium wp-image-5478" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela04.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela04-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignright size-medium wp-image-5478" /></a>
 <br /><br />
 <strong>Miércoles 25.</strong>
 Día Fuera del Tiempo (DFT) Luna Roja Entonada
@@ -52,7 +52,7 @@ Día Fuera del Tiempo (DFT) Luna Roja Entonada
     Tarde. Muestra de esculturas artecnología con recorrido (Eurin)
     Tarde. Conversatorio Movimiento de la Nueva Trova (MNT) (Eurin)
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela05.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela05-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignleft size-medium wp-image-5479" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela05.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela05-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignleft size-medium wp-image-5479" /></a>
 <br /><br />
 <strong>Jueves 26</strong>
 
@@ -71,7 +71,7 @@ Día Fuera del Tiempo (DFT) Luna Roja Entonada
     18 hs. Teatro. Función unipersonal “Remón y Remonio” (Trincheta Cuba)
     Tarde. Taller de Domaquetado. (Eurin)
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela06.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela06-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignright size-medium wp-image-5481" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela06.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela06-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignright size-medium wp-image-5481" /></a>
 <br /><br />
 
 <strong>Sábado 28</strong>
@@ -88,7 +88,7 @@ Día Fuera del Tiempo (DFT) Luna Roja Entonada
     Concierto “Poexistencia”
     Noche. Improvisación musical con escenario abierto.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela07.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela07-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignleft size-medium wp-image-5484" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela07.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela07-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignleft size-medium wp-image-5484" /></a>
 
 <strong>Domingo 29</strong>
 
@@ -107,7 +107,7 @@ Día Fuera del Tiempo (DFT) Luna Roja Entonada
     Proyecciones al atardecer.
     Paño abierto.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela08.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela08-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignright size-medium wp-image-5486" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela08.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela08-300x227.jpg" alt="" title="velatropa" width="300" height="227" class="alignright size-medium wp-image-5486" /></a>
 
 <strong>Dia y Hora a confirmar</strong>
 
@@ -125,5 +125,5 @@ Día Fuera del Tiempo (DFT) Luna Roja Entonada
     Niñ@s. El lugar es muy receptivo a las familias, hay un sector divino preparado para que jueguen los niños.
     Cualquier duda visiten la nuestra web y escríbanos desde la sección de contacto o a aldeavelatropa(arroba)gmail(punto)com
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela09.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela09-300x227.jpg" alt="" title="velatropa" width="280" height="227" class="alignleft size-medium wp-image-5487" /></a>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela010.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/vela010-300x227.jpg" alt="" title="velatropa" width="280" height="227" class="alignright size-medium wp-image-5488" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela09.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela09-300x227.jpg" alt="" title="velatropa" width="280" height="227" class="alignleft size-medium wp-image-5487" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela010.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/vela010-300x227.jpg" alt="" title="velatropa" width="280" height="227" class="alignright size-medium wp-image-5488" /></a>

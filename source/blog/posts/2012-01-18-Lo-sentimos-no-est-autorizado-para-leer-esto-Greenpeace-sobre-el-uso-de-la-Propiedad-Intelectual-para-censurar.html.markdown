@@ -14,8 +14,8 @@ tags:
 - pipa
 - sopa
 - violacion-de-marcas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/parody-of-esso-logo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/parody-of-esso-logo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/parody-of-esso-logo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/parody-of-esso-logo-150x150.jpg
 wppost_name: lo-sentimos-no-esta-autorizado-para-leer-esto-grenpeace-sobre-el-uso-de-la-propiedad-intelectual-para-censurar
 ---
 
@@ -49,7 +49,7 @@ Usamos el propio lenguaje de las corporaciones, su propio marketing, su propia f
 
 La cosa es que, mientras corte tras corte nos  han dado la razón en que la parodia es una forma protegida de la libertad de expresión,  las corporaciones en el otro extremo de nuestras parodias suelen no estar de acuerdo. Exxon / Esso nos llevó a los tribunales en Francia por presunta infracción del copyright de su logotipo, cuando lanzamos una campaña en contra de ellos:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/parody-of-esso-logo.jpg"><img class="aligncenter size-full wp-image-2863" title="Parodia del Logo de Esso hecha por Greenpeace." src="http://partidopirata.com.ar/wp-content/uploads/2012/01/parody-of-esso-logo.jpg" alt="Parodia del Logo de Esso hecha por Greenpeace." width="399" height="295" /></a>Esso dijo que estábamos violando sus derechos de propiedad intelectual. Dijimos que era libertad de expresión. El tribunal estuvo de acuerdo con nosotros, y en una decisión histórica,<a href="http://www.greenpeace.org/international/en/news/features/greenpeace-wins-against-oil-gi/">ganamos</a>. Pero si la decisión hubiera sido favorable a Exxon / Esso,  habríamos tenido que cerrar.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/parody-of-esso-logo.jpg"><img class="aligncenter size-full wp-image-2863" title="Parodia del Logo de Esso hecha por Greenpeace." src="https://partidopirata.com.ar/wp-content/uploads/2012/01/parody-of-esso-logo.jpg" alt="Parodia del Logo de Esso hecha por Greenpeace." width="399" height="295" /></a>Esso dijo que estábamos violando sus derechos de propiedad intelectual. Dijimos que era libertad de expresión. El tribunal estuvo de acuerdo con nosotros, y en una decisión histórica,<a href="http://www.greenpeace.org/international/en/news/features/greenpeace-wins-against-oil-gi/">ganamos</a>. Pero si la decisión hubiera sido favorable a Exxon / Esso,  habríamos tenido que cerrar.
 
 Perdimos con Kit Kat la marca famosa de Nestlé cuando nuestro video con la parodia con la marca - y la crítica de su apoyo a la destrucción de la selva - fueron retirados de YouTube por violación de marca registrada. Cientos de nuestros seguidores repostearon el vídeo en otros sitios y en sus propios perfiles de Facebook.
 
@@ -68,5 +68,5 @@ Más que nunca, el mundo en red está frenando a los intereses corporativos resp
 
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">
 <strong>Como decía Cory Doctorow la batalla por los derechos de autor son en realidad una pequeña escaramuza sobre la verdadera guerra que se viene por controlar Internet.</strong></a></p>

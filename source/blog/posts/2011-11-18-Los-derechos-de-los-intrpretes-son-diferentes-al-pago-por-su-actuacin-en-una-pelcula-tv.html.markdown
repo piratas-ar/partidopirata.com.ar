@@ -9,8 +9,8 @@ tags:
 - sagai
 - video
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus-150x150.jpg
 wppost_name: los-derechos-de-los-interpretes-es-diferente-a-el-pago-por-su-actuacion-en-una-pelicula-tv
 ---
 
@@ -63,4 +63,4 @@ Puede que, como algunos dicen, esté en juego en todo esto la subsistencia misma
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg"><img class="size-full wp-image-1760 aligncenter" title="anonymus" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg" alt="" width="468" height="443" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg"><img class="size-full wp-image-1760 aligncenter" title="anonymus" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/anonymus.jpg" alt="" width="468" height="443" /></a>

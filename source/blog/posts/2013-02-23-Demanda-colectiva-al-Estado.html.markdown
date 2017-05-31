@@ -14,8 +14,8 @@ tags:
 - justicia
 - monsanto
 - veneno
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/agrotoxicos.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/agrotoxicos-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/agrotoxicos.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/agrotoxicos-150x150.jpg
 wppost_name: demanda-colectiva-al-estado
 ---
 

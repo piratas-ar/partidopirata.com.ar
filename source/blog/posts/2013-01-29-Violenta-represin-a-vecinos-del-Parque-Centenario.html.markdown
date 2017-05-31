@@ -12,8 +12,8 @@ tags:
 - privatizacion
 - rejas-en-el-parque-centenario
 - represion
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/rejas-parque-centenario.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/rejas-parque-centenario-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/rejas-parque-centenario.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/rejas-parque-centenario-150x150.jpg
 wppost_name: violenta-represion-a-vecinos-del-parque-centenario
 ---
 

@@ -10,8 +10,8 @@ tags:
 - nicoff
 - nosotros-los-hijos-de-la-web
 - piotr-czerski
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/user_1895086_5fdc10_big.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/user_1895086_5fdc10_big-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/user_1895086_5fdc10_big.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/user_1895086_5fdc10_big-115x115.jpg
 wppost_name: nosotros-los-hijos-de-la-web-piotr-czerski
 ---
 

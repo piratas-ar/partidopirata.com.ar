@@ -12,8 +12,8 @@ tags:
 - libros-en-dominio-publico
 - libros-publicados
 - publicacion-de-libros
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/Amazon-pub-domain-thumb-615x368-83391.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/Amazon-pub-domain-thumb-615x368-83391-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/Amazon-pub-domain-thumb-615x368-83391.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/Amazon-pub-domain-thumb-615x368-83391-150x150.png
 wppost_name: el-siglo-20-perdido-como-la-proteccion-de-derechos-de-autor-hace-que-los-libros-desaparezcan
 ---
 
@@ -21,7 +21,7 @@ wppost_name: el-siglo-20-perdido-como-la-proteccion-de-derechos-de-autor-hace-qu
 
 Debido a las extrañas distorsiones de la protección de los derechos de autor, existe el doble de libros recientemente publicados disponibles en Amazon a partir de 1850, que los que hay a partir de 1950.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/Amazon-pub-domain-thumb-615x368-83391.png"><img class="aligncenter size-full wp-image-3720" title="Publicación de libros en Amazon" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/Amazon-pub-domain-thumb-615x368-83391.png" alt="" width="615" height="368" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/Amazon-pub-domain-thumb-615x368-83391.png"><img class="aligncenter size-full wp-image-3720" title="Publicación de libros en Amazon" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/Amazon-pub-domain-thumb-615x368-83391.png" alt="" width="615" height="368" /></a>
 
 El gráfico anterior muestra una distribución de 2500 libros de ficción recién impresos seleccionados al azar de los almacenes de Amazon. Lo más loco es que hay igual número de la última década que los publicados a partir de la década entre 1910 y 1920. ¿Por qué? Debido a que a partir de 1923, la mayoría de los títulos tienen derechos de autor. Los libros de antes de 1923 tienden a ser de dominio público, y el resultado es que Amazon los vende -a muchos de ellos. El cuadro proviene de la Universidad de Illinois, del profesor de derecho Paul Heald. . En una charla en la Universidad de Canterbury,el 16 de marzo, explicó cómo lo hizo y que muestra <a href="http://www.youtube.com/watch?v=-DpfZcftI00&amp;feature=player_embedded#%21">Dijo</a> :
 <blockquote>Esto es super excitante, interesantes datos preliminares, creo. Tenía a uno de mis estudiantes que escribió un programa de computadora que escudriñaba a través de Amazon.com y  de 2.500 títulos de ficción elegidos al azar. ... Los resultados son absolutamente fascinantes.
@@ -37,7 +37,7 @@ Pueden ver la conferencia entera de Heald, "¿pasan cosas malas cuando las obras
 <iframe src="http://www.youtube.com/embed/-DpfZcftI00" frameborder="0" width="420" height="315"></iframe></center>&nbsp;
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3733/quien-le-teme-al-dominio-publico-boom-de-edicion-de-los-libros-de-virginia-woolf-al-entrar-en-dominio-publico">Boom de edición de libros de Virginia Woolf al entrar en dominio público.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3733/quien-le-teme-al-dominio-publico-boom-de-edicion-de-los-libros-de-virginia-woolf-al-entrar-en-dominio-publico">Boom de edición de libros de Virginia Woolf al entrar en dominio público.</a></strong></p>
 
 
 <hr />

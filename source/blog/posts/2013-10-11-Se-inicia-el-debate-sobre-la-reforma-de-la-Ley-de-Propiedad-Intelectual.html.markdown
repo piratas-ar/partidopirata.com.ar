@@ -5,8 +5,8 @@ tags:
 - copyright-2
 - destacados
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2013/10/eflyer_agendapropositiva.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/10/eflyer_agendapropositiva-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/10/eflyer_agendapropositiva.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/10/eflyer_agendapropositiva-150x150.jpg
 wppost_name: se-inicia-el-debate-sobre-la-reforma-de-la-ley-de-propiedad-intelectual
 ---
 

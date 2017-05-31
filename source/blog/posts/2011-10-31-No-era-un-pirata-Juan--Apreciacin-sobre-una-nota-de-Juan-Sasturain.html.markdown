@@ -15,7 +15,7 @@ thumb:
 wppost_name: no-era-un-pirata-juan-apreciacion-sobre-una-nota-de-juan-sasturain
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2009/11/s3030.png"><img class="aligncenter size-full wp-image-50" title="20 años robados al pueblo" src="http://partidopirata.com.ar/wp-content/uploads/2009/11/s3030.png" alt="" width="562" height="474" /></a><strong>Diseño realizado por <a href="http://www.derechoaleer.org/" target="_blank">Derecho a Leer</a> para concientizar sobre los 20 años más agregados al monopolio de los fonogramas (de 50 a 70 años) aprobado en el congreso a fines del 2009.</strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2009/11/s3030.png"><img class="aligncenter size-full wp-image-50" title="20 años robados al pueblo" src="https://partidopirata.com.ar/wp-content/uploads/2009/11/s3030.png" alt="" width="562" height="474" /></a><strong>Diseño realizado por <a href="http://www.derechoaleer.org/" target="_blank">Derecho a Leer</a> para concientizar sobre los 20 años más agregados al monopolio de los fonogramas (de 50 a 70 años) aprobado en el congreso a fines del 2009.</strong></p>
 
 
 <hr />

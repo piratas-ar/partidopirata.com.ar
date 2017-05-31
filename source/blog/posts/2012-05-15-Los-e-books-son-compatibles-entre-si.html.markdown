@@ -7,8 +7,8 @@ tags:
 - david-pogue
 - material-para-difusion
 - e-book
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/books_download.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/books_download-115x100.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/books_download.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/books_download-115x100.jpg
 wppost_name: los-e-books-son-compatibles-entre-si
 ---
 

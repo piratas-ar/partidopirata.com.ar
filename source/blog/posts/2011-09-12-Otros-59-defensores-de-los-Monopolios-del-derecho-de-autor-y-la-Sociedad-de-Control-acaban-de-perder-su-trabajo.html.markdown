@@ -10,8 +10,8 @@ tags:
 - partido-pirata-aleman
 - rick-falkvinge
 - suecia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/Investment-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/Investment-646x363.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/Investment-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/Investment-646x363.jpg
 wppost_name: otros-59-defensores-de-los-monopolios-del-derecho-de-autor-y-la-sociedad-de-control-acaban-de-perder-su-trabajo
 ---
 
@@ -37,7 +37,7 @@ Un gran Yarr! desde Suecia. ¡Bien hecho!
 
 <hr />
 <p style="text-align: center;">Y un gran Yarr desde Argentina, imaginen cuando en nuestro país no estén en el congreso los que defienden siempre a los mismos monopolios!!! (un poco de utopías siempre es bueno)
-<strong><a href="http://partidopirata.com.ar/1801/los-piratas-de-berlin-preparados-para-entrar-en-el-parlamento-regional">Ver: Los Piratas Alemanes preparados para entrar en el parlamento de Berlín.</a></strong></p>
+<strong><a href="https://partidopirata.com.ar/1801/los-piratas-de-berlin-preparados-para-entrar-en-el-parlamento-regional">Ver: Los Piratas Alemanes preparados para entrar en el parlamento de Berlín.</a></strong></p>
 
 
 <hr />

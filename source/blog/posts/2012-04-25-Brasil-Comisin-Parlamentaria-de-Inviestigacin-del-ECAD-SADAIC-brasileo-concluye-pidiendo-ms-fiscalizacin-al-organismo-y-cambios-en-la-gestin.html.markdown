@@ -16,8 +16,8 @@ tags:
 - robo
 - sadaic
 - sadaic-brasileno
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
 wppost_name: brasil-comision-parlamentaria-de-inviestigacion-del-ecad-sadaic-brasileno-concluye-pidiendo-mas-fiscalizacion-al-organismo-y-cambios-en-la-gestion
 ---
 

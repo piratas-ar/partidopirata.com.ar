@@ -9,8 +9,8 @@ tags:
 - patentes
 - propiedad-intelectual
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/warez-ag.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/warez-ag-150x97.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/warez-ag.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/warez-ag-150x97.jpg
 wppost_name: antigua-y-barbuda-autorizada-a-publicar-el-portal-pirata-por-la-organizacion-mundial-del-comercio
 ---
 
@@ -20,7 +20,7 @@ wppost_name: antigua-y-barbuda-autorizada-a-publicar-el-portal-pirata-por-la-org
 
 Durante una reunión celebrada hoy en Ginebra la Organización Mundial del Comercio (OMC) autorizó la solicitud de Antigua y Barbuda para suspender los derechos de autor de Estados Unidos. La decisión confirmó la autorización previa que la isla caribeña recibió en 2007, y significa que las autoridades locales puedan seguir adelante con su plan para comenzar un portal de descargas que ofrece películas, música y software sin compensar a las empresas estadounidenses que las fabrican.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/warez-ag.jpg"><img class="alignright size-full wp-image-8324" alt="warez-ag" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/warez-ag.jpg" width="222" height="97" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/warez-ag.jpg"><img class="alignright size-full wp-image-8324" alt="warez-ag" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/warez-ag.jpg" width="222" height="97" /></a>
 
 La semana pasada <a href="http://torrentfreak.com/antigua-government-set-to-launch-pirate-website-to-punish-united-states-130124/">publicamos la noticia </a> de que la nación de la isla de Antigua y Barbuda quiere empezar a publicar un sitio "pirata" del gobierno.
 
@@ -54,7 +54,7 @@ Si en efecto Antigua soguiera adelante, será bastante interesante ver cómo los
 
 Es interesente recordar el <i>Mapa</i> de la propiedad intelectual en el mundo, hacía dónde van los pagos de derechos de autor:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-full wp-image-4557" alt="Patentes Otorgadas por país" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/167.png" width="860" height="423" /></a> Patentes Otorgadas por país
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/167.png"><img class="size-full wp-image-4557" alt="Patentes Otorgadas por país" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/167.png" width="860" height="423" /></a> Patentes Otorgadas por país
 
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Màs sobre este mapa, en esta entrada del post</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/8326/retaliacion-cruzada-del-algodon-algunas-sugerencias-para-el-gobierno-brasileno">Algunas sugerencias para el caso brasileño</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Màs sobre este mapa, en esta entrada del post</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/8326/retaliacion-cruzada-del-algodon-algunas-sugerencias-para-el-gobierno-brasileno">Algunas sugerencias para el caso brasileño</a></strong></p>

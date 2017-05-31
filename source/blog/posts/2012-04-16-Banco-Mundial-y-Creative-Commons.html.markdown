@@ -8,12 +8,12 @@ tags:
 - lawrence-lessig
 - licencia
 - licencias-creative-commons
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/bm.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/bm-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/bm.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/bm-150x150.jpg
 wppost_name: banco-mundial-y-creative-commons
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/bm.jpg"><img class="size-thumbnail wp-image-4061 " title="bm" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/bm-150x150.jpg" alt="" width="150" height="150" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/bm.jpg"><img class="size-thumbnail wp-image-4061 " title="bm" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/bm-150x150.jpg" alt="" width="150" height="150" /></a>
 
 
 <hr />

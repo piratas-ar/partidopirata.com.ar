@@ -10,8 +10,8 @@ tags:
 - enclosures
 - nobel-de-economia
 - tragedia-de-los-comunes
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30-150x150.jpg
 wppost_name: en-homenaje-a-elinor-ostrom
 ---
 
@@ -41,12 +41,12 @@ Si buscan por Elinor Ostrom encontrarán muchísimo más material, <a href="http
 <strong> Presionen en donde dice CC con fondo rojo y podrán ver los subtítulos en castellano</strong></center>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4839/siguiendo-con-los-videos-sobre-creando-audiencia">El tercer capítulo: Creando Audiencia con subtítulos en español.</a></strong></p>
-<p style="text-align: center;"><strong><strong><a href="http://partidopirata.com.ar/4856/siguiendo-con-los-videos-sobre-bienes-comunes-porque-importan-los-videos-de-gatitos">El quinto video-Porque importan los videos de gatitos.</a></strong></strong></p>
-<p style="text-align: center;"><strong><strong><a href="http://partidopirata.com.ar/4864/siguiendo-con-los-videos-sobre-bienes-comunes-copyright-extremo">Sexto Video-Copyright Extremo</a></strong></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4839/siguiendo-con-los-videos-sobre-creando-audiencia">El tercer capítulo: Creando Audiencia con subtítulos en español.</a></strong></p>
+<p style="text-align: center;"><strong><strong><a href="https://partidopirata.com.ar/4856/siguiendo-con-los-videos-sobre-bienes-comunes-porque-importan-los-videos-de-gatitos">El quinto video-Porque importan los videos de gatitos.</a></strong></strong></p>
+<p style="text-align: center;"><strong><strong><a href="https://partidopirata.com.ar/4864/siguiendo-con-los-videos-sobre-bienes-comunes-copyright-extremo">Sexto Video-Copyright Extremo</a></strong></strong></p>
 <p style="text-align: center;"><strong></strong>
 <strong> <a href="https://www.youtube.com/user/Tlavi?feature=watch" target="_blank">Pueden verlos en inglés acá.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg"><img class="size-full wp-image-4785" title="200px-Nobel_Prize_2009-Press_Conference_KVA-30" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg" alt="" width="200" height="297" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg"><img class="size-full wp-image-4785" title="200px-Nobel_Prize_2009-Press_Conference_KVA-30" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/200px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg" alt="" width="200" height="297" /></a>
 

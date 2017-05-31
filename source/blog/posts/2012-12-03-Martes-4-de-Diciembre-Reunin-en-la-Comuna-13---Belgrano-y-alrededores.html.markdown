@@ -8,8 +8,8 @@ tags:
 - reunion
 - solar-de-la-abadia
 - starbucks
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/reunion.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/reunion-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/reunion.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/reunion-150x150.jpg
 wppost_name: martes-4-de-diciembre-reunion-en-la-comuna-13-belgrano-y-alrededores
 ---
 

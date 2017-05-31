@@ -9,12 +9,12 @@ tags:
 - actividades
 - eventos
 - cronograma
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1-150x150.png
 wppost_name: cronograma-de-actividades-para-el-15-de-octubre-15o
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png"><img class="aligncenter size-full wp-image-2017" title="15octweb1" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png" alt="15 de Octubre" width="543" height="545" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png"><img class="aligncenter size-full wp-image-2017" title="15octweb1" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png" alt="15 de Octubre" width="543" height="545" /></a>
 <ul>
 	<li>10h Acción directa por los compañeros de Villa Corina en el río de
 La Plata (en relación a un vertido de residuos), después se unirán a

@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - sarmiento
 - sede-del-partido-pirata
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/logo_cabezal.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/logo_cabezal-150x34.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/logo_cabezal.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/logo_cabezal-150x34.gif
 wppost_name: pasos-para-crear-una-biblioteca-popular
 ---
 

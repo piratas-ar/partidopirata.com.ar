@@ -8,8 +8,8 @@ tags:
 - noticias
 - rick-falkvinge
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/photo_1003_20060203-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/photo_1003_20060203-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/photo_1003_20060203-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/photo_1003_20060203-646x363-150x150.jpg
 wppost_name: europarlamento-reprende-a-visa-mastercard-y-paypal-por-matar-las-donaciones-a-wikileaks-e-inicia-regulacion
 ---
 

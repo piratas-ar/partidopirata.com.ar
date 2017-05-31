@@ -26,8 +26,8 @@ tags:
 - riaa
 - multimedia
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/ACTA.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/ACTA.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/ACTA.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/ACTA.jpg
 wppost_name: que-es-el-acta
 ---
 

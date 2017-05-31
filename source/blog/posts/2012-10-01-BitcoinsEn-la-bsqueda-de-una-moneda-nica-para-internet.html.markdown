@@ -8,17 +8,17 @@ tags:
 - conferencia-en-londres
 - material-para-difusion
 - monedas-virtuales
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679-150x150.jpg
 wppost_name: bitcoinsen-la-busqueda-de-una-moneda-unica-para-internet
 ---
 
 <strong>Una aclaración sobre la nota está en los comentarios.</strong>
 <p style="text-align: center;">Lamentáblemente hay muchos "periodistas" que no saben bien sobre el tema, no investigan, y así se "comen" operaciones con o sin mala intención.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6732/sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben" target="_blank">Fíjense en esta nota sobre las urnas electrónicas y Jorge Lanata.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6732/sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben" target="_blank">Fíjense en esta nota sobre las urnas electrónicas y Jorge Lanata.</a></strong></p>
 <strong><a href="http://blogs.estadao.com.br/link/em-busca-de-uma-moeda-unica-para-a-internet/" target="_blank">Fuente Suplemento Link "O Estado de São Paulo"</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg"><img class=" wp-image-6699" title="IMG_372345679" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg" alt="" width="360" height="532" /></a> Amir Taaki<br />FOTO: ROBERTO ALMEIDA/AE
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg"><img class=" wp-image-6699" title="IMG_372345679" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/IMG_372345679.jpg" alt="" width="360" height="532" /></a> Amir Taaki<br />FOTO: ROBERTO ALMEIDA/AE
 
 
 <em>Amir Taaki es uno de los principales apoyadores del proyecto Bitcoin, una moneda digital llena de controversias </em>
@@ -81,9 +81,9 @@ Los conferencistas se intercalaban presentando los benefícios de la moneda dura
 <em>Estuvimos haciendo dos podcasts sobre los Bitcoins:
 </em>
 
-<strong><a href="http://partidopirata.com.ar/5086/podcast-sobre-bitcoin-aprendiendo-una-nueva-manera-de-intercambiar">Con Mariana y Marcelo charlando sobre los bitcoins I.</a></strong>
+<strong><a href="https://partidopirata.com.ar/5086/podcast-sobre-bitcoin-aprendiendo-una-nueva-manera-de-intercambiar">Con Mariana y Marcelo charlando sobre los bitcoins I.</a></strong>
 
-<em><strong><a href="http://partidopirata.com.ar/6328/con-mariana-y-marcelo-sobre-bitcoin-ii">Con Mariana y Marcelo  sobre Bitcoins II</a></strong>
+<em><strong><a href="https://partidopirata.com.ar/6328/con-mariana-y-marcelo-sobre-bitcoin-ii">Con Mariana y Marcelo  sobre Bitcoins II</a></strong>
 </em>
 
 &nbsp;

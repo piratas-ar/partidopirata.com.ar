@@ -8,8 +8,8 @@ tags:
 - intimacion-legal
 - privatizaso
 - videojuego
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/nestornauta.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/nestornauta-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/nestornauta.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/nestornauta-150x150.png
 wppost_name: el-eternauta-nuevamente-privatizado-intiman-legalmente-a-los-programadores-del-juego
 ---
 
@@ -25,7 +25,7 @@ Ese mismo año, Cristina firmó el decreto de creación de la DAC, "Directores A
 
 En el 2011, Miguel Ángel Pichetto trató de establecer, junto con Giustiniani y otros diputados, el famoso <strong>canon digital</strong>. El proyecto fracasó rotundamente, aunque, como aseguró Guillermo Ocampo, de SADAIC <q>probablemente se trate después de las elecciones</q>.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/nestornauta.png"><img class="size-full wp-image-5397" title="nestornauta" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/nestornauta.png" alt="" width="560" height="943" /></a> El Nestornauta
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/nestornauta.png"><img class="size-full wp-image-5397" title="nestornauta" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/nestornauta.png" alt="" width="560" height="943" /></a> El Nestornauta
 
 
 <hr />

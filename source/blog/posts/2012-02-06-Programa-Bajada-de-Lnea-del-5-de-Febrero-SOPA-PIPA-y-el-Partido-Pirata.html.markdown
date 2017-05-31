@@ -11,8 +11,8 @@ tags:
 - television-abierta
 - victor-hugo-morales
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/youtube.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/youtube.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/youtube.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/youtube.jpg
 wppost_name: programa-bajada-de-linea-del-5-de-febrero-sopa-pipa-y-el-partido-pirata
 ---
 

@@ -12,8 +12,8 @@ tags:
 - epistemologica
 - norma-giarracca
 - ramon-grosfoguel
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/cristobal-colon-150x150.png
 wppost_name: ramon-grosfoguel-descolonizacion-epistemologica-conferencia
 ---
 
@@ -32,7 +32,7 @@ wppost_name: ramon-grosfoguel-descolonizacion-epistemologica-conferencia
 <strong> Si el enlace anterior no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/ramon-grosfoguel-descolonizacion-epistemologica-audios-mp3_rf_1786520_1.html" target="_blank">En este enlace</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/chart.png"><img class="size-full wp-image-8421" alt="Código QR de la dirección del archivo de audio" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo de audio
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/chart.png"><img class="size-full wp-image-8421" alt="Código QR de la dirección del archivo de audio" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/chart.png" width="150" height="150" /></a> Código QR de la dirección del archivo de audio
 
 
 <hr />

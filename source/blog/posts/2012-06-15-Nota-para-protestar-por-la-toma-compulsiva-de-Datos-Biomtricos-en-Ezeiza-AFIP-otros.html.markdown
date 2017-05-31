@@ -11,8 +11,8 @@ tags:
 - queja
 - sibios
 - todos-vigilados
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros
 ---
 
@@ -50,8 +50,8 @@ Asimismo, tampoco se me ha informado sobre las garantías de seguridad de la bas
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/PDFOnline.pdf">El escrito en pdf para descargar e imprimir</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">El escrito que nos enviara German.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/PDFOnline.pdf">El escrito en pdf para descargar e imprimir</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">El escrito que nos enviara German.</a></strong></p>
 
 
 <hr />

@@ -11,8 +11,8 @@ tags:
 - nam-qom
 - pueblos-originarios
 - qom
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/policias-tucumanos-desalojaron-comunidad-aborigen.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/policias-tucumanos-desalojaron-comunidad-aborigen-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/policias-tucumanos-desalojaron-comunidad-aborigen.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/policias-tucumanos-desalojaron-comunidad-aborigen-150x150.jpg
 wppost_name: viernes-3-a-las-12-hs-en-avenida-9-de-julio-y-avenida-de-mayo
 ---
 
@@ -22,7 +22,7 @@ Fuente: <a href="http://permahabitante.blogspot.com.ar/2012/08/el-etnocidio-no-c
 
 
 
-<blockquote><a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/policias-tucumanos-desalojaron-comunidad-aborigen.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/08/policias-tucumanos-desalojaron-comunidad-aborigen.jpg" alt="" title="policias tucumanos desalojaron comunidad aborigen" width="420" height="315" class="alignright size-full wp-image-5685" /></a>
+<blockquote><a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/policias-tucumanos-desalojaron-comunidad-aborigen.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/08/policias-tucumanos-desalojaron-comunidad-aborigen.jpg" alt="" title="policias tucumanos desalojaron comunidad aborigen" width="420" height="315" class="alignright size-full wp-image-5685" /></a>
 
 <strong>Declaración Pública y convocatoria de Movilización el Viernes 3 a las 12 hs en Avenida 9 de julio y Avenida De Mayo.
 

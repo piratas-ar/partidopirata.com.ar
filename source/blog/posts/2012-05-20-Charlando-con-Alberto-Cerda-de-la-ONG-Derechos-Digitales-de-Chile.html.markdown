@@ -9,8 +9,8 @@ tags:
 - ong-derechos-digitales
 - podcasts
 - privacidad-de-los-datos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Ung-Pirat-gubben2-150x150.png
 wppost_name: charlando-con-alberto-cerda-de-la-ong-derechos-digitales-de-chile
 ---
 
@@ -40,15 +40,15 @@ Presionen en <em>Play</em> para escucharlo o:
 Si el enlace anterior no funciona, presionen en descargar
 <a href="http://www.ivoox.com/charlando-alberto-cerda-ong-derechos-audios-mp3_rf_1236855_1.html" target="_blank">en el siguiente link.</a></center>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png"><img class="size-full wp-image-4514" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png" alt="" width="150" height="150" /></a> Código QR del Audio
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png"><img class="size-full wp-image-4514" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/chart1.png" alt="" width="150" height="150" /></a> Código QR del Audio
 
 
 &nbsp;
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Sobre Hadopi en Francia con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos </a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4652/los-reguladores-europeos-de-las-telecomunicaciones-lanzan-un-grito-de-alarma-sobre-la-neutralidad-de-la-red">Alarma en la Unión Europea por la neutralidad de la red</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino</a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Sobre Hadopi en Francia con Eric Walter uno de los que administra Hadopi-Ley de los 3 avisos </a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4652/los-reguladores-europeos-de-las-telecomunicaciones-lanzan-un-grito-de-alarma-sobre-la-neutralidad-de-la-red">Alarma en la Unión Europea por la neutralidad de la red</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino</a>
 </strong></p>
 
 

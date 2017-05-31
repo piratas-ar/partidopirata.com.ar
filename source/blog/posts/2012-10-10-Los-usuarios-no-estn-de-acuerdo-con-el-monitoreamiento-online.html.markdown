@@ -10,8 +10,8 @@ tags:
 - propaganda-digital
 - thiago-mattos
 - ucla
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/privacidade.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/privacidade-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/privacidade.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/privacidade-150x150.jpg
 wppost_name: los-usuarios-no-estan-de-acuerdo-con-el-monitoreamiento-online
 ---
 
@@ -25,7 +25,7 @@ Por Redacción Link
 
 SÃO PAULO – La mayoría de los norteamericanos entrevistados <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2152135" target="_blank">en una investigación</a> de la Universidad de California (UCLA) no quiere que su información personal sea recolectada. La conclusión es de un estudio presentado hoy en la Conferencia de Amsterdan sobre Privacidad.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/privacidade.jpg"><img class="alignright size-full wp-image-6801" title="privacidade" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/privacidade.jpg" alt="" width="390" height="265" /></a>De acuerdo con los resultados, la mayoria de ellos ni siquiera cree que la publicidad online es útil; casi 90% dijeron nunca haber oído hablar del recurso “Do Not Track” (No me Rastree), una propuesta de crear un botón en el navegador para que el usuario elija cuando su navegación puede ser rastreada por los anuncios en internet.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/privacidade.jpg"><img class="alignright size-full wp-image-6801" title="privacidade" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/privacidade.jpg" alt="" width="390" height="265" /></a>De acuerdo con los resultados, la mayoria de ellos ni siquiera cree que la publicidad online es útil; casi 90% dijeron nunca haber oído hablar del recurso “Do Not Track” (No me Rastree), una propuesta de crear un botón en el navegador para que el usuario elija cuando su navegación puede ser rastreada por los anuncios en internet.
 
 Uno de los argumentos de la industria de propaganda digital es que el contenido libre en internet, incluyendo a las redes sociales, se hace posible justamente por ese tipo de anuncios.
 
@@ -44,7 +44,7 @@ La investigación, financiada por Nokia y realizada por el departamento de Derec
 <hr />
 
 Y lo que decía Juan Pablo Ringelheim sobre el monitoreamiento de nuestros datos:
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/6790/banalizando-la-vigilancia-electronica-la-mirada-electronica-en-pagina-12"> <em>"La mayor parte de los usuarios del país desean fervientemente ser registrados, pues parten de la conciencia de la propia carencia de significado</em></a>"</strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/6790/banalizando-la-vigilancia-electronica-la-mirada-electronica-en-pagina-12"> <em>"La mayor parte de los usuarios del país desean fervientemente ser registrados, pues parten de la conciencia de la propia carencia de significado</em></a>"</strong></p>
 <p style="text-align: center;">¿Habrá hecho alguna investigación sobre el tema como el de la UCLA-Berkeley?</p>
 <p style="text-align: center;">¿Tal vez la Universidad de Quilmes financió esa investigación y no informó nada?</p>
 <p style="text-align: center;"><strong>No vamos a creer que un catedrático argentino hace afirmaciones sin ninguna investigación que lo respalde!!!</strong></p>

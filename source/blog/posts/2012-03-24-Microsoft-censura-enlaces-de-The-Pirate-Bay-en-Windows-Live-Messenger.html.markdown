@@ -9,12 +9,12 @@ tags:
 - microsoft
 - monitoreo
 - the-pirate-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/winpirate.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/winpirate-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/winpirate.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/winpirate-150x150.jpg
 wppost_name: microsoft-censura-enlaces-de-the-pirate-bay-en-windows-live-messenger
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/winpirate.jpg"><img class="aligncenter size-full wp-image-3650" title="winpirate" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/winpirate.jpg" alt="" width="165" height="155" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/winpirate.jpg"><img class="aligncenter size-full wp-image-3650" title="winpirate" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/winpirate.jpg" alt="" width="165" height="155" /></a>
 
 <strong><a href="https://torrentfreak.com/microsoft-censors-pirate-bay-links-in-windows-live-messenger-120324/" target="_blank">Fuente Torrentfreak</a></strong>
 
@@ -28,10 +28,10 @@ Aunque esto podría sonar como una buena idea para algunos, Microsoft parece no 
 
 En su lugar, Microsoft advierte al remitente de que The Pirate Bay no es seguro. Al parecer, la empresa está monitoreando activamente las comunicaciones de la gente para evitar que se enlace a webs que consideren una amenaza.
 <p style="text-align: center;"><strong>Censurado</strong></p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/msn-pirate.jpg"><img class="aligncenter size-full wp-image-3651" title="msn-pirate" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/msn-pirate.jpg" alt="" width="414" height="84" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/msn-pirate.jpg"><img class="aligncenter size-full wp-image-3651" title="msn-pirate" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/msn-pirate.jpg" alt="" width="414" height="84" /></a>
 Lo mismo ocurre en otros clientes de chat como Pidgin cuando se utiliza una cuenta de Windows Live Messenger.
 <p style="text-align: center;"><strong>Censurado</strong></p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/pidgin-msn.jpg"><img class="aligncenter size-full wp-image-3652" title="pidgin-msn" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/pidgin-msn.jpg" alt="" width="471" height="61" /></a>Cualquiera que sea la razón de Microsoft para el seguimiento de las conversaciones privadas y luego rechazar los enlaces a The Pirate Bay, las políticas de censura de la compañía con sede en Redmond no son muy consistentes. Todos los otros sitios grandes de BitTorrent no se verán afectados, a pesar de que ofrecen un contenido que es idéntico a The Pirate Bay.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/pidgin-msn.jpg"><img class="aligncenter size-full wp-image-3652" title="pidgin-msn" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/pidgin-msn.jpg" alt="" width="471" height="61" /></a>Cualquiera que sea la razón de Microsoft para el seguimiento de las conversaciones privadas y luego rechazar los enlaces a The Pirate Bay, las políticas de censura de la compañía con sede en Redmond no son muy consistentes. Todos los otros sitios grandes de BitTorrent no se verán afectados, a pesar de que ofrecen un contenido que es idéntico a The Pirate Bay.
 
 Si bien no está claro si lo anterior se relaciona con las preocupaciones de derechos de autor, la censura es sin duda una herramienta que está llegando para proteger los intereses de la industria del entretenimiento. Tomando tu libertad de expresión de un enlace a la vez.
 

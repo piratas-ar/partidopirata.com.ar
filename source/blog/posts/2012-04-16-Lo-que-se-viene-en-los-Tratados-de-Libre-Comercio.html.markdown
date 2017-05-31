@@ -12,12 +12,12 @@ tags:
 - tratado-de-libre-comercio
 - tratado-estados-unidos-colombia
 - tratados
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/iwo-jima-tlc.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/iwo-jima-tlc-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/iwo-jima-tlc.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/iwo-jima-tlc-150x150.png
 wppost_name: lo-que-se-viene-en-los-tratados-de-libre-comercio
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/iwo-jima-tlc.png"><img class="aligncenter  wp-image-3968" title="Tratado de Libe Comercio" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/iwo-jima-tlc.png" alt="" width="336" height="232" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/iwo-jima-tlc.png"><img class="aligncenter  wp-image-3968" title="Tratado de Libe Comercio" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/iwo-jima-tlc.png" alt="" width="336" height="232" /></a></p>
 <strong><a href="http://www.derechoaleer.org/2012/04/colombia-senador-copyfighter-TLC-para-dummies.html" target="_blank">Fuente Derecho a Leer</a></strong>
 
 Se espera que en este encuentro, el presidente de Colombia, Juan Manuel Santos y el de Estados Unidos, Barack Obama, <a href="http://www.caracol.com.co/noticias/actualidad/barack-obama-dijo-que-el-tlc-sera-la-apertura-del-mercado-mas-grande-del-mundo-para-colombia/20120413/nota/1669684.aspx"><strong>rubriquen definitivamente el Tratado de Libre Comercio Colombia-Estados Unidos</strong></a>. El proyecto recibió la aprobación del Congreso colombiano y <a href="http://www.tlc.gov.co/">sólo falta la sanción definitiva del presidente Santos.</a>

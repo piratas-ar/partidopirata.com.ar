@@ -10,14 +10,14 @@ tags:
 - marco-civil
 - neutralidad-de-la-red
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
 wppost_name: carta-abierta-a-la-presidenta-de-brasil-dilma-rosuseff-sobre-el-marco-civil-de-internet
 ---
 
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" target="_blank">Acá las <em>preguntas y respuestas</em> </a> sobre el Marco Civil.</strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5875/sobre-el-marco-civil-de-internet-programa-de-la-tv-de-la-universidad-de-rio-grande-do-sul" rel="external nofollow">Sobre el Marco Civil de Internet, programa de la TV de la Universidad de Río Grande do Sul | Partido Pirata</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" target="_blank">Acá las <em>preguntas y respuestas</em> </a> sobre el Marco Civil.</strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5875/sobre-el-marco-civil-de-internet-programa-de-la-tv-de-la-universidad-de-rio-grande-do-sul" rel="external nofollow">Sobre el Marco Civil de Internet, programa de la TV de la Universidad de Río Grande do Sul | Partido Pirata</a></strong></li>
 </ul>
 <strong>
 </strong>
@@ -49,6 +49,6 @@ Creemos que ni todos los legisladores y políticos son especialistas en Tecnolog
 <hr />
 
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" target="_blank">Acá las <em>preguntas y respuestas</em> </a> sobre el Marco Civil.</strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5875/sobre-el-marco-civil-de-internet-programa-de-la-tv-de-la-universidad-de-rio-grande-do-sul" rel="external nofollow">Sobre el Marco Civil de Internet, programa de la TV de la Universidad de Río Grande do Sul | Partido Pirata</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" target="_blank">Acá las <em>preguntas y respuestas</em> </a> sobre el Marco Civil.</strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5875/sobre-el-marco-civil-de-internet-programa-de-la-tv-de-la-universidad-de-rio-grande-do-sul" rel="external nofollow">Sobre el Marco Civil de Internet, programa de la TV de la Universidad de Río Grande do Sul | Partido Pirata</a></strong></li>
 </ul>

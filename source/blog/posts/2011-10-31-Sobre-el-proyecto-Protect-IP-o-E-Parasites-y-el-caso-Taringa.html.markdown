@@ -26,11 +26,11 @@ Es interesanta ver ver el final del video donde muestran que en Internet existe 
 
 como quieren hacernos creer algunos medios.
 <p style="text-align: center;">Recuerden que en la Argentina Federico Pinedo presentó un proyecto de ley que también va en esa dirección.
-<strong><a href="http://partidopirata.com.ar/712/ley-pinedo-escasas-aclaraciones-muchas-dudas-y-contradicciones">Si quieren escuchar una entrevista a Federico Pinedo </a> <em>explicando</em> ese proyecto de ley.</strong></p>
+<strong><a href="https://partidopirata.com.ar/712/ley-pinedo-escasas-aclaraciones-muchas-dudas-y-contradicciones">Si quieren escuchar una entrevista a Federico Pinedo </a> <em>explicando</em> ese proyecto de ley.</strong></p>
 <p style="text-align: center;">Si Taringa permite que se borren contenidos con sólo denunciarlo en su site, el proceso que se les está llevando a cabo es simplemente censura.</p>
 <p style="text-align: center;"><strong><a href="http://www.derechoaleer.org/2011/10/bienvenidos-la-jungla-del-p2p.html" target="_blank">Algo más referido a la sobreregulación que existe hoy en Internet.</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg"><img class="aligncenter size-full wp-image-248" title="Censura" src="http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg" alt="" width="320" height="274" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg"><img class="aligncenter size-full wp-image-248" title="Censura" src="https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg" alt="" width="320" height="274" /></a>

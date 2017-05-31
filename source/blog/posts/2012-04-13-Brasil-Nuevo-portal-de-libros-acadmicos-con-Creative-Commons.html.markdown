@@ -10,8 +10,8 @@ tags:
 - libros-academicos
 - scielo
 - tatiana-de-melo-dias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/scielo1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/scielo1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/scielo1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/scielo1-150x150.jpg
 wppost_name: brasil-nuevo-portal-de-libros-academicos
 ---
 
@@ -30,7 +30,7 @@ La biblioteca ofrecerá libros publicados por editoriales de universidades. El p
 <p style="text-align: right;">Cultura contemporânea, identidades y sociabilidades:</p>
 <p style="text-align: right;">miradas sobre cuerpo, medios y nuevas tecnologias,</p>
 <p style="text-align: right;">con organización de Ana Lúcia de Castro, es uno de los libros disponibles.</p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/scielo1.jpg"><img class="alignright size-full wp-image-3929" title="Editorial Scielo" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/scielo1.jpg" alt="" width="251" height="378" /></a>“Un porcentaje significativo de citas que los periódicos SciELO hacen, principalmente en el área de humanas, está en libros. Y como uno de los objetivos de la colección SciELO es interligar las citas entre periódicos, la idea es también hacer eso con libros”, dijo Abel Packer, miembro de la coordinación del programa, a la <a href="http://agencia.fapesp.br/15402">Agencia Fapesp</a>.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/scielo1.jpg"><img class="alignright size-full wp-image-3929" title="Editorial Scielo" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/scielo1.jpg" alt="" width="251" height="378" /></a>“Un porcentaje significativo de citas que los periódicos SciELO hacen, principalmente en el área de humanas, está en libros. Y como uno de los objetivos de la colección SciELO es interligar las citas entre periódicos, la idea es también hacer eso con libros”, dijo Abel Packer, miembro de la coordinación del programa, a la <a href="http://agencia.fapesp.br/15402">Agencia Fapesp</a>.
 
 El objetivo es hacer disponibles entre 300 y 500 libros por año.
 

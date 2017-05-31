@@ -8,8 +8,8 @@ tags:
 - musicos
 - no-al-canon
 - tomada
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/filmus006.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/filmus006.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/filmus006.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/filmus006.jpg
 wppost_name: noalcanon-musicos-con-filmus-tomada
 ---
 
@@ -21,7 +21,7 @@ wppost_name: noalcanon-musicos-con-filmus-tomada
 <p style="text-align: center;"><strong>León Gieco - Susana Rinaldi-</strong><strong>Teresa Parodi-</strong><strong>- Gustavo Santaolalla </strong></p>
 <p style="text-align: center;"><strong><a href="http://tirandoalmedio.blogspot.com/2011/07/musicos-con-filmus-tomada.html" target="_blank">Acá dejaron toda la lista</a></strong></p>
 <p style="text-align: center;"><strong>Y veamos quienes apoyan el Canon Digital:</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/07/filmus006.jpg"><img class="size-medium wp-image-1338" title="filmus006" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/filmus006-256x300.jpg" alt="" width="256" height="300" /></a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/07/filmus006.jpg"><img class="size-medium wp-image-1338" title="filmus006" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/filmus006-256x300.jpg" alt="" width="256" height="300" /></a>
 </strong></p>
 <p style="text-align: center;"><strong>Ah...Está León Gieco y también la gente haciendo rosca para el canon digital....Y algunos otros:</strong></p>
 &nbsp;

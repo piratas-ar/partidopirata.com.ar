@@ -11,8 +11,8 @@ tags:
 - intimidad
 - no-usar-facebook
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/screen-shot-2012-04-13-at-4-56-05-pm.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/screen-shot-2012-04-13-at-4-56-05-pm-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/screen-shot-2012-04-13-at-4-56-05-pm.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/screen-shot-2012-04-13-at-4-56-05-pm-150x150.png
 wppost_name: facebook-explica-porque-apoya-al-proyecto-de-ley-sobre-ciberseguridad-cispa
 ---
 
@@ -33,5 +33,5 @@ Si usted se opone al respaldo de Facebook a CISPA, hay una petición para pedirl
 </strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3888/cispa-proyecto-de-ley-le-permite-a-los-proveedores-de-internet-espiar-a-sus-suscriptores">Más información sobre CISPA en nuestro blog.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3888/cispa-proyecto-de-ley-le-permite-a-los-proveedores-de-internet-espiar-a-sus-suscriptores">Más información sobre CISPA en nuestro blog.</a></strong></p>
 <p style="text-align: center;">Intentemos salir de Facebook y de otras redes que negocian con nuestra intimidad, cuídemonos, todo esto llegraá a la Argentina, es inevitable, <strong><a href="https://joindiaspora.com/" target="_blank">Si quieren saber algo más sobre <em>Diáspora</em> que es una red social libre</a></strong></p>

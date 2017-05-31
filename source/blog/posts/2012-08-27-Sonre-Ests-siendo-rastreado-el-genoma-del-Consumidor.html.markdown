@@ -8,8 +8,8 @@ tags:
 - mineria-de-datos
 - new-york-times
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/info1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/info1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/info1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/info1-150x150.jpg
 wppost_name: sonria-estas-siendo-rastreado-el-genoma-del-consumidor
 ---
 

@@ -10,12 +10,12 @@ tags:
 - derechos
 - licencias
 - divulgacion
-image: http://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo-300x76.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo-300x76.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo-300x76.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo-300x76.jpg
 wppost_name: licencias-creative-commons
 ---
 
-<img class="alignnone size-medium wp-image-19" title="cc-logo" src="http://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo-300x76.jpg" alt="cc-logo" width="300" height="76" />
+<img class="alignnone size-medium wp-image-19" title="cc-logo" src="https://partidopirata.com.ar/wp-content/uploads/2009/11/cc-logo-300x76.jpg" alt="cc-logo" width="300" height="76" />
 
 Desde el año 2005 tienen validez en Argentina diferentes versiones de las licencias <a title="Creative Commons Argentina" href="http://creativecommons.org/international/ar/" target="_blank">Creative Commons</a>. Este tipo de licencia le permite ceder ciertos derechos para que lo patentado pueda ser utilizado de diferentes formas y por diferentes personas sin miedo a persecuciones legales.
 

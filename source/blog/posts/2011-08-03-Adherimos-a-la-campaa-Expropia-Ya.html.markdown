@@ -3,8 +3,8 @@ title: Adherimos a la campaña Expropia Ya
 date: '2011-08-03'
 tags:
 - campanas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/expropia-ya.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/expropia-ya-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/expropia-ya.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/expropia-ya-150x150.png
 wppost_name: adherimos-a-la-campana-expropia-ya
 ---
 

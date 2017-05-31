@@ -8,8 +8,8 @@ tags:
 - facebook
 - privacidad
 - venta-de-datos
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: facebook-ofrece-mas-datos-a-los-anunciantes
 ---
 

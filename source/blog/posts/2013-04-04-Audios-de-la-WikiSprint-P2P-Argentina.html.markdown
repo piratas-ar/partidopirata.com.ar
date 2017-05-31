@@ -11,14 +11,14 @@ tags:
 - p2p
 - radio-2
 - wikisprintp2p
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-e1363381944215.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-e1363381944215.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-150x150.png
 wppost_name: audios-de-la-wikisprint-p2p-argentina
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-e1363381944215.png"><img class="aligncenter size-medium wp-image-8836" alt="WikiSprint P2P Afiche con logo" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-300x119.png" width="300" height="119" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-e1363381944215.png"><img class="aligncenter size-medium wp-image-8836" alt="WikiSprint P2P Afiche con logo" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-300x119.png" width="300" height="119" /></a>
 
-El 20 de marzo se realizó en la Biblioteca Popular de Barracas el <a href="http://partidopirata.com.ar/2013/03/15/itinerario-de-la-wikisprint-p2p-buenos-aires/">WikiSprintP2P </a>
+El 20 de marzo se realizó en la Biblioteca Popular de Barracas el <a href="https://partidopirata.com.ar/2013/03/15/itinerario-de-la-wikisprint-p2p-buenos-aires/">WikiSprintP2P </a>
 
 Dentro de las actividades que se desarrollaron hubo algunas charlas, si quieren escucharlas acá pueden hacerlo online o descargarlas:
 
@@ -35,7 +35,7 @@ Dentro de las actividades que se desarrollaron hubo algunas charlas, si quieren 
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/audios-wikisprint-p2p-biblioteca_md_1922344_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart1.png"><img class="size-full wp-image-9000" alt="Código QR de la dirección del archivo mp3" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart1.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart1.png"><img class="size-full wp-image-9000" alt="Código QR de la dirección del archivo mp3" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart1.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 </li>
 </ul>
 </ul>
@@ -53,7 +53,7 @@ Dentro de las actividades que se desarrollaron hubo algunas charlas, si quieren 
 <center>
 <object id="player1921027" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1921027_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1921027" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1921027_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object>
 <a href="http://www.ivoox.com/audios-wikisprint-p2p-biblioteca_md_1921027_1.mp3" target="_blank">
-Si quieren descargar el archivo mp3 </a></center><a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart2.png"><img class="aligncenter size-full wp-image-9001" alt="chart" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart2.png" width="150" height="150" /></a>
+Si quieren descargar el archivo mp3 </a></center><a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart2.png"><img class="aligncenter size-full wp-image-9001" alt="chart" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart2.png" width="150" height="150" /></a>
 
 <hr />
 <p style="text-align: center;"><strong>Gracias a Fauno y a Aza por la grabación y edición de los audios!</strong></p>

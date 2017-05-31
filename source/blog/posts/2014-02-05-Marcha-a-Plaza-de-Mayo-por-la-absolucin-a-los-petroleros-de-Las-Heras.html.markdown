@@ -13,8 +13,8 @@ tags:
 - petroleros
 - plaza-de-mayo
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2014/02/las-heras.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/02/las-heras-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2014/02/las-heras.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/02/las-heras-150x150.jpg
 wppost_name: marcha-a-plaza-de-mayo-por-la-absolucin-a-los-petroleros-de-las-heras
 ---
 

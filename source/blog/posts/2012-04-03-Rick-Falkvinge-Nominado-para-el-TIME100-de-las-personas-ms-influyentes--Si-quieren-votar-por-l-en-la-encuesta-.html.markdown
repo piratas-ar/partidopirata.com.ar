@@ -9,8 +9,8 @@ tags:
 - revista-times
 - rick-falkvinge
 - top-100
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
 wppost_name: rick-falkvinge-nominado-para-el-time100-de-las-personas-mas-influyentes-si-quieren-votar-por-el-en-la-encuesta
 ---
 

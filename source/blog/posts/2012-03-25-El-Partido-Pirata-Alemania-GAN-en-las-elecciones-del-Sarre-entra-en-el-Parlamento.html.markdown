@@ -10,8 +10,8 @@ tags:
 - elecciones-locales
 - parlamento-regional
 - sarre
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/pirataleman-150x150.jpg
 wppost_name: el-partido-pirata-alemania-gano-en-las-elecciones-del-sarre-entra-en-el-parlamento
 ---
 

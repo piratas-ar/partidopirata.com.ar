@@ -4,8 +4,8 @@ date: '2012-04-02'
 tags:
 - material-para-difusion
 - radio-2
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa-115x115.jpg
 wppost_name: entrevista-a-hernan-botbol-de-taringa-en-el-fin-del-finde
 ---
 

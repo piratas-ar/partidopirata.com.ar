@@ -16,12 +16,12 @@ tags:
 - pirateria
 - propiedad
 - san-miguel
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/bastian_arriagada.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/bastian_arriagada.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/bastian_arriagada.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/bastian_arriagada.jpg
 wppost_name: la-vida-por-el-copyright-o-la-mano-dura-que-quieren-los-que-lo-defienden
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/bastian_arriagada.jpg"><img class="aligncenter size-medium wp-image-338" title="bastian arriagada" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/bastian_arriagada-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/bastian_arriagada.jpg"><img class="aligncenter size-medium wp-image-338" title="bastian arriagada" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/bastian_arriagada-225x300.jpg" alt="" width="225" height="300" /></a>
 
 <a href="http://www.manzanamecanica.org/2010/12/esta_es_la_mano_dura_contra_la_pirateria_quemado_vivo_en_la_carcel_estaba_preso_por_vender_cds.html" target="_blank">Fuente "La Manzana Mecánica"</a>
 <div>

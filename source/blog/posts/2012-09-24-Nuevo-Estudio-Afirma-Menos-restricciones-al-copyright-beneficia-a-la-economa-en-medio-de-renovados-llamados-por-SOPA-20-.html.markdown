@@ -11,8 +11,8 @@ tags:
 - policias-del-copyrifht
 - sopa
 - usos-justos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
 wppost_name: nuevo-estudio-afirma-menos-restricciones-al-copyright-beneficia-a-la-economia-en-medio-de-llamados-renovado-por-sopa-20
 ---
 
@@ -49,4 +49,4 @@ Ambos países estarían mejor servidos por una política basada en la evidencia 
 <em>Para más información sobre el debate acerca de la economía de copyright pueden ver  <em><a href="https://www.eff.org/deeplinks/2012/06/eu-and-us-consumer-groups">aquí </a></em> y <em><a href="https://www.eff.org/deeplinks/2012/01/truth-about-economics-behind-blacklist-bills">aquí </a></em>.</em>
 
 <hr />
-<p style="text-align: center;"><strong>También pueden ver nuestra sección dedicada a la <a href="http://partidopirata.com.ar/tag/numerologia-pirata"><em>numerología pirata</em></a></strong></p>
+<p style="text-align: center;"><strong>También pueden ver nuestra sección dedicada a la <a href="https://partidopirata.com.ar/tag/numerologia-pirata"><em>numerología pirata</em></a></strong></p>

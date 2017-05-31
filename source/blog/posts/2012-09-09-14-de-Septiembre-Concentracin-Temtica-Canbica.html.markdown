@@ -8,8 +8,8 @@ tags:
 - intimidad
 - legalizacion
 - marihuana
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/despenalizacion.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/despenalizacion-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/despenalizacion.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/despenalizacion-150x150.jpg
 wppost_name: 14-de-septiembre-concentracion-tematica-canabica
 ---
 
@@ -17,6 +17,6 @@ Se puede convertir en plastico biodegradable, en ropa, en comida, en medicina y 
 
 Este 14 de Septiembre frente al Congreso de la Nacion varias organizaciones estaran informando sobre los usos de la planta de canabis para terminar con la persecución a los cultivadores y consumidores canábicos. 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/despenalizacion.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/09/despenalizacion.jpg" alt="" title="despenalizacion" width="582" height="960" class="aligncenter size-full wp-image-6416" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/despenalizacion.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/09/despenalizacion.jpg" alt="" title="despenalizacion" width="582" height="960" class="aligncenter size-full wp-image-6416" /></a>
 
 <iframe width="600" height="450" src="http://www.youtube.com/embed/0EXCyYR6uW4" frameborder="0" allowfullscreen></iframe>

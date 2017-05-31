@@ -8,14 +8,14 @@ tags:
 - investigacion
 - the-pirate-bay
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/research-bay-2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/research-bay-2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/research-bay-2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/research-bay-2-150x150.jpg
 wppost_name: the-pirate-bay-se-asocia-investigadores-academicos-para-contrarrestar-propaganda
 ---
 
 <strong> <a href="https://torrentfreak.com/the-pirate-bay-partners-with-academic-researchers-to-counter-propaganda-120509/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29&amp;hl=en" target="_blank">Fuente Torrentfreak.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/research-bay-2.jpg"><img class="size-full wp-image-4390" title="research-bay-2" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/research-bay-2.jpg" alt="" width="225" height="191" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/research-bay-2.jpg"><img class="size-full wp-image-4390" title="research-bay-2" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/research-bay-2.jpg" alt="" width="225" height="191" /></a>
 
 
 The Pirate Bay se ha asociado con el grupo de investigación Cybernorms de la Universidad Lund de Suecia, para llevar a cabo la segunda ronda de la más grande encuesta sobre el intercambio de archivos de la historia. A través de la encuesta los investigadores examinarán las normas de los usuarios que comparten archivos, y cómo responden a la censura y al aumento de leyes más duras. Uno de los principales objetivos del proyecto de investigación es dar un contrapeso a la propaganda de la industria del entretenimiento.

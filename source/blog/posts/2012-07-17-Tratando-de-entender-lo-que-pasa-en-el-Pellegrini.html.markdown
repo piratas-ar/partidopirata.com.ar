@@ -12,8 +12,8 @@ tags:
 - norma-giarraca
 - toma
 - usos-politicos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14-150x150.jpg
 wppost_name: tratando-de-entender-lo-que-pasa-en-el-pellegrini
 ---
 
@@ -84,7 +84,7 @@ Cualquier cosa, acá estamos intentando entender y viendo cómo acompañar las d
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg"><img class="size-full wp-image-5318" title="TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg" alt="" width="660" height="370" /></a> Carlos Pellegrini Tomado
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg"><img class="size-full wp-image-5318" title="TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg" alt="" width="660" height="370" /></a> Carlos Pellegrini Tomado
 
 
 &nbsp;

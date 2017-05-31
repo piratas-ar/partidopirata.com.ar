@@ -18,8 +18,8 @@ tags:
 - sonora
 - sound
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv-150x69.jpg
 wppost_name: mod-mtv-02-x-10-sound-art
 ---
 

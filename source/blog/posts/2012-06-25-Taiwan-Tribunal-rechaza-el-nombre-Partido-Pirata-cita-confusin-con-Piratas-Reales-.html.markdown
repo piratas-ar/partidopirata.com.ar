@@ -10,8 +10,8 @@ tags:
 - registro-del-nombre
 - rick-falkvinge
 - taiwan
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/taiwanPP.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/taiwanPP-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/taiwanPP.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/taiwanPP-150x150.jpg
 wppost_name: taiwan-tribunal-rechaza-el-nombre-partido-pirata-cita-confusion-con-reales-pirata
 ---
 
@@ -19,7 +19,7 @@ wppost_name: taiwan-tribunal-rechaza-el-nombre-partido-pirata-cita-confusion-con
 
 <strong>Hay decenas de partidos piratas alrededor del mundo y, aunque formado por diferentes personas, la mayoría tienen algo en común - el uso orgulloso de la palabra 'Pirata' en su nombre. Sin embargo, para el Partido Pirata de Taiwan el término está causando todo tipo de problemas. El Alto Tribunal Administrativo ha dictaminado que el Partido no puede usar  la palabra 'Pirata' para describirse a sí mismos, ya que los ciudadanos confunden los objetivos del partido con los criminales basados en el mar.</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/taiwanPP.jpg"><img class="alignright size-full wp-image-4945" title="taiwanPP" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/taiwanPP.jpg" alt="Partido Pirata de Taiwan" width="180" height="180" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/taiwanPP.jpg"><img class="alignright size-full wp-image-4945" title="taiwanPP" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/taiwanPP.jpg" alt="Partido Pirata de Taiwan" width="180" height="180" /></a>
 
 De Argentina al Uruguay a través de Venezuala copiados en Bosnia--Herzegovina a través de Nepal, los partidos piratas están apareciendo en todo el mundo.
 

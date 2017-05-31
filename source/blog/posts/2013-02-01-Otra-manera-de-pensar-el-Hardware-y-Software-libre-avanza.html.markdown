@@ -4,8 +4,8 @@ date: '2013-02-01'
 tags:
 - documentos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/OpenHardware.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/OpenHardware-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/OpenHardware.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/OpenHardware-150x150.png
 wppost_name: otra-manera-de-pensar-el-hardware-y-software-libre-avanza
 ---
 

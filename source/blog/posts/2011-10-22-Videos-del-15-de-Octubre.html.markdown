@@ -9,8 +9,8 @@ tags:
 - indimedia
 - marcha
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/pueblos-originarios-150x150.jpg
 wppost_name: videos-del-15-de-octubre
 ---
 
@@ -22,4 +22,4 @@ wppost_name: videos-del-15-de-octubre
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png"><img class="aligncenter size-full wp-image-2017" title="15O - unidos por el cambio global" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png" alt="" width="543" height="545" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png"><img class="aligncenter size-full wp-image-2017" title="15O - unidos por el cambio global" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/15octweb1.png" alt="" width="543" height="545" /></a>

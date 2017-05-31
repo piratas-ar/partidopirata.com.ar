@@ -8,8 +8,8 @@ tags:
 - internet
 - marco-civil
 - preguntas-y-respuestas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
 wppost_name: brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet
 ---
 
@@ -203,5 +203,5 @@ Pero el Marco Civil no inviabiliza la represión a crímenes en Internet, ya que
 </div>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5014/siguiendo-con-el-tema-del-guardado-de-asignaciones-de-direcciones-ips-peligros-de-ese-archivo">Algo más sobre el guardado de los datos de la conexión.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Podcast con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5014/siguiendo-con-el-tema-del-guardado-de-asignaciones-de-direcciones-ips-peligros-de-ese-archivo">Algo más sobre el guardado de los datos de la conexión.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Podcast con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong></p>

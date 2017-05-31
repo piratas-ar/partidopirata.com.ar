@@ -11,8 +11,8 @@ tags:
 - modelo
 - pueblos-originarios
 - qom
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/attachment-0002.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/attachment-0002-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/attachment-0002.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/attachment-0002-150x150.jpg
 wppost_name: 4to-qom-asesinado-en-un-mes-vuelve-el-acampe
 ---
 

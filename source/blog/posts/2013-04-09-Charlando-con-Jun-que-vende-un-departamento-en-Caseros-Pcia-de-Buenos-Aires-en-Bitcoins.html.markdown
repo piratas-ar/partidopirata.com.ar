@@ -11,17 +11,17 @@ tags:
 - mercado-libre
 - podcasts
 - venta-de-departamento
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/bitmit.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/bitmit-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/bitmit.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/bitmit-150x150.png
 wppost_name: charlando-con-juan-que-vende-un-departamento-en-caseros-pcia-de-buenos-aires-en-bitcoins
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/ficheti1.png"><img class="aligncenter size-medium wp-image-9079" alt="ficheti1" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/ficheti1-300x123.png" width="300" height="123" /></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/ficheti1.png"><img class="aligncenter size-medium wp-image-9079" alt="ficheti1" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/ficheti1-300x123.png" width="300" height="123" /></a>
 <strong><a href="http://departamento.mercadolibre.com.ar/MLA-456257400-hermoso-departamento-en-torre-aceptamos-bitcoins-_JM" target="_blank">El aviso en Mercado Libre</a></strong></p>
 
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/bitmit.png"><img class="aligncenter size-medium wp-image-9080" alt="bitmit" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/bitmit-300x276.png" width="300" height="276" /></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/bitmit.png"><img class="aligncenter size-medium wp-image-9080" alt="bitmit" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/bitmit-300x276.png" width="300" height="276" /></a>
 <strong><a href="https://www.bitmit.net/en/q/?q=caseros" target="_blank">El aviso en Bitmit</a></strong></p>
 <p style="text-align: center;"><strong>1 Bedroom Apartment at Caseros (Buenos Aires) in beautiful tower</strong>
 <strong> Auction 50,000.00 USD (= 233.057 BTC)</strong>
@@ -33,7 +33,7 @@ wppost_name: charlando-con-juan-que-vende-un-departamento-en-caseros-pcia-de-bue
 <center>
 <object id="player1936526" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1936526_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1936526" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1936526_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object></center>
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/charlando-juan-vende-departamento-en_md_1936526_1.mp3" target="_blank">Si quieren descargar el archvio mp3 del audio</a></strong></p>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart6.png"><img class="aligncenter size-full wp-image-9081" alt="chart" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/chart6.png" width="150" height="150" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart6.png"><img class="aligncenter size-full wp-image-9081" alt="chart" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/chart6.png" width="150" height="150" /></a>
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://listado.mercadolibre.com.ar/Bitcoins" target="_blank">En Mercado Libre si colocan Bitcoins encontrarán varias ofertas donde se los acepta</a></strong>
@@ -45,9 +45,9 @@ wppost_name: charlando-con-juan-que-vende-un-departamento-en-caseros-pcia-de-bue
 <p style="text-align: center;">Los otros podcast sobre Bitcoins:</p>
 
 <ol>
-	<li><strong><a href="http://partidopirata.com.ar/5086/podcast-sobre-bitcoin-aprendiendo-una-nueva-manera-de-intercambiar">Con Mariana y Marcelo charlando sobre los bitcoins I.</a></strong></li>
-	<li><em><strong><a href="http://partidopirata.com.ar/6328/con-mariana-y-marcelo-sobre-bitcoin-ii">Con Mariana y Marcelo  sobre Bitcoins II</a></strong></em></li>
-	<li><em><strong><a href="http://partidopirata.com.ar/2012/10/08/charlando-con-mariana-y-marcelo-sobre-bitcoins-iii/"> Tercer Podcast con Mariana y Marcelo de El Bitcoin</a></strong></em></li>
+	<li><strong><a href="https://partidopirata.com.ar/5086/podcast-sobre-bitcoin-aprendiendo-una-nueva-manera-de-intercambiar">Con Mariana y Marcelo charlando sobre los bitcoins I.</a></strong></li>
+	<li><em><strong><a href="https://partidopirata.com.ar/6328/con-mariana-y-marcelo-sobre-bitcoin-ii">Con Mariana y Marcelo  sobre Bitcoins II</a></strong></em></li>
+	<li><em><strong><a href="https://partidopirata.com.ar/2012/10/08/charlando-con-mariana-y-marcelo-sobre-bitcoins-iii/"> Tercer Podcast con Mariana y Marcelo de El Bitcoin</a></strong></em></li>
 </ol>
 
 <hr />
@@ -74,7 +74,7 @@ Ayer apenas desperté, una de las primeras publicaciones en Facebook que encontr
 
 En ella me llamo la atención (no se si era el motivo de la publicación por parte de Gonzalo) que se vendía un departamento opcionalmente con Bitcoins (link en Mercado Libre: <a href="http://departamento.mercadolibre.com.ar/MLA-456257400-hermoso-departamento-en-torre-aceptamos-bitcoins-_JM" target="_blank" rel="nofollow nofollow">http://departamento.mercadolibre.com.ar/MLA-456257400-hermoso-departamento-en-torre-aceptamos-bitcoins-_JM</a>).
 
-Apenas termine de revisar el link, contacte a los chicos del Partido Pirata a los que suelo hacerles CC (copy carbon en twitter) por si les interesa, les intereso y por cuestiones económicas me puse yo en contacto directo con el chico que lo vendía (si créanme que les cuesta hasta una llamada a un celular a estos chicos, no es en forma despectiva sino descriptiva ya que no reciben aun financiación, gestione una entrevista y ellos se encargaron de realizarla. Aquí la nota por si les interesa: <a href="http://partidopirata.com.ar/" target="_blank">http://partidopirata.com.ar/</a>2013/04/09/charlando-con-juan-que-vende-un-departamento-en-caseros-pcia-de-buenos-aires-en-bitcoins/
+Apenas termine de revisar el link, contacte a los chicos del Partido Pirata a los que suelo hacerles CC (copy carbon en twitter) por si les interesa, les intereso y por cuestiones económicas me puse yo en contacto directo con el chico que lo vendía (si créanme que les cuesta hasta una llamada a un celular a estos chicos, no es en forma despectiva sino descriptiva ya que no reciben aun financiación, gestione una entrevista y ellos se encargaron de realizarla. Aquí la nota por si les interesa: <a href="https://partidopirata.com.ar/" target="_blank">https://partidopirata.com.ar/</a>2013/04/09/charlando-con-juan-que-vende-un-departamento-en-caseros-pcia-de-buenos-aires-en-bitcoins/
 
 El tema Bitcoins viene de larga data relativamente en las redes, y se de esto desde que la moneda virtual valía 6 dolares (hoy en casi 233). No voy a entrar en detalle de que es, para que sirve etc. por favor googleen el termine y lean que hay información en abundancia.
 

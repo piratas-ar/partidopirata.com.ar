@@ -20,4 +20,4 @@ wppost_name: occupy-berlin-oracion-de-los-especuladores
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2156/desde-potsdam-alemania-sobre-los-indignados-en-ese-pais-podcast">Acá charlábamos con Maga que nos comentaba como está la ocupación en Berlín.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2156/desde-potsdam-alemania-sobre-los-indignados-en-ese-pais-podcast">Acá charlábamos con Maga que nos comentaba como está la ocupación en Berlín.</a></strong></p>

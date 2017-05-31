@@ -10,8 +10,8 @@ tags:
 - distopia
 - megaupload
 - tito-cossa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
 wppost_name: tito-cossa-y-la-disutopia-de-internet
 ---
 

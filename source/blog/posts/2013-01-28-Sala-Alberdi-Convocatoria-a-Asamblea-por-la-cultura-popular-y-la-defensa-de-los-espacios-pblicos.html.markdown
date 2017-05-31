@@ -9,8 +9,8 @@ tags:
 - centro-cultural-general-san-martin
 - mauricio-macri
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
 wppost_name: sala-alberdi-convocatoria-a-asamblea-por-la-cultura-popular-y-la-defensa-de-los-espacios-publicos
 ---
 

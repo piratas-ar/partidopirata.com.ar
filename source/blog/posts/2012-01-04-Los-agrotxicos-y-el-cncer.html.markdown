@@ -11,8 +11,8 @@ tags:
 - glifosato
 - monsanto
 - soja
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto-150x150.jpg
 wppost_name: los-agrotoxicos-y-el-cancer
 ---
 
@@ -31,4 +31,4 @@ LAS COSAS DEBERÍAN SER EXACTAMENTE AL REVÉS. Pero, claro, eso atentaría contr
 
 Si se quiere saber más acerca del tradicional método de Monsanto para obtener grandes ganancias gracias a sus trapisondas (el glifosato no es el primer caso), les sugeriría <a href="http://www.megaupload.com/?d=EWG5MK17" target="_blank">ver el documental "El mundo según Monsanto"</a>.
 
-<a href="http://www.megaupload.com/?d=EWG5MK17" title="Descargar"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto.jpg" alt="el mundo segun monsanto" width="600" height="274" class="aligncenter size-full wp-image-2673" /></a>
+<a href="http://www.megaupload.com/?d=EWG5MK17" title="Descargar"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/01/monsanto.jpg" alt="el mundo segun monsanto" width="600" height="274" class="aligncenter size-full wp-image-2673" /></a>

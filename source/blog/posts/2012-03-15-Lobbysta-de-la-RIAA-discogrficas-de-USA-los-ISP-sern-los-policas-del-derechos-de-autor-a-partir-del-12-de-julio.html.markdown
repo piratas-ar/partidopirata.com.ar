@@ -9,8 +9,8 @@ tags:
 - policias-del-copyright
 - proveedores-de-internet
 - riaa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: lobbysta-de-la-riaa-discograficas-de-usa-los-isp-seran-los-policias-del-derechos-de-autor-a-partir-del-12-de-julio
 ---
 
@@ -44,4 +44,4 @@ Se equivocaron, por supuesto.<a href="http://news.cnet.com/8301-31921_3-57369739
 
 <hr />
 <p style="text-align: center;"><strong>Estemos atentos, esta <em>solución</em> puede ser que sea la que más les guste a nuestros diputados y senadores (además de SADAIC, CAPIF, ARGENTORES y otros...)</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3643/planificacion-de-castigos-a-usuarios-de-bittorrent-genera-protestas-proveedores-de-internet-como-policias-del-copyright">La medida ya está generando protestas en EE.UU.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3643/planificacion-de-castigos-a-usuarios-de-bittorrent-genera-protestas-proveedores-de-internet-como-policias-del-copyright">La medida ya está generando protestas en EE.UU.</a></strong></p>

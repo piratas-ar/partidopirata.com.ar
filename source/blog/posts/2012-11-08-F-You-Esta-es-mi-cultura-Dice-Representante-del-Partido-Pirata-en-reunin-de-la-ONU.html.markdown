@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - foro-de-gobernanza-de-internet
 - partido-pirata-sueco
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/1120b9d4b9123caaea837d20f18024ab_reasonably_small.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/1120b9d4b9123caaea837d20f18024ab_reasonably_small-115x115.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/1120b9d4b9123caaea837d20f18024ab_reasonably_small.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/1120b9d4b9123caaea837d20f18024ab_reasonably_small-115x115.jpeg
 wppost_name: f-you-esta-es-mi-cultura-dice-representante-del-partido-pirata-en-reunion-de-la-onu
 ---
 

@@ -10,8 +10,8 @@ tags:
 - pgp
 - seguridad
 - seguridad-2
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/chile-comments.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/chile-comments-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/chile-comments.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/chile-comments-150x150.jpg
 wppost_name: comentarios-de-chile
 ---
 

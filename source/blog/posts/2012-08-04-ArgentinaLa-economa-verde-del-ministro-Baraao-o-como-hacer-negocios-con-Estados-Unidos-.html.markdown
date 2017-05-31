@@ -9,8 +9,8 @@ tags:
 - matrizur
 - patentes
 - patentes-de-semillas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: argentinala-economia-verde-del-ministro-baranao-o-como-hacer-negocios-con-estados-unidos
 ---
 

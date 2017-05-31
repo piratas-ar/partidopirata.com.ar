@@ -10,8 +10,8 @@ tags:
 - innovar
 - libertad
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/mid-Eben_Moglen_-_From_the_birth_of_printing_to_industrial_culture_the_root_of_copyright.ogv.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/mid-Eben_Moglen_-_From_the_birth_of_printing_to_industrial_culture_the_root_of_copyright.ogv-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/mid-Eben_Moglen_-_From_the_birth_of_printing_to_industrial_culture_the_root_of_copyright.ogv.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/mid-Eben_Moglen_-_From_the_birth_of_printing_to_industrial_culture_the_root_of_copyright.ogv-150x150.jpg
 wppost_name: eben-moglen-innovacion-en-la-austeridad
 ---
 

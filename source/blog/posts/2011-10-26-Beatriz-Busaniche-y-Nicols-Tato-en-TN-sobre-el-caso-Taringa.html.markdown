@@ -8,8 +8,8 @@ tags:
 - taringa
 - tn
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa-115x115.jpg
 wppost_name: beatriz-busaniche-y-nicolas-tato-en-tn-sobre-el-caso-taringa
 ---
 
@@ -23,5 +23,5 @@ Emitido el 25 de octubre.
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg"><img class="size-full wp-image-1019" title="taringa" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg" alt="" width="120" height="120" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg"><img class="size-full wp-image-1019" title="taringa" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg" alt="" width="120" height="120" /></a>
 

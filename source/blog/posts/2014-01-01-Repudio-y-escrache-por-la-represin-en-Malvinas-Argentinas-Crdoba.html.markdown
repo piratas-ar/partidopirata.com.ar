@@ -10,8 +10,8 @@ tags:
 - monsanto
 - represion
 - soja
-image: http://partidopirata.com.ar/wp-content/uploads/2014/01/represion-en-malvinas.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/01/represion-en-malvinas-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2014/01/represion-en-malvinas.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/01/represion-en-malvinas-150x150.png
 wppost_name: repudio-y-escrache-por-la-represion-en-malvinas-argentinas-cordoba
 ---
 

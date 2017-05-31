@@ -7,12 +7,12 @@ tags:
 - negocios-sin-copyright
 - radio
 - radio-2
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/logo_superior_verde.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/logo_superior_verde.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/logo_superior_verde.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/logo_superior_verde.gif
 wppost_name: podcast-creatividad-y-negocios-sin-copyright-manzana-mecanica
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/logo_superior_verde.gif"><img class="aligncenter size-medium wp-image-1605" title="logo_superior_verde" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/logo_superior_verde-300x54.gif" alt="" width="300" height="54" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/logo_superior_verde.gif"><img class="aligncenter size-medium wp-image-1605" title="logo_superior_verde" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/logo_superior_verde-300x54.gif" alt="" width="300" height="54" /></a>
 <div>
 
 La información es cada vez más valiosa, pero también más abundante. La abundancia de información ha contribuido a nuestro progreso económico, pero ciertamente la venta de la información por sí sola no está resultando ser una forma sostenible de ganar dinero.

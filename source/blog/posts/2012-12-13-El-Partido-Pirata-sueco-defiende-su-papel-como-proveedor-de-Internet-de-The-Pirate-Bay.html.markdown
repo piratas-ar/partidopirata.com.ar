@@ -13,8 +13,8 @@ tags:
 - suecia
 - the-pirate-bay
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
 wppost_name: el-partido-pirata-sueco-defiende-su-papel-como-proveedor-de-internet-de-the-pirate-bay
 ---
 
@@ -22,7 +22,7 @@ wppost_name: el-partido-pirata-sueco-defiende-su-papel-como-proveedor-de-interne
 
 No es habitual para algunos concluir que el Partido Pirata y The Pirate Bay son uno y la misma cosa. Pero mientras que los ideales pueden ser compartidos, con el primero saltando con frecuencia a la defensa de este último, no existe una conexión directa. Sin embargo, el Partido Pirata sueco es el proveedor de servicios de Internet de The Pirate Bay , algo que varios cineastas están diciendo que es ilegal. La líder del Partido Anna Troberg es desafiante y dice que no hay nada ilegal en prestar un servicio postal digital.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
 
 El domingo, los siete directores y productores de cine unificaron su discurso a través de un artículo publicado en <a href="http://www.svd.se/opinion/brannpunkt/lat-inte-piraterna-fa-uppkoppling_7739206.svd">SvD.se</a>.. Bajo el título "No dejes que los piratas tengan conectividad".
 
@@ -58,6 +58,6 @@ Hasta el momento el Partido Pirata sueco parece estar contento en continuar con 
 
 En los últimos días el Partido Pirata del Reino Unido  se ha encontrado bajo presión por hacer funcionar un mero servicio de proxy de The Pirate Bay, algo muy lejano de proveer conectividad a Internet al siti.
 
-Después de <a href="http://torrentfreak.com/bpi-to-uk-pirate-party-shut-down-your-pirate-bay-proxy-121130/"> solicitarle al partido</a> acabar con el proxy y recibir una negativa, <a href="http://partidopirata.com.ar/7764/la-industria-de-la-musica-del-reino-unido-amenaza-con-demandar-al-partido-pirata-por-el-proxy-de-the-pirate-bay"> BPI ha indicado que le  seguirá una acción legal.</a>
+Después de <a href="http://torrentfreak.com/bpi-to-uk-pirate-party-shut-down-your-pirate-bay-proxy-121130/"> solicitarle al partido</a> acabar con el proxy y recibir una negativa, <a href="https://partidopirata.com.ar/7764/la-industria-de-la-musica-del-reino-unido-amenaza-con-demandar-al-partido-pirata-por-el-proxy-de-the-pirate-bay"> BPI ha indicado que le  seguirá una acción legal.</a>
 
 Si bien ha habido enfrentamientos entre la industria del derecho de  autor y los piratas desde hace algún tiempo, pocos habrían imaginado que la pelea iba a llegar a este tipo de enfrentamiento político.

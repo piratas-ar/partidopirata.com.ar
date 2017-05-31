@@ -11,14 +11,14 @@ tags:
 - juicios-en-masa
 - nueva-york
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address-150x150.png
 wppost_name: juez-una-direccion-ip-no-identifica-a-una-persona-o-a-un-pirata-de-bittorrent
 ---
 
 <strong><a href="http://torrentfreak.com/judge-an-ip-address-doesnt-identify-a-person-120503/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png"><img class="size-full wp-image-4325" title="ip-address" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png" alt="" width="225" height="153" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png"><img class="size-full wp-image-4325" title="ip-address" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/ip-address.png" alt="" width="225" height="153" /></a>
 
 
 Un fallo histórico en una de las muchas demandas en masa contra usuarios de BitTorrent en los EE.UU. ha sufrido un duro golpe en un, hasta el momento,  negocio lucrativo. Entre otras cosas, el juez de Nueva York, Gary Brown explica en gran detalle porqué una dirección IP no es evidencia suficiente para identificar a los infractores de derechos de autor.  De acuerdo con el Juez , esta falta de pruebas significa que muchos supuestos piratas usuarios de BitTorrent han sido acusado injustamente por los titulares de derechos de autor.
@@ -70,7 +70,7 @@ Aparte de ser una manera efectiva de cerrar todas las demandas en masa contra us
 <a style="margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block; text-decoration: underline;" title="View K-Beech - Order &amp;amp; Report &amp;amp; Recommendation (Ordered 5-1-12) on Scribd" href="http://www.scribd.com/doc/92215098">K-Beech - Order &amp;amp; Report &amp;amp; Recommendation (Ordered 5-1-12)</a><iframe id="doc_33146" src="http://www.scribd.com/embeds/92215098/content?start_page=1&amp;view_mode=list" frameborder="0" scrolling="no" width="100%" height="600" data-auto-height="true" data-aspect-ratio=""></iframe></center>&nbsp;
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">En este podcast con Eric Walter como oficial Hadopi en Francia le planteamos nuestras dudas sobre que una IP corresponde a una única identidad.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">En este podcast con Eric Walter como oficial Hadopi en Francia le planteamos nuestras dudas sobre que una IP corresponde a una única identidad.</a></strong></p>
 
 
 <hr />

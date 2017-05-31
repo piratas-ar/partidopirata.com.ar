@@ -5,8 +5,8 @@ tags:
 - eventos
 - partido-pirata
 - reunion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcción_1982.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcci%C3%B3n_1982-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcción_1982.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcci%C3%B3n_1982-150x150.jpg
 wppost_name: reunion-mensual-sab-15pm-biblioteca-naciona
 ---
 

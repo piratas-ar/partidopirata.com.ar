@@ -9,14 +9,14 @@ tags:
 - mica
 - secretaria-de-cultura
 - teddy-bautista
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
 wppost_name: "%c2%a1todos-al-mica-a-hacernos-escuchar"
 ---
 
 <span style="font-size: large;"><strong><a href="http://www.derechoaleer.org/2011/06/todos-al-mica-hacernos-escuchar.html" target="_blank">Fuente Derecho a Leer.</a></strong></span>
 
-<strong><a href="http://partidopirata.com.ar/1103/tres-anos-preso-por-compartir-%C2%BFcomo-en-el-mica-te-lo-ensenan-gracias-coscia" target="_blank">Les   recomiendo que lean lo que hizo la IFPI en Escocia condenando a una   enfermera al pago de 90 mil dólares por compartir algo a través de redes   P2P</a> Eso es lo que nos vienen a enseñar?</strong>
+<strong><a href="https://partidopirata.com.ar/1103/tres-anos-preso-por-compartir-%C2%BFcomo-en-el-mica-te-lo-ensenan-gracias-coscia" target="_blank">Les   recomiendo que lean lo que hizo la IFPI en Escocia condenando a una   enfermera al pago de 90 mil dólares por compartir algo a través de redes   P2P</a> Eso es lo que nos vienen a enseñar?</strong>
 <h3>Este Jueves, Viernes y Sábado hay que ir a hacer el aguante al MICA!</h3>
 En el marco del <a href="http://www.mica.gob.ar/">MICA</a> (Mercado de las Industrias Culturales Argentinas), se dan varias actividades donde también podrán escucharse <strong>voces alternativas</strong> a los <a href="http://www.derechoaleer.org/2011/05/de-la-alta-y-de-la-buena.html">extremistas de la Propiedad Intelectual e impulsores del canon digital en Argentina</a>, durante el Jueves, Viernes y Sábado. <a href="http://www.bea.org.ar/2011/05/agenda-de-la-semana-para-mica-2011/"><strong>Bea</strong></a> dará algunas charlas y participará el Sábado de un seminario sobre derecho de autor junto a <strong>Joost Smiers</strong> (el autor de "Un Mundo sin Copyright"). Mañana, participarán Scann, Matías de <a href="http://blog.redpanal.org/2011/06/01/grabar-producir-y-lanzar-un-disco-en-72-horas/">Redpanal</a> y Pato Lorente de <a href="http://www.wikimedia.org.ar/node/34">Wikimedia Argentina</a>, del evento paralelo <a href="http://unconvention.com.ar/">"Un-Convention"</a>.
 
@@ -39,7 +39,7 @@ Mañana <strong>Jueves 2</strong> a las 15.30 hs no hay que faltar a la charla <
 <ul>
 	<li>Viernes 3 - Sala 2 de 10:00 a 11:30 <strong>[ACA NOS VIENEN A IMPONER EL CANON!!]</strong> <q>Propiedad intelectual en Europa. Estado de la cuestión y perspectivas para América Latina.</q>, Conferencia Magistral a cargo de <strong>Eduardo Bautista</strong> (España, Presidente del Consejo de Dirección de la Sociedad General de Autores y Editores)</li>
 &nbsp;
-	<li> Viernes 3 - Sala 3 de 11:00 a 13:00, (se superpone con al anterior) <strong>[ACA NOS VIENEN A IMPONER LA VIGILANCIA EN LOS ISP!!]</strong> Conferencia Magistral a cargo de <strong>Shira Perlmuter</strong> (Reino Unido, Vice-Presidente Ejecutiva IFPI, International Federation of the Phonographic Industry)<strong><a href="http://partidopirata.com.ar/1103/tres-anos-preso-por-compartir-%C2%BFcomo-en-el-mica-te-lo-ensenan-gracias-coscia" target="_blank">Les  recomiendo que lean lo que hizo la IFPI en Escocia condenando a una  enfermera al pago de 90 mil dólares por compartir algo a través de redes  P2P</a> Eso es lo que nos vienen a enseñar?</strong><strong> </strong></li>
+	<li> Viernes 3 - Sala 3 de 11:00 a 13:00, (se superpone con al anterior) <strong>[ACA NOS VIENEN A IMPONER LA VIGILANCIA EN LOS ISP!!]</strong> Conferencia Magistral a cargo de <strong>Shira Perlmuter</strong> (Reino Unido, Vice-Presidente Ejecutiva IFPI, International Federation of the Phonographic Industry)<strong><a href="https://partidopirata.com.ar/1103/tres-anos-preso-por-compartir-%C2%BFcomo-en-el-mica-te-lo-ensenan-gracias-coscia" target="_blank">Les  recomiendo que lean lo que hizo la IFPI en Escocia condenando a una  enfermera al pago de 90 mil dólares por compartir algo a través de redes  P2P</a> Eso es lo que nos vienen a enseñar?</strong><strong> </strong></li>
 	<li><strong> </strong>Viernes 3 - Sala 2 de 14:00 a 16:00 <strong>Canon digital. ¿Quién, cómo, dónde?</strong> [<strong>CANON II!!</strong>]
 Mesa: Xavier Marce (España, Licenciado en Ciencias económicas, estudios
 de Derecho y ciencias de la educación, vicepresidente de la empresa

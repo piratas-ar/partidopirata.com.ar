@@ -9,14 +9,14 @@ tags:
 - prelinger-archives
 - remix
 - tatiana-de-mello-dias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/fmaprelinger.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/fmaprelinger-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/fmaprelinger.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/fmaprelinger-150x150.jpg
 wppost_name: abierto-el-concurso-de-remixes-con-materiales-libres-si-quieren-participar
 ---
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/novas-musicas-velhos-videos-e-um-festival-de-remix/" target="_blank">Por Tatiana de Mello Dias</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/fmaprelinger.jpg"><img class="aligncenter size-full wp-image-6878" title="fmaprelinger" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/fmaprelinger.jpg" alt="" width="443" height="236" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/fmaprelinger.jpg"><img class="aligncenter size-full wp-image-6878" title="fmaprelinger" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/fmaprelinger.jpg" alt="" width="443" height="236" /></a>
 
 Free Music Archive lanzó un concurso de remixes asociado con la colección del Prelinger Archives. La idea es que las personas creen obras usando las miles de canciones del Archive y los increíbles archivos en video del acervo Prelinger, que incluyen videos amateurs, comerciales y educativos estadounidenses.
 
@@ -26,7 +26,7 @@ FMU es un archivo de música libre creado y mantenido por la radio indie WFMU. <
 
 Y Prelinger Archives tiene una colección de 60 mil videos que retratan el estilo de vida estadounidense a lo largo del siglo 20. El archivo, todo en dominio público, es fruto de un extenso trabajo de recolecció y digitalización que empezó en 1983. Hay videos sobre la historia y geografia de los EUA, turismo, arquitectura, historia de la industria, comportamiento, publicidad y medios, entre muchos otros temas.
 
-Los mejores trabajos serán elegidos por un jurado formado por Rick Prelinger, fundador de Prelinger Archives, el músico y cineasta Paul D. Miller (el DJ Spooky) y<a href="http://partidopirata.com.ar/6671/todos-plagiamos-inclusive-bob-dylan-kirby-ferguson"> Kirby Ferguson,</a> director de la película <em>Everything is a Remix</em>, entre otras figuras de la escena de cultura libre estadounidense.
+Los mejores trabajos serán elegidos por un jurado formado por Rick Prelinger, fundador de Prelinger Archives, el músico y cineasta Paul D. Miller (el DJ Spooky) y<a href="https://partidopirata.com.ar/6671/todos-plagiamos-inclusive-bob-dylan-kirby-ferguson"> Kirby Ferguson,</a> director de la película <em>Everything is a Remix</em>, entre otras figuras de la escena de cultura libre estadounidense.
 
 Eles selecionarán trabajos como este:
 

@@ -12,8 +12,8 @@ tags:
 - radio-2
 - resistencia
 - resistencia-a-la-megamineria
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/chart4-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/chart4-115x115.png
 wppost_name: aprendiendo-de-chubut-resistamos-a-la-entrega-de-la-ciudad-a-irsa
 ---
 
@@ -29,7 +29,7 @@ Escuchemos lo que está pasando en Chubut y aprendamos ya que lo que quieren hac
 <a href="http://www.ivoox.com/formas-organizarse-para-resistir-ejemplo-esquel_md_1648744_1.mp3" target="_blank">Si quieren descargar el archivo de audio.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/formas-organizarse-para-resistir-ejemplo-esquel-audios-mp3_rf_1648744_1.html" target="_blank">en este link.</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png"><img class="size-full wp-image-7850" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png"><img class="size-full wp-image-7850" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 Hay que resistir, luchar, con inteligencia, nuestros <em>"representantes"</em> sólo se <em>"representan"</em> a ellos mismos o al poder económico de turno.

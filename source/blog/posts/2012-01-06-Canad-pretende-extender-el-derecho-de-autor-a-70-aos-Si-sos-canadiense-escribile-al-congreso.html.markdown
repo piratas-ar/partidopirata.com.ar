@@ -8,12 +8,12 @@ tags:
 - dominio-publico
 - extension-de-los-derechos-de-autor
 - trans-pacific
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/copyfight_canada2.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/copyfight_canada2-150x150.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/copyfight_canada2.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/copyfight_canada2-150x150.gif
 wppost_name: canada-pretende-extender-el-derecho-de-autor-a-70-anos-si-sos-canadiense-escribile-al-congreso
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/copyfight_canada2.gif"><img class="aligncenter size-full wp-image-2737" title="copyfight_canada2" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/copyfight_canada2.gif" alt="" width="562" height="318" /></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/copyfight_canada2.gif"><img class="aligncenter size-full wp-image-2737" title="copyfight_canada2" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/copyfight_canada2.gif" alt="" width="562" height="318" /></a>
 <strong><a href="http://www.derechoaleer.org/2009/07/copyfight-en-canada.html" target="_blank">Fuente de la Imagen: Derecho a Leer.</a></strong></p>
 <p style="text-align: left;"><strong><a href="http://boingboing.net/2012/01/06/canadians-tell-parliament-to.html?utm_source=dlvr.it&amp;utm_medium=twitter" target="_blank">Fuente Boing Boing.</a></strong></p>
 Canadá celebró el Año Nuevo de este año dando la bienvenida a la autores como Ernest Hemingway y Carl Jung en el dominio público así como los países europeos estaban celebrando la llegada de James Joyce y Virginia Woolf, 20 años después de ellos haber entrado en el dominio público canadiense. El plazo de Canadá para que se venzan  los derechos de autor cumple con el estándar internacional de la vida del autor más 50 años, lo que efectivamente se ha convertido en una ventaja competitiva cuando es comparado con los Estados Unidos, Australia y Europa, [Argentina también es vida + 70 años ] los que efectivamente tienen términos de copyright que se extienden a otros 20 años (sin ninguna prueba de otros beneficios públicos).
@@ -33,4 +33,4 @@ Sino, como con la Ley Antiterrorista Cristina dirá: Para permanecer en el G20 o
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3444/nuevo-proyecto-de-ley-derecho-de-autor-en-canada-lo-bueno-lo-malo-y-lo-dudoso">La propuesta de modificación del Copyright en Canadá avanza.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3444/nuevo-proyecto-de-ley-derecho-de-autor-en-canada-lo-bueno-lo-malo-y-lo-dudoso">La propuesta de modificación del Copyright en Canadá avanza.</a></strong></p>

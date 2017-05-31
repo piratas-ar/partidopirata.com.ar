@@ -9,12 +9,12 @@ tags:
 - hermano-vianna
 - juego-de-multitudes
 - modificaciones
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02-150x150.jpg
 wppost_name: juego-de-multitudes-por-hermano-vianna
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg"><img class="alignleft  wp-image-3116" title="Hermano Vianna" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg" alt="" width="222" height="272" /></a> <strong><a href="https://hermanovianna.wordpress.com/2012/02/25/jogo-de-multidao/" target="_blank">Fuente Blog de Hermano Vianna</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg"><img class="alignleft  wp-image-3116" title="Hermano Vianna" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg" alt="" width="222" height="272" /></a> <strong><a href="https://hermanovianna.wordpress.com/2012/02/25/jogo-de-multidao/" target="_blank">Fuente Blog de Hermano Vianna</a></strong>
 
 Texto publicado en mi columna del Cuaderno Segundo de Globo el 24/02/2012
 El carnaval pasó y continuo aqui con mi samba de una nota sóla sobre derecho de autor. Estoy empacado, tipo bloque “Se concentra más no sale”. Hasta ahora, después de tres textos, no salí de la introducción. Derecho de autor es un asunto complejo, tal vez el más importante para la producción cultural contemporánea. Por eso precisa ser debatido sin prisa. No hay respuestas hechas o fáciles para los desafios que la digitalización impone, de forma avasalladora, a la relación creadores/público/mercado/medios. Ninguna de las experimentaciones en curso parece indicar una solución duradera. Todavía vamos a tener que conversar mucho para llegar a nuevas herramientas jurídicas o modelos de negocio que aprovechen lo mejor de la situación actual. <a href="http://hermanovianna.wordpres.com/2011/04/06/abundancia/">Ya lo repeti varias veces</a>: dejamos la economía de la escasez, lo que es genial. Pero no descubrimos como vivir com tanta abundancia creativa.

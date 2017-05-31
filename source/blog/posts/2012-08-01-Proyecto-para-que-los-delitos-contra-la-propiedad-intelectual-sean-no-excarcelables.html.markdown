@@ -11,8 +11,8 @@ tags:
 - salvador-cabral
 - sandra-d-gimenez
 - senadores
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/carcel.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/carcel-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/carcel.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/carcel-150x150.jpg
 wppost_name: proyecto-para-que-los-delitos-contra-la-propiedad-intelectual-sean-no-excarcelables
 ---
 

@@ -11,8 +11,8 @@ tags:
 - sibios
 - sistema-federal-de-datos-biometricos
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/granhermano-150x150.jpg
 wppost_name: sistema-federal-de-identificacion-biometrica-sibios-pluralidad-activada
 ---
 
@@ -55,6 +55,6 @@ Algo que dicen en el video institucional:
 <strong>Estamos siendo vigilados!!! NO CUIDADOS!!!</strong>
 <p style="text-align: left;"><strong>RESISTAMOS, por lo menos protestemos cuando nos quieran tomar nuestros datos biométricos, hagamos algo, luego será demasiado tarde. El 76 no es tan lejano en la historia!</strong></p>
 <p style="text-align: center;"><strong>
-<a href="http://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">El escrito para presentar cuando nos solicitan nuestros datos biométricos y la charla que mantuvimos con Ramiro sobre toma compulsiva de datos biométricos</a>
+<a href="https://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">El escrito para presentar cuando nos solicitan nuestros datos biométricos y la charla que mantuvimos con Ramiro sobre toma compulsiva de datos biométricos</a>
 </strong></p>
 &nbsp;

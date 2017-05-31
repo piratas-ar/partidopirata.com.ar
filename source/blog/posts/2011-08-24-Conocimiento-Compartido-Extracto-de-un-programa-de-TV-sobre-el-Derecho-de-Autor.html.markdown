@@ -12,8 +12,8 @@ tags:
 - filo
 - filosofia-y-letras
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/filo-cronicas.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/filo-cronicas.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/filo-cronicas.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/filo-cronicas.png
 wppost_name: conocimiento-compartido-extracto-de-un-programa-de-tv-sobre-el-derecho-de-autor
 ---
 

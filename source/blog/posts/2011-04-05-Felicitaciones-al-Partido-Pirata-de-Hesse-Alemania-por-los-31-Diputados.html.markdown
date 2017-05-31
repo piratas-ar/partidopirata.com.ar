@@ -7,12 +7,12 @@ tags:
 - hesse
 - hessen
 - divulgacion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/logo.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/logo.png
 wppost_name: '676'
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/logo.png"><img class="alignleft size-full wp-image-677" title="logo" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/logo.png" alt="Logo del Partido Pirata de Hessen -Alemania" width="225" height="91" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/logo.png"><img class="alignleft size-full wp-image-677" title="logo" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/logo.png" alt="Logo del Partido Pirata de Hessen -Alemania" width="225" height="91" /></a>
 Gregory Engels
 Coordinador Internacional
 Partido Pirata Alemán:

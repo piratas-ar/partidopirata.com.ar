@@ -9,8 +9,8 @@ tags:
 - subtitulos
 - subtitulos-automaticos
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/YouTube.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/YouTube-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/YouTube.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/YouTube-150x150.jpg
 wppost_name: por-que-youtube-no-le-hace-los-subtitulos-automaticos-a-los-programas-de-aljazeera
 ---
 

@@ -10,14 +10,14 @@ tags:
 - marco-civil
 - neutralidad
 - neutralidad-de-la-red
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/marcocivil-150x150.jpg
 wppost_name: brasil-sobre-el-marco-civil-de-internet
 ---
 
 El Marco Civil de Internet en Brasil es una especie de Constitución de Internet. El documento que establece los derechos y deberes de ciudadanos, proveedores de Internet, empresas y gobierno.
 <ul>
-	<li><strong> <a href="http://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" target="_blank">Acá las <em>preguntas y respuestas</em> </a> sobre el Marco Civil.</strong></li>
+	<li><strong> <a href="https://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" target="_blank">Acá las <em>preguntas y respuestas</em> </a> sobre el Marco Civil.</strong></li>
 	<li><strong><a href="../5875/sobre-el-marco-civil-de-internet-programa-de-la-tv-de-la-universidad-de-rio-grande-do-sul" rel="external nofollow">Sobre el Marco Civil de Internet, programa de la TV de la Universidad de Río Grande do Sul | Partido Pirata</a></strong></li>
 </ul>
 Una editorial del diario "A Folha de São Paulo" sobre el Marco Civil y los problemas de su tratamiento en Brasil:

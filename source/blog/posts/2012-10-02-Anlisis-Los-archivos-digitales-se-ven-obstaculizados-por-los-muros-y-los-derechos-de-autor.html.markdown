@@ -10,8 +10,8 @@ tags:
 - memoria-digital
 - murallas
 - ronaldo-lemos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/images-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/images-150x150.jpeg
 wppost_name: analisis-los-archivos-digitales-se-ven-obstaculizados-por-los-muros-y-los-derechos-de-autor
 ---
 

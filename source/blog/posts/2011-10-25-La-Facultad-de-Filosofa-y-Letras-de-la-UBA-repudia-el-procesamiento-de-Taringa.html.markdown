@@ -53,5 +53,5 @@ El Consejo Directivo de la <strong>Facultad de Filosofía y Letras de la Univers
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg"><img class="size-full wp-image-1019" title="taringa" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg" alt="" width="120" height="120" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg"><img class="size-full wp-image-1019" title="taringa" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg" alt="" width="120" height="120" /></a>
 

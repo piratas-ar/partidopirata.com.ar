@@ -10,12 +10,12 @@ tags:
 - mogis
 - pornografia-infantil
 - senadora-fellner
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350-150x150.jpg
 wppost_name: dos-videos-para-el-posible-debate-ante-el-proyecto-de-la-senadora-fellner-de-bloqueos-y-filtros-en-internet
 ---
 
-Para debatir el proeycto de la Senadora Fellner de crear <strong><a href="http://partidopirata.com.ar/5449/en-el-nombre-del-nino-otra-vez-la-historia-de-cuidar-a-los-chicos-para-censurar">filtros en Internet para <em>frenar</em> la pornografía infantil</a></strong> dos videos de Christian Bahls de la <strong><a href="http://mogis-verein.de/" target="_blank">organización alemana Mogis</a></strong>:
+Para debatir el proeycto de la Senadora Fellner de crear <strong><a href="https://partidopirata.com.ar/5449/en-el-nombre-del-nino-otra-vez-la-historia-de-cuidar-a-los-chicos-para-censurar">filtros en Internet para <em>frenar</em> la pornografía infantil</a></strong> dos videos de Christian Bahls de la <strong><a href="http://mogis-verein.de/" target="_blank">organización alemana Mogis</a></strong>:
 
 <strong>Sobre Mogis:</strong>
 

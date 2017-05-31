@@ -11,8 +11,8 @@ tags:
 - pllaguicidas
 - union-carbide
 - uso-de-plaguicids
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/fueramonsanto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/fueramonsanto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/fueramonsanto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/fueramonsanto-150x150.jpg
 wppost_name: 3-de-diciembre-dia-mundial-por-el-no-uso-de-plaguicidas
 ---
 

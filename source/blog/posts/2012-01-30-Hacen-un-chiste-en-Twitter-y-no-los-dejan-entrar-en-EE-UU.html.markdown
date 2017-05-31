@@ -8,12 +8,12 @@ tags:
 - estados-unidos
 - gran-bretana
 - twitter
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/1327943191910britanicosdn.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/1327943191910britanicosdn-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/1327943191910britanicosdn.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/1327943191910britanicosdn-150x150.jpg
 wppost_name: hacen-un-chiste-en-twitter-y-no-los-dejan-entrar-en-ee-uu
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/1327943191910britanicosdn.jpg"><img class="aligncenter size-full wp-image-3018" title="Leigh Van Bryan y Emily Bunting." src="http://partidopirata.com.ar/wp-content/uploads/2012/01/1327943191910britanicosdn.jpg" alt="No pudieron entrar en USA por un twitt" width="400" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/1327943191910britanicosdn.jpg"><img class="aligncenter size-full wp-image-3018" title="Leigh Van Bryan y Emily Bunting." src="https://partidopirata.com.ar/wp-content/uploads/2012/01/1327943191910britanicosdn.jpg" alt="No pudieron entrar en USA por un twitt" width="400" height="300" /></a>
 
 <strong><a href="http://www.publico.es/internacional/419496/eeuu-niega-la-entrada-a-dos-britanicos-por-bromear-en-twitter" target="_blank">Fuente Público.es</a></strong>
 

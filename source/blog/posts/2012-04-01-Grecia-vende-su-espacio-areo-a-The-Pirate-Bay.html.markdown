@@ -8,14 +8,14 @@ tags:
 - primero-de-abril
 - the-pirate-bay
 - uso-del-espacio-aereo
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: grecia-vende-su-espacio-aereo-a-the-pirate-bay
 ---
 
 <a href="https://thepiratebay.se/blog/211" target="_blank">Fuente The Pirate Bay</a>
 
-<strong><a href="http://partidopirata.com.ar/3567/piratas-en-el-espacio-the-pirate-bay-y-sus-servidores-aereos">El proyecto de servidores aéreos de The Pirate Bay</a></strong>
+<strong><a href="https://partidopirata.com.ar/3567/piratas-en-el-espacio-the-pirate-bay-y-sus-servidores-aereos">El proyecto de servidores aéreos de The Pirate Bay</a></strong>
 
 PARA SU PUBLICACIÓN INMEDIATA.
 
@@ -27,7 +27,7 @@ Por loss [pérdida] no se están refiriendo al estado de las finanzas del país 
 
 El acuerdo le otorga a TPB una licencia de 5 años de uso y redistribuye el uso del espacio aéreo a 8000-9000 pies, así como el uso ilimitado del espacio de radio entre 2.350 a 24.150 MHz. Debido a la situación financiera de ambas partes TPB pagará  los costos con productos digitales, necesarios para los ciudadanos de Grecia.
 <p style="text-align: center;"><a href="https://thepiratebay.se/blog/211" target="_blank">Fuente The Pirate Bay</a>
-<strong><a href="http://partidopirata.com.ar/3567/piratas-en-el-espacio-the-pirate-bay-y-sus-servidores-aereos">El proyecto de servidores aéreos de The Pirate Bay</a></strong></p>
+<strong><a href="https://partidopirata.com.ar/3567/piratas-en-el-espacio-the-pirate-bay-y-sus-servidores-aereos">El proyecto de servidores aéreos de The Pirate Bay</a></strong></p>
 
 
 <hr />

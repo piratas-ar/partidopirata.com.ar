@@ -8,8 +8,8 @@ tags:
 - divulgacion
 - radio-2
 - rebelde-stereotipos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/rebeldesstereotipos.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/rebeldesstereotipos.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/rebeldesstereotipos.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/rebeldesstereotipos.jpg
 wppost_name: julio-raffo-en-rebeldes-stereotipos-analizando-lo-que-dijo-jorge-coscia
 ---
 
@@ -36,6 +36,6 @@ Si quieren escucharlo:
 
 <ul>
 	<li><strong><a href="http://rebeldes.org.ar/2011/05/08/programa-07-de-mayo-de-2011/" target="_blank">Si quieren escuchar o descargar todo el programa del 7 de mayo.</a></strong></li>
-	<li><strong> <em><a href="http://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor"> Jorge Coscia hablando sobre derecho de autor.</a></em></strong></li>
-	<li><strong><em><a href="http://partidopirata.com.ar/848/quinto-podcast-charlando-con-julio-raffo">Nuestra Charla con Julio Raffo.</a> </em></strong></li>
+	<li><strong> <em><a href="https://partidopirata.com.ar/872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor"> Jorge Coscia hablando sobre derecho de autor.</a></em></strong></li>
+	<li><strong><em><a href="https://partidopirata.com.ar/848/quinto-podcast-charlando-con-julio-raffo">Nuestra Charla con Julio Raffo.</a> </em></strong></li>
 </ul>

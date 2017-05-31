@@ -11,8 +11,8 @@ tags:
 - hadopi
 - torrents
 - vigilar-los-p2p
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: estados-unidos-el-centro-de-vigilancia-de-intercambio-de-bittorrents-se-prepara-para-castigar-a-los-piratas
 ---
 
@@ -63,8 +63,8 @@ El tiempo dirá quién tiene la razón.
 
 <hr />
 <p style="text-align: center;">El sistema es muy parecido a HADOPI implementado en Francia.</p>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá entrevistamos a un ejecutivo de HADOPI en Francia sobre qué es ese sistema, es un podcast.</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá entrevistamos a un ejecutivo de HADOPI en Francia sobre qué es ese sistema, es un podcast.</a></strong></p>
 <p style="text-align: center;">Estemos atentos, organicémonos porque no sería extraño que quisieran implementar algo así en la Argentina.</p>
 <p style="text-align: center;">En algún momento Deborah Giorgi dijo que algo tipo HADOPI le parecía bueno para el país.</p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/capif003.jpg"><img class="aligncenter size-full wp-image-3757" title="capif003" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/capif003.jpg" alt="" width="400" height="86" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/capif003.jpg"><img class="aligncenter size-full wp-image-3757" title="capif003" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/capif003.jpg" alt="" width="400" height="86" /></a></p>
 <p style="text-align: center;"><strong><a href="http://www.minprod.gov.ar/comunicados/discografica_21-04-09.pdf" target="_blank">De un comunicado del Ministerio de la Producción</a> es un archivo pdf.</strong></p>

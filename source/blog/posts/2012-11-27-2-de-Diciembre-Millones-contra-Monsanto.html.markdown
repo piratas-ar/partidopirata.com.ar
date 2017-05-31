@@ -6,12 +6,12 @@ tags:
 - millones-contra-monsanto
 - monsanto
 - plaza-san-martin
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/Prototipo-Fuera-monsanto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/Prototipo-Fuera-monsanto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/Prototipo-Fuera-monsanto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/Prototipo-Fuera-monsanto-150x150.jpg
 wppost_name: 2-de-diciembre-millones-contra-monsanto
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/Prototipo-Fuera-monsanto.jpg"><img class="aligncenter size-large wp-image-7517" title="Prototipo Fuera monsanto" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/Prototipo-Fuera-monsanto-1024x724.jpg" alt="" width="620" height="438" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/Prototipo-Fuera-monsanto.jpg"><img class="aligncenter size-large wp-image-7517" title="Prototipo Fuera monsanto" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/Prototipo-Fuera-monsanto-1024x724.jpg" alt="" width="620" height="438" /></a>
 <p style="text-align: center;"><strong>ESTE 2 de DICIEMBRE #2D le decimos NO a monsanto, SI a la vida en la plaza San Martin (retiro)</strong> <strong>y en varias ciudades de todo el país! <a href="https://www.facebook.com/pages/Millones-contra-Monsanto/290999004340502" target="_blank">Más información en el grupo en Facebook.</a></strong>
 <strong>Veni trae a tus amigos, que se sepa el monstruo que estan haciendo crecer</strong>
 <strong> Hagamos ruido que juntos podemos decirle FUERA MONSANTO!"</strong></p>

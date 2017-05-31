@@ -13,8 +13,8 @@ tags:
 - lawrence-lessig
 - reforma-a-la-ley-de-derechos-de-autor
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
 wppost_name: brasil-documental-la-cultura-es-nuestra-2011-a-cultura-e-nossa-2011
 ---
 
@@ -37,7 +37,7 @@ Sinopsis: Este documental/TCC aborda una fracción de la actual discusión en to
 	<li><strong><a href="https://vimeo.com/36816316" target="_blank">Si quieren verlo sin subtítulos o descargarlo sin subtítulos desde la cuenta en Vimeo del director.</a></strong></li>
 	<li><strong><a href="https://rapidshare.com/files/1518739003/lessig.srt" target="_blank">Si quieren descargar los subtítulos en español</a></strong></li>
 	<li><strong><a href="http://www.downloadhelper.net/update.php?from=4.9.8&amp;to=4.9.9" target="_blank">Si usan Firefox pueden descargar el video con la aplicación Download Helper</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/2730/brasil-marco-civil-de-internet-derechos-y-deberes-en-el-uso-de-internet">Sobre la Consulta Pública para reformar la ley de Derechos de Autor en Brasil, Podcast conuno de los coordinadores</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/2730/brasil-marco-civil-de-internet-derechos-y-deberes-en-el-uso-de-internet">Sobre la Consulta Pública para reformar la ley de Derechos de Autor en Brasil, Podcast conuno de los coordinadores</a></strong></li>
 	<li><strong><a href="https://twitter.com/#!/ygorp" target="_blank">Twitter del director del documental</a></strong></li>
 </ul>
 
@@ -69,7 +69,7 @@ Así como debés sospechar de la guerra extrema que nosotros exportamos con la e
 
 Uds. deben sospechar de todos ellos, pero después reflexionen sobre los valores que Creative Commons representan y si ellos se diferencian de los valores de este país y de esta tradición.
 <strong>Lawrence Lessig</strong>
-<strong><a href="http://partidopirata.com.ar/1691/las-predicciones-de-lawrence-entrevista-a-lawrence-lessig-creative-commons">Más en esta entrevista a Lawrence Lessig</a></strong>
+<strong><a href="https://partidopirata.com.ar/1691/las-predicciones-de-lawrence-entrevista-a-lawrence-lessig-creative-commons">Más en esta entrevista a Lawrence Lessig</a></strong>
 
 <hr />
 
@@ -84,7 +84,7 @@ Paulo Oliver
 Unión Brasileña de Escritores
 Alexandre Schneider
 Secretario Municipal de Educación de San Pablo.
-<strong>Es muy interesante lo que hizo el Secretario Municipal de Educación, él colocó todos los textos que se usan en las escuelas de la Ciudad de San Pablo con licencia Creative Commons, <a href="http://partidopirata.com.ar/1938/municipalidad-de-san-pablo-brasil-libera-el-uso-de-todo-su-material-didatico-a-traves-de-licencias-ccc" target="_blank">Acá más información.</a>
+<strong>Es muy interesante lo que hizo el Secretario Municipal de Educación, él colocó todos los textos que se usan en las escuelas de la Ciudad de San Pablo con licencia Creative Commons, <a href="https://partidopirata.com.ar/1938/municipalidad-de-san-pablo-brasil-libera-el-uso-de-todo-su-material-didatico-a-traves-de-licencias-ccc" target="_blank">Acá más información.</a>
 </strong>Sergio Lazzari
 Editorial Vozes.
 Amadeu Zoe

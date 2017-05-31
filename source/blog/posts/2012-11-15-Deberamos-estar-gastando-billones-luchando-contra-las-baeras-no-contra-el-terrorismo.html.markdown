@@ -7,8 +7,8 @@ tags:
 - noticias
 - rick-falkvinge
 - terrorismo
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/file00029073171-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/file00029073171-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/file00029073171-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/file00029073171-646x363-150x150.jpg
 wppost_name: deberiamos-estar-gastando-billones-luchando-contra-las-baneras-no-contra-el-terrorismo
 ---
 

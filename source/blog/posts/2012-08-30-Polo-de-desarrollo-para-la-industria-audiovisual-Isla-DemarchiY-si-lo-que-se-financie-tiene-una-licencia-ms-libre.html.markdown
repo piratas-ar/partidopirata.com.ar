@@ -13,8 +13,8 @@ tags:
 - obras-audiovisuales
 - subsidios
 - videos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000-150x150.jpg
 wppost_name: polo-de-desarrollo-para-la-industria-audiovisual-isla-demarchi-y-si-lo-que-se-financie-tenga-una-licencia-mas-libre
 ---
 

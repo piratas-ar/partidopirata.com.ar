@@ -12,12 +12,12 @@ tags:
 - pueblos-originarios
 - qom
 - violencia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz-150x150.jpg
 wppost_name: sigue-la-violencia-contra-los-qom
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz.jpg"><img class="size-medium wp-image-5132" title="Abelardo Diaz hijo de Félix Diaz qarashe de la comunidad Qom La primavera" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz-277x300.jpg" alt="" width="346" height="384" /></a> Abelardo Diaz, hijo de Félix Diaz, qarashe de la comunidad Qom La primavera
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz.jpg"><img class="size-medium wp-image-5132" title="Abelardo Diaz hijo de Félix Diaz qarashe de la comunidad Qom La primavera" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/Abelardo-Diaz-277x300.jpg" alt="" width="346" height="384" /></a> Abelardo Diaz, hijo de Félix Diaz, qarashe de la comunidad Qom La primavera
 
 
 

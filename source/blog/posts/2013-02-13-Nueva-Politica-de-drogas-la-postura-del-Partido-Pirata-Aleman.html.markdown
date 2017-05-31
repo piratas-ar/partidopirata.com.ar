@@ -7,8 +7,8 @@ tags:
 - partido-pirata-aleman
 - politica-de-drogas
 - prohibicion
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/1322931040_0.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/1322931040_0-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/1322931040_0.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/1322931040_0-150x150.jpg
 wppost_name: nueva-politica-de-drogas-la-postura-del-partido-pirata-aleman
 ---
 

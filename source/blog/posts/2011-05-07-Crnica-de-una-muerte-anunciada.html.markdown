@@ -10,8 +10,8 @@ tags:
 - libros-digitales
 - divulgacion
 - precios
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/livro-cadeado.jpg
 wppost_name: cronica-de-una-muerte-anunciada
 ---
 
@@ -38,7 +38,7 @@ Lo usual es que los libros estén en el formato ePub, y que la lectura pueda hac
 <strong>Y si fracasan en su objetivo de ventas la culpa , ya saben, es de la maldita piratería no de....</strong>
 <strong>Formatos incómodos que tal vez no sirvan para mi tablet</strong>
 
-<strong>Precios ridículos como un 35 % menos que el precio en papel por un archivo de texto. El archivo de texto no tiene costos de traslados, fletes, impresión, papel....Eso si al escritor le pagarán lo mismo en derechos de autor. Vean el video<a href="http://partidopirata.com.ar/924/dia-mundial-de-la-propiedad-intelectual-el-derecho-de-autor-y-las-restricciones-a-la-cultura-video" target="_blank"> sobre el debate de la Propiedad Intelectual, en un libro que cuesta cuarenta pesos el autor recibe 1,60...Cuánto será en un libro digital?</a>
+<strong>Precios ridículos como un 35 % menos que el precio en papel por un archivo de texto. El archivo de texto no tiene costos de traslados, fletes, impresión, papel....Eso si al escritor le pagarán lo mismo en derechos de autor. Vean el video<a href="https://partidopirata.com.ar/924/dia-mundial-de-la-propiedad-intelectual-el-derecho-de-autor-y-las-restricciones-a-la-cultura-video" target="_blank"> sobre el debate de la Propiedad Intelectual, en un libro que cuesta cuarenta pesos el autor recibe 1,60...Cuánto será en un libro digital?</a>
 </strong>
 
 <strong>Todas las limitaciones que le ponen al archivo, no se puede imprimir, no se puede regalar, no se puede ...</strong>

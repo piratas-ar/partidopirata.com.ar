@@ -11,12 +11,12 @@ tags:
 - numerologia-pirata
 - rob-reid
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/exagerado-150x150.jpg
 wppost_name: las-dificiles-matematicas-de-los-derechos-de-autor-o-mas-numerologia-pirata-con-subtitulos-en-espanol
 ---
 
-<strong><a href="http://partidopirata.com.ar/3506/las-dificiles-matematicas-de-los-derechos-de-autor-o-mas-numerologia-pirata">Habíamos dejado acá una primera versión </a></strong>
+<strong><a href="https://partidopirata.com.ar/3506/las-dificiles-matematicas-de-los-derechos-de-autor-o-mas-numerologia-pirata">Habíamos dejado acá una primera versión </a></strong>
 
 Finalmente nos avisan que está con los subtítulos en español revisado:
 

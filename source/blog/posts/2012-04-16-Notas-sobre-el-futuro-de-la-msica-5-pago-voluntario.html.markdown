@@ -10,14 +10,14 @@ tags:
 - musica
 - pago-voluntario
 - yochai-benkler
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/benkler-2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/benkler-2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/benkler-2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/benkler-2-150x150.jpg
 wppost_name: notas-sobre-el-futuro-de-la-musica-5-pago-voluntario
 ---
 
 <strong><a href="http://baixacultura.org/2012/04/10/notas-sobre-o-futuro-da-musica-5-pagamento-voluntario/" target="_blank">Fuente Baixa Cultura</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/benkler-2.jpg"><img class=" wp-image-3971 " title="Yochai Benkler " src="http://partidopirata.com.ar/wp-content/uploads/2012/04/benkler-2.jpg" alt="" width="300" height="202" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/benkler-2.jpg"><img class=" wp-image-3971 " title="Yochai Benkler " src="https://partidopirata.com.ar/wp-content/uploads/2012/04/benkler-2.jpg" alt="" width="300" height="202" /></a>
 
 
 El conocimiento acumulado como profesor en Harvard y conferencista asiduo sobre los efectos en la economía y en el mercado de una “nueva” esfera pública interconectada le permite a<a href="http://www.benkler.org/" target="_blank">Yochai Benkler</a> hacer ejemplares análisis de muchas de las cosas que surgen y/o están presentes en estos temas.
@@ -33,7 +33,7 @@ Reznor y Radiohead tomaron ventajas de dos hechos, según Benkler:
 	<li>Los músicos siempre cobraron una fracción minúscula de las rentas generadas por las ventas de copias de su música. Así, no se necesita mucho para que un artista gane con downloads lo mismo que ganaba con los derechos sobre las ventas de sus CDs.</li>
 	<li>A las personas les importa mucho mas sus artistas y la música que ellas aman que el taxista que los lleva al aeropuerto, o el mozo que les sirve la cena, incluso que sea una cena sofisticada.Aunque sepamos que el pago voluntario, en este caso la propina, es parte relevante de la renta de los taxistas y mozos, creemos al mismo tiempo ridículo pensar en esas propinas, o pagos voluntarios, como parte de la renta de artistas que puedem contar com ellas para sobrevivir.</li>
 </ul>
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/nin-1.jpg"><img class="size-full wp-image-3972" title="Ghosts I-IV" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/nin-1.jpg" alt="" width="500" height="500" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/nin-1.jpg"><img class="size-full wp-image-3972" title="Ghosts I-IV" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/nin-1.jpg" alt="" width="500" height="500" /></a>
 
 
 A partir de esas constataciones, Benkler construye su argumentación sobre los modelos voluntarios de pagos en la música en 6 tópicos – comentados, reproducidos y reducidos a 3, para no alargar demasiado el texto, a continuación:
@@ -50,7 +50,7 @@ Así explica Benkler: “<em>La estructura general del sistema de pago voluntari
 
 <strong>2) Comunicación con/entre los fans: construyendo una comunidad</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/nin-2.png"><img class="size-full wp-image-3973" title="nin-2" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/nin-2.png" alt="" width="500" height="262" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/nin-2.png"><img class="size-full wp-image-3973" title="nin-2" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/nin-2.png" alt="" width="500" height="262" /></a>
 
 
 Es importante reconocer, resalta el texto, “<em>que no se trata simplemente de lanzar un site estático con una opción de pago</em>“. es necesaria la construcción de una comunidad, más involucrada que establezca una relación de confianza y reciprocidad entre los artistas y sus fans.
@@ -63,7 +63,7 @@ En Brasil, un músico que usa de este tipo de estrategias es <a href="http://leo
 
 El competidor graba un vídeo en YouTube con su letra para la canción (con él u otro intérprete cantando) y pasa por una serie de eliminatorias, elegidas por el voto popular, hasta las finales, elegidas por un jurado artístico. [<a href="http://concurso.leoni.com.br/" target="_blank">Vea el reglamento completo</a>].
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/leoni.jpg"><img class="size-full wp-image-3975" title="leoni" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/leoni.jpg" alt="" width="500" height="331" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/leoni.jpg"><img class="size-full wp-image-3975" title="leoni" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/leoni.jpg" alt="" width="500" height="331" /></a>
 
 
 <strong>3) </strong><strong>Desencadenando una dinámica de reciprocidad</strong>
@@ -74,7 +74,7 @@ Dice el texto: “<em>Investigaciones importantes de la ciencia del comportamien
 
 Para construir esa reciprocidad, es necesario sustituir el moralismo (del tipo “si vos te bajas mi música gratis, vas a ser preso!”) por una ética de respeto mutuo entre los involucrados. La tienda de MP3 de Coulton, por ejemplo, presenta explicitamente una llamada: “<strong>Ya roubó? Sin problemas. Si querés donar algun dinero, podés hacerlo a través de Amazon o Paypal. O, para algo ligeramente más divertido, comprá un robot, un mono o una banana, que aparecerán aqui con tu mensaje</strong>.”
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/coulton-site.png"><img class="size-full wp-image-3976" title="coulton-site" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/coulton-site.png" alt="" width="499" height="261" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/coulton-site.png"><img class="size-full wp-image-3976" title="coulton-site" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/coulton-site.png" alt="" width="499" height="261" /></a>
 
 
 Benkler concluye con una advertencia a los que se apresuran en la búsqueda de adoptar cualquier camino:
@@ -83,7 +83,7 @@ Aunque esas experiencias sean practicamente nuevas, las evidecias sistemáticas,
 
 Más que “la” salída, los pagos voluntarios (sea para downloads on-line o para ediciones especiales, físicas y otros productos exclusivos) <em>parecen abrir una importante avenida para los artistas que buscan intentar sobrevivir y proseguir con su trabajo</em>.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/o-artista.jpg"><img class="size-full wp-image-3977" title="o-artista" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/o-artista.jpg" alt="" width="500" height="281" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/o-artista.jpg"><img class="size-full wp-image-3977" title="o-artista" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/o-artista.jpg" alt="" width="500" height="281" /></a>
 
 
 Es posible también llegar a otra conclusión: <strong>el artista “intocable” que no quiere interactuar con sus fans, su tiempo se terminó</strong>. No hay más dinero en la industria para “proteger” y llenar de mimos al artista, haciendo con que éste viva en una realidad paralela de los “pobres mortales fans”.

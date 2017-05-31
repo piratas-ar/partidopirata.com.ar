@@ -10,8 +10,8 @@ tags:
 - torrentfreak-noticias
 - tres-avisos
 - vpn
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/running.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/running-150x133.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/running.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/running-150x133.jpg
 wppost_name: seis-avisos-aumenta-la-demanda-de-vpns-bittorrent-y-proxies
 ---
 
@@ -19,7 +19,7 @@ wppost_name: seis-avisos-aumenta-la-demanda-de-vpns-bittorrent-y-proxies
 
 La puesta en marcha del régimen anti-piratería de los seis avisos en los Estados Unidos ha incrementado la demanda de servicios de VPN y proxys de BitTorrent. Los datos de Google revelan un gran aumento en las búsquedas de términos como "BitTorrent VPN" y "proxy BitTorrent" en las últimas dos semanas. Algunos proveedores de VPNs ven al plan como una invasión de la privacidad y claro están animando a la gente a protegerse.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/running.jpg"><img class="alignright size-full wp-image-8821" alt="running" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/running.jpg" width="200" height="133" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/running.jpg"><img class="alignright size-full wp-image-8821" alt="running" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/running.jpg" width="200" height="133" /></a>
 
 El año pasado un estudio realizado en Suecia <a href="http://torrentfreak.com/pirate-bay-users-hide-ip-addresses-to-counter-copyright-enforcement-research-finds-121109/">demostró</a> que muchas personas responden a las duras medidas de aplicación de los derechos de autor mediante el contrato de <a href="http://torrentfreak.com/vpn-services-that-take-your-anonymity-seriously-2013-edition-130302/">VPNs y otros servicios de privacidad</a>.
 
@@ -29,7 +29,7 @@ En lugar de detener su hábito desafiante, quienes comparten archivos toman medi
 
 En cuanto a las tendencias de búsqueda en Google, vemos que esta predicción se ha hecho realidad. El volumen de búsquedas de "BitTorrent VPN" y "proxy BitTorrent" se disparó cuando el sistema de alertas de copyright se puso en marcha.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/vpns.jpg"><img class="size-medium wp-image-8822" alt="BitTorrent VPN / Proxy Búsquedas durante los últimos 90 días" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/vpns-300x153.jpg" width="300" height="153" /></a> BitTorrent VPN / Proxy Búsquedas durante los últimos 90 días
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/vpns.jpg"><img class="size-medium wp-image-8822" alt="BitTorrent VPN / Proxy Búsquedas durante los últimos 90 días" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/vpns-300x153.jpg" width="300" height="153" /></a> BitTorrent VPN / Proxy Búsquedas durante los últimos 90 días
 
 
 TorrentFreak habló con varios proveedores de VPNs que confirman que el interés en sus servicios aumentó. Algunos incluso hacen referencia al esquema de los avisos en su "marketing", como BeeVPN quien destacó en su blog que la gente que lo desee, puede protegerse de ser injustamente acusado.
@@ -51,4 +51,4 @@ Cuántos usuarios que intercambian archivos dejarán de piratear, y cuántos otr
 Es decir, hasta que las redes privadas virtuales anónimas <a href="http://torrentfreak.com/how-long-before-vpns-become-illegal-120615/">sean prohíbidas</a>, como parece que lo han estado en Irán la <a href="http://news.cnet.com/8301-1023_3-57573487-93/iran-cuts-off-illegal-vpn-workaround-to-internet-filters/">semana pasada.</a>.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Charla con Eric Walter uno de los que administra Hadopi en Francia-La ley de los 3 avisos </a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Charla con Eric Walter uno de los que administra Hadopi en Francia-La ley de los 3 avisos </a></strong></p>

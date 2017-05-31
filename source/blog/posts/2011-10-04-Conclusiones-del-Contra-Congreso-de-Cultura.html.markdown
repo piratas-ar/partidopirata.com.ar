@@ -13,7 +13,7 @@ thumb:
 wppost_name: conclusiones-del-contra-congreso-de-cultura
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura.png"><img class="size-large wp-image-1727 aligncenter" title="contra-congreso-cultura" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura-1024x317.png" alt="" width="620" height="191" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura.png"><img class="size-large wp-image-1727 aligncenter" title="contra-congreso-cultura" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura-1024x317.png" alt="" width="620" height="191" /></a>
 <strong><a href="http://contracongreso.com.ar/2011/conclusiones-del-contra-congreso-de-cultura/" target="_blank">Fuente Contra Congreso de Cultura</a></strong>
 
 Del 14 al 17 de Septiembre en Mar del Plata, y en paralelo al IV Congreso Iberoamericano de Cultura se llevó a cabo el denominado “Contra Congreso de Cultura”. Ideado como respuesta por parte de diferentes organizaciones para abordar temas de interés público dejados de lado por la propuesta oficial, abriendo un debate libre y de verdadera participación popular ante el paradójico lema de “Cultura, Política y Participación Popular” del congreso oficial

@@ -18,7 +18,7 @@ wppost_name: actividades-diversas-para-el-mes-de-noviembre-debate-sobre-el-canon
 ---
 
 Infografía realizada por<strong> <a href="http://www.derechoaleer.org/2011/10/semana-de-eventos-cultura-libre-.html" target="_blank">Derecho a Leer</a></strong> sobre el acuerdo CADRA-Universidad de Buenos Aires:
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png"><img class="aligncenter size-large wp-image-2180" title="infocadra_baja_64" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-1024x726.png" alt="Información sobre el acuerdo CADRA- Universidades" width="620" height="439" /><strong>Click para ver en un tamaño mayor</strong></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64.png"><img class="aligncenter size-large wp-image-2180" title="infocadra_baja_64" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/infocadra_baja_64-1024x726.png" alt="Información sobre el acuerdo CADRA- Universidades" width="620" height="439" /><strong>Click para ver en un tamaño mayor</strong></a>
 <strong><a href="http://www.derechoaleer.org/2011/10/semana-de-eventos-cultura-libre-.html" target="_blank">Fuente Derecho a Leer.</a></strong></p>
 
 

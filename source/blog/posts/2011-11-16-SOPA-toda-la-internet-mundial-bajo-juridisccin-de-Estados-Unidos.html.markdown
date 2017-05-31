@@ -11,8 +11,8 @@ tags:
 - protect-ip
 - proyecto-de-ley
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/04/200px-Simbolo_de_la_red_neutral_espanol.svg_-150x150.png
 wppost_name: sopa-toda-la-internet-mundial-bajo-juridisccion-de-estados-unidos
 ---
 
@@ -36,7 +36,7 @@ En segundo lugar, define "las direcciones nacionales de protocolo de Internet" -
 
 <hr />
 <p style="text-align: center;"><strong>Hoy se vota la ley <em>SOPA</em> esperemos que no sea otra vez idem...</strong></p>
-<p style="text-align: center;"><strong>Estemos atentos porque en la Argentina el diputado (reelecto) Federico Pinedo está proponiendo algo parecido.<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg"><img class="alignleft size-full wp-image-661" title="censura" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg" alt="" width="320" height="287" /></a></strong></p>
+<p style="text-align: center;"><strong>Estemos atentos porque en la Argentina el diputado (reelecto) Federico Pinedo está proponiendo algo parecido.<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg"><img class="alignleft size-full wp-image-661" title="censura" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg" alt="" width="320" height="287" /></a></strong></p>
 
 
 <hr />

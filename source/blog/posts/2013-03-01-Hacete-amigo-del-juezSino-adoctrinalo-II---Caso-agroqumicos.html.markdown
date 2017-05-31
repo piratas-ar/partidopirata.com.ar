@@ -8,8 +8,8 @@ tags:
 - jueces
 - justicia
 - monsanto
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/images.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/images-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/images.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/images-150x150.jpeg
 wppost_name: hacete-amigo-del-juezsino-adoctrinalo-ii-caso-agroquimicos
 ---
 
@@ -21,7 +21,7 @@ Pues siempre es güeno tener
 Palenque ande ir a rascarse”.
 <a href="http://www.redargentina.com/refranes/consejosvizcacha.asp" target="_blank">Consejos del Viejo Vizcacha</a>
 
-<strong><a href="http://partidopirata.com.ar/7252/hacete-amigo-del-juez-sino-adoctrinalo">En esta entrada comentábamos sobre jueces yendo a cursos sobre <i>propiedad intelectual</i> en Miami</a>,</strong> y en Torrentfreak <strong><a href="http://partidopirata.com.ar/6741/departamento-de-justicia-de-ee-uu-educa-jueces-extranjeros-sobre-pirateria">comentaban de jueces siendo doctrinados por el Departamento de Justicia de EE.UU</a></strong>
+<strong><a href="https://partidopirata.com.ar/7252/hacete-amigo-del-juez-sino-adoctrinalo">En esta entrada comentábamos sobre jueces yendo a cursos sobre <i>propiedad intelectual</i> en Miami</a>,</strong> y en Torrentfreak <strong><a href="https://partidopirata.com.ar/6741/departamento-de-justicia-de-ee-uu-educa-jueces-extranjeros-sobre-pirateria">comentaban de jueces siendo doctrinados por el Departamento de Justicia de EE.UU</a></strong>
 Ahora viene el caso de los agroquímicos:
 <a href="http://www.cba24n.com.ar/content/denuncian-que-adoctrinaran-fiscales-sobre-agroquimicos" target="_blank">Fuente CBA24N</a>
 

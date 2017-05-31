@@ -6,8 +6,8 @@ tags:
 - estados-unidos
 - maria-pallante
 - registro-del-derecho-de-autor
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/jornada-de-derecho-de-autor-en-la-feria-del-libro-150x150.jpg
 wppost_name: algunos-cambios-propuestos-al-derecho-de-autor-en-ee-uu
 ---
 

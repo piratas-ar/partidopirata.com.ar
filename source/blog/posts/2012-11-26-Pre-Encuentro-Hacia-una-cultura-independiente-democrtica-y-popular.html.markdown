@@ -10,12 +10,12 @@ tags:
 - impa
 - norman-briski
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/Autogestión.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/Autogesti%C3%B3n-150x132.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/Autogestión.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/Autogesti%C3%B3n-150x132.jpg
 wppost_name: pre-encuentro-hacia-una-cultura-independiente-democratica-y-popular
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/Autogestión.jpg"><img class="aligncenter size-full wp-image-7556" title="Autogestión" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/Autogestión.jpg" alt="" width="382" height="132" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/Autogestión.jpg"><img class="aligncenter size-full wp-image-7556" title="Autogestión" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/Autogestión.jpg" alt="" width="382" height="132" /></a>
 
 <hr />
 <p style="text-align: center;"><strong>Pre-Encuentro Hacia una cultura independiente, democrática y popular”</strong></p>

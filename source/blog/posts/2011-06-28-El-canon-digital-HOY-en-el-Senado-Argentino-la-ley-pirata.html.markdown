@@ -8,12 +8,12 @@ tags:
 - no-los-votes
 - proyecto-de-ley
 - senado
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: el-canon-digital-hoy-en-el-senado-argentino-%e2%80%9cla-ley-pirata%e2%80%9d
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg"><img class="size-full wp-image-1205 aligncenter" title="noalcanon5_red" src="http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg" alt="" width="153" height="142" /></a><a href="http://www.rogerbits.com/2011/06/28/el-canon-digital-hoy-en-el-senado-argentino/" target="_blank"></a><strong><a href="http://partidopirata.com.ar/1214/hoy-todos-al-congreso-noalcanon-nolosvotes">Hoy Todos al Congreso para decirle NO AL CANON</a></strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg"><img class="size-full wp-image-1205 aligncenter" title="noalcanon5_red" src="https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg" alt="" width="153" height="142" /></a><a href="http://www.rogerbits.com/2011/06/28/el-canon-digital-hoy-en-el-senado-argentino/" target="_blank"></a><strong><a href="https://partidopirata.com.ar/1214/hoy-todos-al-congreso-noalcanon-nolosvotes">Hoy Todos al Congreso para decirle NO AL CANON</a></strong></p>
 &nbsp;
 
 &nbsp;
@@ -77,6 +77,6 @@ expediente.</div>
 <strong><a href="http://partido-pirata.blogspot.com/2011/04/la-forma-mas-comun-que-tenemos-de.html">Si quieren participar en nuestra lista de correo para coordinar acciones para parar esto!!!</a></strong>
 
 </div>
-<div style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1214/hoy-todos-al-congreso-noalcanon-nolosvotes">Hoy Todos al Congreso para decirle NO AL CANON</a></strong></div>
+<div style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1214/hoy-todos-al-congreso-noalcanon-nolosvotes">Hoy Todos al Congreso para decirle NO AL CANON</a></strong></div>
 
 <hr />

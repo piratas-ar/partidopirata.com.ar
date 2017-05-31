@@ -15,14 +15,14 @@ tags:
 - p2p
 - torrentfreck
 - usuarios-de-redes-p2p
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: los-que-comparten-archivos-compran-30-mas-musica-que-los-que-no-lo-hacen
 ---
 
 <strong><a href="https://torrentfreak.com/file-sharers-buy-30-more-music-than-non-p2p-peers-121015/" target="_blank">Fuente Torrentfreak</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>Uno de los estudios más completos de los hábitos de consumo de quienes comparten archivos en los Estados Unidos y Alemania revela que  quienes comparten archivos de música compran un 30% más que sus contrapartes que no lo hacen. El resultado confirma que los que intercambian archivos son realmente mejores clientes de la industria de la música. Además, la investigación revela que, contrariamente a la creencia popular, la "copia" fuera de Internet es mucho más frecuente que la piratería de música online.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="alignright size-full wp-image-729" title="Logo de The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>Uno de los estudios más completos de los hábitos de consumo de quienes comparten archivos en los Estados Unidos y Alemania revela que  quienes comparten archivos de música compran un 30% más que sus contrapartes que no lo hacen. El resultado confirma que los que intercambian archivos son realmente mejores clientes de la industria de la música. Además, la investigación revela que, contrariamente a la creencia popular, la "copia" fuera de Internet es mucho más frecuente que la piratería de música online.
 
 Los principales sellos discográficos tienen una postura clara sobre la piratería en línea, lo muesta la siguiente <a href="http://www.riaa.com/physicalpiracy.php?content_selector=piracy_details_online">cita</a> de la RIAA [las asociación de las discográficas de USA].
 
@@ -42,7 +42,7 @@ Como era de prever, muestra que las personas que se han autoconfesado como quien
 
 "Pero algunos de ellos también proceden de manera significativa de mayores compras legales de música digital que sus contrapartes los que no usan P2P, alrededor de un 30% más entre los usuarios estadounidenses de P2P. Nuestros datos son muy claros en este punto y se alinean con muchos otros estudios: los mayores piratas de música son también los que más gastaron en música grabada ".
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/p2p-music.jpg"><img class="size-full wp-image-6862" title="p2p-music" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/p2p-music.jpg" alt="" width="550" height="273" /></a> Usuarios de P2P vs. no usuarios de P2P
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/p2p-music.jpg"><img class="size-full wp-image-6862" title="p2p-music" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/p2p-music.jpg" alt="" width="550" height="273" /></a> Usuarios de P2P vs. no usuarios de P2P
 
 
 El gráfico anterior muestra que en Alemania, los resultados son aún más pronunciados. Los usuarios de P2P comprar allí casi tres veces más música digital que sus compañeros que no usan P2P. Sin embargo, el número de usuarios que comparten archivos P2P en la muestra alemana es demasiado baja para ser estadísticamente fiable por lo que estos resultados deben ser interpretados con reservas.

@@ -67,6 +67,6 @@ Como no sabemos cuánto durarán, también los encuentran en:
 </ol>
 Tal vez sea el momento de pensar en un nuevo <em>modelo</em> pensar que si vamos a usar nuevos autos, nuevos cables, etc. etc.. Si vale la pena o si no sería mejor reciclar y cuidar un poco más.
 <p style="text-align: center;">¿Es ético que para que algunos consuman y muy pocos se llenen de dinero se mueran o se enfermen algunos compatriotas?</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2300/educacion-ambiental-ideas-y-propuestas-para-docentes-sobre-la-soja-manual-de-la-secretaria-de-medio-ambiente">A Clarín se le olvidó la parte de la soja</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2300/educacion-ambiental-ideas-y-propuestas-para-docentes-sobre-la-soja-manual-de-la-secretaria-de-medio-ambiente">A Clarín se le olvidó la parte de la soja</a></strong></p>
 que casualidad, justo se olvidaron el tema de la soja...¿Clarín Rural, el Ingeniero Huergo no tendrá algo que ver?
 <img class="aligncenter" title="Minería" src="http://3.bp.blogspot.com/_CPtUSP1MzEE/SBHQ-aOmlpI/AAAAAAAAAOY/GUTMCRiR840/s320/minas.jpg" alt="" width="212" height="320" />

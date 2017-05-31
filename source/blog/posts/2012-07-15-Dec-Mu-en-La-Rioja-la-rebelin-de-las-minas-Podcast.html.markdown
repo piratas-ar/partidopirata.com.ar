@@ -8,12 +8,12 @@ tags:
 - famatina
 - megamineria
 - radio-2
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/589x393xmujeres.jpg.pagespeed.ic_.qQZd28wVpJ.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/589x393xmujeres.jpg.pagespeed.ic_.qQZd28wVpJ-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/589x393xmujeres.jpg.pagespeed.ic_.qQZd28wVpJ.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/589x393xmujeres.jpg.pagespeed.ic_.qQZd28wVpJ-150x150.jpg
 wppost_name: deci-mu-en-la-rioja-la-rebelion-de-las-minas-podcast
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/589x393xmujeres.jpg.pagespeed.ic_.qQZd28wVpJ.jpg"><img class="aligncenter size-full wp-image-5263" title="Mujeres de Famatina" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/589x393xmujeres.jpg.pagespeed.ic_.qQZd28wVpJ.jpg" alt="" width="589" height="393" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/589x393xmujeres.jpg.pagespeed.ic_.qQZd28wVpJ.jpg"><img class="aligncenter size-full wp-image-5263" title="Mujeres de Famatina" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/589x393xmujeres.jpg.pagespeed.ic_.qQZd28wVpJ.jpg" alt="" width="589" height="393" /></a>
 
 <strong><a href="http://www.decimu.com.ar/deci-mu-en-la-rioja-la-rebelion-de-las-minas/" target="_blank">Fuente Decí Mu.</a></strong>
 

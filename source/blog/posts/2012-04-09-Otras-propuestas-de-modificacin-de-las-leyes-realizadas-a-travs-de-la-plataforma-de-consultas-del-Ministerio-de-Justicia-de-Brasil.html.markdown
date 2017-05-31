@@ -10,15 +10,15 @@ tags:
 - ministerio-de-justicia
 - participacion-ciudadana
 - plataforma
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/Código-civil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/C%C3%B3digo-civil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/Código-civil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/C%C3%B3digo-civil-150x150.jpg
 wppost_name: otras-propuestas-de-modificacion-de-las-leyes-realizadas-a-traves-de-la-plataforma-de-consultas-del-ministerio-de-justicia-de-brasil
 ---
 
-<p style="text-align: left;">Paulo Rená nos avisa <a href="http://partidopirata.com.ar/3866/por-que-no-crear-una-convocatoria-para-modificar-el-codigo-civil-en-la-argentina">en los comentarios de esta entrada</a>que hay otras consultas que se realizaron con la Plataforma de Consultas del Ministerio de Justicia de Brasil.
+<p style="text-align: left;">Paulo Rená nos avisa <a href="https://partidopirata.com.ar/3866/por-que-no-crear-una-convocatoria-para-modificar-el-codigo-civil-en-la-argentina">en los comentarios de esta entrada</a>que hay otras consultas que se realizaron con la Plataforma de Consultas del Ministerio de Justicia de Brasil.
 Para pensar en por qué no se hace algo así en la Argentina, podríamos comenzar con la reforma del Código Civil anunciada por el gobierno.</p>
 &nbsp;
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3883/brasil-codigo-del-proceso-civil-cpc-tambien-elaborado-via-web">Acá habíamos dejado algunas de las propuestas de modificación de la Coalición Argentina por un Estado Laico.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3883/brasil-codigo-del-proceso-civil-cpc-tambien-elaborado-via-web">Acá habíamos dejado algunas de las propuestas de modificación de la Coalición Argentina por un Estado Laico.</a></strong></p>
 Las otras modificaciones de leyes en que se usó la plataforma:
 
 <strong><a href="http://portal.mj.gov.br/data/Pages/MJ0EADEB70ITEMIDB4EC52D192C14B0B92EFD233154CB17DPTBRNN.htm" target="_blank">Fuente Portal del Ministerio de Justicia de Brasil.</a></strong>

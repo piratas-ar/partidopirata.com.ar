@@ -11,12 +11,12 @@ tags:
 - riaa
 - sac
 - sadaic
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/sac.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/sac-150x80.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/sac.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/sac-150x80.jpg
 wppost_name: el-sadaic-canadiense-quiere-legalizar-el-intercambio-de-musica
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/12/sac.jpg"><img class="aligncenter size-full wp-image-2535" title="sac" src="http://partidopirata.com.ar/wp-content/uploads/2011/12/sac.jpg" alt="Músicos Canadienses" width="200" height="80" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/12/sac.jpg"><img class="aligncenter size-full wp-image-2535" title="sac" src="https://partidopirata.com.ar/wp-content/uploads/2011/12/sac.jpg" alt="Músicos Canadienses" width="200" height="80" /></a>
 <strong> <a href="https://torrentfreak.com/canadian-songwriters-want-to-legalize-file-sharing-111206/" target="_blank">Fuente Torrent Freak.</a></strong>
 
 &nbsp;

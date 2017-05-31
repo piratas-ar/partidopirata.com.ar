@@ -8,16 +8,16 @@ tags:
 - google
 - sites-piratas
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/google-bay.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/google-bay-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/google-bay.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/google-bay-150x150.jpg
 wppost_name: pirate-bay-e-isohunt-responder-a-la-penalizacion-en-los-resultados-de-google
 ---
 
-<a href="http://partidopirata.com.ar/5883/google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-busquedas">Antes Google empieza a castigar sites piratas en los resultados de las búsquedas.</a>
+<a href="https://partidopirata.com.ar/5883/google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-busquedas">Antes Google empieza a castigar sites piratas en los resultados de las búsquedas.</a>
 
 <strong><a href="https://torrentfreak.com/pirate-bay-and-isohunt-respond-to-google-search-result-punishment-120816/" target="_blank">Fuente Torrentfreak.</a></strong>
 
-Hoy estamos empezando a ver los primeros signos de castigo anunciado por Google de  sitios webs "piratas". Los cambios se han traducido en los rankings de búsquedas más bajos para muchos sitios de intercambio de archivos, pero que no parece molestar a The Pirate Bay. Ellos, sin embargo, decepcionados de que Google esté cediendo a las demandas de la industria del entretenimiento. El propietario del sitio isoHunt amigable con los  BitTorrent ha dado un paso más allá con un llamado a la protesta en contra de la intimidación a la competencia  y la censura.<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/google-bay.jpg"><img class="alignright size-full wp-image-6084" title="google-bay" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/google-bay.jpg" alt="" width="200" height="177" /></a>
+Hoy estamos empezando a ver los primeros signos de castigo anunciado por Google de  sitios webs "piratas". Los cambios se han traducido en los rankings de búsquedas más bajos para muchos sitios de intercambio de archivos, pero que no parece molestar a The Pirate Bay. Ellos, sin embargo, decepcionados de que Google esté cediendo a las demandas de la industria del entretenimiento. El propietario del sitio isoHunt amigable con los  BitTorrent ha dado un paso más allá con un llamado a la protesta en contra de la intimidación a la competencia  y la censura.<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/google-bay.jpg"><img class="alignright size-full wp-image-6084" title="google-bay" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/google-bay.jpg" alt="" width="200" height="177" /></a>
 
 La semana pasada, Google anunció que iba a bajarle el rankings en su motor de búsqueda a los sitios web que reciban un alto número de peticiones de DMCA takedown [borrado del link por el derecho de autor de EE.UU.], independientemente de si el contenido de dichos enlaces es legal o no.
 
@@ -25,7 +25,7 @@ El cambio de algoritmo está siendo implementada esta semana y debe degradar sev
 
 Una búsqueda de  “The Dictator Download”  había obtenido <a href="http://torrentfreak.com/images/dictator-old.png">varios sites BitTorrents  </a>en los primeros resultados de hace unos días, y ahora éstos <a href="http://torrentfreak.com/images/dictator-new.png">han desaparecidos por completo</a>. Aunque estos resultados pueden variar dependiendo de la ubicación de las personas y la frase buscada, que podría hacer que el resultado del algoritmo cambie.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/dictator-download.jpg"><img class=" wp-image-6085" title="dictator-download" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/dictator-download-300x255.jpg" alt="" width="341" height="289" /></a> Resultados "viejos" de las búsquedas
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/dictator-download.jpg"><img class=" wp-image-6085" title="dictator-download" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/dictator-download-300x255.jpg" alt="" width="341" height="289" /></a> Resultados "viejos" de las búsquedas
 
 
 Nos muestran que los sitios de BitTorrent no están completamente ausentes de los resultados de búsqueda. Por ejemplo, sustituyendo "download" por "torrent" los trae de vuelta a la cima. Sin embargo, las entradas a partir de búsquedas a través de Google deben disminuir.
@@ -55,4 +55,4 @@ IsoHunt y otros mantienen una estrecha vigilancia sobre el impacto del cambio de
 "Necesitamos protestar contra la censura de Google y defender la competencia", señala Fung.
 
 Por el momento es demasiado pronto para medir el impacto total en la actualización de las búsquedas de Google, pero está claro que la última palabra no se ha dicho sobre el tema.
-<a href="http://partidopirata.com.ar/5883/google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-busquedas">Lean también Google empieza a castigar sites piratas en los resultados de las búsquedas.</a>
+<a href="https://partidopirata.com.ar/5883/google-empieza-a-castigar-sites-piratas-en-los-resultados-de-las-busquedas">Lean también Google empieza a castigar sites piratas en los resultados de las búsquedas.</a>

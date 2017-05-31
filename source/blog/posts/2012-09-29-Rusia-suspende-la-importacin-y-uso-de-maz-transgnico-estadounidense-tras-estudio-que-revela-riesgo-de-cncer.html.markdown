@@ -17,8 +17,8 @@ tags:
 - suspende-importacion
 - suspension-de-importaciones
 - transgenicos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: rusia-suspende-la-importacion-y-uso-de-maiz-transgenico-estadounidense-tras-estudio-que-revela-riesgo-de-cancer
 ---
 
@@ -87,7 +87,7 @@ El profesor dijo que tomarán dos o tres años para obtener una respuesta defini
 <center>
 <iframe src="http://www.youtube.com/embed/yWNo2-L4UBE" frameborder="0" width="560" height="315"></iframe></center>
 <p style="text-align: center;"><strong>Lástima que nadie le preguntó sobre este tema en Harvard.</strong></p>
-<p style="text-align: center;"><strong>Si alguien llega a encontrar el documental ¿Somos todos conejillos de indias?- Tous Cobayes ?- de Jean-Paul Jaud que nos informa sobre este experimento, <a href="http://partidopirata.com.ar/contacto" target="_blank">avísennos!</a> e intentamos armar equipos para hacerle los subtítulos en castellano.</strong></p>
+<p style="text-align: center;"><strong>Si alguien llega a encontrar el documental ¿Somos todos conejillos de indias?- Tous Cobayes ?- de Jean-Paul Jaud que nos informa sobre este experimento, <a href="https://partidopirata.com.ar/contacto" target="_blank">avísennos!</a> e intentamos armar equipos para hacerle los subtítulos en castellano.</strong></p>
 <p style="text-align: center;"><strong>La noticia sobre el experimento con ratones alimentados con transgénicos (no creo que haya salido mucha información en la Argentina sobre esto):</strong></p>
 
 <center>

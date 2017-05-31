@@ -3,12 +3,12 @@ title: El infierno del 2.4 D
 date: '2012-09-06'
 tags:
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/10.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/10-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/10.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/10-150x150.jpg
 wppost_name: el-infierno-del-2-4-d
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/20120717093815-GMO_Free_Proj_Tucson.jpg"><img class="aligncenter size-full wp-image-6385" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/20120717093815-GMO_Free_Proj_Tucson.jpg" alt="" width="470" height="228" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/20120717093815-GMO_Free_Proj_Tucson.jpg"><img class="aligncenter size-full wp-image-6385" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/20120717093815-GMO_Free_Proj_Tucson.jpg" alt="" width="470" height="228" /></a>
 
 La química industrial aplicada a la agricultura nació a mitad del siglo XVIII con los fertilizantes agrícolas, y simultáneamente surgió una interrogante: ¿cómo eran el metabolismo de las plantas y su funcionamiento? Así emergió la "fisiología vegetal" en la primera mitad del siglo XX en Rothamsted, California, en el Reino Unido y en Japón.
 
@@ -16,7 +16,7 @@ Gracias a esto; con la explosión de los años 90 de la agricultura industrial, 
 
 Los primeros estudios sobre las hormonas vegetales se efectuaron en Estados Unidos sobre semillas de avenas y se aislaron auxinas naturales.
 
-En dosis muy diluidas (en concentraciones de 1/10.000.000 ppm., esto es, una en diez millones de partes) estas hormonas conseguían provocar el crecimiento de algunas partes de las plantas, favorecían el enraizamiento, una mayor masa foliar, frutos más grandes, alargamiento de los ramilletes y cosechas superiores. Cuando la dosis se aumentaba por encima de las 5 ppm. la sustancia destruía y mataba a las plantas, principalmente a los cultivos de familias diferentes a los cereales de los cuales era extraída.<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/10.jpg"><img class="aligncenter size-full wp-image-6384" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/10.jpg" alt="" width="568" height="454" /></a>
+En dosis muy diluidas (en concentraciones de 1/10.000.000 ppm., esto es, una en diez millones de partes) estas hormonas conseguían provocar el crecimiento de algunas partes de las plantas, favorecían el enraizamiento, una mayor masa foliar, frutos más grandes, alargamiento de los ramilletes y cosechas superiores. Cuando la dosis se aumentaba por encima de las 5 ppm. la sustancia destruía y mataba a las plantas, principalmente a los cultivos de familias diferentes a los cereales de los cuales era extraída.<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/10.jpg"><img class="aligncenter size-full wp-image-6384" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/10.jpg" alt="" width="568" height="454" /></a>
 
 Obviamente, su extracción de forma natural era tan cara que hacía inviable su utilización, pero estos descubrimientos abrieron el camino a la obtención de productos industriales sintéticos que, aplicados a los cultivos de cereales, permitieron controlar el crecimiento exponencial que experimentaban algunas plantas adventicias como consecuencia de la destrucción de la estructura de los suelos agrícolas con la fertilización química y la mecanización intensificada (tractores y sus herramientas). La etapa siguiente era entonces sintetizar sustancias que tuvieran una acción similar a aquellas utilizadas para su producción industrial.
 

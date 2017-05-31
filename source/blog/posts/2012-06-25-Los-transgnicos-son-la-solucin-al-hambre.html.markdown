@@ -9,8 +9,8 @@ tags:
 - soja
 - solucion-al-problema-del-hambre
 - transgenicos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/images.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/images.jpg
 wppost_name: los-transgenicos-son-la-solucion-al-hambre
 ---
 

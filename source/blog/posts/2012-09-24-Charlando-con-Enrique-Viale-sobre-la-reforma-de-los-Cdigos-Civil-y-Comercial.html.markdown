@@ -13,26 +13,26 @@ tags:
 - reforma
 - reforma-del-codigo-civil
 - ricardo-lorenzetti
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small-115x115.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small-115x115.jpeg
 wppost_name: charlando-con-enrique-viale-sobre-la-reforma-de-los-codigos-civil-y-comercial
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg"><img class="size-full wp-image-6604" title="Enrique Viale" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg" alt="" width="128" height="128" /></a> Enrique Viale
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg"><img class="size-full wp-image-6604" title="Enrique Viale" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/f0azif66bjsre2hy9vlp_reasonably_small.jpeg" alt="" width="128" height="128" /></a> Enrique Viale
 
 
 <center>
 <object id="player1449076" width="240" height="133" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="AllowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><param name="src" value="http://www.ivoox.com/playerivoox_ee_1449076_1.html" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed id="player1449076" width="240" height="133" type="application/x-shockwave-flash" src="http://www.ivoox.com/playerivoox_ee_1449076_1.html" AllowScriptAccess="always" allowFullScreen="true" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" /></object></center><center></center><center><a href="http://www.ivoox.com/hablando-enrique-viale-sobre-modificacion-del_md_1449076_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona presionen en <em>descargar</em>
 <a href="http://www.ivoox.com/hablando-enrique-viale-sobre-modificacion-del-audios-mp3_rf_1449076_1.html" target="_blank">en este link.</a></center>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart6.png"><img class=" wp-image-6605 aligncenter" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/chart6.png" alt="" width="150" height="150" /></a><strong>Código QR de la Dirección del archivo mp3.</strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart6.png"><img class=" wp-image-6605 aligncenter" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/chart6.png" alt="" width="150" height="150" /></a><strong>Código QR de la Dirección del archivo mp3.</strong></p>
 
 
 <hr />
 
 <ul>
 	<li><strong><a href="https://twitter.com/enriqueviale" target="_blank">Twitter de Enrique Viale</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5935/reforma-del-codigo-civil-argentino-este-no-es-un-proyecto-de-un-jurista-ni-siquiera-de-tres-y-la-gente" target="_blank">Sobre el caracter <em>excluyente</em> de la gente para debatir la reforma del Código Civil y Comercial.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5935/reforma-del-codigo-civil-argentino-este-no-es-un-proyecto-de-un-jurista-ni-siquiera-de-tres-y-la-gente" target="_blank">Sobre el caracter <em>excluyente</em> de la gente para debatir la reforma del Código Civil y Comercial.</a></strong></li>
 	<li><strong><a href="http://www.clarin.com/sociedad/Desmercantilizar-naturaleza_0_779322151.html" target="_blank">Nota de Enrique Viale sobre la reforma del Código Civil y Comercial y el acceso a ríos y lagos</a></strong></li>
 	<li><strong><a href="http://www.clarin.com/sociedad/acceso-costas-rios-lagos-restringido_0_779322149.html" target="_blank">Nota en Clarín sobre el acceso a las costas de ríos y lagos con la reforma del Código Civil.</a></strong></li>
 	<li><strong><a href="http://www.clarin.com/sociedad/historia-extrema-paisajes-privatizados_0_779322150.html" target="_blank">Más sobre el acceso a los ríos y lagos y el crimen de Cristian González </a></strong></li>

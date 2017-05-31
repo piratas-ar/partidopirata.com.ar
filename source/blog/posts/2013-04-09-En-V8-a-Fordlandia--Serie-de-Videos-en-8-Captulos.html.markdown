@@ -11,12 +11,12 @@ tags:
 - soja
 - v8
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/v8-fordlandia01.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/v8-fordlandia01-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/v8-fordlandia01.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/v8-fordlandia01-150x150.jpg
 wppost_name: en-v8-a-fordlandia-serie-de-videos-en-8-capitulos
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/04/v8-fordlandia01.jpg"><img class="aligncenter size-medium wp-image-9065" alt="v8-fordlandia01" src="http://partidopirata.com.ar/wp-content/uploads/2013/04/v8-fordlandia01-300x167.jpg" width="300" height="167" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/04/v8-fordlandia01.jpg"><img class="aligncenter size-medium wp-image-9065" alt="v8-fordlandia01" src="https://partidopirata.com.ar/wp-content/uploads/2013/04/v8-fordlandia01-300x167.jpg" width="300" height="167" /></a>
 
 Una serie documental de 8 capítulos que narra el viaje de un equipo de documentalistas en una Ford 100, a la ciudad brasilera de Fordlandia, un proyecto de la fábrica Ford que se instaló en los años 30 en el Amazonas. En el camino se encontrarán con diversas problemáticas latinoamericanas. El corredor extractivista IIRSA, los monocultivos de soja, el éxodo de los campesinos, los entretelones de las ONGs, las multinacionales, la contaminación, la cuota de carbono y la resistencia de los diferentes actores sociales.
 

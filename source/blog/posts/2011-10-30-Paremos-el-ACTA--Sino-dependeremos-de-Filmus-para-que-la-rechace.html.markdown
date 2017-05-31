@@ -21,7 +21,7 @@ wppost_name: paremos-el-acta-sino-dependeremos-de-filmus-para-que-la-rechace
 
 <strong>Explicación sobre el ACTA y campaña para que el Parlamento Europeo rechace el ACTA</strong>
 
-</center><center><strong>Piensen que cuando llege a la Argentina dependeremos de Filmus-Pichetto y demás senadores para que la rechacen....(Mejor ni pensarlo)<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png"><img class="aligncenter size-full wp-image-1929" title="acta-arma-destruccion-masiva" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png" alt="" width="560" height="352" /></a>
+</center><center><strong>Piensen que cuando llege a la Argentina dependeremos de Filmus-Pichetto y demás senadores para que la rechacen....(Mejor ni pensarlo)<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png"><img class="aligncenter size-full wp-image-1929" title="acta-arma-destruccion-masiva" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png" alt="" width="560" height="352" /></a>
 </strong></center>&nbsp;
 
 <hr />

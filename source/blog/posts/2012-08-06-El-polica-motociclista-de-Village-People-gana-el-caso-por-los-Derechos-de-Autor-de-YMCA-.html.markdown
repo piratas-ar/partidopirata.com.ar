@@ -11,8 +11,8 @@ tags:
 - reclamos
 - village-people
 - ymca
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-23h49m13s204.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-23h49m13s204-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-23h49m13s204.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-23h49m13s204-150x150.png
 wppost_name: el-policia-motociclista-de-village-people-gana-el-caso-por-los-derechos-de-autor-de-ymca
 ---
 
@@ -34,7 +34,7 @@ Y un día Village People hizo algo bueno por la música."
 
 <strong><a href="http://www.bloomberg.com/news/2012-05-08/village-people-s-former-lead-singer-wins-ymca-copyright-case.html" target="_blank">Fuente Bloomberg</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-23h49m13s204.png"><img class=" wp-image-5776" title="Victor Willis" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-23h49m13s204.png" alt="" width="298" height="223" /></a> Victor Willis, el policía caminero de Village People
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-23h49m13s204.png"><img class=" wp-image-5776" title="Victor Willis" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/vlcsnap-2012-08-05-23h49m13s204.png" alt="" width="298" height="223" /></a> Victor Willis, el policía caminero de Village People
 
 
 El cantante líder del Village People original, Victor Willis, puede reclamar los sus derechos de autor en los éxitos de la música disco de la década de 1970  entre ellos "YMCA", "In the Navy" y "Go West".

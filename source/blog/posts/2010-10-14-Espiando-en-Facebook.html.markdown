@@ -12,8 +12,8 @@ tags:
 - privacidad
 - redes
 - sociales
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook_privacidad.jpg
 wppost_name: espiando-en-facebook
 ---
 

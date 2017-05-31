@@ -9,8 +9,8 @@ tags:
 - hbo
 - intimidacion
 - juiico
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
 wppost_name: los-descargos-de-christian-alvarez-colaborador-de-cuevana-en-chile
 ---
 

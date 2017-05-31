@@ -7,8 +7,8 @@ tags:
 - no-al-canon
 - resistir
 - senador-picheto
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: noalcanon-como-se-repartira-el-canon
 ---
 
@@ -52,5 +52,5 @@ Una nota interesante: así como uno debe criticar la #leypinedo debería critica
 
 <strong><a href="http://www.uberbin.net/archivos/derechos/el-canon-digital-en-argentina-a-punto-de-ser-ley.php" target="_blank">Fuente Uberbin.</a></strong>
 <p style="text-align: center;"><strong>&lt;hr&gt;</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1214/hoy-todos-al-congreso-noalcanon-nolosvotes">Hoy todos al Congreso para decir bien fuerte NO AL CANON!!</a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1214/hoy-todos-al-congreso-noalcanon-nolosvotes">Hoy todos al Congreso para decir bien fuerte NO AL CANON!!</a>
 </strong></p>

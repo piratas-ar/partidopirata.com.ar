@@ -4,7 +4,7 @@ date: '2015-08-12'
 tags:
 - privacidad
 - seguridad
-image: http://partidopirata.com.ar/wp-content/uploads/2015/08/grog-tor.png
+image: https://partidopirata.com.ar/wp-content/uploads/2015/08/grog-tor.png
 thumb: https://partidopirata.com.ar/wp-content/uploads/2015/08/grog-tor-150x150.png
 wppost_name: grog-tor
 ---

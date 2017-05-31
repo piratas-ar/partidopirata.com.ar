@@ -8,15 +8,15 @@ tags:
 - microsoft
 - piracy-pay
 - rusia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/pirate-pay.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/pirate-pay-150x87.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/pirate-pay.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/pirate-pay-150x87.png
 wppost_name: microsoft-financio-una-startup-que-pretende-matar-el-trafico-de-bittorrent
 ---
 
 <strong><a href="https://torrentfreak.com/microsoft-funded-startup-aims-to-kill-bittorrent-traffic-120513/" target="_blank">Fuente Torrentfreak</a></strong>
 La compañia startup basada en Rusia  “Pirate Pay” le está prometiendo a la industria del entretenimiento un futuro libre de piratas. Con la ayuda de Microsoft, los desarrolladores han construido un sistema que pretende realizar un seguimiento y cerrar la distribución de obras con derechos de autor en BitTorrent. Su primer proyecto, llevado a cabo en colaboración con Walt Disney Studios y Sony Pictures, consiguió detener a decenas de miles de descargas
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/pirate-pay.png"><img class="alignright size-full wp-image-4425" title="pirate-pay" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/pirate-pay.png" alt="L" width="190" height="87" /></a>Hollywood, gigantes del software y los más importantes sellos discográficos ven a  BitTorrent como una de las más grandes amenazas a sus negocios.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/pirate-pay.png"><img class="alignright size-full wp-image-4425" title="pirate-pay" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/pirate-pay.png" alt="L" width="190" height="87" /></a>Hollywood, gigantes del software y los más importantes sellos discográficos ven a  BitTorrent como una de las más grandes amenazas a sus negocios.
 
 Afirman que pierden miles de millones en ingresos cada año. Pero no por mucho tiempo si la compañía startup basada en Rusia "“<a href="http://www.piratepay.ru/en">Pirate Pay</a>  se sale con la suya. La compañía ha desarrollado una tecnología que les permite atacar enjambres existentes de BitTorrent, por lo que es imposible que la gente pueda compartir archivos.
 
@@ -49,5 +49,5 @@ A las empresas que realmente quieren hacer <em>que los piratas paguen</em>, prob
 <hr />
 <p style="text-align: center;">Recordemos que lo que se viene es una <em>guerra</em> para saber quién dominará nuestras máquinas.
 Que Microsoft esté detrás de este emprendimiento nos hace pensar que a quienes usen windows se les hará más difícil descargar algo vía Bittorrent.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">La Conferencia de Cory Doctorow sobre la guerra existente dentro de nuestras máquinas</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">La Conferencia de Cory Doctorow sobre la guerra existente dentro de nuestras máquinas</a></strong></p>
 Usemos herramientas libres!

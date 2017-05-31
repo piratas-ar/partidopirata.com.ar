@@ -10,12 +10,12 @@ tags:
 - giulio-prisco
 - internet-libre
 - richard-stallman-rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/medium_prisco.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/medium_prisco.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/medium_prisco.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/medium_prisco.png
 wppost_name: banqueros-y-burocratas-contra-la-libertad-en-internet-giulio-prisco
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/medium_prisco.png"><img class="alignleft size-full wp-image-3142" title="Giulio Prisco" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/medium_prisco.png" alt="" width="100" height="105" /></a><strong><a href="http://ieet.org/index.php/IEET/more/prisco20120206" target="_blank">Fuente IEET</a></strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/medium_prisco.png"><img class="alignleft size-full wp-image-3142" title="Giulio Prisco" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/medium_prisco.png" alt="" width="100" height="105" /></a><strong><a href="http://ieet.org/index.php/IEET/more/prisco20120206" target="_blank">Fuente IEET</a></strong>
 Publicado: 06 de febrero 2012
 
 Los banqueros y los burócratas han descubierto a  Internet, con 20 años de retraso, y no les gusta,
@@ -32,7 +32,7 @@ Bueno, al parecer algunas personas han descubierto a Internet,con más de 20 añ
 
 Los banqueros son los tiburones codiciosos denunciados por el movimiento Occupy. Ellos compran a los políticos y administradores que los apoyan y la libertad bajo fianza pagada con nuestro dinero cuando meten bien la pata. En algunos países han comprado al gobierno al por mayor. Son dueños de grandes corporaciones y quieren mantener su monopolio de facto a toda costa. Sólo están interesados ​​en el dinero y el poder, y sin piedad bloquearán a aquellos que se atreven resistirse a ellos. Algunos de ellos dicen amar la libertad, pero quieren la libertad sólo para sí mismos y sus compañeros, y la esclavitud para todos los demás. En realidad odian a la gente libre, porque las personas libres no aceptan ser esclavizados.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/cyberillo1_thumb.jpg"><img class="alignleft size-full wp-image-3143" title="Declaración de Independencia del Ciberespacio" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/cyberillo1_thumb.jpg" alt="" width="360" height="552" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/cyberillo1_thumb.jpg"><img class="alignleft size-full wp-image-3143" title="Declaración de Independencia del Ciberespacio" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/cyberillo1_thumb.jpg" alt="" width="360" height="552" /></a>
 
 Los burócratas son los vendedores de papel. A menudo son llamados "servidores públicos" y afirman (algunos incluso creen) que sirven al pueblo, pero les encanta más el papel que las personas y creen que sus libros, los procedimientos y regulaciones son más importantes que las personas. Son los fanáticos del control del Estado-niñera que desean regular nuestra vida desde la cuna hasta la tumba. Odian a la gente libre, porque las personas libres que creen sus propios pensamientos y que viven su propia vida no caben en su sueño húmedo de una sociedad ordenada de zombis y ovejas.
 
@@ -56,12 +56,12 @@ La gran prensa occidental de banqueros y burócratas ha alabado la "primavera á
 
 Entonces tenemos SOPA, PIPA y basura similar. Estos proyectos de ley para censurar Internet parecen haber perdido gran parte de su apoyo inicial, como resultado también de la firme respuesta de los ciudadanos libres del ciberespacio, con el apagón de Wikipedia y otros sitios importantes. Ray Kurzweil <a href="http://www.kurzweilai.net/blackout" target="_blank">tiene razón:</a> "Mejor que el gobierno cierre que Wikipedia vaya a la huelga."
 
-Pero, por supuesto, SOPAy Pipa estarán de regreso, tal vez con otros nombres y algunas concesiones menores. Que nadie se equivoque: esto es la guerra. En un discurso reciente en el Congreso Caos de Comunicación en Berlín, Cory Doctorow ha llamado, <a href="http://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">"La inminente guerra en la computadora de propósito general."</a>
-<p style="text-align: center;"><em>"El siglo que viene estará dominado por la guerra contra la computadora de propósito general, y los enemigos son la libertad, la fortuna y la privacidad de toda la raza humana".<a href="http://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">declaró</a></em></p>
+Pero, por supuesto, SOPAy Pipa estarán de regreso, tal vez con otros nombres y algunas concesiones menores. Que nadie se equivoque: esto es la guerra. En un discurso reciente en el Congreso Caos de Comunicación en Berlín, Cory Doctorow ha llamado, <a href="https://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">"La inminente guerra en la computadora de propósito general."</a>
+<p style="text-align: center;"><em>"El siglo que viene estará dominado por la guerra contra la computadora de propósito general, y los enemigos son la libertad, la fortuna y la privacidad de toda la raza humana".<a href="https://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">declaró</a></em></p>
 Ellos quieren quitarnos nuestra libertad sin fronteras, la de internet por el pueblo para el pueblo , y reemplazarla con livianas y desinfectadas "apps" que sólo nos traerán el spam y la basura que los banqueros y los burócratas quieren que escuchemos. Para evitar esto, debemos proteger a Internet en todo momento. Si no actuamos para proteger a Internet ahora, las próximas generaciones no van a experimentar el flujo de empoderamiento de información sin censura que hemos disfrutado en las últimas dos décadas, y se convertirán en borregos en manos de las corporaciones codiciosas y las dictaduras estado-niñeras .
 
 ¿Qué podemos hacer?
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/sopa_pipa_thumb.jpg"><img class="alignright size-full wp-image-3144" title="Tumba de SOPA y PIPA" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/sopa_pipa_thumb.jpg" alt="" width="360" height="201" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/sopa_pipa_thumb.jpg"><img class="alignright size-full wp-image-3144" title="Tumba de SOPA y PIPA" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/sopa_pipa_thumb.jpg" alt="" width="360" height="201" /></a>
 Me temo que van a ganar esta guerra, porque tienen todas las armas: son los dueños del sistema financiero, el sistema político, la administración del Estado, los tribunales, la policía y los ejércitos (que también eran dueños de la prensa, pero con Internet se la hemos tomado, y ahora la quieren de vuelta).
 
 Rick Falkvinge, fundador del primer Partido Pirata en Suecia, ha escrito recientemente un gran artículo sobre <a href="http://falkvinge.net/2011/12/16/do-we-really-have-to-prepare-for-the-fourth-box/" target="_blank">"¿Realmente estamos preparados para la cuarta caja?"</a>

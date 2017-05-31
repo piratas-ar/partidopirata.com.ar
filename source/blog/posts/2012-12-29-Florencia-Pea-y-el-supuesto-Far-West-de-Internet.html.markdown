@@ -9,8 +9,8 @@ tags:
 - leyes
 - scarlett-johansson
 - videos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/logo-iprofesional.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/logo-iprofesional-150x88.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/logo-iprofesional.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/logo-iprofesional-150x88.png
 wppost_name: florencia-pena-y-el-supuesto-far-west-de-internet
 ---
 

@@ -10,15 +10,15 @@ tags:
 - hadopi-de-estados-unidos
 - seis-avisos
 - torrenffreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/gerard-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/gerard-150x150.jpg
 wppost_name: comcast-elogia-acuerdo-voluntario-en-la-campana-contra-los-bittorrents
 ---
 
 <strong><a href="https://torrentfreak.com/comcast-praises-voluntary-bittorrent-crackdown-agreement-120501/" target="_blank">Fuente Torrentfreak.</a></strong>
 A partir de este verano[en el hemisferio norte], millones de usuarios de BitTorrent en Estados Unidos serán objeto de seguimiento como parte de un acuerdo voluntario entre la MPAA, la RIAA y todos los principales proveedores de internet. Aquellos que sean atrapados compartiendo obras con copyright recibirán varios mensajes de advertencia y una eventual sanción si continúan con la infracción. Al comentar sobre los planes, el vicepresidente de Comcast Gerard Lewis elogió la cooperación como un buen modelo que proteja la privacidad, mientras que educa al público.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg"><img class="size-full wp-image-4302" title="gerard" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg" alt="" width="225" height="177" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg"><img class="size-full wp-image-4302" title="gerard" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/gerard.jpg" alt="" width="225" height="177" /></a>
 
 
 La semana pasada la Campaña de la Coalición Creativa organizó una conferencia sobre medidas contra la piratería.
@@ -54,4 +54,4 @@ En segundo lugar, el plan de varios millones de dólares sólo cubre algunas de 
 <strong><a href="https://torrentfreak.com/comcast-praises-voluntary-bittorrent-crackdown-agreement-120501/" target="_blank">Fuente Torrentfreak.</a></strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Si quieren saber como es Hadopi una charla que mantuvimos con uno de sus oficiales, Erik Walter</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Si quieren saber como es Hadopi una charla que mantuvimos con uno de sus oficiales, Erik Walter</a></strong></p>

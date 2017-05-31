@@ -9,12 +9,12 @@ tags:
 - fisl
 - fundacion-del-partido-pirata-do-brasil
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt-150x150.jpg
 wppost_name: rick-falkvinge-bienvenido-a-la-comunidad-partido-pirata-do-brasil
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg"><img class="size-full wp-image-5589" title="piratas_opt" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg" alt="" width="470" height="332" /></a> Presentación del Partido Pirata de Brasil
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg"><img class="size-full wp-image-5589" title="piratas_opt" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/piratas_opt.jpg" alt="" width="470" height="332" /></a> Presentación del Partido Pirata de Brasil
 
 
 <strong><a href="http://falkvinge.net/2012/07/28/welcome-to-the-community-partido-pirata-do-brasil/" target="_blank">Fuente Blog de Rick Falkvinge</a></strong>
@@ -47,13 +47,13 @@ El siguiente paso a partir de hoy será la de recoger 500.000 firmas (sí, eso e
 
 <strong>Dos Podcast con Paulo Rená del Partido Pirata do Brasil:</strong>
 
-<strong><a href="http://partidopirata.com.ar/5498/hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-brasil-y-el-marco-civil">Acá hablamos con Paulo Rená a días de la convención que fundará al Partido Pirata en Brasil.</a></strong>
+<strong><a href="https://partidopirata.com.ar/5498/hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-brasil-y-el-marco-civil">Acá hablamos con Paulo Rená a días de la convención que fundará al Partido Pirata en Brasil.</a></strong>
 
-<strong><a href="http://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong>
+<strong><a href="https://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong>
 
 <strong>Màs sobre la fundación del Partido Pirata do Brasil:</strong>
-<h3><a href="http://partidopirata.com.ar/5588/fenomeno-politico-en-europa-el-partido-pirata-tiene-su-fundacion-en-brasil-marcada-para-este-sabado-en-recife" rel="bookmark">Fenómeno político en Europa, el Partido Pirata tiene marcada su fundación en Brasil para este sábado, en Recife</a></h3>
+<h3><a href="https://partidopirata.com.ar/5588/fenomeno-politico-en-europa-el-partido-pirata-tiene-su-fundacion-en-brasil-marcada-para-este-sabado-en-recife" rel="bookmark">Fenómeno político en Europa, el Partido Pirata tiene marcada su fundación en Brasil para este sábado, en Recife</a></h3>
 <strong>Rick Falvkinge y el Marco Civil en Brasil:</strong>
-<h3><a href="http://partidopirata.com.ar/5547/el-marco-civil-es-unico-en-el-mundo-dice-el-fundador-del-partido-pirata" rel="bookmark">El Marco Civil es único en el mundo, dice el fundador del Partido Pirata</a></h3>
-<h3><a href="http://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" rel="bookmark">Brasil: Preguntas y respuestas sobre el Marco Civil de Internet</a></h3>
+<h3><a href="https://partidopirata.com.ar/5547/el-marco-civil-es-unico-en-el-mundo-dice-el-fundador-del-partido-pirata" rel="bookmark">El Marco Civil es único en el mundo, dice el fundador del Partido Pirata</a></h3>
+<h3><a href="https://partidopirata.com.ar/5495/brasil-preguntas-y-respuestas-sobre-el-marco-civil-de-internet" rel="bookmark">Brasil: Preguntas y respuestas sobre el Marco Civil de Internet</a></h3>
 &nbsp;

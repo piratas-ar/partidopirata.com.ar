@@ -11,12 +11,12 @@ tags:
 - formacion-de-cartel
 - gestion-colectiva
 - saaic-brasileno
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/youtube-ecad21-150x150.jpg
 wppost_name: entendiendo-un-poco-mas-la-condena-al-ecad-sadaic-brasileno-por-formacion-de-cartel
 ---
 
-<strong><a href="http://partidopirata.com.ar/8910/ecad-sadaic-braslieno-es-condenado-por-formacion-de-cartel">Nuestra entrada anterior sobre la condena al ECAD por parte del Consejo Administrativo de Defensa Económica</a></strong>
+<strong><a href="https://partidopirata.com.ar/8910/ecad-sadaic-braslieno-es-condenado-por-formacion-de-cartel">Nuestra entrada anterior sobre la condena al ECAD por parte del Consejo Administrativo de Defensa Económica</a></strong>
 
 &nbsp;
 

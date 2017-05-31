@@ -10,8 +10,8 @@ tags:
 - radio-2
 - simona-levi
 - vorterix
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
 wppost_name: entrevista-a-simona-levi-y-claudio-bernardez-en-el-programa-vorterix-de-mario-pergolini
 ---
 
@@ -46,7 +46,7 @@ Hay que aclarar que Youtube le paga a SADAIC p<strong><a href="http://partido-pi
 <ul>
 	<li><strong><a href="../3477/entrevista-a-claudio-bernardez-del-festival-creative-commons-buenos-aires-en-el-programa-vorterix-de-mario-pergolini">La entrevista que le hizo Mario Pergolini en Vorterix</a></strong></li>
 	<li><strong><a href="../3433/podcast-charlando-con-claudio-bernardez-del-festival-buenos-aires-creative-commons">Nuestro podcast con Claudio Bernárdez </a></strong></li>
-	<li><strong> <a href="http://partidopirata.com.ar/3481/entrevista-a-claudio-bernardez-del-festival-creative-commons-buenos-aires-en-el-fin-del-finde">Entrevista a Claudio Bernárdez en el programa de radio El Fin del Finde.</a></strong></li>
+	<li><strong> <a href="https://partidopirata.com.ar/3481/entrevista-a-claudio-bernardez-del-festival-creative-commons-buenos-aires-en-el-fin-del-finde">Entrevista a Claudio Bernárdez en el programa de radio El Fin del Finde.</a></strong></li>
 </ul>
 
 <hr />
@@ -56,4 +56,4 @@ Hay que aclarar que Youtube le paga a SADAIC p<strong><a href="http://partido-pi
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg"><img class="alignleft size-full wp-image-3335" title="Festival Creative Commons" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg" alt="" width="800" height="561" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg"><img class="alignleft size-full wp-image-3335" title="Festival Creative Commons" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg" alt="" width="800" height="561" /></a>

@@ -10,8 +10,8 @@ tags:
 - ladrones
 - patentes
 - piratas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/hollywood-pirates.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/hollywood-pirates-150x142.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/hollywood-pirates.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/hollywood-pirates-150x142.jpg
 wppost_name: mpaa-no-somos-piratas-ustedes-son-ladrones-o
 ---
 
@@ -19,7 +19,7 @@ wppost_name: mpaa-no-somos-piratas-ustedes-son-ladrones-o
 
 La MPAA [Motion Picture Association of America, entidad que reúne a los grandes estudios de cine de Hollywood] está indignada y ofendida por "The Pirate Bay y sus apologistas" que "tratan de justificarse aprovechando el robo digital" haciendo referencia a los fundadores de Hollywood como piratas. No es cierto, dicen. En su lugar, los primeros habitantes de Hollywood eran cineastas independientes que fueron censurados por el monopolio de los derechos de autor. Eran luchadores por la libertad, que no veían otra opción que infringir las patentes en aras de la creatividad.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/hollywood-pirates.jpg"><img class="size-full wp-image-4419" title="hollywood-pirates" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/hollywood-pirates.jpg" alt="" width="220" height="142" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/hollywood-pirates.jpg"><img class="size-full wp-image-4419" title="hollywood-pirates" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/hollywood-pirates.jpg" alt="" width="220" height="142" /></a>
 
 
 Hace dos semanas publicamos un <a href="http://torrentfreak.com/mpaa-boss-forgets-hollywoods-pirate-history-120428/">artículo de opinión</a> en la que se señaló algunos comentarios desgraciados, redactados por el jefe de la MPAA Chris Dodd.

@@ -8,8 +8,8 @@ tags:
 - musica
 - riaa
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/ted_logo.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/ted_logo-150x53.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/ted_logo.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/ted_logo-150x53.gif
 wppost_name: conferencia-ted-david-pogue-habla-sobre-la-guerra-de-la-musica
 ---
 

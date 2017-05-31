@@ -8,8 +8,8 @@ tags:
 - denuncias
 - mauricio-macri
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/image.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/image-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/image.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/image-150x150.png
 wppost_name: agresiones-en-la-sala-alberdi
 ---
 

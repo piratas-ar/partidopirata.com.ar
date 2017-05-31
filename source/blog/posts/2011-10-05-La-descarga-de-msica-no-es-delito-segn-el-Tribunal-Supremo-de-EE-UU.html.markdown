@@ -7,12 +7,12 @@ tags:
 - download
 - legalidad
 - noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta-150x150.jpg
 wppost_name: la-descarga-de-musica-no-es-delito-segun-el-tribunal-supremo-de-ee-uu
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg"><img class="aligncenter size-full wp-image-1848" title="fiesta" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg" alt="" width="507" height="285" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg"><img class="aligncenter size-full wp-image-1848" title="fiesta" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/fiesta.jpg" alt="" width="507" height="285" /></a>
 <strong><a href="http://noticias.lainformacion.com/arte-cultura-y-espectaculos/la-descarga-de-musica-no-es-delito-segun-el-tribunal-supremo-de-ee-uu_qtJGfm48zhkFCQxyEdbMK4/" target="_blank">Fuente La Información.</a></strong>
 
 &nbsp;
@@ -33,4 +33,4 @@ Sin embargo, el fiscal general Donald Verrilli ha asegurado que no existe motive
 
 <hr />
 
-Recordemos que esto fue decidido por el Tribunal Supremo de EE UU.....En la Argentina tenemos la Corte Suprema<strong><a href="http://partidopirata.com.ar/852/carta-abierta-de-paulo-coelho-a-la-industria-%E2%80%9Cla-codicia-no-entiende-que-este-mundo-ha-cambiado"> donde uno de sus miembros alaba a las editoriales.</a></strong> Cuando llegue el caso Taringa ¿qué pasará?
+Recordemos que esto fue decidido por el Tribunal Supremo de EE UU.....En la Argentina tenemos la Corte Suprema<strong><a href="https://partidopirata.com.ar/852/carta-abierta-de-paulo-coelho-a-la-industria-%E2%80%9Cla-codicia-no-entiende-que-este-mundo-ha-cambiado"> donde uno de sus miembros alaba a las editoriales.</a></strong> Cuando llegue el caso Taringa ¿qué pasará?

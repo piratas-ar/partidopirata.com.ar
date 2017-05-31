@@ -8,12 +8,12 @@ tags:
 - nueva-york
 - occupy-wall-street
 - wall-street
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3-150x150.jpg
 wppost_name: declaracion-de-principios-de-la-ocupacion-de-la-ciudad-de-nueva-york-occupywallst
 ---
 
-<img class="aligncenter" title="Occupy Wall Street" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3-245x300.jpg" alt="" width="245" height="300" /><strong></strong>
+<img class="aligncenter" title="Occupy Wall Street" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/wallst-250-3-245x300.jpg" alt="" width="245" height="300" /><strong></strong>
 
 <strong><a href="https://docs.google.com/leaf?id=1878POmYwtIvZeTtT0fFikcIu5sUdlEV-rylAu4h3fyZckNsGJMii0eAXXVlu&amp;hl=en_US&amp;pli=1" target="_blank">Fuente site oficial de Occupy New York.</a></strong>
 <p style="text-align: left;"><strong>Declaración de principios de la ocupación de la Ciudad de Nueva York</strong></p>

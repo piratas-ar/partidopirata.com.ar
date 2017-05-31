@@ -7,12 +7,12 @@ tags:
 - coordinadora-de-estudiantes-de-base
 - material-para-difusion
 - tomas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1-150x150.jpg
 wppost_name: una-sugerencia-para-los-estudiantes-secundarios-que-toman-las-escuelas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg"><img class="size-full wp-image-6642" title="Escuelas Tomadas" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg" alt="" width="340" height="255" /></a> Colegios Tomados en la Ciudad de Buenos Aires
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg"><img class="size-full wp-image-6642" title="Escuelas Tomadas" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/1768187_n_vir1.jpg" alt="" width="340" height="255" /></a> Colegios Tomados en la Ciudad de Buenos Aires
 
 
 <hr />
@@ -36,7 +36,7 @@ Lamentáblemente todo lo que tenga que ver con la gestión de Macri en la Ciudad
 
 Así sería bueno que existiera un canal directo entre los que están con conflicto con Macri y la gente. Sino todos quedamos presos a la pelea "K" no "K" .
 
-Si podemos ayudar en algo, <a href="http://partidopirata.com.ar/contacto" target="_blank">pueden escribirnos.</a>
+Si podemos ayudar en algo, <a href="https://partidopirata.com.ar/contacto" target="_blank">pueden escribirnos.</a>
 Pueden usar herramientas gratuitas pero que estén por fuera de Facebook, sino cuando alguien realiza una búsqueda en la web no aparecen esos resultados.
 
 Pueden usar Wordpress que es gratuito, también abrir una cuenta en Twitter para enviar mensajes cortos.

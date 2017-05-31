@@ -11,8 +11,8 @@ tags:
 - municipal
 - san-pablo
 - tripoli
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil-150x150.jpg
 wppost_name: algunos-sites-para-saber-mas-sobre-un-candidato-a-concejal-o-intendente-en-brasil
 ---
 

@@ -8,12 +8,12 @@ tags:
 - material-para-difusion
 - nuevas-tecnologias
 - tito-cossa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112-150x150.jpg
 wppost_name: argentores-nuevas-tecnologias-y-derecho-de-autor
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112.jpg"><img class="size-medium wp-image-4470" title="afiche112" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112-212x300.jpg" alt="" width="212" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112.jpg"><img class="size-medium wp-image-4470" title="afiche112" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/afiche112-212x300.jpg" alt="" width="212" height="300" /></a>
 
 
 Nos invitan al siguiente evento en Argentores:
@@ -93,13 +93,13 @@ Es el famoso Samba de una nota sola…
 
 <hr />
 
-1.<a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá charlamos con Erik Walter de Hadopi donde nos cuenta que las sociedades de gestion son las que se la pasan vigilando y denunciando a los que comparten algo en Internet</a>
+1.<a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá charlamos con Erik Walter de Hadopi donde nos cuenta que las sociedades de gestion son las que se la pasan vigilando y denunciando a los que comparten algo en Internet</a>
 
 2. Sobre el Canon Digital “El proyecto fue presentado por Pichetto en octubre de 2010 con el apoyo del senador Rubén Giustiniani, y tomó impulso en las últimas horas tras el apoyo de diversos artistas, músicos y actores, como Paz Martínez, Tito Cossa, Jorge Marrale, <strong>Susana Rinaldi</strong> y Zamba Quipildor.
 
 Asimismo, el proyecto contaba con la participación de las asociaciones relacionadas con los artistas, tales como la Cámara Argentina de Productores de Fonogramas y Videogramas (CAPIF) y la Sociedad Argentina de Autores y Compositores de Música (SADAIC), entre otras” <a href="http://www.lanacion.com.ar/1385436-suspenden-el-tratamiento-del-canon-digital-en-argentina" target="_blank">La Nación.</a>
 
-3.<strong><a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">El proyecto de ley de jubilación de privilegio para escritores presentado por Carlos Heller</a>, ahí se aclara que casi todos los escritores no viven de sus derechos de autor.</strong>
+3.<strong><a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii">El proyecto de ley de jubilación de privilegio para escritores presentado por Carlos Heller</a>, ahí se aclara que casi todos los escritores no viven de sus derechos de autor.</strong>
 
 4.“Porque el negocio tiene que seguir siendo lógico para todos, no puede ser que nosotros generemos contenidos y <strong>tengamos que ceder a perpetuidad nuestros derechos</strong>. No es legal. Y en esa búsqueda estamos solos porque Argentores nos ha dejado de lado, arreglando como podemos con los productores en soledad. Somos muchos los que queremos rever cuestiones más armónicas para todas las partes. Cuando digo “somos muchos” hablo de autores y de productores, los unos no existimos sin los otros. No estamos enfrentados a los productores, pero necesitamos que escuchen algún tipo de acercamiento para que todos trabajemos en paz.”
 

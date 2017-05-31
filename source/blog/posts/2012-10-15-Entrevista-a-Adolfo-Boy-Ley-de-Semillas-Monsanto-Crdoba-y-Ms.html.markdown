@@ -12,8 +12,8 @@ tags:
 - manana-tarde-y-noche
 - monsanto
 - radio-2
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/images3.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/images3-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/images3.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/images3-150x150.jpg
 wppost_name: entrevista-a-adolfo-boy-ley-de-semillas-monsanto-cordoba-y-mas
 ---
 
@@ -22,7 +22,7 @@ wppost_name: entrevista-a-adolfo-boy-ley-de-semillas-monsanto-cordoba-y-mas
 <p style="text-align: center;"><strong><a href="http://www.ivoox.com/manana-tarde-noche-entrevista-a-adolfo-boy_md_1497566_1.mp3" target="_blank">Si quieren descargar el archivo mp3</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart4.png"><img class="size-full wp-image-6852" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart4.png"><img class="size-full wp-image-6852" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart4.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/manana-tarde-noche-entrevista-a-adolfo-boy-audios-mp3_rf_1497566_1.html" target="_blank">en este link.</a></strong></p>
 El maíz, verdadero tesoro que América regaló al mundo, es "el agronegocio del momento". Con llamativa coinc idencia Monsanto y el Ministerio de Agricultura consideran que "todos los proyectos de etanol que se van a encarar tendrán - a diferencia del biodiesel - un consumo asegurado" . La provincia de Córdoba es "ocupada" en forma masiva por plantas elaboradoras de etanol a partir de semillas de maíz, que Monsanto desarrollará, acondicionará y venderá para este fin. Los intendentes y habitantes, de las localidades ocupadas "son los últimos que se enteran". Adolfo Boy, ingeniero, integrante del GRR (Grupo de Reflexión Rural) en "Mañana, Tarde y Noche".

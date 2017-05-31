@@ -9,12 +9,12 @@ tags:
 - mdq
 - neutralidad-de-la-red
 - sinde
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura-150x150.png
 wppost_name: convocatoria-general-al-contracongreso-de-la-cultura-mdq-congresos2011
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura-1024x317.png" alt="" title="contra-congreso-cultura" width="600" height="184" class="aligncenter size-large wp-image-1727" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura.png"><img src="https://partidopirata.com.ar/wp-content/uploads/2011/09/contra-congreso-cultura-1024x317.png" alt="" title="contra-congreso-cultura" width="600" height="184" class="aligncenter size-large wp-image-1727" /></a>
 
 <blockquote>Porque quieren hacer de la cultura un negocio
 Porque nos quieren imponer que es cultura

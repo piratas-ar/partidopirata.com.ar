@@ -11,12 +11,12 @@ tags:
 - mc-donald%c2%b4s
 - olimpiadas
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/mcdonalds.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/mcdonalds-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/mcdonalds.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/mcdonalds-150x150.jpg
 wppost_name: olimpiadas-de-londres-activistas-tratan-de-prohibir-mcdonalds-y-coca-cola-en-los-juegos-olimpicos
 ---
 
-<strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/mcdonalds.jpg"><img class="aligncenter size-full wp-image-5184" title="McDonalds Holds National Hiring Day To Add 50,000 Employees" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/mcdonalds.jpg" alt="" width="594" height="420" /></a>
+<strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/mcdonalds.jpg"><img class="aligncenter size-full wp-image-5184" title="McDonalds Holds National Hiring Day To Add 50,000 Employees" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/mcdonalds.jpg" alt="" width="594" height="420" /></a>
 
 <strong><a href="http://965kvki.com/activists-seek-to-ban-mcdonalds-and-coca-cola-from-london-olympics/" target="_blank">Fuente </a></strong>
 

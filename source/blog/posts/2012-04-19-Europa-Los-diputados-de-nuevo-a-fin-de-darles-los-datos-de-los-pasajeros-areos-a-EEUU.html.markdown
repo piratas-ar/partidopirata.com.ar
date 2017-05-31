@@ -8,8 +8,8 @@ tags:
 - estados-unidos
 - union-europea
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: europa-los-diputados-de-nuevo-a-fin-de-darles-los-datos-de-los-pasajeros-aereos-a-ee-uu
 ---
 

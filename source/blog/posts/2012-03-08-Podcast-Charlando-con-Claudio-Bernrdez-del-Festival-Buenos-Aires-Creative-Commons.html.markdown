@@ -14,8 +14,8 @@ tags:
 - mario-pergolini
 - podcast-2
 - podcasts
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/afiche_VP_021-150x150.jpg
 wppost_name: podcast-charlando-con-claudio-bernardez-del-festival-buenos-aires-creative-commons
 ---
 
@@ -45,7 +45,7 @@ Presione en <em>play</em> si quiere escucharlo sin descargar o :
 
 <ul>
 	<li><strong><a href="http://www.bea.org.ar/2012/03/logica-para-no-logicos/" target="_blank">El artículo de Beatriz Busaniche </a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/3209/3209"> Documental <em>Esta Tierra es Nuestra Tierra</em></a> sobre los bienes comunes.</strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/3209/3209"> Documental <em>Esta Tierra es Nuestra Tierra</em></a> sobre los bienes comunes.</strong></li>
 </ul>
 
 <hr />

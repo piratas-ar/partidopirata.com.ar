@@ -11,8 +11,8 @@ tags:
 - partido-pirata-internacional
 - podcasts
 - yerba-mate
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten-150x150.jpg
 wppost_name: podcast-con-fabricio-do-canto-del-partido-pirata-aleman
 ---
 
@@ -29,12 +29,12 @@ wppost_name: podcast-con-fabricio-do-canto-del-partido-pirata-aleman
 &nbsp;
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg"><img class="aligncenter size-full wp-image-1872" title="Piraten" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg" alt="" width="511" height="707" /></a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg"><img class="aligncenter size-full wp-image-1872" title="Piraten" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg" alt="" width="511" height="707" /></a>
 <strong>Fabricio do Canto y su cartel com candidato a diputado para la Ciudad de Berlín</strong></p>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1871/reportaje-a-fabricio-do-canto-del-partido-pirata-en-berlin">Acá dejamos un reportaje que le hicieran a Fabricio del 2011 en el suplemento "O Estado de São Paulo"</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1871/reportaje-a-fabricio-do-canto-del-partido-pirata-en-berlin">Acá dejamos un reportaje que le hicieran a Fabricio del 2011 en el suplemento "O Estado de São Paulo"</a></strong></p>
 <p style="text-align: center;"><strong><a href="http://metamate.cc/" target="_blank">Sobre MetaMate y el proyecto de cerveza con mate</a>
 </strong></p>
 

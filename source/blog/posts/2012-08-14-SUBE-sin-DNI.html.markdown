@@ -8,8 +8,8 @@ tags:
 - privacidad
 - sube
 - subte
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/sube-tetris.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/sube-tetris-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/sube-tetris.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/sube-tetris-150x150.jpg
 wppost_name: sube-sin-dni
 ---
 
@@ -20,9 +20,9 @@ Desde el Partido Pirata queremos expresar nuestra preocupación por esta situaci
 Desde el gobierno defienden esto aduciendo que estos datos serian necesarios para "individualizar" los subsidios aunque no explican cómo.
 
 Dado que:
-* Existen antecedentes en que se utilizaron recursos del estado para <a href="http://partidopirata.com.ar/3038/gendarmeria-nos-cuida-tambien-nos-vigila">vigilar</a> e <a href="http://partidopirata.com.ar/5215/para-que-se-puede-usar-la-informacion-que-recopila-el-estado">intimidar</a> a quienes no estuvieran de acuerdo con el gobierno.
-* No se sabe <a href="http://partidopirata.com.ar/5195/quienes-tienen-acceso-a-nuestra-informacion-de-la-tarjeta-sube">quienes tienen acceso a estos datos</a> ni <a href="http://partidopirata.com.ar/4843/como-cuidan-nuestros-datos-las-empresas-que-los-recolectan-tarjeta-sube">de que forma se protegen</a>.
-* Se han dado <a href="http://partidopirata.com.ar/2976/anonymous-publica-base-de-datos-de-sube">filtraciones</a> en el pasado. 
+* Existen antecedentes en que se utilizaron recursos del estado para <a href="https://partidopirata.com.ar/3038/gendarmeria-nos-cuida-tambien-nos-vigila">vigilar</a> e <a href="https://partidopirata.com.ar/5215/para-que-se-puede-usar-la-informacion-que-recopila-el-estado">intimidar</a> a quienes no estuvieran de acuerdo con el gobierno.
+* No se sabe <a href="https://partidopirata.com.ar/5195/quienes-tienen-acceso-a-nuestra-informacion-de-la-tarjeta-sube">quienes tienen acceso a estos datos</a> ni <a href="https://partidopirata.com.ar/4843/como-cuidan-nuestros-datos-las-empresas-que-los-recolectan-tarjeta-sube">de que forma se protegen</a>.
+* Se han dado <a href="https://partidopirata.com.ar/2976/anonymous-publica-base-de-datos-de-sube">filtraciones</a> en el pasado. 
 * <strong>Incluso si supusiéramos la buena voluntad del gobierno y la seguridad de los datos, nada nos asegura que los siguientes gobiernos cumplan con esto</strong>.
 * La diferencia de tarifas entre quienes tienen la tarjeta y quienes no es extorsiva. 
 * No pareciera haber voluntad de modificar el sistema para garantizar la privacidad de los usuarios.

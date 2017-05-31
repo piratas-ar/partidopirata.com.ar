@@ -10,8 +10,8 @@ tags:
 - mar-del-plata
 - radio
 - tontos-con-poder
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/tontos_04_TW_bigger.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/tontos_04_TW_bigger.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/tontos_04_TW_bigger.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/tontos_04_TW_bigger.jpg
 wppost_name: sabado-de-13-a-14-hs-estaremos-en-el-programa-tontos-con-poder-charlando-sobre-el-contra-congreso
 ---
 

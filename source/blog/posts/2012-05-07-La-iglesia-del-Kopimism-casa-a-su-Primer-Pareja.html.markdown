@@ -8,17 +8,17 @@ tags:
 - iglesia-del-kopimisim
 - kopimism
 - primer-casamiento
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding-150x150.jpg
 wppost_name: la-iglesia-del-kopimism-casa-a-su-primer-pareja
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/2693/el-intercambio-de-archivos-es-una-religion-reconocida-en-suecia">La anterior entrada en nuestro blog sobre la Iglesia Misionera de Kopimism </a>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/2693/el-intercambio-de-archivos-es-una-religion-reconocida-en-suecia">La anterior entrada en nuestro blog sobre la Iglesia Misionera de Kopimism </a>
 <strong></strong></p>
 <p style="text-align: left;"><strong><a href="https://torrentfreak.com/file-sharing-church-weds-first-couple-120507/" target="_blank">Fuente Torrentfreak.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg"><img class="size-full wp-image-4370" title="copy-wedding" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg" alt="" width="250" height="167" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg"><img class="size-full wp-image-4370" title="copy-wedding" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/copy-wedding.jpg" alt="" width="250" height="167" /></a>
 
 
 <strong>A principios de este año, la Iglesia del Kopimism fue aprobada por las autoridades [suecas] como una religión oficial. Desde entonces, el movimiento ha reunido a miles de creyentes de todo el mundo y dos de ellos ya han entrado en un matrimonio "Kopimism" . La Iglesia anima a los recién casados ​​a "copiar y remezclar algunos  ADN de las células y crear un nuevo ser humano."</strong>

@@ -7,8 +7,8 @@ tags:
 - documentos-libres
 - libertad-de-expresion
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault-150x150.jpg
 wppost_name: libertad-de-expresion-y-copyright-documentos-libres-cap-7
 ---
 

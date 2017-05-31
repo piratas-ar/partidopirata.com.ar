@@ -10,8 +10,8 @@ tags:
 - sala-alberdi
 - sala-los-andes
 - vaciamiento
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/ULTIMO-MOMENTO.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/ULTIMO-MOMENTO-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/ULTIMO-MOMENTO.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/ULTIMO-MOMENTO-150x150.jpg
 wppost_name: sala-alberdi-noticias-de-ultimo-momento-desalojo-inminente
 ---
 
@@ -22,7 +22,7 @@ De esta manera reconfirma que la sala Los Andes es el espacio destinado para la 
 <p style="text-align: center;"><strong><a href="https://www.facebook.com/groups/137809316333324/" target="_blank">Facebook: Sala Alberdi [Toma y Autogestión]</a></strong></p>
 <p style="text-align: center;">(Lo más fácil es que se comuniquen vía Facebook con la gente de la toma de la Sala Alberdi)</p>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/ULTIMO-MOMENTO.jpg"><img class="size-medium wp-image-4664 " title="ULTIMO MOMENTO" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/ULTIMO-MOMENTO-271x300.jpg" alt="" width="271" height="300" />Click para agrandar</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/ULTIMO-MOMENTO.jpg"><img class="size-medium wp-image-4664 " title="ULTIMO MOMENTO" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/ULTIMO-MOMENTO-271x300.jpg" alt="" width="271" height="300" />Click para agrandar</a>
 
 
 <iframe width="620" height="460" src="http://www.youtube.com/embed/lgk_AvlDrMY" frameborder="0" allowfullscreen></iframe>

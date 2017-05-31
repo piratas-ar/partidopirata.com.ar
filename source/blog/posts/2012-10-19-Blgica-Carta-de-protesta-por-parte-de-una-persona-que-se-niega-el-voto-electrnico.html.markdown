@@ -11,15 +11,15 @@ tags:
 - no-al-voto-electronico
 - urnas-electronicas
 - voto-electronico
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono-150x150.png
 wppost_name: belgica-carta-de-protesta-por-parte-de-una-persona-que-se-niega-el-voto-electronico
 ---
 
 El 14 de octubre hubo elecciones en Bélgica donde se usó en algunos municipios las urnas electrónicas.
 
 Algunos ciudadanos no están de acuerdo con el sistema, reproducimos acá una carta de un ciudadano que se niega a votar usandournas electrónicas:
-<p style="text-align: center;"><strong> Es una primera traducción, si alguien quiere revisarla y merjorarla, <a href="http://partidopirata.com.ar/contacto" target="_blank">pónganse en contarcto con nosotros por favor.</a></strong></p>
+<p style="text-align: center;"><strong> Es una primera traducción, si alguien quiere revisarla y merjorarla, <a href="https://partidopirata.com.ar/contacto" target="_blank">pónganse en contarcto con nosotros por favor.</a></strong></p>
 
 <strong><a href="http://www.poureva.be/spip.php?article722&amp;lang=fr" target="_blank">Fuente Por una ética en el voto</a></strong>
 
@@ -69,5 +69,5 @@ Michael Staszews
 
 <a href="http://www.poureva.be/spip.php?mot40">Tout pour la campagne 2012</a>
 
-<strong>Es una primera traducción, si alguien quiere revisarla y merjorarla, <a href="http://partidopirata.com.ar/contacto" target="_blank">pónganse en contarcto con nosotros por favor.</a></strong>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6732/sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben">Más sobre el voto electrónico.</a></strong></p>
+<strong>Es una primera traducción, si alguien quiere revisarla y merjorarla, <a href="https://partidopirata.com.ar/contacto" target="_blank">pónganse en contarcto con nosotros por favor.</a></strong>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6732/sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben">Más sobre el voto electrónico.</a></strong></p>

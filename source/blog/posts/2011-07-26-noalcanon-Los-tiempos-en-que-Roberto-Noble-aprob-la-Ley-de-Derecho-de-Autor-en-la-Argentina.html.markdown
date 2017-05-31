@@ -15,8 +15,8 @@ tags:
 - noble
 - roberto-noble
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-115x112.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-115x112.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-115x112.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-115x112.png
 wppost_name: noalcanon-los-tiempos-en-que-roberto-noble-aprobo-la-ley-de-derecho-de-autor-en-la-argentina
 ---
 

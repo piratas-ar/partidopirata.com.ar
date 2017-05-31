@@ -10,12 +10,12 @@ tags:
 - dominio-publico
 - india
 - madras
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/iitmadras.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/iitmadras-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/iitmadras.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/iitmadras-150x150.png
 wppost_name: instituto-tecnologico-de-la-india-quiere-que-todas-las-investigaciones-cientificas-sean-libres
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/iitmadras.png"><img class="aligncenter size-full wp-image-3267" title="Instituto Tecnológico Madrás" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/iitmadras.png" alt="" width="200" height="200" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/iitmadras.png"><img class="aligncenter size-full wp-image-3267" title="Instituto Tecnológico Madrás" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/iitmadras.png" alt="" width="200" height="200" /></a>
 
 <a href="http://blogs.estadao.com.br/tatiana-dias/instituto-indiano-quer-tornar-pesquisas-cientificas-livres/" target="_blank">Fuente Tatiana de Mello Dias</a>
 

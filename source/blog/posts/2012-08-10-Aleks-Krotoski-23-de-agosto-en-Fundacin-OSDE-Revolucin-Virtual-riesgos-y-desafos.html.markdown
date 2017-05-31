@@ -9,8 +9,8 @@ tags:
 - fundacion-osde
 - revolucion-virtual
 - video
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/tech_940x120.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/tech_940x120-150x120.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/tech_940x120.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/tech_940x120-150x120.jpg
 wppost_name: aleks-krotoski-23-de-agosto-en-fundacion-osde-revolucion-virtual-riesgos-y-desafios
 ---
 

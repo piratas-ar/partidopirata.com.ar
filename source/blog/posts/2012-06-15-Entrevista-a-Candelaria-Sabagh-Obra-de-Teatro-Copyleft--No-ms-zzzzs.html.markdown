@@ -13,8 +13,8 @@ tags:
 - teatro
 - teatro-con-creative-commons
 - victoria-tombolini
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs-142x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs-142x150.jpg
 wppost_name: entrevista-a-candelaria-sabagh-obra-de-teatro-copyleft-no-mas-zzzzs
 ---
 
@@ -32,7 +32,7 @@ Presionen en <em>play</em> para escucharlo sin descargar o:
 Si el enlace anterior no funciona, cliqueen en <em>descargar</em>
 <a href="http://www.ivoox.com/entrevista-a-candelaria-sabagh-emilia-sanchez-de-audios-mp3_rf_1287046_1.html" target="_blank">en este link.</a></center><center> </center>&nbsp;
 <div class="separator" style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-9ATHugSHpwI/T9pYetiXd4I/AAAAAAAAEtU/g_3JYNa99ig/s1600/chart.png"><img src="http://3.bp.blogspot.com/-9ATHugSHpwI/T9pYetiXd4I/AAAAAAAAEtU/g_3JYNa99ig/s1600/chart.png" alt="" border="0" /></a></div>
-<center>Código QR de la dirección donde está el mp3.</center><center></center><center></center><center><strong>Candelaria y Emilia estarán en el evento <a href="http://partidopirata.com.ar/4744/cultura-libre-para-todos-en-nacional-rock-martes-19-de-junio-de-19-a-21-hs"> Cultura Libre para todos, el martes 19 de junio.</a></strong></center>
+<center>Código QR de la dirección donde está el mp3.</center><center></center><center></center><center><strong>Candelaria y Emilia estarán en el evento <a href="https://partidopirata.com.ar/4744/cultura-libre-para-todos-en-nacional-rock-martes-19-de-junio-de-19-a-21-hs"> Cultura Libre para todos, el martes 19 de junio.</a></strong></center>
 
 <hr />
 
@@ -50,7 +50,7 @@ Una charla imperdible (posta, abran la cabeza!) con la directora, Candelaria Sab
 
 <div class="separator" style="clear: both; text-align: center;">
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg"><img class="size-full wp-image-4763" title="no mas zzzzs" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg" alt="" width="142" height="200" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg"><img class="size-full wp-image-4763" title="no mas zzzzs" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/no-mas-zzzzs.jpg" alt="" width="142" height="200" /></a>
 
 
 </div>

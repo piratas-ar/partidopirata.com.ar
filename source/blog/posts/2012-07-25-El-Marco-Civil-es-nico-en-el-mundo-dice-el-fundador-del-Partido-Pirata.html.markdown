@@ -7,8 +7,8 @@ tags:
 - partido-pirata-do-brasil
 - porto-alegre
 - rick-falkvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n-150x150.jpg
 wppost_name: el-marco-civil-es-unico-en-el-mundo-dice-el-fundador-del-partido-pirata
 ---
 
@@ -17,22 +17,22 @@ wppost_name: el-marco-civil-es-unico-en-el-mundo-dice-el-fundador-del-partido-pi
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/539035_478116942215820_2010189636_n.jpg"><img class="aligncenter  wp-image-5548" title="Rick Falkvinge en Brasil" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/539035_478116942215820_2010189636_n-300x225.jpg" alt="" width="376" height="281" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/539035_478116942215820_2010189636_n.jpg"><img class="aligncenter  wp-image-5548" title="Rick Falkvinge en Brasil" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/539035_478116942215820_2010189636_n-300x225.jpg" alt="" width="376" height="281" /></a>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/555603_478116905549157_1060185226_n.jpg"><img class=" wp-image-5550" title="Rick Falkvinge en la FISL 13" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/555603_478116905549157_1060185226_n-300x225.jpg" alt="" width="404" height="303" /></a> Rick Falkvinge en la FISL 13
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/555603_478116905549157_1060185226_n.jpg"><img class=" wp-image-5550" title="Rick Falkvinge en la FISL 13" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/555603_478116905549157_1060185226_n-300x225.jpg" alt="" width="404" height="303" /></a> Rick Falkvinge en la FISL 13
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n.jpg"><img class=" wp-image-5553" title="Falkvinge en la FISL 3" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n-300x225.jpg" alt="" width="409" height="307" /></a> <br />Felipe Magnus Gil, Rick Falkvinge, Leandro Chemalle, Paulo Rená
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n.jpg"><img class=" wp-image-5553" title="Falkvinge en la FISL 3" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/530200_478117082215806_746469765_n-300x225.jpg" alt="" width="409" height="307" /></a> <br />Felipe Magnus Gil, Rick Falkvinge, Leandro Chemalle, Paulo Rená
 
 <p style="text-align: center;"><strong><a href="https://www.facebook.com/photo.php?fbid=478117082215806&amp;set=a.478114712216043.122239.180044272023090&amp;type=1&amp;theater" target="_blank">Más fotos en esta página en Facebook.</a></strong></p>
 
 
 <hr />
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Más información sobre qué es el Marco Civil en esta charla que mantuvimos con Paulo Rená.</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Más información sobre qué es el Marco Civil en esta charla que mantuvimos con Paulo Rená.</a></strong></p>
 <p style="text-align: center;"><strong>Rick Falkvinge El Marco Civil es único en el mundo, dice el fundador del Partido Pirata </strong></p>
 <a href="http://tecnologia.terra.com.br/fisl/noticias/0,,OI6019746-EI20592,00-Marco+Civil+e+unico+no+mundo+diz+fundador+do+Partido+Pirata.html" target="_blank">Fuente Terra.</a>
 <div><dl><dt>Ismael Cardoso</dt><dd>Direto de Porto Alegre</dd></dl></div>
@@ -64,7 +64,7 @@ Además de eso, ellos pretenden divulgar una gran investigación en 2014 sobre e
 </div>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5498/hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-brasil-y-el-marco-civil">Acá hablamos con Paulo Rená sobre el proceso para fundar al Partido Pirata do Brasil
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5498/hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-brasil-y-el-marco-civil">Acá hablamos con Paulo Rená sobre el proceso para fundar al Partido Pirata do Brasil
 </a></strong></p>
 
 

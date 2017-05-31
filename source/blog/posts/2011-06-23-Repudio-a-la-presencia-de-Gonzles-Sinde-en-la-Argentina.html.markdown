@@ -8,12 +8,12 @@ tags:
 - denuncias
 - gonzalez-sinde
 - jorge-coscia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg
 wppost_name: repudio-a-la-presencia-de-gonzales-sinde-en-la-argentina
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg"><img class="alignleft size-medium wp-image-1196" title="angeles gonzalez sinde" src="http://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde-300x233.jpg" alt="" width="300" height="233" /></a>En el IV Congreso Iberoamericano de Cultura que se realizará en Mar del Plata del 15 al 17 de Setiembre nos encontramos con una visitante <em>ilustre:</em>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde.jpg"><img class="alignleft size-medium wp-image-1196" title="angeles gonzalez sinde" src="https://partidopirata.com.ar/wp-content/uploads/2011/06/angeles-gonzalez-sinde-300x233.jpg" alt="" width="300" height="233" /></a>En el IV Congreso Iberoamericano de Cultura que se realizará en Mar del Plata del 15 al 17 de Setiembre nos encontramos con una visitante <em>ilustre:</em>
 <strong>Ángeles González Sinde </strong>
 
 <a href="http://culturaiberoamerica.gob.ar/?page_id=24" target="_blanK">Según lo que ponen en la ficha del Congreso:</a><strong> </strong>
@@ -53,8 +53,8 @@ Según lo que dice la nota de Página 12 sobre la presentación del Congreso rea
 <p style="text-align: center;">&nbsp;</p>
 
 <ul>
-	<li><a href="http://partidopirata.com.ar/1089/cuanto-se-paga-por-canon-digital-en-espana">Cuanto se paga por Canon Digital en España</a></li>
-	<li><a href="http://partidopirata.com.ar/1074/cuiden-las-billeteras-llega-teddy-bautista-a-la-argentina">Sobre el canon digital en España</a></li>
+	<li><a href="https://partidopirata.com.ar/1089/cuanto-se-paga-por-canon-digital-en-espana">Cuanto se paga por Canon Digital en España</a></li>
+	<li><a href="https://partidopirata.com.ar/1074/cuiden-las-billeteras-llega-teddy-bautista-a-la-argentina">Sobre el canon digital en España</a></li>
 	<li><a href="../872/jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor" target="_blank">A Jorge Coscia , le gusta mucho el Canon Digital..</a></li>
 </ul>
 <p style="text-align: center;"><strong><a href="http://culturaiberoamerica.gob.ar/" target="_blank">Site del Congreso de Cultura Iberoamericana.</a></strong></p>

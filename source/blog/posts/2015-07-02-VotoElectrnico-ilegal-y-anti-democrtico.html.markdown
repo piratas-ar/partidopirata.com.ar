@@ -5,8 +5,8 @@ tags:
 - democracia-2
 - denuncias
 - destacados
-image: http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-economia-e1435870137895.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-economia-e1435870137895-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2015/07/voto-economia-e1435870137895.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2015/07/voto-economia-e1435870137895-150x150.jpg
 wppost_name: voto-electronico-ilegal-y-anti-democratico
 ---
 
@@ -18,7 +18,7 @@ Entonces tendría que haber vuelto a la legislatura, pero ante la dificultad de 
 
 Lanzaron un concurso hecho a medida del sistema Vot.Ar de la empresa MSA, que a pesar de llamarlo voto electrónico en Salta y Ecuador, lo renombró como Boleta Única Electrónica y pusieron a trabajar su maquinaria publicitaria. Y así una ley que nos traía boleta única nos dejo con voto electrónico y unas elecciones entre 5 y 10 veces más caras gracias a estos tres actores.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/votoelectronico.png"><img class="aligncenter wp-image-9606 size-full" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/votoelectronico-e1435871113764.png" alt="Voto Electronico en la ciudad" width="620" height="493" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2015/07/votoelectronico.png"><img class="aligncenter wp-image-9606 size-full" src="https://partidopirata.com.ar/wp-content/uploads/2015/07/votoelectronico-e1435871113764.png" alt="Voto Electronico en la ciudad" width="620" height="493" /></a>
 
 Más allá de la ilegalidad en la implementación del voto electrónico en Capital Federal creemos oportuno expresar las razones por las que <strong>nos oponemos al voto electrónico</strong> y a este sistema en particular:
 <ul>
@@ -33,16 +33,16 @@ Más allá de la ilegalidad en la implementación del voto electrónico en Capit
 
 Vía Libre y varias personas están haciendo una campaña para entregar una carta al presidente de mesa y que este deje constancia en el acta. Puede bajarse una copia de la carta a imprimir desde aquí: <a href="http://www.vialibre.org.ar/2015/07/01/nota-de-protesta-contra-el-voto-electronico/" target="_blank">http://www.vialibre.org.ar/2015/07/01/nota-de-protesta-contra-el-voto-electronico/</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-mundo1.png"><img class="wp-image-9608 size-full" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-mundo1.png" alt="voto-mundo" width="600" height="417" /></a> 16 países lo probaron y dejaron. 13 lo utilizan en parte o todo el país.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2015/07/voto-mundo1.png"><img class="wp-image-9608 size-full" src="https://partidopirata.com.ar/wp-content/uploads/2015/07/voto-mundo1.png" alt="voto-mundo" width="600" height="417" /></a> 16 países lo probaron y dejaron. 13 lo utilizan en parte o todo el país.
 
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-latam.png"><img class="size-full wp-image-9609" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-latam.png" alt="América Latina usa mayoritariamente Boleta Única en papel." width="600" height="599" /></a> América Latina usa mayoritariamente Boleta Única en papel.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2015/07/voto-latam.png"><img class="size-full wp-image-9609" src="https://partidopirata.com.ar/wp-content/uploads/2015/07/voto-latam.png" alt="América Latina usa mayoritariamente Boleta Única en papel." width="600" height="599" /></a> América Latina usa mayoritariamente Boleta Única en papel.
 
 
 &nbsp;
 
 Imágenes para las redes sociales creadas por @rusosnith
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/bateria.jpg"><img class="alignnone size-thumbnail wp-image-9612" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/bateria-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/boleta.jpg"><img class="alignnone size-thumbnail wp-image-9613" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/boleta-150x150.jpg" alt="boleta" width="150" height="150" /></a> <a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/dvds.jpg"><img class="alignnone size-thumbnail wp-image-9614" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/dvds-150x150.jpg" alt="dvds" width="150" height="150" /></a> <a href="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-economia1.jpg"><img class="alignnone size-thumbnail wp-image-9615" src="http://partidopirata.com.ar/wp-content/uploads/2015/07/voto-economia1-150x150.jpg" alt="voto-economia" width="150" height="150" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2015/07/bateria.jpg"><img class="alignnone size-thumbnail wp-image-9612" src="https://partidopirata.com.ar/wp-content/uploads/2015/07/bateria-150x150.jpg" alt="" width="150" height="150" /></a> <a href="https://partidopirata.com.ar/wp-content/uploads/2015/07/boleta.jpg"><img class="alignnone size-thumbnail wp-image-9613" src="https://partidopirata.com.ar/wp-content/uploads/2015/07/boleta-150x150.jpg" alt="boleta" width="150" height="150" /></a> <a href="https://partidopirata.com.ar/wp-content/uploads/2015/07/dvds.jpg"><img class="alignnone size-thumbnail wp-image-9614" src="https://partidopirata.com.ar/wp-content/uploads/2015/07/dvds-150x150.jpg" alt="dvds" width="150" height="150" /></a> <a href="https://partidopirata.com.ar/wp-content/uploads/2015/07/voto-economia1.jpg"><img class="alignnone size-thumbnail wp-image-9615" src="https://partidopirata.com.ar/wp-content/uploads/2015/07/voto-economia1-150x150.jpg" alt="voto-economia" width="150" height="150" /></a>

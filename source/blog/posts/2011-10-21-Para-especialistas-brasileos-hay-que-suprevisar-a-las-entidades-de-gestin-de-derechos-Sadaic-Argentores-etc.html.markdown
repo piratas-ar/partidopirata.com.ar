@@ -11,8 +11,8 @@ tags:
 - fiscalizar
 - sadaic
 - sociedad-de-control
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/Teddy_bautista-150x150.jpg
 wppost_name: para-especialistas-brasilenos-hay-que-suprevisar-a-las-entidades-de-gestion-de-derechos-sadaic-argentores-etc
 ---
 
@@ -66,4 +66,4 @@ El martes (18), la CPI determinó la información fiscal de los directores del E
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png"><img title="brasil-copyright" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png" alt="Tomado de &quot;Derecho de Autor" width="500" height="404" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png"><img title="brasil-copyright" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png" alt="Tomado de &quot;Derecho de Autor" width="500" height="404" /></a>

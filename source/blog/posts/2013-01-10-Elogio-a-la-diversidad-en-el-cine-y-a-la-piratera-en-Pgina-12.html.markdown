@@ -9,8 +9,8 @@ tags:
 - pagina-12
 - peliculas-no-estrenadas
 - salvese-quien-pueda-digital
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Esquema_distribucion_altavoces_cine_Imm_Sound.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Esquema_distribucion_altavoces_cine_Imm_Sound-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Esquema_distribucion_altavoces_cine_Imm_Sound.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Esquema_distribucion_altavoces_cine_Imm_Sound-150x150.jpg
 wppost_name: elogio-a-la-diversidad-en-el-cine-y-a-la-pirateria-en-pagina-12
 ---
 
@@ -21,7 +21,7 @@ Aunque se quieran comprar no se podría acceder ya que no están en venta:
 
 La duda es ¿por qué usar la expresión de "<em>sálvese quien pueda digital"?</em> ¿por qué no expresar que si no fuera por lo digital y por las opciones para descargar películas toda esa cultura sería inaccesible para muchos?.
 
-Algo que ya comentaron <a href="http://partidopirata.com.ar/7831/cuatro-razones-mas-por-las-cuales-the-pirate-bay-es-efectivamente-una-biblioteca-publica-y-una-muy-buena" target="_blank">Rick Falkvinge</a> y <a href="http://partidopirata.com.ar/7996/por-que-este-silencio-sobre-the-pirate-bay-como-distribuidor-de-cultura" target="_blank">Kristina Svartholm </a> sobre la valoración a The Pirate Bay (y otros lugares) como difusores de cultura.
+Algo que ya comentaron <a href="https://partidopirata.com.ar/7831/cuatro-razones-mas-por-las-cuales-the-pirate-bay-es-efectivamente-una-biblioteca-publica-y-una-muy-buena" target="_blank">Rick Falkvinge</a> y <a href="https://partidopirata.com.ar/7996/por-que-este-silencio-sobre-the-pirate-bay-como-distribuidor-de-cultura" target="_blank">Kristina Svartholm </a> sobre la valoración a The Pirate Bay (y otros lugares) como difusores de cultura.
 
 Pero el artículo es positivo a pesar del "<em>sálvese quien pueda digital"</em>, algunos párrafos:
 

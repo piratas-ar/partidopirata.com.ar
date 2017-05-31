@@ -7,14 +7,14 @@ tags:
 - campanas
 - libertad
 - p2p
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500-195x110.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500-195x110.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500-195x110.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/support_aaron-500-195x110.png
 wppost_name: aaron-swartz-sobre-las-redes-p2p-napster-e-internet
 ---
 
 Aaron Swartz, creador de DemandProgress, enfrenta 35 años de prisión por descargar 4 millones de papers de la red académica paga JSTOR. El gobierno de los Estados Unidos lo acusa de <em>“tener la intención de compartirlos”</em>.
 
-<a href="http://partidopirata.com.ar/1463/aaron-swartz-acusado-de-descargar-demasiados-papers" target="_blank">Más información en esta entrada del blog.</a>
+<a href="https://partidopirata.com.ar/1463/aaron-swartz-acusado-de-descargar-demasiados-papers" target="_blank">Más información en esta entrada del blog.</a>
 
 Aaron Swartz - On Peer To Peer, Digital Rights Management and Web 2 0
 

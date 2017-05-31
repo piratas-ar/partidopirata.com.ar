@@ -11,8 +11,8 @@ tags:
 - soberania-alimentaria
 - subtitulos
 - trueque
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/MV5BMTQyNzMzODU4OV5BMl5BanBnXkFtZTcwOTU1ODA1OA@@._V1._SY317_CR160214317_.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/MV5BMTQyNzMzODU4OV5BMl5BanBnXkFtZTcwOTU1ODA1OA@@._V1._SY317_CR160214317_-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/MV5BMTQyNzMzODU4OV5BMl5BanBnXkFtZTcwOTU1ODA1OA@@._V1._SY317_CR160214317_.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/MV5BMTQyNzMzODU4OV5BMl5BanBnXkFtZTcwOTU1ODA1OA@@._V1._SY317_CR160214317_-150x150.jpg
 wppost_name: de-ajustes-subtitulos-y-la-serie-de-tv-revolution
 ---
 

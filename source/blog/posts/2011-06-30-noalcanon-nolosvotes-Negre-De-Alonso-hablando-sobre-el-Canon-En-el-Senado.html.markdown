@@ -7,8 +7,8 @@ tags:
 - negre-de-alonso
 - no-al-canon
 - no-los-votes
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
 wppost_name: noalcanon-nolosvotes-negre-de-alonso-hablando-sobre-el-canon-en-el-senado
 ---
 

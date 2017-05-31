@@ -12,12 +12,12 @@ tags:
 - san-pablo
 - un-metro-y-medio
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site-150x140.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site-150x140.jpg
 wppost_name: un-metro-y-medio-que-aproxima-video-2-sobre-el-respeto-a-los-ciclistas-en-la-ciudad
 ---
 
-<strong><a href="http://partidopirata.com.ar/3604/documentales-sobre-bicicletas-15-metros-la-distancia-que-aproxima">Primer video de la serie</a></strong>
+<strong><a href="https://partidopirata.com.ar/3604/documentales-sobre-bicicletas-15-metros-la-distancia-que-aproxima">Primer video de la serie</a></strong>
 
 <center>
 <iframe src="http://www.youtube.com/embed/Tqaxg5UIb00" frameborder="0" width="560" height="315"></iframe></center><center></center><center>Video realizado por la <strong><a href="http://www.cicloliga.org/" target="_blank">CicloLiga de San Pablo-Brasil</a></strong></center>

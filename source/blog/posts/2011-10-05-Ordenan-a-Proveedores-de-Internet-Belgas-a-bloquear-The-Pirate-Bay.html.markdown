@@ -10,12 +10,12 @@ tags:
 - torrent
 - torrent-freak
 - torrents
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_-150x150.png
 wppost_name: ordenan-a-proveedores-de-internet-belga-a-bloquear-the-pirate-bay
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="aligncenter size-full wp-image-729" title="Logo de The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png"><img class="aligncenter size-full wp-image-729" title="Logo de The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/250px-The_Pirate_Bay_logo.svg_.png" alt="The Pirate Bay" width="250" height="283" /></a>
 <strong><a href="https://torrentfreak.com/belgian-isps-ordered-to-block-the-pirate-bay-111004/" target="_blank">Fuente Torrent Freak.</a></strong>
 Un tribunal ha anulado una sentencia de 2010, que declaraba que el bloqueo de The Pirate Bay a nivel del ISP [proveedores de internet] era "desproporcionada". El Tribunal de Apelación de Amberes se colocó del lado de la Federación Belga contra la Piratería en su afán por obligar a dos ISPs a bloquear el acceso de sus clientes al sitio de torrents más famoso del mundo. Belgacom y Telenet ahora deben implementar un bloqueo DNS de la página dentro de 14 días o enfrentar multas.
 

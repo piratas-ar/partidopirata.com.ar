@@ -10,12 +10,12 @@ tags:
 - download-helper
 - solucion
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif
 wppost_name: superamos-la-valla-si-no-les-funciona-el-download-helper-para-bajar-videos-de-youtube
 ---
 
-<p style="text-align: center;"><strong>Abajo de todo una actualización del 15 de Setiembre</strong> <a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif"><img class="aligncenter size-full wp-image-5997" title="smiley" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif" alt="" width="109" height="75" /></a></p>
+<p style="text-align: center;"><strong>Abajo de todo una actualización del 15 de Setiembre</strong> <a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif"><img class="aligncenter size-full wp-image-5997" title="smiley" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/smiley.gif" alt="" width="109" height="75" /></a></p>
 <p style="text-align: center;"><strong><a href="http://lists.partidopirata.com.ar/pipermail/general-partidopirata.com.ar/2012-August/019766.html" target="_blank">Santiago nos pasa la solución si no les funciona el Download Helper</a></strong></p>
 <p style="text-align: center;">Si no les funciona<strong><a href="https://addons.mozilla.org/es/firefox/addon/video-downloadhelper/" target="_blank"> Download Helper</a></strong></p>
 <p style="text-align: center;">Que es un complemento para descargar videos y otros archivos desde Youtube y otros lugares si usan Firefox</p>

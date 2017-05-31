@@ -9,8 +9,8 @@ tags:
 - reconocimiento-facial
 - rostros-borrosos
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Screen-shot-2012-07-18-at-6.07.38-AM.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Screen-shot-2012-07-18-at-6.07.38-AM-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Screen-shot-2012-07-18-at-6.07.38-AM.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Screen-shot-2012-07-18-at-6.07.38-AM-150x150.png
 wppost_name: rostros-borrosos-cuando-el-video-requiere-anonimato-herramienta-de-youtube
 ---
 
@@ -51,7 +51,7 @@ Hoy estamos lanzando difuminar cara - una nueva herramienta que le permite ocult
 
 Si usted quiere compartir imágenes de protesta sensibles sin exponer los rostros de los activistas que participan, o compartir el punto ganador en un partido de baloncesto de chicos de 8 años, sin transmitir las caras de los niños al mundo, nuestra tecnología de difuminado de caras es un primer paso hacia una el anonimato visual para vídeos en YouTube.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/Screen-shot-2012-07-18-at-6.07.38-AM.png"><img class="aligncenter size-full wp-image-5368" title="Screen shot 2012-07-18 at 6.07.38 AM" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/Screen-shot-2012-07-18-at-6.07.38-AM.png" alt="" width="640" height="536" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/Screen-shot-2012-07-18-at-6.07.38-AM.png"><img class="aligncenter size-full wp-image-5368" title="Screen shot 2012-07-18 at 6.07.38 AM" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/Screen-shot-2012-07-18-at-6.07.38-AM.png" alt="" width="640" height="536" /></a>
 
 Difuminar los rostros en YouTube es muy sencillo. Una vez que haya elegido el vídeo que desee editar vídeo dentro de nuestra <a href="http://www.google.com/url?q=http%3A%2F%2Fsupport.google.com%2Fyoutube%2Fbin%2Fstatic.py%3Fhl%3Den%26page%3Dguide.cs%26guide%3D1388381"> herramientas de mejoras de videos</a>, vaya a características adicionales y haga clic en el botón "Aplicar" de Blur All Faces Antes de publicar, podrás ver una vista previa de lo que se verá en el vídeo las caras serán borrosas. Al guardar los cambios en el vídeo, una copia se crea uno nuevo con las caras borrosas. A continuación, se le dará la opción de eliminar el vídeo original.
 

@@ -9,12 +9,12 @@ tags:
 - internet-mata-la-cultura
 - ministerio-de-cultura
 - ministerio-de-cultura-en-brasil
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-150x150.png
 wppost_name: brasil-la-ministra-de-cultura-trending-topic-de-twitter
 ---
 
-<strong><a href="http://partidopirata.com.ar/3637/brasil-la-pirateria-puede-matar-a-la-cultura-dice-el-ministerio-de-cultura">La ministra de cultura dijo que la piratería está acabando con la cultura en Brasil.</a></strong>
+<strong><a href="https://partidopirata.com.ar/3637/brasil-la-pirateria-puede-matar-a-la-cultura-dice-el-ministerio-de-cultura">La ministra de cultura dijo que la piratería está acabando con la cultura en Brasil.</a></strong>
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/ana-nao-gosta-da-internet-mas-seus-companheiros-gostam/" target="_blank">Fuente Suplemento Link de O Estaado de São Paulo</a></strong>
 <ul>

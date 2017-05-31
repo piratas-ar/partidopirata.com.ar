@@ -11,12 +11,12 @@ tags:
 - reunion
 - reunion-mensual
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/taller_hacklab1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/taller_hacklab1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/taller_hacklab1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/taller_hacklab1-150x150.png
 wppost_name: sabado-21-de-julio-veni-a-pasarla-al-hacklab-de-barracas
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/taller_hacklab1.png"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/07/taller_hacklab1-216x300.png" alt="" title="taller_hacklab1" width="216" height="300" class="alignleft size-medium wp-image-5440" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/taller_hacklab1.png"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/07/taller_hacklab1-216x300.png" alt="" title="taller_hacklab1" width="216" height="300" class="alignleft size-medium wp-image-5440" /></a>
 Amigxs!
 
 Este Sábado 21 de Julio desde las 15hs todxs invitados a compartir

@@ -9,8 +9,8 @@ tags:
 - sexo-oral
 - trelew
 - ultrajante
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/justicia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/justicia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/justicia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/justicia-150x150.jpg
 wppost_name: con-el-tema-de-abusos-de-menores-siempre-es-todo-culpa-de-internet
 ---
 

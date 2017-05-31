@@ -11,8 +11,8 @@ tags:
 - intimidad
 - paulo-pimenta
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/brasil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/brasil-150x150.jpg
 wppost_name: brasil-diputado-paulo-pimenta-advierte-sobre-los-riesgos-a-la-privacidad-en-internet
 ---
 

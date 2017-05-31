@@ -10,8 +10,8 @@ tags:
 - suscripcione
 - torrentfreak
 - tv-por-cable
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/thrones-150x131.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/thrones-150x131.jpg
 wppost_name: quien-esta-pirateando-game-of-thrones-y-por-que
 ---
 
@@ -19,7 +19,7 @@ wppost_name: quien-esta-pirateando-game-of-thrones-y-por-que
 
 Con más de 3 millones de descargas por episodio, la exitosa serie de HBO Game of Thrones es sin duda lo más pirateado de la televisión de la temporada. Los datos recogidos por TorrentFreak muestran que la mayoría de los piratas provienen de Australia, mientras que Londres encabeza la lista de las ciudades más piratas. Pero ¿por qué esta gente se volvió a BitTorrent?
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg"><img class="size-full wp-image-4519" title="thrones" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg" alt="" width="248" height="131" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg"><img class="size-full wp-image-4519" title="thrones" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/thrones.jpg" alt="" width="248" height="131" /></a>
 
 
 En pocas horas un nuevo episodio de Game of Thrones aparecerá en BitTorrent, y unos días más tarde entre 3 y 4 millones de personas descargarán esta versión no oficial.
@@ -133,7 +133,7 @@ Si hay algún pirata de Game of Thrones leyendo esto,  si quiere compartir por
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong>Argentina no figura, y eso que estamos en el <a href="http://partidopirata.com.ar/4294/informe-301-argentina-junto-con-chile-y-venezuela-se-sentaran-en-el-banco-de-adelante-por-hacer-lio">informe 301!!! </a></strong></p>
+<p style="text-align: center;"><strong>Argentina no figura, y eso que estamos en el <a href="https://partidopirata.com.ar/4294/informe-301-argentina-junto-con-chile-y-venezuela-se-sentaran-en-el-banco-de-adelante-por-hacer-lio">informe 301!!! </a></strong></p>
 
 
 <hr />

@@ -9,8 +9,8 @@ tags:
 - fuga-de-divisas
 - pago-de-regalias
 - pagos-al-exterior
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/168.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/168-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/168.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/168-150x150.png
 wppost_name: argentores-con-problemas-para-girar-dolares-al-exterior-cuanto-mandan-al-exterior
 ---
 
@@ -27,10 +27,10 @@ Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http:
 Básicamente a Argentores le cuesta enviar dólares al Exterior para pagar por derechos de autor de obras de autores con los que ellos no tienen convenio.
 Supongo que el saldo de esa balanza debe ser negativo, deben salir muchos más dólares que los que ingresan por derechos de autor de dramaturgos argentinos.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/168.png"><img class=" wp-image-4558" title="168" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/168.png" alt="" width="692" height="340" /></a> Regalías y derechos de licencia pagados
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/168.png"><img class=" wp-image-4558" title="168" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/168.png" alt="" width="692" height="340" /></a> Regalías y derechos de licencia pagados
 
 <p style="text-align: center;"><strong>Mapa de la distribución de las regalías y los derechos de autor en el mundo.</strong></p>
 <p style="text-align: center;">Fíjense el lugar que ocupa la Argentina!</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Algo más sobre los mapas de distribución de patentes y derechos de autor</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Algo más sobre los mapas de distribución de patentes y derechos de autor</a></strong></p>
 <p style="text-align: center;">¿Cuánto enviarán al Exterior las "Gestoras de Derechos"?</p>
 <p style="text-align: center;">¿Tendrá saldo positivo?</p>

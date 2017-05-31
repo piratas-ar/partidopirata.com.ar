@@ -12,17 +12,17 @@ tags:
 - privacidad
 - sibios
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso
 ---
 
 <p style="text-align: center;"><strong> <a href="https://twitter.com/#!/MissFillys" target="_blank">Mis Fillys </a> nos manda las primeras 4 páginas del paper.</strong></p>
-<p style="text-align: center;"><strong>Si alguien quiere seguir con la traducción avísenos <a href="http://partidopirata.com.ar/contacto" target="_blank">vía e-mail</a> así no duplicamos el trabajo.</strong></p>
+<p style="text-align: center;"><strong>Si alguien quiere seguir con la traducción avísenos <a href="https://partidopirata.com.ar/contacto" target="_blank">vía e-mail</a> así no duplicamos el trabajo.</strong></p>
 <p style="text-align: center;"><strong><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565" target="_blank">Si quieren descargar el paper en inglés.</a></strong></p>
 <p style="text-align: center;"><strong>Gracias a <a href="https://twitter.com/#!/MissFillys" target="_blank">Mis Fillys </a> por el trabajo!</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4178/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso-ii">Parte 3 del paper traducido</a>
-<a href="http://partidopirata.com.ar/7857/no-tengo-nada-que-ocultar-y-otros-malentendidos-de-la-privacidad">Todo el paper traducido</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4178/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso-ii">Parte 3 del paper traducido</a>
+<a href="https://partidopirata.com.ar/7857/no-tengo-nada-que-ocultar-y-otros-malentendidos-de-la-privacidad">Todo el paper traducido</a></strong></p>
 
 
 <hr />
@@ -45,7 +45,7 @@ Este ensayo comienza en la Parte II, discutiendo acerca del argumento de nada qu
 
 <hr />
 <p style="text-align: center;"><strong> <a href="https://twitter.com/#!/MissFillys" target="_blank">Mis Fillys </a> nos manda las primeras 4 páginas del paper.</strong></p>
-<p style="text-align: center;"><strong>Si alguien quiere seguir con la traducción avísenos <a href="http://partidopirata.com.ar/contacto" target="_blank">vía e-mail</a> así no duplicamos el trabajo.</strong></p>
+<p style="text-align: center;"><strong>Si alguien quiere seguir con la traducción avísenos <a href="https://partidopirata.com.ar/contacto" target="_blank">vía e-mail</a> así no duplicamos el trabajo.</strong></p>
 <p style="text-align: center;"><strong><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565" target="_blank">Si quieren descargar el paper en inglés.</a></strong></p>
 <p style="text-align: center;"><strong>Gracias a <a href="https://twitter.com/#!/MissFillys" target="_blank">Mis Fillys </a> por el trabajo!</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4178/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso-ii">Parte 3 del paper traducido</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4178/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso-ii">Parte 3 del paper traducido</a></strong></p>

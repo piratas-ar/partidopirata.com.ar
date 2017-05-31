@@ -11,12 +11,12 @@ tags:
 - proceso-contra-cuevana
 - taringa
 - telefe
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
 wppost_name: para-telefe-enlazar-es-delito-denuncia-penal-contra-cuevana
 ---
 
-<strong><a href="http://www.lanacion.com.ar/m2/1424305-presentarian-hoy-la-primera-denuncia-penal-contra-cuevana?utm_source=twitterfeed&amp;utm_medium=twitter" target="_blank">Fuente </a></strong><strong><a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="alignleft size-full wp-image-2318" title="Cuevana" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a></strong><strong><a href="http://www.lanacion.com.ar/m2/1424305-presentarian-hoy-la-primera-denuncia-penal-contra-cuevana?utm_source=twitterfeed&amp;utm_medium=twitter" target="_blank">L</a><a href="http://www.lanacion.com.ar/m2/1424305-presentarian-hoy-la-primera-denuncia-penal-contra-cuevana?utm_source=twitterfeed&amp;utm_medium=twitter" target="_blank">a Nación.</a></strong>
+<strong><a href="http://www.lanacion.com.ar/m2/1424305-presentarian-hoy-la-primera-denuncia-penal-contra-cuevana?utm_source=twitterfeed&amp;utm_medium=twitter" target="_blank">Fuente </a></strong><strong><a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="alignleft size-full wp-image-2318" title="Cuevana" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a></strong><strong><a href="http://www.lanacion.com.ar/m2/1424305-presentarian-hoy-la-primera-denuncia-penal-contra-cuevana?utm_source=twitterfeed&amp;utm_medium=twitter" target="_blank">L</a><a href="http://www.lanacion.com.ar/m2/1424305-presentarian-hoy-la-primera-denuncia-penal-contra-cuevana?utm_source=twitterfeed&amp;utm_medium=twitter" target="_blank">a Nación.</a></strong>
 
 &nbsp;
 
@@ -61,4 +61,4 @@ La pregunta que se hace muchas veces ante casos así es ¿Por qué no le hacen j
 Tenemos que organizarnos para resistir, lo que se viene es muy pesado. No sólo el proceso contra Taringa y esta denuncia contra Cuevana, también tendremos Canon Digital y la posible criminalización de contenidos no ya con posibles derechos de autor, sino que cuestionen a algún tipo de poder.
 <p style="text-align: center;">Los invitamos a participar de nuestra lista de correo para poder coordinar acciones entre todos, tenemos que ser fuertes para resistir, se viene una mano muy pesada.</p>
 <p style="text-align: center;"><strong> <a href="http://lists.partidopirata.com.ar/listinfo.cgi/general-partidopirata.com.ar" target="_blank">Si quieren llenar el formulario para participar de nuestra lista de correo</a> están todos invitados.</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2328/boicot-a-telefe-hasta-que-quite-su-denuncia-contra-cuevana">Llamamos a Boicotear a Telefé hasta que no quite la denuncia penal a Cuevana, #BOICOTATELEFE</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2328/boicot-a-telefe-hasta-que-quite-su-denuncia-contra-cuevana">Llamamos a Boicotear a Telefé hasta que no quite la denuncia penal a Cuevana, #BOICOTATELEFE</a></strong></p>

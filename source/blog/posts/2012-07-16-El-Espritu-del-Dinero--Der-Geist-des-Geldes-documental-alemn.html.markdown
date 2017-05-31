@@ -11,8 +11,8 @@ tags:
 - lietaer
 - religion
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money-150x135.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money-150x135.jpg
 wppost_name: el-espiritu-del-dinero-der-geist-des-geldes-documental-aleman
 ---
 

@@ -10,8 +10,8 @@ tags:
 - luciana-geuna
 - periodismo-para-todos
 - sube
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/%C3%8Dndice-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/Índice.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/%C3%8Dndice-150x150.jpeg
 wppost_name: quienes-tienen-acceso-a-nuestra-informacion-de-la-tarjeta-sube
 ---
 
@@ -72,9 +72,9 @@ EL CONSEJO DIRECTIVO DE LA FACULTAD DE CIENCIAS EXACTAS Y NATURALES RESUELVE:
 ARTÍCULO 1o: Solicitar a la Secretaría de Transporte de la Nación modifique la implementación actual del sistema SUBE para que se ajuste a la Ley de Protección de Datos personales No 25.326.
 
 ARTÍCULO 2o: Comuníquese a la Secretaría de Transporte de la Nación, a quienes corresponda y cumplido archívese.
-<strong><a href="http://partidopirata.com.ar/3674/resolucion-de-la-facultad-de-ciencias-exactas-y-naturales-de-la-universidad-de-buenos-aires-sobre-las-tarjetas-sube">El post donde colocábamos la resolución de la Facultad de Ciencias Exactas y Naturales.</a></strong>
+<strong><a href="https://partidopirata.com.ar/3674/resolucion-de-la-facultad-de-ciencias-exactas-y-naturales-de-la-universidad-de-buenos-aires-sobre-las-tarjetas-sube">El post donde colocábamos la resolución de la Facultad de Ciencias Exactas y Naturales.</a></strong>
 
-<strong><a href="http://partidopirata.com.ar/2976/anonymous-publica-base-de-datos-de-sube">Anonymus publicó la base de datos de la Sube</a>
+<strong><a href="https://partidopirata.com.ar/2976/anonymous-publica-base-de-datos-de-sube">Anonymus publicó la base de datos de la Sube</a>
 </strong>
 
 <hr />

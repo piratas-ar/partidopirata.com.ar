@@ -10,8 +10,8 @@ tags:
 - ministro-de-comunicaciones
 - uit
 - wcit
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
 wppost_name: brasil-en-la-wcit-contra-la-neutralidad-no-firmo-dice-ministro-de-comunicaciones-de-brasil-y-argentina
 ---
 
@@ -28,11 +28,11 @@ wppost_name: brasil-en-la-wcit-contra-la-neutralidad-no-firmo-dice-ministro-de-c
 
 <em>A ‘Link’, el ministro Paulo Bernardo dice que falta de consenso dificulta posiciones de Brasil en la WCIT</em>
 
-SÃO PAULO – Un grupo de brasileños compuesto mayoritariamente por miembros del gobierno, congresistas y empresarios y, en menor número, académicos y de organizaciones civiles embarcó este sábado rumbo a Dubai, en los Emiratos Árabes Unidos. Ellos representarán a Brasil en la WCIT, la conferencia de telecomunicaciones de la Unión Internacional de las Telecomunicaciones, organismo perteneciente a la ONU. <a href="http://partidopirata.com.ar/7617/el-dueno-de-la-red-reunion-de-la-uit-control-de-internet">En las próximas semanas, decisiones importantes podrán ser tomadas allá, afectando la vida de muchos usuarios de internet</a>.
+SÃO PAULO – Un grupo de brasileños compuesto mayoritariamente por miembros del gobierno, congresistas y empresarios y, en menor número, académicos y de organizaciones civiles embarcó este sábado rumbo a Dubai, en los Emiratos Árabes Unidos. Ellos representarán a Brasil en la WCIT, la conferencia de telecomunicaciones de la Unión Internacional de las Telecomunicaciones, organismo perteneciente a la ONU. <a href="https://partidopirata.com.ar/7617/el-dueno-de-la-red-reunion-de-la-uit-control-de-internet">En las próximas semanas, decisiones importantes podrán ser tomadas allá, afectando la vida de muchos usuarios de internet</a>.
 
 Entre los posibles tópicos en pauta, están la neutralidad de la red, gobernanza de internet, privacidad, vigilancia, control y seguridad. El ministro de las Comunicaciones y jefe de la delegación brasileña en esta primera semana, Paulo Bernardo, habló a <em>Link</em> (<em>vea abajo</em>) sobre la importancia del evento para el mercado de telecoms y para Brasil, ya que las conclusiones realizadas en la WCIT pueden ser usadas como argumento para alterar las reglas en Brasil, presentes, por ejemplo, en el texto del Marco Civil de Internet, que todavía no fue votado en la Cámara.
 
-<strong>¿Cuáles son las <a href="http://partidopirata.com.ar/7613/filtramos-para-que-todos-vean-lo-que-es-discutido-sobre-wcitleaks-el-futuro-de-internet">propuestas </a>que Brasil está llevando a Dubai?</strong>
+<strong>¿Cuáles son las <a href="https://partidopirata.com.ar/7613/filtramos-para-que-todos-vean-lo-que-es-discutido-sobre-wcitleaks-el-futuro-de-internet">propuestas </a>que Brasil está llevando a Dubai?</strong>
 
 Lo principal es que allá vamos a defender la disminución del roaming internacional. Creo que hay que hacerlo más barato, por eso vamos a sugerir más puntos de intercambio de tráfico. Sobre la neutralidad de la red, evaluamos con Anatel anteriormente que no valdría la pena llevar alguna propuesta. Teníamos una, pero la retiramos de la pauta porque no tenemos consenso. En Brasil, el gobierno tiene una posición, las empresas tienen otra, el Congreso tiene varias. Entonces no vamos a llevar ninguna posición sobre el asunto. Somos a favor de la neutralidad, pero debe existir una posición mayoritaria de la delegación para decir que es una propuesta nuestra, como delegación; individualmente, se puede.
 

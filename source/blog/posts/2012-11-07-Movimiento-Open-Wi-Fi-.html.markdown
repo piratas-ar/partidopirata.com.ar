@@ -7,12 +7,12 @@ tags:
 - movimiento-open-wi-fi
 - open-wi-fi
 - redes-abiertas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/openwifi1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/openwifi1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/openwifi1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/openwifi1-150x150.jpg
 wppost_name: movimiento-open-wi-fi
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/openwifi1.jpg"><img class="alignright size-full wp-image-7276" title="openwifi1" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/openwifi1.jpg" alt="" width="390" height="265" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/openwifi1.jpg"><img class="alignright size-full wp-image-7276" title="openwifi1" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/openwifi1.jpg" alt="" width="390" height="265" /></a>
 
 <strong><a href="https://www.openwireless.org/" target="_blank">Fuente Open Wireless</a></strong>
 
@@ -74,4 +74,4 @@ En Brasil, por ejemplo, es ilegal dejar la conexión abierta, y ¿en la Argentin
 
 &nbsp;
 
-<strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá el podcast sobre  Hadopi en Francia donde te castigan si te encuentran compartiendo vía P2P por tu número IP </a></strong>
+<strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Acá el podcast sobre  Hadopi en Francia donde te castigan si te encuentran compartiendo vía P2P por tu número IP </a></strong>

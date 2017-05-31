@@ -8,8 +8,8 @@ tags:
 - identidad-nacional
 - juan-carlos-dominguez
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/home-300x241.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/home-300x241-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/home-300x241.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/home-300x241-150x150.png
 wppost_name: clase-media-documental
 ---
 
@@ -28,4 +28,4 @@ A través de un trabajo de investigación con entrevistas a: Ezequiel Adamosvsky
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/home-300x241.png"><img class="aligncenter size-full wp-image-7511" title="home-300x241" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/home-300x241.png" alt="" width="300" height="241" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/home-300x241.png"><img class="aligncenter size-full wp-image-7511" title="home-300x241" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/home-300x241.png" alt="" width="300" height="241" /></a>

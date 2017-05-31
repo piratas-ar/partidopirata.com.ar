@@ -9,8 +9,8 @@ tags:
 - elecciones-locales
 - hellopaul
 - partido-pirata-belga
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Freedom_and_free_beer.artikel.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Freedom_and_free_beer.artikel-150x150.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Freedom_and_free_beer.artikel.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Freedom_and_free_beer.artikel-150x150.gif
 wppost_name: hellopaul-para-ayudar-a-los-piratas-belgas
 ---
 

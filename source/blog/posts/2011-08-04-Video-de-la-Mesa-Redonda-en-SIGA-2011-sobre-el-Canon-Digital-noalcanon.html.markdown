@@ -15,12 +15,12 @@ tags:
 - union-de-musicos-independientes
 - video
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/13logo-195x103.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/13logo-195x103.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/13logo-195x103.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/13logo-195x103.jpg
 wppost_name: video-de-la-mesa-redonda-en-siga-2011-sobre-el-canon-digital-noalcanon
 ---
 
-El 3 de agosto (<a href="http://partidopirata.com.ar/1554/reunion-en-siga-2011-sobre-el-canon-digital-noalcanon" target="_blank">como anunciábamos en esta otra entrada del blog</a> )se realizó una mesa redonda (no fue tanto un debate) en el marco de SIGA2011 dedicado al Canon Digital entre los que participaban:
+El 3 de agosto (<a href="https://partidopirata.com.ar/1554/reunion-en-siga-2011-sobre-el-canon-digital-noalcanon" target="_blank">como anunciábamos en esta otra entrada del blog</a> )se realizó una mesa redonda (no fue tanto un debate) en el marco de SIGA2011 dedicado al Canon Digital entre los que participaban:
 
 &nbsp;
 

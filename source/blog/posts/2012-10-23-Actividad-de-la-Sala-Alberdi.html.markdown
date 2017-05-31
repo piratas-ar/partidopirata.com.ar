@@ -7,12 +7,12 @@ tags:
 - alumnos-de-la-sala-alberdi
 - sala-alberdi
 - toma
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/image.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/image-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/image.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/image-150x150.png
 wppost_name: actividade-de-la-sala-alberdi
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/image.png"><img class="aligncenter size-large wp-image-7028" title="image" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/image-1024x362.png" alt="" width="620" height="219" /><strong>Cliqueando se ve en un tamaño mayor.</strong></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/image.png"><img class="aligncenter size-large wp-image-7028" title="image" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/image-1024x362.png" alt="" width="620" height="219" /><strong>Cliqueando se ve en un tamaño mayor.</strong></a></p>
 
 <h2></h2>
 Comisión de alumnos de la sala Juan Bautista Alberdi, (Centro Cultural San Martín) <strong>Sarmiento 1551 6to piso.</strong>

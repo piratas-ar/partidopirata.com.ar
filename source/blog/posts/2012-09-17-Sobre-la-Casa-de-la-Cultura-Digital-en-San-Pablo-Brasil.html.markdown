@@ -8,8 +8,8 @@ tags:
 - lawrence-lessig
 - san-pablo
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/images.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/images.jpg
 wppost_name: sobre-la-casa-de-la-cultura-digital-en-san-pablo-brasil
 ---
 

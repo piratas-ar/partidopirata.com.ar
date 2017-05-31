@@ -6,8 +6,8 @@ tags:
 - denuncias
 - destacados
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2014/02/brecha-digital.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/02/brecha-digital-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2014/02/brecha-digital.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/02/brecha-digital-150x150.jpeg
 wppost_name: cobro-de-dominios-com-ar
 ---
 

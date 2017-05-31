@@ -9,8 +9,8 @@ tags:
 - google
 - google-brasil
 - relaciones-con-el-gobierno
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.10-PM2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.10-PM2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.10-PM2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/Screen-Shot-2012-02-21-at-5.16.10-PM2-150x150.png
 wppost_name: internet-esta-cada-vez-mas-politica-entrevista-marcel-leonardi-responsable-de-relaciones-con-el-gobierno-de-google-brasil
 ---
 

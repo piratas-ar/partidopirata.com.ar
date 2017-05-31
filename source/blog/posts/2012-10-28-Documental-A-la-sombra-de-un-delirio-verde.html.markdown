@@ -16,8 +16,8 @@ tags:
 - pueblos-originarios
 - soja
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/guarani-kaiowa-tribu-brasil-web-300x199-150x150.jpg
 wppost_name: documental-a-la-sombra-de-un-delirio-verde
 ---
 
@@ -27,7 +27,7 @@ wppost_name: documental-a-la-sombra-de-un-delirio-verde
 
 <hr />
 
-En Brasil en el Estado Mato Grosso do Sul una parte de los indios Guaraní-Kaiowa <strong><a href="http://partidopirata.com.ar/7054/muerte-colectiva-de-guaranis-kaiowa-en-brasil-el-mismo-modelo"> solicitaron su muerte colectiva</a> </strong>si tenían que dejar sus territorios.
+En Brasil en el Estado Mato Grosso do Sul una parte de los indios Guaraní-Kaiowa <strong><a href="https://partidopirata.com.ar/7054/muerte-colectiva-de-guaranis-kaiowa-en-brasil-el-mismo-modelo"> solicitaron su muerte colectiva</a> </strong>si tenían que dejar sus territorios.
 
 Para entender el porqué, para mostrar que el <em>modelo</em> es el mismo entre los gobiernos llamados<em> progresistas</em> de América del Sur el documental "A la Sombra de un delirio verde".
 

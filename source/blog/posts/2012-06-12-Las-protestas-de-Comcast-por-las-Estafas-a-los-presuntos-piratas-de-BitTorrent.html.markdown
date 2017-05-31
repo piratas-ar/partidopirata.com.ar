@@ -9,8 +9,8 @@ tags:
 - torrentfreak
 - trolls-del-copyright
 - verizon
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money-150x135.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money-150x135.jpg
 wppost_name: las-protestas-de-comcast-por-las-estafas-a-los-presuntos-piratas-de-bittorrent
 ---
 
@@ -18,7 +18,7 @@ wppost_name: las-protestas-de-comcast-por-las-estafas-a-los-presuntos-piratas-de
 
 A Comcast se le ha acabado la paciencia por la avalancha de demandas por usuarios de BitTorrent en Estados Unidos. El ISP [proveedor de Internet] se niega ahora a cumplir con las citaciones ordenadas por el tribunal, argumentando que ellos tienen la intención de "Estafar" a los abonados al coaccionarlos a pagar una indemización. Los titulares de derechos de autor han respondido con furia a la nueva postura de Comcast, alegando que el ISP está negándole a los titulares de derechos de autor la oportunidad de proteger sus obras.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money.jpg"><img class="alignright size-full wp-image-4738" title="dollar-money" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money.jpg" alt="" width="180" height="135" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money.jpg"><img class="alignright size-full wp-image-4738" title="dollar-money" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/dollar-money.jpg" alt="" width="180" height="135" /></a>
 
 Ciudadanos de Estados Unidos que descargan y comparten archivos con derechos de autor a través de  BitTorrent corren el riesgo de ser monitoreados y en algunos casos sometidos a una acción legal.
 
@@ -54,7 +54,7 @@ Cualquiera que sea el resultado, la protesta de Comcast forma parte de una tende
 <p style="text-align: center;">Menos mal que los proveedores de Internet están cuestionando un poco a los trolls del copyrigth.
 En la Argentina no me queda muy claro si nuestros proveedores se resistirían a entregar esa información.
 Recuerden al navegar tenemos una dirección IP, un número, dado nuestro proveedor de Internet que nos identifica.
-En las redes P2P a través de ese número pueden pedirle la información al proveedor sobre quien es el abonado de esa cuenta.<strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">
+En las redes P2P a través de ese número pueden pedirle la información al proveedor sobre quien es el abonado de esa cuenta.<strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">
 Algo de eso nos lo contó Erik Walter que es el método que usa HADOPI en Francia para hacer efectivo su método de los 3 avisos.</a></strong></p>
 
 

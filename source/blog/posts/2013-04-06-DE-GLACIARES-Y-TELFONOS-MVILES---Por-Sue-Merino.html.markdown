@@ -12,8 +12,8 @@ tags:
 - modelo
 - sue-merino
 - susana-merino
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/111111111111111xperia_x2_man_talking_on_phone110705190845-scaled1000.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/111111111111111xperia_x2_man_talking_on_phone110705190845-scaled1000-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/111111111111111xperia_x2_man_talking_on_phone110705190845-scaled1000.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/111111111111111xperia_x2_man_talking_on_phone110705190845-scaled1000-150x150.jpg
 wppost_name: de-glaciares-y-telefonos-moviles-por-sue-merino
 ---
 
@@ -112,4 +112,4 @@ Tomás (II-II:153:4)</li>
 <hr />
 
 &nbsp;
-<h3><a href="http://partidopirata.com.ar/2013/04/06/la-estetica-de-un-genocidio-la-gente-cambia-el-celular-cada-15-meses-por-estetica/" rel="bookmark">A raíz de la “Estética” de un genocidio!-La gente cambia el celular cada 15 meses por estética</a></h3>
+<h3><a href="https://partidopirata.com.ar/2013/04/06/la-estetica-de-un-genocidio-la-gente-cambia-el-celular-cada-15-meses-por-estetica/" rel="bookmark">A raíz de la “Estética” de un genocidio!-La gente cambia el celular cada 15 meses por estética</a></h3>

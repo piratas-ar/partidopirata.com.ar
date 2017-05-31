@@ -9,8 +9,8 @@ tags:
 - modernizacion-de-los-registros
 - obras-huerfanas
 - oficina-de-derechos-de-autor
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico-150x150.jpg
 wppost_name: el-dominio-publico-se-muere-de-hambre-mientras-la-oficina-de-derecho-de-autor-se-esfuerza-por-modernizarse
 ---
 

@@ -15,8 +15,8 @@ tags:
 - normal-4
 - policia-federal
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/TOMA-VACACIONES-ESTUDIANTES-CLASES-SEMANAS_IECIMA20120711_0059_14-150x150.jpg
 wppost_name: pfa-amedrenta-a-punta-de-pistola-a-estudiantes-dentro-de-la-escuela-normal-4-tomada-12oct2012
 ---
 

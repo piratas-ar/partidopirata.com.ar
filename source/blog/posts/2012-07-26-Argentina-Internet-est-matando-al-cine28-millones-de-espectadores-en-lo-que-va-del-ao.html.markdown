@@ -10,8 +10,8 @@ tags:
 - incaa
 - peliculas
 - peliculas-nacionales
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Esquema_distribucion_altavoces_cine_Imm_Sound.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Esquema_distribucion_altavoces_cine_Imm_Sound-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Esquema_distribucion_altavoces_cine_Imm_Sound.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Esquema_distribucion_altavoces_cine_Imm_Sound-150x150.jpg
 wppost_name: argentina-internet-esta-matando-al-cine-28-millones-de-espectadores-en-lo-que-va-del-ano
 ---
 

@@ -8,12 +8,12 @@ tags:
 - cisl
 - conferencia-internacional-de-software-libre
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/ab.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/ab.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/ab.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/ab.jpg
 wppost_name: conferencia-internacional-de-software-libre
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/ab.jpg"><img class="aligncenter size-full wp-image-1709" title="ab" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/ab.jpg" alt="" width="319" height="137" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/ab.jpg"><img class="aligncenter size-full wp-image-1709" title="ab" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/ab.jpg" alt="" width="319" height="137" /></a>
 <ul>
 	<li><span style="font-size: x-small;"><span style="color: black;"><span style="font-size: small; font-style: normal; letter-spacing: normal; line-height: normal; text-align: justify; word-spacing: normal;">Días 8 y 9 de Setiembre</span></span></span><span style="font-size: x-small;"><span style="color: black;"><span style="font-size: small; font-style: normal; letter-spacing: normal; line-height: normal; text-align: justify; word-spacing: normal;"> </span></span></span></li>
 	<li><span style="font-size: x-small;"><span style="color: black;"><span style="font-size: small; font-style: normal; letter-spacing: normal; line-height: normal; text-align: justify; word-spacing: normal;">Lugar: </span></span></span><span style="font-size: x-small;"><span style="color: black;"><span style="font-size: small; font-style: normal; letter-spacing: normal; line-height: normal; text-align: justify; word-spacing: normal;">Biblioteca Nacional, Agüero 2502 de la Ciudad

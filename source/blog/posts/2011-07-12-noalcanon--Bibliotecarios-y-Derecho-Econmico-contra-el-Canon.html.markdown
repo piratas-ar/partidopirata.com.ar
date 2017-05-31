@@ -8,8 +8,8 @@ tags:
 - no-al-canon
 - no-al-canon-en-argentina
 - noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red-150x142.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/noalcanon5_red-150x142.jpg
 wppost_name: noalcanon-bibliotecarios-y-derecho-economico-contra-el-canon
 ---
 

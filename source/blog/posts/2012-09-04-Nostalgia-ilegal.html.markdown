@@ -10,8 +10,8 @@ tags:
 - programas
 - programas-antiguos
 - viejos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/abandonware390.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/abandonware390-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/abandonware390.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/abandonware390-150x150.jpg
 wppost_name: nostalgia-ilegal
 ---
 
@@ -21,7 +21,7 @@ wppost_name: nostalgia-ilegal
 
 SÃO PAULO – ¿Por dónde anda Lemmings, aquel juego para DOS que hipnotizó a una generación a comienzo de los años 90? ¿Quién se acuerda del SimCity 2000, que impresionó por los gráficos avanzados con la misión de comandar una cuidad? Y como seria navegar de nuevo con Netscape, el browser por el cual muchos de nosotros accedíamos a internet por primera vez?
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/abandonware390.jpg"><img class="alignright" title="abandonware390" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/abandonware390-300x203.jpg" alt="" width="300" height="203" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/abandonware390.jpg"><img class="alignright" title="abandonware390" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/abandonware390-300x203.jpg" alt="" width="300" height="203" /></a>
 
 Los softwares antiguos cargan una memoria sentimental. Y existen algunos baúles en internet dedicados a preservar – aunque ilegalmente – tesoros de la computación que hicieron historia. Los sites no aparecen en el tope de las búsquedas de Google, pero mantiene archivos preciosos de miles de “abandonwares”, como son llamados los programas y games vintage abandonados.
 
@@ -54,4 +54,4 @@ La mayoria de los sites está dedicada a los games, pero también hay varios rep
 
 “Los jóvenes a veces descartan juegos antiguos antes de experimentarlos por encontrarlos feos, pero muchos games de hoy no tienen lo que los antiguos tenián en términos de jugabilidad. Con aplicativos es normalmente diferente porque ellos quedan obsoletos para todo el mundo. Pero programas antiguos también tienen un charme nostálgico”, dice Rafael V., que preserva el MS-DOS sólo para poder correr Windows 3.11 y, en él, Netscape, para revivir la internet de los años 90.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/pecas-tati-games-nitidez1.png"><img class="aligncenter" title="pecas-tati-games-nitidez" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/pecas-tati-games-nitidez1-219x300.png" alt="" width="359" height="490" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/pecas-tati-games-nitidez1.png"><img class="aligncenter" title="pecas-tati-games-nitidez" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/pecas-tati-games-nitidez1-219x300.png" alt="" width="359" height="490" /></a>

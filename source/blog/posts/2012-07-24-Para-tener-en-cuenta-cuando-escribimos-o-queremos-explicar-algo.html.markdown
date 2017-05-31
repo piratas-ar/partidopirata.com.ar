@@ -8,8 +8,8 @@ tags:
 - estudiantes-secundarios
 - evaluacion-pisa
 - pisa-2009
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/Photoxpress_5302350-150x150.jpg
 wppost_name: para-tener-en-cuenta-cuando-escribimos-o-queremos-explicar-algo
 ---
 

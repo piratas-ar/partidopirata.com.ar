@@ -11,12 +11,12 @@ tags:
 - jorge-coscia
 - juicios
 - noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/libreria.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/libreria.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/libreria.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/libreria.jpg
 wppost_name: demandan-a-universidades-por-bibliotecas-online-en-el-congreso-dijeron-que-iban-a-crear-una-plataforma-para-digitalizar-hipocresia-culturas2011
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/libreria.jpg"><img class="aligncenter size-full wp-image-1844" title="libreria" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/libreria.jpg" alt="" width="400" height="362" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/libreria.jpg"><img class="aligncenter size-full wp-image-1844" title="libreria" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/libreria.jpg" alt="" width="400" height="362" /></a>
 
 <strong><a href="http://www.impre.com/rumbo/casa_y_familia/2011/9/14/demandan-a-universidades-por-b-272090-1.html" target="_blank">Fuente Impre.com.</a></strong>
 
@@ -32,6 +32,6 @@ La demanda busca la confiscación de las copias digitales de las obras y el pago
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/1826/noticias-del-congreso-%C2%BFhipocresia-vamos-al-contracongreso-culturas2011">En el Congreso Iberoamericano de Cultura dijeron que había que crear una plataforma para digitalizar acervos</a></strong>
+<strong><a href="https://partidopirata.com.ar/1826/noticias-del-congreso-%C2%BFhipocresia-vamos-al-contracongreso-culturas2011">En el Congreso Iberoamericano de Cultura dijeron que había que crear una plataforma para digitalizar acervos</a></strong>
 ¿Qué acervos digitalizarán?, Si ya lo dijo Jorge Cosia,<a href="http://www.ivoox.com/jorge-coscia-secretario-cultura-hablando-sobre-derecho-autor-audios-mp3_rf_635554_1.html" target="_blank"> hay que cuidar el derecho de autor y , a lo sumo, dejar una pequeña parte digitalizada...</a>Y cobrar unos centavos (en cds y dvds es una tasa del 70 %) para hacer copias privadas..
 <p style="text-align: center;"><strong>Ahora con Teddy Bautista preso y <a href="http://www.elpais.com/articulo/cultura/Gonzalez-Sinde/dejara/politica/20-N/elpepucul/20110917elpepucul_2/Tes" target="_blank">González Sinde anunciando que renunciará al ministerio </a>Coscia se nos queda sin referentes!!!</strong></p>

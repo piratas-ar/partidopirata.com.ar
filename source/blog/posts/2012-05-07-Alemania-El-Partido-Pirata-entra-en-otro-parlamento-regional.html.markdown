@@ -9,8 +9,8 @@ tags:
 - elecciones-estatales
 - parlamento-local
 - schleswig-holstein
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
 wppost_name: alemania-el-partido-pirata-entra-en-otro-parlamento-regional
 ---
 

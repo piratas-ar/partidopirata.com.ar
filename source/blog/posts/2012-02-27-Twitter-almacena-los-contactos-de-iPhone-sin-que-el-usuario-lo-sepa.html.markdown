@@ -8,12 +8,12 @@ tags:
 - material-para-difusion
 - iphone
 - twitter
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/scan_twitter.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/scan_twitter-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/scan_twitter.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/scan_twitter-150x150.jpg
 wppost_name: twitter-almacena-los-contactos-de-iphone-sin-que-el-usuario-lo-sepa
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/scan_twitter.jpg"><img class="aligncenter size-full wp-image-3305" title="Twitter toma los contactos" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/scan_twitter.jpg" alt="" width="600" height="283" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/scan_twitter.jpg"><img class="aligncenter size-full wp-image-3305" title="Twitter toma los contactos" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/scan_twitter.jpg" alt="" width="600" height="283" /></a>
 
 <strong><a href="http://blogs.estadao.com.br/rodrigo-martins/2012/02/15/twitter-armazena-contatos-do-iphone-sem-usuario-saber/" target="_blank">Fuente Rodrigo Martins.</a></strong>
 
@@ -38,7 +38,7 @@ Si uno piensa en las historias con las agendas de personas durante la dictadura,
 Recuerden, si el servicio es gratuito el producto somos nosotros, ¿quién más tendrá acceso a nuestra agenda de direcciones?, imagínense a Gendarmería y el Proyecto X sabiendo quiénes están en nuestra agenda!
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3317/aplicaciones-gratis-pueden-espiar-los-textos-y-las-llamadas-de-los-usuarios-de-smartphones-advirtien-sobre-los-peligros-a-la-privacidad">Facebook y otras aplicaciones también toman datos desde nuestro celular!</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3317/aplicaciones-gratis-pueden-espiar-los-textos-y-las-llamadas-de-los-usuarios-de-smartphones-advirtien-sobre-los-peligros-a-la-privacidad">Facebook y otras aplicaciones también toman datos desde nuestro celular!</a></strong></p>
 
 
 <hr />

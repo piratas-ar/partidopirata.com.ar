@@ -10,8 +10,8 @@ tags:
 - multimedia
 - vigilancia
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/Julian_Assange-150x150.jpg
 wppost_name: julian-assange-sobre-para-que-los-gobiernos-recolectan-tanta-informacion-de-nosotros-tarjeta-sube
 ---
 

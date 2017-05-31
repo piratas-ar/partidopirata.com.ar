@@ -38,7 +38,7 @@ Una atracción especial de la muestra ocurre el domingo, a las 19 horas, en el P
 
 <hr />
 <p style="text-align: center;"><strong><a href="http://www.bemvindoanollywood.com.br/" target="_blank">El site de la muestra de cine nigeriano en inglés y portugués.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2398/un-analisis-sobre-el-cine-nigeriano-y-su-modelo-de-negocios">Un análisis sobre el cine nigeriano.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2398/un-analisis-sobre-el-cine-nigeriano-y-su-modelo-de-negocios">Un análisis sobre el cine nigeriano.</a></strong></p>
 
 
 <hr />

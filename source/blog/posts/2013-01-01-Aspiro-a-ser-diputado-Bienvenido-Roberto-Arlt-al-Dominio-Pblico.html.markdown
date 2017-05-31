@@ -7,8 +7,8 @@ tags:
 - diputado
 - dominio-publico
 - roberto-arlt
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/pdd-poster-2013-150x150.jpg
 wppost_name: aspiro-a-ser-diputado-bienvenido-roberto-arlt-al-dominio-publico
 ---
 

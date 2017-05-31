@@ -8,12 +8,12 @@ tags:
 - maria-laura-santillan
 - obesidad-infantil
 - publicidad-infantil
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/cartaz-150x150.jpg
 wppost_name: una-ley-para-que-redacten-los-legisladores-a-los-que-tanto-les-preocupan-los-ninosas
 ---
 
-<a href="http://partidopirata.com.ar/5449/en-el-nombre-del-nino-otra-vez-la-historia-de-cuidar-a-los-chicos-para-censurar">La Senadora Fellner presentó un proyecto de ley para <i>cuidar</i> a los niños en Internet</a>
+<a href="https://partidopirata.com.ar/5449/en-el-nombre-del-nino-otra-vez-la-historia-de-cuidar-a-los-chicos-para-censurar">La Senadora Fellner presentó un proyecto de ley para <i>cuidar</i> a los niños en Internet</a>
 
 Le sugerimos otro proyecto de ley que cuidaría a muchísimos más chicos, no sólo los que acceden a Internet.
 <a href="http://tn.com.ar/programas/argentina-para-armar/obesidad-infantil-que-aumenta-una-senal-de-alerta_288571" target="_blank">Programa sobre obesidad infantil en la Argentina</a> es medio plomo, María Laura Santillán no hace mucho hincapié en el tema de la publicidad de los alimentos..Digamos que intenta culpabilizar de todo a los padres.
@@ -72,4 +72,4 @@ Artículo 5o ‒ Esta ley entra en vigor en la fecha de su publicación.
 Asamblea Legislativa del Estado de São Paulo, 3 de enero de 2013.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/8424/mucho-mas-que-el-peso-documental-brasileno-sobre-obesidad-infantil">Un documental sobre obesidad infantil y el poder de la publicidad </a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/8424/mucho-mas-que-el-peso-documental-brasileno-sobre-obesidad-infantil">Un documental sobre obesidad infantil y el poder de la publicidad </a></strong></p>

@@ -8,8 +8,8 @@ tags:
 - distancia-que-aproxima
 - respeto-al-ciclista
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site-150x140.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/cicloliga_header_site-150x140.jpg
 wppost_name: documentales-sobre-bicicletas-15-metros-la-distancia-que-aproxima
 ---
 
@@ -21,7 +21,7 @@ Video realizado por la <strong><a href="http://www.cicloliga.org/" target="_blan
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3617/un-metro-y-medio-que-aproxima-video-2-sobre-el-respeto-a-los-ciclistas-en-la-ciudad">Segunda parte del video</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3617/un-metro-y-medio-que-aproxima-video-2-sobre-el-respeto-a-los-ciclistas-en-la-ciudad">Segunda parte del video</a></strong></p>
 
 
 <hr />

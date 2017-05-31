@@ -11,8 +11,8 @@ tags:
 - santiago-del-estero
 - tierras
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: toda-esta-sangre-en-el-monte-2012-desalojos-de-campesinos-en-santiago-del-estero
 ---
 

@@ -10,8 +10,8 @@ tags:
 - formacion-de-cartel
 - oficina-de-recaudacion-y-distribucion
 - sadaic
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/cpiecad.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/cpiecad-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/cpiecad.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/cpiecad-150x150.jpg
 wppost_name: ecad-sadaic-braslieno-es-condenado-por-formacion-de-cartel
 ---
 
@@ -36,7 +36,7 @@ Es el segundo golpe contra el Ecad desde el año pasado.<a href="http://blogs.es
 El informante de la CPI, Senador Randolfe Rodrigues, <a href="http://blogs.estadao.com.br/link/o-derecho-autoral-hoje-e-anacronico-e-corrupto/">habló con <em>Link</em> en esa época</a>. Defendió la creación de un organismo para supervisar la recaudación de derechos autorales en el País. “No cabe a una entidad el monopolio de recaudación y distribución. Podemos incluso mantener al Ecad, pero él precisa limitarse a recaudar y distribuir. No puede ser el único detentor de derechos”, dijo
 
 <a href="http://blogs.estadao.com.br/link/cpi-pede-indiciamento-de-diretores-do-ecad/">En esa época, el Ecad habló en “explotación política”. </a>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/cpiecad.jpg"><img class="aligncenter size-medium wp-image-8911" alt="cpiecad" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/cpiecad-200x300.jpg" width="200" height="300" /></a><strong>Carátula del Informe del Congreso de Brasil</strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/cpiecad.jpg"><img class="aligncenter size-medium wp-image-8911" alt="cpiecad" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/cpiecad-200x300.jpg" width="200" height="300" /></a><strong>Carátula del Informe del Congreso de Brasil</strong></p>
 &nbsp;
 
 &nbsp;

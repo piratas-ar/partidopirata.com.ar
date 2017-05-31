@@ -14,8 +14,8 @@ tags:
 - santiago-del-estero
 - semillas
 - walter
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152-150x150.jpg
 wppost_name: podcast-desde-quimili-santiago-del-estero-con-walter-galleguindio-un-partido-pirata-en-santiago
 ---
 
@@ -38,12 +38,12 @@ Te mando unas fotos son de un amigo colaborador del MoCaSE el fotógrafo <strong
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152.jpg"><img class="size-medium wp-image-4353" title="f142688152" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152.jpg"><img class="size-medium wp-image-4353" title="f142688152" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/f142688152-300x199.jpg" alt="" width="300" height="199" /></a>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142687440.jpg"><img class="size-medium wp-image-4352" title="f142687440" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/f142687440-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/f142687440.jpg"><img class="size-medium wp-image-4352" title="f142687440" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/f142687440-300x199.jpg" alt="" width="300" height="199" /></a>
 
 
 <hr />
@@ -63,4 +63,4 @@ Mama Naturaleza</center>
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros podcast del Partido Pirata Argentino.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros podcast del Partido Pirata Argentino.</a></strong></p>

@@ -54,6 +54,6 @@ La respuesta es simple, no encontramos ninguna, tampoco nos concedieron ninguna 
 
 "El tema de terminologia (ROA versus OA) define sobre qué exactamente la UIT va a legislar. Países como EUA y la Unión Europea prefieren el térmomo “ROA”, que delimita la regulación apenas a empresas de telecomunicaciones. Otros países prefieren “OA”, que abre una brecha para que la UIT (y los países, si así fuera definido) regulen también la camada de contenido de internet — las empresas y servicios. “Por trás de la elección del término, está la posibilidad de que los Estados regulen y establezcan tarifas. Es una cuestión de alcance del tratado”, dice Joana."
 
-<strong><a href="http://partidopirata.com.ar/7719/los-detalles-de-la-reunion-en-dubai-sobre-el-posible-control-de-internet">Más información en este post</a></strong>
+<strong><a href="https://partidopirata.com.ar/7719/los-detalles-de-la-reunion-en-dubai-sobre-el-posible-control-de-internet">Más información en este post</a></strong>
 
 <hr />

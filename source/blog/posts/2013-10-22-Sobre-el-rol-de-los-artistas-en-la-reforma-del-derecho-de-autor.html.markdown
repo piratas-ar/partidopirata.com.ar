@@ -7,7 +7,7 @@ thumb:
 wppost_name: sobre-el-rol-de-los-artistas-en-la-reforma-del-derecho-de-autor
 ---
 
-Cuando hablamos sobre la reforma de los derechos de autor en el marco de las nuevas tecnologías, muchas veces la respuesta por el lado de los artistas es "Uds nos quieren sacar el plato de comida!". Lejos estamos de este punto, como dije en mi <a title="Lo que falta en los debates sobre reforma de propiedad intelectual" href="http://partidopirata.com.ar/2013/10/14/lo-que-falta-en-los-debates-sobre-reforma-de-propiedad-intelectual/" target="_blank">post</a> anterior, pero esa reacción es entendible en un marco donde los artistas se ven explotados, y queremos relajar el concepto legal con el cual ganan lo poco que ganan.
+Cuando hablamos sobre la reforma de los derechos de autor en el marco de las nuevas tecnologías, muchas veces la respuesta por el lado de los artistas es "Uds nos quieren sacar el plato de comida!". Lejos estamos de este punto, como dije en mi <a title="Lo que falta en los debates sobre reforma de propiedad intelectual" href="https://partidopirata.com.ar/2013/10/14/lo-que-falta-en-los-debates-sobre-reforma-de-propiedad-intelectual/" target="_blank">post</a> anterior, pero esa reacción es entendible en un marco donde los artistas se ven explotados, y queremos relajar el concepto legal con el cual ganan lo poco que ganan.
 
 Es una reacción más que entendible, es como que a un trabajador de cualquier otra rama, que gana un sueldo mínimo, le digan que quieren quitarle poder a los sindicatos. Claramente va a sentir que si sucede eso, su condición va a ser peor.
 De esa forma, se plantea la contraposición entre los intereses de los usuarios y de los artistas.

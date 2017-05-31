@@ -7,13 +7,13 @@ tags:
 - cultura-libre
 - material-para-difusion
 - nina-paley
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley-150x150.jpg
 wppost_name: baixa-cultura-hagan-arte-no-leyes-entrevista-con-nina-paley
 ---
 
 <p style="text-align: center;"><strong><a href="http://baixacultura.org/2013/03/11/faca-arte-nao-leis-entrevista-com-nina-paley/" target="_blank">Fuente Baixa Cultura</a></strong></p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley.jpg"><img class="aligncenter size-medium wp-image-8745" alt="nina-paley" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley-214x300.jpg" width="214" height="300" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley.jpg"><img class="aligncenter size-medium wp-image-8745" alt="nina-paley" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley-214x300.jpg" width="214" height="300" /></a></p>
 Además de una talentosa artista, Nina Paley es una voz activa en la lucha por una cultura libre. La animación Sita Sings the Blues, su primer trabajo lanzado bajo una licencia libre, fue un tremendo éxito. Ya fue vista y bajada cientos de miles de veces (<a href="http://www.youtube.com/watch?v=1QkYOqI3jSM" target="_blank">mirala</a> y/o <a href="http://archive.org/details/Sita_Sings_the_Blues" target="_blank">bájala</a> vos también!) y ganó un montón de premios. Su más reciente tira, <a href="http://mimiandeunice.com/" target="_blank">Mimi and Eunice</a>, es una deliciosa y provocativa incursión en los problemas de la propiedad intelectual. Desde 2009 es artista residente del site <a href="http://questioncopyright.org/" target="_blank">QuestionCopyright.org</a>, donde escribe y desarrolla proyectos que tienen que ver con el tema, y además tiene <a href="http://blog.ninapaley.com/" target="_blank">un blog</a>.
 
 En esta entrevista, concedida por e-mail, Nina habla con nuestro nuevo colaborador <a href="http://www.aosmontes.net/" target="_blank">André Solnik</a> – periodista y fotógrafo recibido en la PUCSP – sobre su compromiso con la cultura libre, de sus impresiones (negativas) sobre la ley de copyright y demuestra todo su desilusión con las licencias Creative Commons. “Las licencias son la solución equivocada. El arte es la solución. Hagan arte, no leyes”. El recado está dado.
@@ -28,7 +28,7 @@ La cultura libre me parecia un concepto muy audaz para que yo pudiese pensarla. 
 
 <strong>BC</strong>: Explicá resumidamente por qué los artistas deberían hacer libres sus obras.
 
-<strong>NP</strong>: De mi artículo <a href="http://partidopirata.com.ar/8875/8875">Cómo Liberar Tu Trabajo</a>:
+<strong>NP</strong>: De mi artículo <a href="https://partidopirata.com.ar/8875/8875">Cómo Liberar Tu Trabajo</a>:
 
 ¿Por qué los artistas deberían hacer libre su trabajo? Para hacer lo más fácil posible compartirlo – lo más fácil posible para que alcance a los ojos, orejas y mentes – de modo que él <strong>alcance un público</strong>. Para hacer lo más fácil posible que el apoyo de este público – inclusive monetario – llegue hasta el artista.
 
@@ -39,7 +39,7 @@ Las protecciones anticópia colocan una barrera entre el artista y la mayoría d
 <strong>NP</strong>: Creative Commons deberia parar de apoyar a las licencias no libres. ¿Que tipo de commons* es ese?
 
 <em>* El término commons todavía no tiene una traducción ampliamente aceptada al portugués. Algunas veces es traducido como “común” o, incluso, “bien común”.</em>
-<p style="text-align: center;"> <a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/sitagoddesspostera1.jpg"><img class="aligncenter size-medium wp-image-8746" alt="sitagoddesspostera1" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/sitagoddesspostera1-211x300.jpg" width="211" height="300" /></a></p>
+<p style="text-align: center;"> <a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/sitagoddesspostera1.jpg"><img class="aligncenter size-medium wp-image-8746" alt="sitagoddesspostera1" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/sitagoddesspostera1-211x300.jpg" width="211" height="300" /></a></p>
 <p style="text-align: center;">Sita Sing the Blues fue lanzado con CC en el 2010</p>
 <strong>BC</strong>: Aunque probablemente sean las licencias alternativas más conocidas, todavía no gozan de una popularidad comparable al “todos los derechos reservados”. ¿Por qué será? ¿Creés que las personas se quedan confusas con las muchas posibilidades ofrecidas por las licencias CC?
 
@@ -61,7 +61,7 @@ La única razón por la que la licencia BY-NC-SA es popular es porque las person
 
 Copyright es un “derecho de excluir”, no un derecho de ganar dinero. Sos libre de ganar dinero sin copyright y, además de eso, tus chances son mucho mayores.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley-2.png"><img class="aligncenter size-medium wp-image-8747" alt="nina-paley-2" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley-2-300x93.png" width="300" height="93" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley-2.png"><img class="aligncenter size-medium wp-image-8747" alt="nina-paley-2" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/nina-paley-2-300x93.png" width="300" height="93" /></a>
 
 <strong>BC</strong>: Anunciaste hace poco que SSTB está ahora en dominio público. Aunque ahora estés finalmente libre de burocracias legales involucrando el copyright y ese cambio pueda dar más visibilidad a tu película, por otro lado esto puede favorecer que aparezcan obras derivadas con licencias restrictivas (por ejemplo, un libro basado en SSTB publicado con todos los derechos reservados). ¿Cómo colocás en la balanza esas consecuencias?
 

@@ -7,12 +7,12 @@ tags:
 - intimidad
 - privacidad
 - se-lo-que-estas-haciendo
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: sabemos-lo-que-estas-haciendo
 ---
 
-<a href="http://partidopirata.com.ar/4987/site-revela-que-hacen-y-en-donde-viven-usuarios-de-facebook">Acá comentábamos</a> sobre el site <a href="http://weknowwhatyouredoing.com" target="_blank">http://weknowwhatyouredoing.com</a> que muestra pefiles públicos de Facebook de gente que colgó en su muro:
+<a href="https://partidopirata.com.ar/4987/site-revela-que-hacen-y-en-donde-viven-usuarios-de-facebook">Acá comentábamos</a> sobre el site <a href="http://weknowwhatyouredoing.com" target="_blank">http://weknowwhatyouredoing.com</a> que muestra pefiles públicos de Facebook de gente que colgó en su muro:
 
 &nbsp;
 <p style="text-align: center;"><strong>“Quién quiere ser despedido”, “Quién tiene resaca”, “Quién está usando drogas” o “Quién tiene un nuevo número de teléfono”.</strong></p>
@@ -50,4 +50,4 @@ No damos ninguna garantía, promesa y / o representación de ningún tipo, expre
 <hr />
 
 Esperamos entonces que Callum haga la versión en español.
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4889/sobre-cuidar-nuestra-privacidad-en-las-redes-sociales-o-plataformas-sociales">En Brasil despidieron a una enfermera que publicó fotos con sus compañeros en el hospital con justa causa, sin derecho a indemnización.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4889/sobre-cuidar-nuestra-privacidad-en-las-redes-sociales-o-plataformas-sociales">En Brasil despidieron a una enfermera que publicó fotos con sus compañeros en el hospital con justa causa, sin derecho a indemnización.</a></strong></p>

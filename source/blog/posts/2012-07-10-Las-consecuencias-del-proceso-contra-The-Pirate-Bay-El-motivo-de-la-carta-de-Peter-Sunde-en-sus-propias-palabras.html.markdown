@@ -9,8 +9,8 @@ tags:
 - peter-sunde
 - rick-falkvinge
 - the-pirate-bay
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
 wppost_name: las-consecuencias-del-proceso-contra-the-pirate-bay-el-motivo-de-la-carta-de-peter-sunde-en-sus-propias-palabras
 ---
 

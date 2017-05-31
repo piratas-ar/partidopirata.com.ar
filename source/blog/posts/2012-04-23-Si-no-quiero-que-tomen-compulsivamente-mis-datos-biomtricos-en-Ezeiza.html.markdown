@@ -10,8 +10,8 @@ tags:
 - sistemas-biometricos
 - todos-vigilados
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza-150x150.jpg
 wppost_name: si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-ezeiza
 ---
 
@@ -21,7 +21,7 @@ wppost_name: si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-eze
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg"><img class="size-full wp-image-4163" title="protestaingresoezeiza" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg" alt="" width="768" height="1024" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg"><img class="size-full wp-image-4163" title="protestaingresoezeiza" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg" alt="" width="768" height="1024" /></a>
 
 
 <hr />
@@ -32,12 +32,12 @@ Por medio de la presente doy disconformidad con el procedimiento de toma compuls
 Entrego la información requerida bajo protesta.
 
 &nbsp;
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">El escrito que más elaborado que nos envía Ramiro para imprimir y presentar en Ezeiza u otro lugar donde nos exijan nuestros datos biométricos.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4771/nota-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-en-ezeiza-afip-otros">El escrito que más elaborado que nos envía Ramiro para imprimir y presentar en Ezeiza u otro lugar donde nos exijan nuestros datos biométricos.</a></strong></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/recepcion.jpg"><img class="size-full wp-image-4164" title="recepcion" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/recepcion.jpg" alt="" width="600" height="450" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/recepcion.jpg"><img class="size-full wp-image-4164" title="recepcion" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/recepcion.jpg" alt="" width="600" height="450" /></a>
 
 
 <hr />

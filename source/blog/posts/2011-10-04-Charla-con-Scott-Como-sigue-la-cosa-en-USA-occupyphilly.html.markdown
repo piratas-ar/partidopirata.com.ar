@@ -8,8 +8,8 @@ tags:
 - philadelphia
 - podcasts
 - scott-filadelfia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/occupyphilli-150x150.png
 wppost_name: charla-con-scott-como-sigue-la-cosa-en-usa-occupyphilly
 ---
 
@@ -18,7 +18,7 @@ wppost_name: charla-con-scott-como-sigue-la-cosa-en-usa-occupyphilly
 o
 <a href="http://www.ivoox.com/charla-scott-philadelphia-como-sigue-la_md_827190_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a></strong></center><center></center><center>
 <strong>
-<a href="http://partidopirata.com.ar/scott-occupywallst.ppar.ogg" target="_blank">Si quieren descargar el archivo .ogg de mejor calidad.</a></strong></center><center></center><center>
+<a href="https://partidopirata.com.ar/scott-occupywallst.ppar.ogg" target="_blank">Si quieren descargar el archivo .ogg de mejor calidad.</a></strong></center><center></center><center>
 <strong>
 Mejoraron el sonido Aza y Federico!!! Gracias a ellos!!</strong></center>
 

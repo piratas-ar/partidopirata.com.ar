@@ -11,8 +11,8 @@ tags:
 - ramiro-alvarez-ugarte
 - sibios
 - sube
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg-150x150.png
 wppost_name: podcast-con-ramiro-alvarez-ugarte-sobre-privacidad-intimidad-y-como-cuidarla
 ---
 
@@ -26,11 +26,11 @@ Presionen en <em>play</em> para escucharlo sin descargar o :
 <ul>
 <ul>
 	<li><strong><a href="https://twitter.com/#!/ramiroau" target="_blank">Twitter de Ramiro por si quieren comunicarse con él.</a></strong></li>
-	<li><strong> <a href="http://partidopirata.com.ar/4162/si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-ezeiza">El escrito que presentó Ramiro por ser obligado a que se tomen compulsivamente sus datos en su ingreso a Ezeiza</a></strong></li>
+	<li><strong> <a href="https://partidopirata.com.ar/4162/si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-ezeiza">El escrito que presentó Ramiro por ser obligado a que se tomen compulsivamente sus datos en su ingreso a Ezeiza</a></strong></li>
 	<li><strong><a href="http://www.diarioelatlantico.com/diario/2012/04/20/41466-nuevo-sistema-digital-de-ingreso-y-egreso.html" target="_blank">Según el diario El Atlántico en Buquebus también implementaron este servicio.</a></strong></li>
 </ul>
 </ul>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">German nos manda un escrito para presentar ante la toma compulsiva de datos biométricos</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">German nos manda un escrito para presentar ante la toma compulsiva de datos biométricos</a></strong></p>
 
 
 <hr />
@@ -42,5 +42,5 @@ Presionen en <em>play</em> para escucharlo sin descargar o :
 &nbsp;
 
 <hr />
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Otros Podcasts del Partido Pirata Argentino</a></strong></p>
 &nbsp;

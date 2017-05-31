@@ -7,29 +7,29 @@ tags:
 - noticias
 - suplemento-link
 - tatiana
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/Alice_in_Wonderland.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/Alice_in_Wonderland.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/Alice_in_Wonderland.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/Alice_in_Wonderland.jpg
 wppost_name: respetable-publico-que-pasa-cuando-una-obra-entra-en-dominio-publico
 ---
 
 <strong><a href="http://blogs.estadao.com.br/link/respeitavel-publico/" target="_blank">Fuente Suplemento Link "O Estado de São Paulo"</a></strong>
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/Alice_in_Wonderland.jpg"><img class="aligncenter size-medium wp-image-1616" title="Alcia en el país de las maravillas" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/Alice_in_Wonderland-285x300.jpg" alt="" width="285" height="300" /><strong>Alicia en el país de las maravillas</strong></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/Alice_in_Wonderland.jpg"><img class="aligncenter size-medium wp-image-1616" title="Alcia en el país de las maravillas" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/Alice_in_Wonderland-285x300.jpg" alt="" width="285" height="300" /><strong>Alicia en el país de las maravillas</strong></a></p>
 <p style="text-align: center;"><strong> QUé ESTÁ Y QUÉ NO ESTÁ En DOMINIO PÚBLICO
 </strong><strong><em>Jingle Bell Rock.</em></strong><em> No. Esta y otras muchas canciones de Navidad, como ‘Santa Claus is Coming to Town’, pertencen a discográficas.</em>
 <em> <strong>Alicia en el País de las Maravillas.</strong> La obra de Lewis Carrol es pública. Pero las adaptaciones, como la reciente versión de Tim </em><em> Burton, están protegidas.</em></p>
 
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/parabenspravc.jpg"><img class="aligncenter size-medium wp-image-1617" title="parabenspravc" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/parabenspravc-300x111.jpg" alt="" width="300" height="111" /></a><em><strong>Cumpleaños Feliz. </strong>:No. </em></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/parabenspravc.jpg"><img class="aligncenter size-medium wp-image-1617" title="parabenspravc" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/parabenspravc-300x111.jpg" alt="" width="300" height="111" /></a><em><strong>Cumpleaños Feliz. </strong>:No. </em></p>
 <p style="text-align: center;"><em>La música sólo entra en dominio público en los EUA el 2030 (es de Warner). En Europa el copyright expira el 2016
 </em></p>
 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/08/Sigmund_Freud.jpg"><img class="aligncenter size-medium wp-image-1618" title="Sigmund_Freud" src="http://partidopirata.com.ar/wp-content/uploads/2011/08/Sigmund_Freud-227x300.jpg" alt="" width="227" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/08/Sigmund_Freud.jpg"><img class="aligncenter size-medium wp-image-1618" title="Sigmund_Freud" src="https://partidopirata.com.ar/wp-content/uploads/2011/08/Sigmund_Freud-227x300.jpg" alt="" width="227" height="300" /></a>
 <p style="text-align: center;"><em></em><em><strong>Sigmund Freud.</strong> Si. </em></p>
 <p style="text-align: center;"><em>Todos los libros del psicoanalista entraron en dominio público en el 2010. Eso hizo que surgieran nuevas y mejores ediciones de sus obras. </em></p>
 
@@ -54,7 +54,7 @@ Y si gran parte de las obras que ya están en dominio público está guardada en
 
 <strong>Falta de respeto.</strong> El autor constató una serie de problemas en relación a la manera en que gobiernos e instituciones tratan al dominio público – en Brasil y en el mundo. “Hice una investigación en cuatro instituciones de archivos públicos y verifiqué una gran falta de respeto a las obras”, dic. En rigor, todo lo que está en dominio público debe ser accesible por cualquiera, para cualquier fin. Pero las instituciones suelen exigir declaraciones sobre el uso que se le dará a la obra y vetan cualquier uso diferente.
 
-La Ley de Derecho de Autor en Brasil no regula el tema. “La ley me parece poco eficiente”, dice Branco. “Ella no preveé el dominio público voluntario. No hay razón para eso”, critica. La ley simplemente determina el plazo de protección en Brasil: 70 años después de la muerte del autor, plazo considerado largo por instituciones como la ONG Consumers International, que colocó a Brasil como el país con la cuarta peor ley de copyright del mundo en relación al acceso a la cultura y uso educativo [<a href="http://partidopirata.com.ar/806/cuarto-podcast-del-partido-pirata-argentino-charlando-con-beatriz-garcia-buitrago-sobre-la-ley-de-derecho-de-autor" target="_blank">Acá charlamos con Beatriz García Buitrago sobre las limitaciones de la ley de derecho de autor en la Argentina desde el punto de vista de los consumidores</a>]. “En rigor, podemos decir que el plazo hoy vigente en Brasil ya es lo suficientemente largo para representar un desequilíbrio en las relaciones entre autor y sociedad", dice Branco en sua tese. “Parece claro que los frutos económicos derivados de la explotación de la obra se agotan, en regla, mucho antes de expirado el plazo de protección.”
+La Ley de Derecho de Autor en Brasil no regula el tema. “La ley me parece poco eficiente”, dice Branco. “Ella no preveé el dominio público voluntario. No hay razón para eso”, critica. La ley simplemente determina el plazo de protección en Brasil: 70 años después de la muerte del autor, plazo considerado largo por instituciones como la ONG Consumers International, que colocó a Brasil como el país con la cuarta peor ley de copyright del mundo en relación al acceso a la cultura y uso educativo [<a href="https://partidopirata.com.ar/806/cuarto-podcast-del-partido-pirata-argentino-charlando-con-beatriz-garcia-buitrago-sobre-la-ley-de-derecho-de-autor" target="_blank">Acá charlamos con Beatriz García Buitrago sobre las limitaciones de la ley de derecho de autor en la Argentina desde el punto de vista de los consumidores</a>]. “En rigor, podemos decir que el plazo hoy vigente en Brasil ya es lo suficientemente largo para representar un desequilíbrio en las relaciones entre autor y sociedad", dice Branco en sua tese. “Parece claro que los frutos económicos derivados de la explotación de la obra se agotan, en regla, mucho antes de expirado el plazo de protección.”
 
 El año pasado, la Argentina aprobó una ley para extender de 50 para 70 años el plazo de protección de obras fonográficas. Uno de los motivos era el de que un disco de la cantora Mercedes Sosa entraria en dominio público el 2012. Detalle: el LP estaba fuera del catálogo hacía 48 años, por lo tanto sin generar renta para la familia de la cantora. “Son historias absurdas porque estás protegiendo algo que no está siendo explotado e impidiendo el acceso a aquella obra”, dice Branco. [<a href="http://partido-pirata.blogspot.com/2009/11/20-anos-mas-robados-al-pueblo-ii.html" target="_blank">Algo más sobre el tema acá.</a>]
 En los años 60, el compositor Carlos Imperial se transformó en dueño de la canción “Meu Limão, Meu Limoeiro”. Registró la cantiga popular como su composición. Su madre quedó indignada: “Pero, Carlos, ¿cómo tuviste coraje? Me cansé de hacerte dormir a la noche cantando esa canción”. Él respondió: “Música y mujer para mi no tienen dueño, voy y las tomo”. Hasta hoy, siempre que alguien toca publicamente la cantiga popular, tendrá que pagar derechos de autor a la família Imperial.
@@ -79,5 +79,5 @@ El año pasado, toda la obra del psicoanalista Sigmund Freud entró en dominio p
 
 <strong></strong><strong><a href="http://blogs.estadao.com.br/link/respeitavel-publico/" target="_blank">Fuente Suplemento Link "O Estado de São Paulo"</a></strong><hr>
 
-<a href="http://partidopirata.com.ar/1610/construccion-de-una-calculadora-de-dominio-publico-de-la-argentina">Acá dejamos nuestro proyecto para construir una <i>Calculadora de Dominio Público Argentina</a> y textos y guías sobre el dominio público argentino.
+<a href="https://partidopirata.com.ar/1610/construccion-de-una-calculadora-de-dominio-publico-de-la-argentina">Acá dejamos nuestro proyecto para construir una <i>Calculadora de Dominio Público Argentina</a> y textos y guías sobre el dominio público argentino.
 Si quieren participar en la confección de nuestra <i>calculadora</i> están invitado!!!>

@@ -7,8 +7,8 @@ tags:
 - democracia-2
 - denuncias
 - index-of-censorship
-image: http://partidopirata.com.ar/wp-content/uploads/2014/07/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/07/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2014/07/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/07/tpb-150x150.jpg
 wppost_name: una-medida-desproporcionada-e-inutil
 ---
 

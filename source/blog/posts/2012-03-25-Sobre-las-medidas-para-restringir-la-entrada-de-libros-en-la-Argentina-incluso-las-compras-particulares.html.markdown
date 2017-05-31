@@ -12,8 +12,8 @@ tags:
 - limitacion
 - radio
 - radio-2
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011-150x150.png
 wppost_name: sobre-las-medidas-para-restringir-la-entrada-de-libros-en-la-argentina-incluso-las-compras-particulares
 ---
 
@@ -29,4 +29,4 @@ wppost_name: sobre-las-medidas-para-restringir-la-entrada-de-libros-en-la-argent
 
 <hr />
 <p style="text-align: center;">Tal vez una posible solución!</p>
-<p style="text-align: center;"><strong><em><a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011.png"><img class="aligncenter size-large wp-image-811" title="subi-libros-2011" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011-479x1024.png" alt="Pensando en la Feria del Libro" width="479" height="1024" /></a></em></strong></p>
+<p style="text-align: center;"><strong><em><a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011.png"><img class="aligncenter size-large wp-image-811" title="subi-libros-2011" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/subi-libros-2011-479x1024.png" alt="Pensando en la Feria del Libro" width="479" height="1024" /></a></em></strong></p>

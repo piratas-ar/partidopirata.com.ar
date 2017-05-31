@@ -5,8 +5,8 @@ tags:
 - denuncias
 - destacados
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2013/08/chevron2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/08/chevron2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/08/chevron2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/08/chevron2-150x150.jpg
 wppost_name: nos-van-a-matar-de-todos-modos
 ---
 
@@ -35,4 +35,4 @@ Nos van a matar de todas formas, pero cuando me asesines me rodearan los compañ
 
 Entre tu suerte y la mia sigo eligiendo la mia. Porque nunca tendre verguenza de ver a mi pueblo de frente, en cambio a vos te repudian hasta los perros del basural. En todos laditos he visto las mismas cosas y los mismos personajes; forzando la mentira a verdad. Que si las abejas se mueren no pasa nada, que el agua dulce no se contamina, que la soja es igual al bosque nativo. Se creen que somos estúpidos, que no vemos nuestro ecosistema? no somos estupidos, vemos y olemos, solo que no decidimos ocupar el lugar de poder que ustedes sí. Señores Uds no son ciegos. a uds les gusta mucha la platita, platita q van a tener que guardar para comprar agua embotellada.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/08/chevron1.jpg"><img class="alignnone size-medium wp-image-9204" alt="Marcha contra Chevron - 28 de Agosto 2013 - Foto por Cecilia Medina" src="http://partidopirata.com.ar/wp-content/uploads/2013/08/chevron1-300x159.jpg" width="300" height="159" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/08/chevron1.jpg"><img class="alignnone size-medium wp-image-9204" alt="Marcha contra Chevron - 28 de Agosto 2013 - Foto por Cecilia Medina" src="https://partidopirata.com.ar/wp-content/uploads/2013/08/chevron1-300x159.jpg" width="300" height="159" /></a>

@@ -11,8 +11,8 @@ tags:
 - torrentfreak
 - torrentfreak-noticias
 - tres-avisos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/Hadopi_s_findings_on_Monthly_expenses_for_cultural_goods_2011-page-001.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/Hadopi_s_findings_on_Monthly_expenses_for_cultural_goods_2011-page-001-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/Hadopi_s_findings_on_Monthly_expenses_for_cultural_goods_2011-page-001.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/Hadopi_s_findings_on_Monthly_expenses_for_cultural_goods_2011-page-001-150x150.jpg
 wppost_name: ee-uu-el-esquema-anti-pirateria-de-los-seis-avisos-empieza-hoy-con-castigos-misteriosos
 ---
 
@@ -72,6 +72,6 @@ No interviene un juez, todo se hace desde lugares privados.
 
 <strong><a href="../2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">En este podcast con Erik Walter de Hadopi se explica un poco más como funciona el sistema de los 3 avisos en Francia</a></strong>
 
-Cuando salió Sarkozy en Francia la nueva ministra de cultura dijo que HADOPI <strong><a href="http://partidopirata.com.ar/5710/el-presupuesto-para-los-tres-avisos-contra-la-pirateria-demasiado-caro-para-justificarlo-dice-el-ministro">no estaba dando resultados y que era algo caro para el Estado</a></strong>.
+Cuando salió Sarkozy en Francia la nueva ministra de cultura dijo que HADOPI <strong><a href="https://partidopirata.com.ar/5710/el-presupuesto-para-los-tres-avisos-contra-la-pirateria-demasiado-caro-para-justificarlo-dice-el-ministro">no estaba dando resultados y que era algo caro para el Estado</a></strong>.
 
 Estemos atentos, si copiamos todo lo malo de afuera, que no sea algo más a copiar!!!

@@ -10,8 +10,8 @@ tags:
 - plataformas-colaborativas
 - reforma
 - reforma-del-codigo-penal
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/zaffaroni.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/zaffaroni-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/zaffaroni.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/zaffaroni-150x150.jpg
 wppost_name: sobre-una-reforma-del-codigo-penal-y-hacer-una-plataforma-colaborativa-abierta
 ---
 
@@ -29,5 +29,5 @@ Se hizo en Brasil con el Marco Civil de Internet y con la reforma de la ley de D
 Un grupo de personas luego toma todas las propuestas , elabora un proyecto de ley y lo presenta en el congreso.
 Quien debate la ley es el congreso donde pueden, incluso, modificarlo,<strong> ¿por qué no hacer algo así en la Argentina?</strong></p>
 <p style="text-align: center;">Todos (y todas, uf) iremos en cana o seremos alcanzados por el código penal, no es algo menor.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Si quieren saber algo más sobre las plataformas para elaborar proyectos de ley en Brasil, una charla con Paulo Rená da Silva, Gestor del Marco Civil en Brasil.</a></strong>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Si quieren saber algo más sobre las plataformas para elaborar proyectos de ley en Brasil, una charla con Paulo Rená da Silva, Gestor del Marco Civil en Brasil.</a></strong>
 </p>

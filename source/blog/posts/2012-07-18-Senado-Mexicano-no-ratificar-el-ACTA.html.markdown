@@ -10,14 +10,14 @@ tags:
 - ratificacion-del-acta
 - senado-mexicano
 - tratado
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva-150x150.png
 wppost_name: senado-mexicano-no-ratificara-el-acta
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png"><img class="aligncenter size-full wp-image-1929" title="acta-arma-destruccion-masiva" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png" alt="" width="560" height="352" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png"><img class="aligncenter size-full wp-image-1929" title="acta-arma-destruccion-masiva" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png" alt="" width="560" height="352" /></a>
 
-La semana pasada nos enteramos que <a href="http://partidopirata.com.ar/5220/mexico-firma-el-acta">México había firmado el ACTA</a>
+La semana pasada nos enteramos que <a href="https://partidopirata.com.ar/5220/mexico-firma-el-acta">México había firmado el ACTA</a>
 
 El año pasado el senado mexicano había votado una declaración en donde afirmaban que, si el gobierno mexicano firmaba el ACTA, el senado no lo iba a ratificar.
 
@@ -32,7 +32,7 @@ Cuando se dió esa votación charlamos con Geraldine que es mexicana, sobre el p
 
 <hr />
 
-<strong>El senado mexicano votó la <a href="http://partidopirata.com.ar/5220/mexico-firma-el-acta" target="_blank">siguiente resolución:</a></strong>
+<strong>El senado mexicano votó la <a href="https://partidopirata.com.ar/5220/mexico-firma-el-acta" target="_blank">siguiente resolución:</a></strong>
 
 &nbsp;
 <div align="justify">

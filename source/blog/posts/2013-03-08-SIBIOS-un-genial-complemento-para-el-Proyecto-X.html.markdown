@@ -10,8 +10,8 @@ tags:
 - proyecto-x
 - sibios
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
 wppost_name: sibios-un-genial-complemento-para-el-proyecto-x
 ---
 
@@ -70,7 +70,7 @@ Con SIBIOS el gobierno no tendría que mandar a gendarmes infiltrados a fotograf
 
 Por eso es importante que tengamos conciencia sobre los peligros que existen con tantos datos que están recolectando para identificarnos más fácilmente a todos.
 
-Les recomendamos el paper: <a href="http://partidopirata.com.ar/7857/no-tengo-nada-que-ocultar-y-otros-malentendidos-de-la-privacidad"><strong>No Tengo Nada que Ocultar</strong> </a>por si quieren usar ese famoso razonamiento...
+Les recomendamos el paper: <a href="https://partidopirata.com.ar/7857/no-tengo-nada-que-ocultar-y-otros-malentendidos-de-la-privacidad"><strong>No Tengo Nada que Ocultar</strong> </a>por si quieren usar ese famoso razonamiento...
 
 <hr />
 
@@ -84,4 +84,4 @@ Por eso en el Código Procesal Penal alemán se regulan muy detalladamente medid
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">El escrito para presentar cuando nos solicitan nuestros datos biométricos y la charla que mantuvimos con Ramiro sobre toma compulsiva de datos biométricos</a></strong>
+<strong><a href="https://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">El escrito para presentar cuando nos solicitan nuestros datos biométricos y la charla que mantuvimos con Ramiro sobre toma compulsiva de datos biométricos</a></strong>

@@ -6,12 +6,12 @@ tags:
 - escritores
 - jubilacion
 - divulgacion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg
 wppost_name: de-que-no-viven-los-escritores-ii
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg"><img class="aligncenter size-full wp-image-709" title="escritores" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg" alt="" width="300" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg"><img class="aligncenter size-full wp-image-709" title="escritores" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/escritores.jpg" alt="" width="300" height="300" /></a>
 
 <hr />
 
@@ -90,4 +90,4 @@ Si colocan esa cláusula queda claro que muchos autores no deben recibir nada po
 </strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1852/de-que-no-viven-los-escritores-iii">De qué NO viven los escritores III</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1852/de-que-no-viven-los-escritores-iii">De qué NO viven los escritores III</a></strong></p>

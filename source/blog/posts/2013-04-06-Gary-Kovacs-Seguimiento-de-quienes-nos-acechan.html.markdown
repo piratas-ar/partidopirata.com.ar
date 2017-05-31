@@ -8,8 +8,8 @@ tags:
 - eldiario-es
 - gary-kovacs
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
 wppost_name: gary-kovacs-seguimiento-de-quienes-nos-acechan
 ---
 

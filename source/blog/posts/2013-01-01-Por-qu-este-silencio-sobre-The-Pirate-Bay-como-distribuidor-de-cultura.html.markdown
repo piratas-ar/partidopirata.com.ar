@@ -7,8 +7,8 @@ tags:
 - kristina-svartholm
 - the-pirate-bay
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb-150x150.jpg
 wppost_name: por-que-este-silencio-sobre-the-pirate-bay-como-distribuidor-de-cultura
 ---
 
@@ -17,7 +17,7 @@ Por <a title="Posts by Kristina Svartholm" href="https://torrentfreak.com/author
 
 En octubre se publicó un artículo en el que se les dio a los usuarios de Internet la oportunidad de contactar al  co-fundador de The Pirate Bay Gottfrid Svartholm durante su detención en Suecia. El apoyo fue abrumadora y desde todos los rincones del mundo. En este post nuestra invitada de hoy la madre de Gottfrid, Kristina Svartholm, vemos el contenido de algunas de esas cartas y nos preguntamos por qué la contribución de The Pirate Bay a la distribución de la cultura es pasado por alto tan a menudo.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg"><img class="size-full wp-image-243 alignright" alt="The Pirate Bay" src="http://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg" width="160" height="171" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg"><img class="size-full wp-image-243 alignright" alt="The Pirate Bay" src="https://partidopirata.com.ar/wp-content/uploads/2010/11/tpb.jpg" width="160" height="171" /></a>
 
 Como muchos lectores de TorrentFreak ya saben, he recibido cientos y <a href="http://torrentfreak.com/pirate-bay-founder-held-in-solitary-confinement-write-him-a-letter-today-121020/">cientos de e-mail </a>de personas de todo el mundo que querían enviarle sus saludos a mi hijo Gottfrid , uno de los fundadores de The Pirate Bay. El apoyo y el aliento que expresan es abrumadora.
 

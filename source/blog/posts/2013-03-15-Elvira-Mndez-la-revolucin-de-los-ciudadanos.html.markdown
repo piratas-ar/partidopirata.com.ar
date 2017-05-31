@@ -8,8 +8,8 @@ tags:
 - modelo-islandes
 - revolucion-de-los-ciudadanos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia-150x150.jpg
 wppost_name: elvira-mendez-la-revolucion-de-los-ciudadanos
 ---
 
@@ -18,4 +18,4 @@ wppost_name: elvira-mendez-la-revolucion-de-los-ciudadanos
 
 <hr />
 <p style="text-align: center;"><strong>Entrevista a Elvira Méndez catedrática española que hace 12 años vive en Islandia. El entrevistador habla en catalán y la entrevistada en castellano así que se entiende!</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/8827/conferencia-elvira-mendez-el-ejemplo-de-islandia">La Charla&gt; El Ejemplo de Islandia de Elvira Méndez</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/8827/conferencia-elvira-mendez-el-ejemplo-de-islandia">La Charla&gt; El Ejemplo de Islandia de Elvira Méndez</a></strong></p>

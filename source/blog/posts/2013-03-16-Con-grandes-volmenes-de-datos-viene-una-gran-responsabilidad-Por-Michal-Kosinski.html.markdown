@@ -9,8 +9,8 @@ tags:
 - michal-kosinski
 - predecir
 - prediccion
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/Facebook-008.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/Facebook-008-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/Facebook-008.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/Facebook-008-150x150.jpg
 wppost_name: con-grandes-volumenes-de-datos-viene-una-gran-responsabilidad-por-michal-kosinski
 ---
 
@@ -41,15 +41,15 @@ Los usuarios deben tener el control total sobre los datos que pueden ser utiliza
 Amo a Facebook. Se trata de una tecnología verdaderamente grande, que une a las personas. Quiero ayudar a garantizar que podramos seguir utilizándola con el conocimiento de que la información personal está a salvo y segura.
 
 El autor es investigador del <em>Centro de Psicometría de la Universidad de Cambridge</em> . Es<em> co-autor del estudio sobre los rasgos particulares con David Stillwell, también del Centro de Psicometría y Thore Graepel de Microsoft Research</em>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/8740/estudio-descubr-que-llos-usuarios-de-facebook-revelan-secretos-intimos-sin-saberlo">El Estudio sobre lo que los usuarios de Facebook revelan sin saberlo</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/8740/estudio-descubr-que-llos-usuarios-de-facebook-revelan-secretos-intimos-sin-saberlo">El Estudio sobre lo que los usuarios de Facebook revelan sin saberlo</a></strong></p>
 
 
 <hr />
 
 No se hasta qué punto es bueno que un candidato sea evaluado por sus "Me Gusta" en Facebook
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/5508/como-las-empresas-saben-tus-secretos">Cómo las empresas saben nuestros secretos</a> el análisis de nuestras compras con las tarjetas propias de los supermercados.</strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5863/un-dilema-digital-libros-electronicos-y-los-derechos-de-los-usuarios">Amazon y otras librerías online saben, y analizan, todas nuestras lectursa, películas que vemos y música que escuchamos</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5508/como-las-empresas-saben-tus-secretos">Cómo las empresas saben nuestros secretos</a> el análisis de nuestras compras con las tarjetas propias de los supermercados.</strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5863/un-dilema-digital-libros-electronicos-y-los-derechos-de-los-usuarios">Amazon y otras librerías online saben, y analizan, todas nuestras lectursa, películas que vemos y música que escuchamos</a></strong></li>
 </ul>
 
 <hr />

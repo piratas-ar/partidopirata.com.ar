@@ -11,8 +11,8 @@ tags:
 - divulgacion
 - patricio-lorente
 - propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/derriben_ese_muro-207x300.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/derriben_ese_muro-207x300.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/derriben_ese_muro-207x300.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/derriben_ese_muro-207x300.png
 wppost_name: dia-mundial-de-la-propiedad-intelectual-el-derecho-de-autor-y-las-restricciones-a-la-cultura-video
 ---
 

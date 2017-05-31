@@ -8,14 +8,14 @@ tags:
 - ocupacion-del-espacio-publico
 - parque-centenario
 - represion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis-150x150.jpg
 wppost_name: la-destruccion-de-la-huerta-comunitaria-del-parque-centenario
 ---
 
 <center>
 <iframe src="http://www.youtube.com/embed/TNWYatIQHJY?list=UUD29sg01bX0AhGwDacHejuQ&amp;hl=es_ES" frameborder="0" width="560" height="315"></iframe></center><center></center><center>Inspectores de Espacio verde, amparados por la policía Metropollitana, irrumpieron en Parque Centenario para sacar la incipiente Huerta Comunitaria.</center>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6889/conversando-con-renato-sobre-el-acampe-en-parque-centenario">El 17 de Octubre estuvimos hablando con Renato sobre lo que está pasando en el Parque Centenario</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6889/conversando-con-renato-sobre-el-acampe-en-parque-centenario">El 17 de Octubre estuvimos hablando con Renato sobre lo que está pasando en el Parque Centenario</a></strong></p>
 <p style="text-align: center;"><strong><a href="https://twitter.com/noalasrejas" target="_blank">Twitter No a las Rejas </a> para saber un poco más.</strong></p>
 
 

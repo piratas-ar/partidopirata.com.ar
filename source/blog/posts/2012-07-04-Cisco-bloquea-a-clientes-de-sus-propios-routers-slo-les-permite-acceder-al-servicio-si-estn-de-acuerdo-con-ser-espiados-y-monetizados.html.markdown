@@ -10,12 +10,12 @@ tags:
 - espiar
 - nube
 - vigilar
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/cisco-cloud-348x196.png.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/cisco-cloud-348x196.png-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/cisco-cloud-348x196.png.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/cisco-cloud-348x196.png-150x150.jpg
 wppost_name: cisco-bloquea-a-clientes-de-sus-propios-routers-solo-les-permite-acceder-al-servicio-si-estan-de-acuerdo-con-ser-espiados-y-monetizados
 ---
 
-<strong><a href="http://boingboing.net/2012/07/03/cisco-locks-customers-out-of-t.html" target="_blank">Fuente Boing Boing.</a></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/cisco-cloud-348x196.png.jpg"><img class="alignright size-full wp-image-5122" title="cisco-cloud-348x196.png" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/cisco-cloud-348x196.png.jpg" alt="" width="275" height="155" /></a>
+<strong><a href="http://boingboing.net/2012/07/03/cisco-locks-customers-out-of-t.html" target="_blank">Fuente Boing Boing.</a></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/cisco-cloud-348x196.png.jpg"><img class="alignright size-full wp-image-5122" title="cisco-cloud-348x196.png" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/cisco-cloud-348x196.png.jpg" alt="" width="275" height="155" /></a>
 
 Por <a title="Posts by Cory Doctorow" href="http://boingboing.net/author/cory_doctorow_1" rel="author">Cory Doctorow</a>
 
@@ -50,7 +50,7 @@ Pero, como se ha señalado, Cisco sigue reservándose el derecho de cambiar la f
 
 <hr />
 <p style="text-align: center;"><strong>En definitiva como tantas otras actualizaciones, por más que compremos legalmente sus productos quieren imponernos sus limitaciones y vigilarnos...</strong>
-<strong> <a href="http://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">Algo más sobre la <em>Guerra</em> dentro de la computadora de uso general.</a></strong></p>
+<strong> <a href="https://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">Algo más sobre la <em>Guerra</em> dentro de la computadora de uso general.</a></strong></p>
 
 
 <hr />

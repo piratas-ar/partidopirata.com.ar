@@ -10,8 +10,8 @@ tags:
 - eventos-2
 - mujeres
 - primera-programadora
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/Ada-Lovelace-009.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/Ada-Lovelace-009-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/Ada-Lovelace-009.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/Ada-Lovelace-009-150x150.jpg
 wppost_name: pioneras-de-la-informaticaada-lovelace-primera-programadora
 ---
 

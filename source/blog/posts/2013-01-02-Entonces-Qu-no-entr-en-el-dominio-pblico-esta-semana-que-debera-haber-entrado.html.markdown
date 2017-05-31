@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - dominio-publico
 - extension-del-derecho-de-autor
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/z8e1L.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/z8e1L-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/z8e1L.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/z8e1L-150x150.jpg
 wppost_name: entonces-que-no-entro-en-el-dominio-publico-esta-semana-que-deberia-haber-entrado
 ---
 
@@ -17,7 +17,7 @@ wppost_name: entonces-que-no-entro-en-el-dominio-publico-esta-semana-que-deberia
 
 Hace un par de semanas atrás, señalé que, si bien algunas cosas estaba entrando en el dominio público en muchos países de todo el mundo el 1 de enero aquí en los EE.UU., tenemos <a href="http://www.techdirt.com/articles/20121214/07565721387/uss-public-domain-class-2013.shtml">un grande y gordo conjunto vacío </a>a. La buena gente del Centro para el Estudio del Dominio Público en la Universidad de Duke han sacado su deprimente mensaje anual de<a href="http://web.law.duke.edu/cspd/publicdomainday/2013/pre-1976" target="_blank">lo que debería haber entrado en dominio público este año</a> si todavía se estuviera trabajando bajo el régimen del derecho de autor anterior, antes de que se cambiara en 1978 a la Ley de Derecho de Autor de 1976. Según esa ley, la longitud máxima del derecho de autor era de 58 años - lo que significaría que las obras a  partir de 1956 habrían entrado en el dominio público ayer. Habá algunas impresionantes obras que permanecerán encerradas por décadas:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/z8e1L.jpg"><img class=" wp-image-8011 " alt="Lo que habría entrado en Dominio Público en EE.UU. en 2013 si no se hubiera alterado la Ley en 1978" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/z8e1L.jpg" width="607" height="499" /></a> Lo que habría entrado en Dominio Público en EE.UU. en 2013 si no se hubiera alterado la Ley en 1978
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/z8e1L.jpg"><img class=" wp-image-8011 " alt="Lo que habría entrado en Dominio Público en EE.UU. en 2013 si no se hubiera alterado la Ley en 1978" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/z8e1L.jpg" width="607" height="499" /></a> Lo que habría entrado en Dominio Público en EE.UU. en 2013 si no se hubiera alterado la Ley en 1978
 
 
 Se publicaron las listas de un montón de libros que hubieran entrado en dominio público:
@@ -59,7 +59,7 @@ Video realizado por Rodrigo para advertir sobre lo que pasaría en caso de aprob
 
 ¿Cuánto folklore, tango, rock, música popular, etc perdimos con esa extensión que sólo favoreció a muy pocos?
 <p style="text-align: center;"><strong>No lo sabemos, si alguien quiere investigarlo tiene nuestro humilde blog para colocar su investigación!</strong></p>
-<p style="text-align: center;">En Europa también se consigue...<a href="http://partidopirata.com.ar/1777/se-confirma-el-robo-de-20-anos-de-dominio-publico-en-europa-the-beatles-extension" target="_blank">La Unión Europea analizó la extensión en 20 años sobre los derechos de los fonogramas</a> allá llamada de <strong><i>Extensión Beatles</i> </strong></p>
+<p style="text-align: center;">En Europa también se consigue...<a href="https://partidopirata.com.ar/1777/se-confirma-el-robo-de-20-anos-de-dominio-publico-en-europa-the-beatles-extension" target="_blank">La Unión Europea analizó la extensión en 20 años sobre los derechos de los fonogramas</a> allá llamada de <strong><i>Extensión Beatles</i> </strong></p>
 <p style="text-align: center;">¿Adivinen de quiénes entraban los primeros fonogramas en dominio público?</p>
 <p style="text-align: center;"><strong><a href="http://derechoaleer.info/blog/" target="_blank">El banner realizado por Derecho a Leer</a> </strong>en aquella ocasión
-<a href="http://partidopirata.com.ar/wp-content/uploads/2009/11/s3030.png"><img class="aligncenter size-full wp-image-50" alt="20 años robados al pueblo" src="http://partidopirata.com.ar/wp-content/uploads/2009/11/s3030.png" width="562" height="474" /></a></p>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2009/11/s3030.png"><img class="aligncenter size-full wp-image-50" alt="20 años robados al pueblo" src="https://partidopirata.com.ar/wp-content/uploads/2009/11/s3030.png" width="562" height="474" /></a></p>

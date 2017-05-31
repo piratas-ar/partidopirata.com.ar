@@ -9,8 +9,8 @@ tags:
 - kindle
 - libros
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/kindlefinger.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/kindlefinger-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/kindlefinger.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/kindlefinger-150x150.jpg
 wppost_name: el-gran-e-reader-te-esta-vigilando
 ---
 
@@ -18,7 +18,7 @@ wppost_name: el-gran-e-reader-te-esta-vigilando
 
 Por  <a title="Posts by Laura Hazard Owen" href="http://paidcontent.org/author/laurahowen38/" rel="author">Laura Hazard Owen</a>
 
-"Porque a veces las cosas les suceden a la gente y no están preparados para tratar con eso." Eso sentencia - gramatical del libro segundo libro de Suzanne Collins <em>Catching Fire</em> , de la trilogía,"Hunger Games"  es el pasaje más destacado en Kindle,  resaltado por cerca de 18.000 lectores identificados. Pero usted puede apostar que Amazon está la recolectando datos mucho más interesantes sobre los usuarios de Kindle que eso.<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/kindlefinger.jpg"><img class="alignright size-full wp-image-5023" title="kindlefinger" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/kindlefinger.jpg" alt="" width="294" height="320" /></a>
+"Porque a veces las cosas les suceden a la gente y no están preparados para tratar con eso." Eso sentencia - gramatical del libro segundo libro de Suzanne Collins <em>Catching Fire</em> , de la trilogía,"Hunger Games"  es el pasaje más destacado en Kindle,  resaltado por cerca de 18.000 lectores identificados. Pero usted puede apostar que Amazon está la recolectando datos mucho más interesantes sobre los usuarios de Kindle que eso.<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/kindlefinger.jpg"><img class="alignright size-full wp-image-5023" title="kindlefinger" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/kindlefinger.jpg" alt="" width="294" height="320" /></a>
 
 La empresa no está dispuesta a compartir estos datos con el Wall Street Journal, pero Barnes &amp; Noble y Kobo hablaron un poco acerca de los tipos de recolección de datos que están haciendo en <a href="http://online.wsj.com/article/SB10001424052702304870304577490950051438304.html">este artículo </a>. Por ejemplo, pueden realizar un seguimiento de donde el lector deja de leer un libro electrónico. El artículo señala algunos resultados no sorprendentes de Barnes &amp; Noble: los lectores de del género ficción (romance, misterio, ciencia ficción) leen los libros rápido y los termiann; los "libros de no ficción, sobre todo los largos, tienden a no ser terminados más temprano."
 

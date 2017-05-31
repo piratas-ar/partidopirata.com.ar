@@ -9,12 +9,12 @@ tags:
 - manifestante
 - manifestante-expulsado
 - mar-del-plata
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104-150x150.png
 wppost_name: que-decia-el-cartel-de-la-persona-que-expulsaron-del-acto-de-la-fragata
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png"><img class="size-full wp-image-8158" alt="La persona desplegando un cartel en el acto de la llegada de la Fragata Libertad" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png" width="640" height="360" /></a> La persona desplegando un cartel en el acto de la llegada de la Fragata Libertad, abajo a la derecha
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png"><img class="size-full wp-image-8158" alt="La persona desplegando un cartel en el acto de la llegada de la Fragata Libertad" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/vlcsnap-2013-01-10-10h24m19s104.png" width="640" height="360" /></a> La persona desplegando un cartel en el acto de la llegada de la Fragata Libertad, abajo a la derecha
 
 
 <hr />
@@ -32,7 +32,7 @@ Cuando expulsan a la persona que llevaba el cartel</center>
 <hr />
 <p style="text-align: center;"><strong>Finalmente Greenpeace avisó de qué se trataba el cartel que quisieron censurar
 </strong></p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/538043_461037850611227_1945566670_n.jpg"><img class="aligncenter  wp-image-8160" alt="538043_461037850611227_1945566670_n" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/538043_461037850611227_1945566670_n.jpg" width="576" height="432" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/538043_461037850611227_1945566670_n.jpg"><img class="aligncenter  wp-image-8160" alt="538043_461037850611227_1945566670_n" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/538043_461037850611227_1945566670_n.jpg" width="576" height="432" /></a></p>
 
 
 <hr />

@@ -8,12 +8,12 @@ tags:
 - partituras-raras
 - raras-partituras
 - snajer
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/partitura-beethoven.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/partitura-beethoven-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/partitura-beethoven.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/partitura-beethoven-150x150.jpg
 wppost_name: partituras-raras-de-la-biblioteca-nacional-que-seguiran-siendo-raras
 ---
 
-Leo en <a href="http://www.pagina12.com.ar/diario/suplementos/espectaculos/3-26193-2012-08-20.html" target="_blank">Página 12</a>:<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/partitura-beethoven.jpg"><img class="alignright size-full wp-image-6123" title="partitura-beethoven" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/partitura-beethoven.jpg" alt="" width="300" height="230" /></a>
+Leo en <a href="http://www.pagina12.com.ar/diario/suplementos/espectaculos/3-26193-2012-08-20.html" target="_blank">Página 12</a>:<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/partitura-beethoven.jpg"><img class="alignright size-full wp-image-6123" title="partitura-beethoven" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/partitura-beethoven.jpg" alt="" width="300" height="230" /></a>
 
 MUSICA › ERNESTO SNAJER Y SU PARTICIPACION EN EL PROYECTO RARAS PARTITURAS
 <h2>Desafíos de la música popular</h2>

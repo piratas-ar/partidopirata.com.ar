@@ -10,8 +10,8 @@ tags:
 - mauricio-macri
 - parque-centenario
 - parque-sin-rejas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis-150x150.jpg
 wppost_name: peligro-parque-centenario-agenda-del-acampe-cultural
 ---
 

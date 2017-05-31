@@ -8,8 +8,8 @@ tags:
 - claro
 - derecho-de-autor
 - youtube
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/logo64.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/logo64-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/logo64.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/logo64-150x150.jpg
 wppost_name: brasil-el-canal-del-otario-en-youtube-intento-de-censura-por-uso-de-marcas
 ---
 

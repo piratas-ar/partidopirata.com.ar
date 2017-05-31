@@ -8,8 +8,8 @@ tags:
 - p2p-wikisprint
 - podcasts
 - wikisprint
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-e1363381944215.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-e1363381944215.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-150x150.png
 wppost_name: podcast-con-sebastian-sobre-la-p2pwikisprint-del-20-de-marzo
 ---
 
@@ -19,16 +19,16 @@ wppost_name: podcast-con-sebastian-sobre-la-p2pwikisprint-del-20-de-marzo
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en<i> descargar</i> <a href="http://www.ivoox.com/con-sebastian-sobre-p2pwikisprint-del-20-de-audios-mp3_rf_1873312_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart8.png"><img class="size-full wp-image-8851" alt="Código QR de la dirección del archivo mp3." src="http://partidopirata.com.ar/wp-content/uploads/2013/03/chart8.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/chart8.png"><img class="size-full wp-image-8851" alt="Código QR de la dirección del archivo mp3." src="https://partidopirata.com.ar/wp-content/uploads/2013/03/chart8.png" width="150" height="150" /></a> Código QR de la dirección del archivo mp3.
 
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-e1363381944215.png"><img class="aligncenter size-medium wp-image-8836" alt="WikiSprint P2P Afiche con logo" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-300x119.png" width="300" height="119" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-e1363381944215.png"><img class="aligncenter size-medium wp-image-8836" alt="WikiSprint P2P Afiche con logo" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/WikiSprint-P2P-Afiche-con-logo-300x119.png" width="300" height="119" /></a>
 <ul>
-	<li><a href="http://partidopirata.com.ar/8813/se-viene-el-p2p-wikisprint-iberoamericano-mapeo-de-economia-social"><b><em>La institución Partido Pirata Argentino  se une al #Wikisprint internacional de la P2P Foundation</em></b></a></li>
+	<li><a href="https://partidopirata.com.ar/8813/se-viene-el-p2p-wikisprint-iberoamericano-mapeo-de-economia-social"><b><em>La institución Partido Pirata Argentino  se une al #Wikisprint internacional de la P2P Foundation</em></b></a></li>
 	<li>Este evento que en el que el PPar colabora se llevara a cabo en la <a href="http://www.bibliobarracas.com.ar/noticias-2013/miercoles-20-de-marzo-wikisprint-iberoamericano-mapeo-de-economia-social/">Biblioteca Popular de Barracas (Aristobulo del Valle 1851</a></li>
-	<li><a href="http://partidopirata.com.ar/8835/itinerario-de-la-wikisprint-p2p-buenos-aires" target="_blank">Más información sobre la P2PWikisptrint</a></li>
+	<li><a href="https://partidopirata.com.ar/8835/itinerario-de-la-wikisprint-p2p-buenos-aires" target="_blank">Más información sobre la P2PWikisptrint</a></li>
 </ul>
 &nbsp;
 

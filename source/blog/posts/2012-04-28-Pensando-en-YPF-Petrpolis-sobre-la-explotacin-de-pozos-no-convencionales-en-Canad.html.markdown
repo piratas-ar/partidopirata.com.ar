@@ -10,8 +10,8 @@ tags:
 - fractura-hidraulica
 - gasland
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/21-Petroleo-barato-caro-para-la-naturaleza.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/21-Petroleo-barato-caro-para-la-naturaleza-150x128.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/21-Petroleo-barato-caro-para-la-naturaleza.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/21-Petroleo-barato-caro-para-la-naturaleza-150x128.jpg
 wppost_name: pensando-en-ypf-petropolis-sobre-la-explotacion-de-pozos-no-convencionales-en-canada
 ---
 

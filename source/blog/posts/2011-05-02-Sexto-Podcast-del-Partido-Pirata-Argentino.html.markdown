@@ -8,12 +8,12 @@ tags:
 - podcast-2
 - podcasts
 - proyectos-creativos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/logo2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/logo2.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/logo2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/logo2.png
 wppost_name: '916'
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/logo2.png"><img class="alignleft size-full wp-image-917" title="logo2" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/logo2.png" alt="" width="188" height="42" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/logo2.png"><img class="alignleft size-full wp-image-917" title="logo2" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/logo2.png" alt="" width="188" height="42" /></a>
 
 En este podcast charlo con Rodrigo Maia de <em>Multidão</em> site para conseguir financiación colaborativo de proyectos creativos.
 
@@ -39,6 +39,6 @@ Presentación de Multidão.</center>
 
 <hr />
 
-<div style="text-align: center;"><span style="font-size: large;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los Podcast del Partido Pirata Argentino.</a></strong></span></div>
+<div style="text-align: center;"><span style="font-size: large;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los Podcast del Partido Pirata Argentino.</a></strong></span></div>
 
 <hr />

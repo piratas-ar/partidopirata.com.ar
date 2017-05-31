@@ -9,12 +9,12 @@ tags:
 - divulgacion
 - online
 - propuesta
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png
 wppost_name: empieza-el-bafici-una-posible-propuesta
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png"><img class="size-full wp-image-699" title="header_logo" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png" alt="" width="245" height="180" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png"><img class="size-full wp-image-699" title="header_logo" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/header_logo.png" alt="" width="245" height="180" /></a>
 
 
 Hoy empieza el <a href="http://www.bafici.gov.ar/home/web/es/index.html" target="_blank">BAFICI</a> y les dejamos una propuesta para el año que viene...En este no la tomaron en cuenta:

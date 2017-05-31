@@ -9,12 +9,12 @@ tags:
 - peliculas
 - pirateria
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/openpublish_theme_logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/openpublish_theme_logo.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/openpublish_theme_logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/openpublish_theme_logo.png
 wppost_name: noalcanon-nuestra-nota-para-la-revista-haciendo-cine
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/07/openpublish_theme_logo.png"><img class="aligncenter size-medium wp-image-1429" title="openpublish_theme_logo" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/openpublish_theme_logo-300x69.png" alt="" width="300" height="69" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/07/openpublish_theme_logo.png"><img class="aligncenter size-medium wp-image-1429" title="openpublish_theme_logo" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/openpublish_theme_logo-300x69.png" alt="" width="300" height="69" /></a>
 <a href="http://www.haciendocine.com.ar/content/editorial" target="_blank">En la revista "Haciendo Cine" de julio se tocó el caso Taringa</a> a nosotros nos pidieron nuestra opinión. No sabemos si finalmente salimos en la revista, ante la duda lo que les enviamos:
 <p style="text-align: left;">En el número de junio de "HC" leemos que el mes de mayo fue el mejor del siglo en cuanto a taquilla y cantidad de espectadores. En la misma nota informan que durante ese mes hubo 15 películas argentinas en cartel, no obstante, aquellas fueron elegidas por el 6% del público.</p>
 <p style="text-align: center;"><strong>Si sólo un 6% decidió ir a ver películas nacionales. ¿Las infracciones al copyright[1] en Internet son las culpables?</strong></p>
@@ -37,7 +37,7 @@ argentinas ni siquiera llegan al público.Cerrar los ámbitos que permiten acced
 <p style="text-align: left;">
 [1] <a href="https://secure.wikimedia.org/wikipedia/es/wiki/Infracci%C3%B3n_de_copyright" target="_blank">http://bit.ly/copiaizq</a>
 [2] <a href="http://www.academiadecine.org.ar/comunicado.html" target="_blank">http://bit.ly/ComACA</a>
-[3] <a href="http://partidopirata.com.ar/1172/el-canal-que-sono-la-industria-del-cine-argentino-pero-sin-poder-pasar-muchas-peliculas" target="_blank">http://bit.ly/m1hqx1</a>
+[3] <a href="https://partidopirata.com.ar/1172/el-canal-que-sono-la-industria-del-cine-argentino-pero-sin-poder-pasar-muchas-peliculas" target="_blank">http://bit.ly/m1hqx1</a>
 [4] y [5] <a href="https://lalectoraprovisoria.wordpress.com/2011/05/30/los-aliados-ilegitimos/" target="_blank">http://bit.ly/lecprov01</a></p>
 Texto elaborado colaborativamente.
 Partido Pirata Argentino.

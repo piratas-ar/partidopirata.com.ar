@@ -8,8 +8,8 @@ tags:
 - no-al-canon
 - no-al-canon-en-argentina
 - pichetto
-image: http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-150x112.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/06/no-al-canon-ok-150x112.png
 wppost_name: noalcanon-lista-de-correo-para-coordinar-acciones
 ---
 

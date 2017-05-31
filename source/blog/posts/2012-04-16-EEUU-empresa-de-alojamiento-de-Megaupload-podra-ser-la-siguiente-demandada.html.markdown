@@ -8,8 +8,8 @@ tags:
 - mantenimiento-de-los-archivos
 - megaupload
 - torrenfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/carpathia.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/carpathia-150x85.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/carpathia.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/carpathia-150x85.png
 wppost_name: ee-uu-empresa-de-alojamiento-de-megaupload-podria-ser-la-siguiente-demandada
 ---
 

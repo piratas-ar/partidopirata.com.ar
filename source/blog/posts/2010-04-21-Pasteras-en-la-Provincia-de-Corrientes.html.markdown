@@ -13,8 +13,8 @@ tags:
 - pasteras
 - perfil
 - sustentable
-image: http://partidopirata.com.ar/wp-content/uploads/2010/04/pasteras-300x195.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/pasteras-300x195.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/04/pasteras-300x195.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/04/pasteras-300x195.jpg
 wppost_name: pasteras-en-la-provincia-de-corrientes
 ---
 

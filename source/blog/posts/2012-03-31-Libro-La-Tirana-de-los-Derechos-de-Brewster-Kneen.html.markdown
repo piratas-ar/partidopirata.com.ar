@@ -7,12 +7,12 @@ tags:
 - derechos
 - libros-divulgacion
 - tirania-de-los-derechos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/logo-150x62.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/logo-150x62.png
 wppost_name: libro-la-tirania-de-los-derechos-de-brewster-kneen
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/logo.png"><img class="aligncenter size-full wp-image-3681" title="The Ram´s Horn" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/logo.png" alt="Editorial The Ram´s Horn" width="363" height="62" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/logo.png"><img class="aligncenter size-full wp-image-3681" title="The Ram´s Horn" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/logo.png" alt="Editorial The Ram´s Horn" width="363" height="62" /></a>
 <p style="text-align: center;"><strong><a href="http://ramshorn.ca/la-tiran%C3%ADa-de-los-derechos-0" target="_blanK">Desde el site de la editorial pueden descargar el pdf del libro</a></strong></p>
 "Antes de leer este texto, por favor tengan en cuenta cuántas veces han leído u oído la palabra “derechos”, cuando su eliminación o sustitución por términos más explícitos podrían haber dado más fuerza al mensaje.
 

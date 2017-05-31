@@ -24,8 +24,8 @@ Obviamente tengan cuidado por favor cuando lo hagan!!
 
 Los dos videos anteriores:
 <ul>
-	<li><a href="http://partidopirata.com.ar/5898/si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos">En agosto en Río de Janeiro, Brasil.</a></li>
-	<li><a href="http://partidopirata.com.ar/7344/si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos-ii-gran-hermano-del-bien">En noviembre en San Pablo, Brasil.</a></li>
+	<li><a href="https://partidopirata.com.ar/5898/si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos">En agosto en Río de Janeiro, Brasil.</a></li>
+	<li><a href="https://partidopirata.com.ar/7344/si-ellos-nos-vigilan-a-nosotros-nosotros-vigilemoslos-a-ellos-ii-gran-hermano-del-bien">En noviembre en San Pablo, Brasil.</a></li>
 </ul>
 
 <hr />
@@ -40,4 +40,4 @@ Estudiante de 18 años es agredida por policías en Curitiba, en Paraná [Brasil
 </center>&nbsp;
 
 <hr />
-<p style="text-align: center;"><strong>Si registran casos de abuso policial,<a href="http://partidopirata.com.ar/contacto"> avísennos, pero, por favor, tengan mucho cuidado!</a></strong></p>
+<p style="text-align: center;"><strong>Si registran casos de abuso policial,<a href="https://partidopirata.com.ar/contacto"> avísennos, pero, por favor, tengan mucho cuidado!</a></strong></p>

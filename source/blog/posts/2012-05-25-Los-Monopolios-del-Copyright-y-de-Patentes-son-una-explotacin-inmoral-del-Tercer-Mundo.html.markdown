@@ -9,12 +9,12 @@ tags:
 - neocolonialismo
 - rick-falkvinge
 - tercer-mundo
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363-150x150.jpg
 wppost_name: los-monopolios-del-copyright-y-de-patentes-son-una-explotacion-inmoral-del-tercer-mundo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363.jpg"><img class="size-medium wp-image-4561" title="iStock_000010211997Small-646x363" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363-300x168.jpg" alt="" width="300" height="168" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363.jpg"><img class="size-medium wp-image-4561" title="iStock_000010211997Small-646x363" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/iStock_000010211997Small-646x363-300x168.jpg" alt="" width="300" height="168" /></a>
 
 
 <strong><a href="http://es.falkvinge.net/2012/01/24/los-monopolios-del-copyright-y-de-patentes-son-una-explotacion-inmoral-del-tercer-mundo/" target="_blank">Fuente Blog de Rick Falkvinge</a></strong>
@@ -51,4 +51,4 @@ La segunda mitad del siglo 20 fue un período de gran liberación para el tercer
 </strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Algunos mapas que ilustran esta situación.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4556/algunos-mapas-para-entender-de-que-hablamos-cuando-hablamos-de-derecho-de-autor-y-patentes">Algunos mapas que ilustran esta situación.</a></strong></p>

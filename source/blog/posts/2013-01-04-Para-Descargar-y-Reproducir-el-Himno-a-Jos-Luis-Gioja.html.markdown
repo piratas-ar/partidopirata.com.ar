@@ -9,12 +9,12 @@ tags:
 - himno
 - himno-a-jose-luis-gioja
 - jose-luis-gioja
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/himno2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/himno2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/himno2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/himno2-150x150.png
 wppost_name: para-descargar-y-reproducir-el-himno-a-jose-luis-gioja
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/himno2.png"><img class="aligncenter size-full wp-image-8077" alt="himno2" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/himno2.png" width="653" height="405" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/himno2.png"><img class="aligncenter size-full wp-image-8077" alt="himno2" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/himno2.png" width="653" height="405" /></a>
 <strong>Anuncio que aparece <a href="https://www.youtube.com/watch?v=wgawjjou99s" target="_blank">donde estaba el Himno a José Luis Gioja</a></strong>
 
 <hr />
@@ -42,7 +42,7 @@ Normalmente, estos intentos de censura se dirigen hacia fotos, archivos o págin
 
 Si van a la parte inferior donde está el video encontrarán esta opción para descargarlo, hagan click con el botón derecho del mouse y elijan la calidad que les guste más, luego súbanlo a algún otro servidor de videos, hay varios además de Youtube:
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/himno.png"><img class="size-full wp-image-8075" alt="Para descargar el video, fíjense en la base donde dice Descargar" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/himno.png" width="542" height="253" /></a> Para descargar el video, fíjense en la base donde dice Descargar elijan la opción que quieran
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/himno.png"><img class="size-full wp-image-8075" alt="Para descargar el video, fíjense en la base donde dice Descargar" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/himno.png" width="542" height="253" /></a> Para descargar el video, fíjense en la base donde dice Descargar elijan la opción que quieran
 
 
 Otros lugares para subir videos:

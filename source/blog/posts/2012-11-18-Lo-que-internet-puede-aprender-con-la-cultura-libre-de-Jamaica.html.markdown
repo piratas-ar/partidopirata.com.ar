@@ -10,8 +10,8 @@ tags:
 - jamaica
 - reggae
 - riddim
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/Jamaica.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/Jamaica-150x150.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/Jamaica.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/Jamaica-150x150.gif
 wppost_name: lo-que-internet-puede-aprender-con-la-cultura-libre-de-jamaica
 ---
 

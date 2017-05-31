@@ -9,8 +9,8 @@ tags:
 - libros
 - mercado-editorial
 - reino-unido
-image: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros-150x150.jpg
 wppost_name: reino-unido-un-tercio-de-los-best-sellers-salen-mas-caros-en-la-version-digital-que-en-papel
 ---
 
@@ -72,4 +72,4 @@ Dijo que la versión en ebook de la novela de JK Rowling fue sólo más cara por
 La fijación de precios de libros electrónicos también ha causado controversia en los EE.UU., donde el Departamento de Justicia encontró que los precios en conjunto a través de "contratos de agencia" habían obligado a los consumidores  a pagar millones más de lo que deberían valer los ebooks.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/8276/entrevista-a-andre-schiffrin-editor-fundador-de-editoriales-amazon-quiere-eliminar-las-librerias">Es interesante rever la entrevista a André Schiffrin sobre la concentración del mercado editorial en el mundo y las prácticas de Amazon</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/8276/entrevista-a-andre-schiffrin-editor-fundador-de-editoriales-amazon-quiere-eliminar-las-librerias">Es interesante rever la entrevista a André Schiffrin sobre la concentración del mercado editorial en el mundo y las prácticas de Amazon</a></strong></p>

@@ -10,8 +10,8 @@ tags:
 - puelche
 - vienen-por-el-oro
 - vienen-por-todo
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/clip_image002.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/clip_image002-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/clip_image002.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/clip_image002-150x150.png
 wppost_name: charla-la-megamineria-y-sus-consecuencias-en-nuestra-salud-199-htal-garrahan
 ---
 
@@ -31,4 +31,4 @@ Con la presencia del Dr. Valentín Stiglitz (pediatra), que disertara sobre:
 </ul>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5436/vienen-por-el-oro-vienen-por-todo-documental">Si quieren ver o descargar el documental Vienen por el oro, vienen por todo.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5436/vienen-por-el-oro-vienen-por-todo-documental">Si quieren ver o descargar el documental Vienen por el oro, vienen por todo.</a></strong></p>

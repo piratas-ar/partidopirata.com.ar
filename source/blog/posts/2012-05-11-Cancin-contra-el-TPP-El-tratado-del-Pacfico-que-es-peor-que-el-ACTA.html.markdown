@@ -10,8 +10,8 @@ tags:
 - tpp
 - tratado
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five-150x150.jpg
 wppost_name: cancion-contra-el-tpp-el-tratado-del-pacifico-que-es-peor-que-el-acta
 ---
 
@@ -24,5 +24,5 @@ wppost_name: cancion-contra-el-tpp-el-tratado-del-pacifico-que-es-peor-que-el-ac
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg"><img class="size-full wp-image-4403" title="tpp_song_five" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg" alt="" width="300" height="224" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg"><img class="size-full wp-image-4403" title="tpp_song_five" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/tpp_song_five.jpg" alt="" width="300" height="224" /></a>
 

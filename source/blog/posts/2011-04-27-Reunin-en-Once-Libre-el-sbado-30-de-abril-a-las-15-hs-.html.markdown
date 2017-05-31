@@ -7,12 +7,12 @@ tags:
 - oncelibre
 - reunion
 - sabado
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/reunion.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/reunion.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/reunion.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/reunion.jpg
 wppost_name: reunion-en-once-libre-el-sabado-30-de-abril-a-las-15-hs
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/reunion.jpg"><img class="aligncenter size-medium wp-image-830" title="reunion" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/reunion-300x150.jpg" alt="" width="300" height="150" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/reunion.jpg"><img class="aligncenter size-medium wp-image-830" title="reunion" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/reunion-300x150.jpg" alt="" width="300" height="150" /></a>
 <strong>El sábado 30 de abril a partir de las 15 hs. nos encontramos en Once Libre para charlar sobre algunos temas y organizarnos para repartir volantes para la Feria del Libro.</strong>
 <strong>
 </strong>
@@ -36,7 +36,7 @@ wppost_name: reunion-en-once-libre-el-sabado-30-de-abril-a-las-15-hs
 <strong>general-subscribe#lists.partidopirata.com.ar</strong>
 <strong>(reemplazar # por @)</strong>
 
-<strong><a href="http://partidopirata.com.ar/contacto">Si quieren enviarnos un e-mail.</a></strong>
+<strong><a href="https://partidopirata.com.ar/contacto">Si quieren enviarnos un e-mail.</a></strong>
 <strong>
 </strong>
 

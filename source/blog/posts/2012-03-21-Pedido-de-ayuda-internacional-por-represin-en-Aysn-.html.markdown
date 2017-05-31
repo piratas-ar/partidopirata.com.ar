@@ -11,8 +11,8 @@ tags:
 - megamineria
 - pineira
 - represion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/represion-aysen-febrero14-2012.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/represion-aysen-febrero14-2012-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/represion-aysen-febrero14-2012.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/represion-aysen-febrero14-2012-150x150.jpg
 wppost_name: pedido-de-ayuda-internacional-por-represion-en-aysen
 ---
 

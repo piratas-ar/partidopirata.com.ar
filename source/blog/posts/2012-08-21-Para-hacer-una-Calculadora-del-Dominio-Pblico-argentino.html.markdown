@@ -8,12 +8,12 @@ tags:
 - dominio-publico
 - roberto-arlt
 - saber-si-algo-entra-en-dominio-publico
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt-150x150.jpg
 wppost_name: para-hacer-una-calculadora-del-dominio-publico-argentino
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt.jpg"><img class="size-medium wp-image-6117" title="roberto Arlt" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt-213x300.jpg" alt="" width="213" height="300" /></a> Roberto Arlt, ¿el octavo loco?
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt.jpg"><img class="size-medium wp-image-6117" title="roberto Arlt" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/roberto-Arlt-213x300.jpg" alt="" width="213" height="300" /></a> Roberto Arlt, ¿el octavo loco?
 
 
 En la Argentina luego de los 70 años de la muerte de un escritor su obra entra en dominio público.
@@ -53,10 +53,10 @@ Como un ejemplo de cómo sería una Calculadora argentina usemos la europea:
 <ol>
 <ol>
 	<li><strong><a href="http://outofcopyright.eu/calculator.html" target="_blank">Seleccionemos España, por ejemplo</a></strong></li>
-	<li><strong>Vamos a ver varias opciones de lo que queremos buscar:</strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/2.png"><img class="aligncenter size-medium wp-image-6118" title="2" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/2-121x300.png" alt="" width="121" height="300" /></a>
+	<li><strong>Vamos a ver varias opciones de lo que queremos buscar:</strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/2.png"><img class="aligncenter size-medium wp-image-6118" title="2" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/2-121x300.png" alt="" width="121" height="300" /></a>
 Peliculas, obras literarias, bases de datos, etc. etc.</li>
 	<li>Si elegimos "Obra Literaria":
-Y nos siguen preguntando sobre qué tipo de "Obra Literaria" es:<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/3.png"><img class="aligncenter size-medium wp-image-6119" title="3" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/3-137x300.png" alt="" width="137" height="300" /></a></li>
+Y nos siguen preguntando sobre qué tipo de "Obra Literaria" es:<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/3.png"><img class="aligncenter size-medium wp-image-6119" title="3" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/3-137x300.png" alt="" width="137" height="300" /></a></li>
 </ol>
 </ol>
 

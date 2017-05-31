@@ -7,8 +7,8 @@ tags:
 - islandia
 - situacion-en-islandia
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia-150x150.jpg
 wppost_name: conferencia-elvira-mendez-el-ejemplo-de-islandia
 ---
 
@@ -37,4 +37,4 @@ Entre 2008 y 2012 Islandia ha sido el único ejemplo del ámbito europeo donde l
 
 <hr />
 
-<center><strong><a href="http://partidopirata.com.ar/8825/elvira-mendez-la-revolucion-de-los-ciudadanos">Programa de la TV de Catalunia: La Revolución de los Ciudadanos con Elvira Méndez</a></strong></center>
+<center><strong><a href="https://partidopirata.com.ar/8825/elvira-mendez-la-revolucion-de-los-ciudadanos">Programa de la TV de Catalunia: La Revolución de los Ciudadanos con Elvira Méndez</a></strong></center>

@@ -9,8 +9,8 @@ tags:
 - eeuu
 - ley-antiterrorista
 - militares
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/2_obama_bush_clinton_0107016376.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/2_obama_bush_clinton_0107016376-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/2_obama_bush_clinton_0107016376.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/2_obama_bush_clinton_0107016376-150x150.jpg
 wppost_name: resurgimiento-de-la-doctrina-de-seguridad-nacional-y-el-masoquismo-politico
 ---
 

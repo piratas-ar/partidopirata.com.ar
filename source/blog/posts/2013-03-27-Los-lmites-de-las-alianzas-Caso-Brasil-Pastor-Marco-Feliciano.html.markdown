@@ -9,8 +9,8 @@ tags:
 - gobernabilidad
 - marco-feliciano
 - pastor
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/marco-feliciano.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/marco-feliciano-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/marco-feliciano.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/marco-feliciano-150x150.jpg
 wppost_name: los-limites-de-las-alianzas-caso-brasil-pastor-marco-feliciano
 ---
 

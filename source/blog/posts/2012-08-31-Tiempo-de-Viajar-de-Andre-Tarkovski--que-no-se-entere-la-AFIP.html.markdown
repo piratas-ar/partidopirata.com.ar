@@ -9,8 +9,8 @@ tags:
 - viajar
 - multimedia
 - voyage
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/Tempo_di_viaggio_TV-568566717-large.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/Tempo_di_viaggio_TV-568566717-large-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/Tempo_di_viaggio_TV-568566717-large.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/Tempo_di_viaggio_TV-568566717-large-150x150.jpg
 wppost_name: tiempo-de-viajar-de-andre-tarkovski-que-no-se-entere-la-afip
 ---
 

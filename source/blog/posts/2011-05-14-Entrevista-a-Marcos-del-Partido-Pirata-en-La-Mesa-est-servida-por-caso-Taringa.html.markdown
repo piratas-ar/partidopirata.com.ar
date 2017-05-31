@@ -9,8 +9,8 @@ tags:
 - radio-2
 - rio-negro
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/ultima_cena2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/ultima_cena2.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/ultima_cena2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/ultima_cena2.png
 wppost_name: entrevista-a-marcos-del-partido-pirata-en-la-mesa-esta-servida-por-caso-taringa
 ---
 
@@ -26,5 +26,5 @@ Presione en <em>Play</em> para escuchar el programa sin descargarlo o
 <a href="http://www.ivoox.com/mesa-esta-servida-taringa_md_654031_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a></center>
 <p style="text-align: center;"><strong>El programa se emite los sábados de 11 a 13 por la 97.1 de General Roca de Río Negro.</strong></p>
 <p style="text-align: center;"><strong> <a href="http://www.lamesaestaservida.tk/" target="_blank">Blog del Programa de Radio.</a></strong></p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/ultima_cena2.png"><img class="aligncenter size-medium wp-image-1012" title="ultima_cena2" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/ultima_cena2-300x107.png" alt="" width="300" height="107" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/ultima_cena2.png"><img class="aligncenter size-medium wp-image-1012" title="ultima_cena2" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/ultima_cena2-300x107.png" alt="" width="300" height="107" /></a></p>
 &nbsp;

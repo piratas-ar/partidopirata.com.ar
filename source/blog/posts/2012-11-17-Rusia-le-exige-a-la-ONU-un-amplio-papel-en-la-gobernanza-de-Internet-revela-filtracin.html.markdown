@@ -12,8 +12,8 @@ tags:
 - rusia
 - toure
 - uit
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
 wppost_name: rusia-le-exige-a-la-onu-un-amplio-papel-en-la-gobernanza-de-internet-revela-filtracion
 ---
 
@@ -21,8 +21,8 @@ Este post tiene que ver con la presión que se está ejerciendo para que la UIT 
 
 Más información en:
 <ul>
-	<li><strong> <a href="http://partidopirata.com.ar/7375/sobre-la-uit-regulando-internet-presionemos-para-que-no-se-haga">Esta entrada del post</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/7391/por-el-lobby-de-la-uit-peligra-el-marco-civil-de-internet-en-brasil" rel="external nofollow">Por el Lobby de la UIT peligra el Marco Civil de Internet en Brasil | Partido Pirata</a></strong></li>
+	<li><strong> <a href="https://partidopirata.com.ar/7375/sobre-la-uit-regulando-internet-presionemos-para-que-no-se-haga">Esta entrada del post</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/7391/por-el-lobby-de-la-uit-peligra-el-marco-civil-de-internet-en-brasil" rel="external nofollow">Por el Lobby de la UIT peligra el Marco Civil de Internet en Brasil | Partido Pirata</a></strong></li>
 </ul>
 <center>
 <iframe src="http://player.vimeo.com/video/53504965?badge=0" frameborder="0" width="400" height="300"></iframe>

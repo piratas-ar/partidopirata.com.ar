@@ -9,13 +9,13 @@ tags:
 - k-pop
 - pop-coreano
 - gangnam-style
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02-150x150.jpg
 wppost_name: aprendiendo-coreano-o-mucho-mas-que-gangnam-style
 ---
 
 Algunos párrafos de un artículo de Hermano Vianna sobre el llamado K-Pop (el pop coreano) y la cultura de ese país.
-Sobre todo pensando en <strong><a href="http://partidopirata.com.ar/8153/sobre-los-creditos-del-incaa-cantidades-astronomicas-de-un-producto-con-poca-salida">este artículo sobre los créditos del INCAA </a> </strong>y su escaso aceptación por parte del público.
+Sobre todo pensando en <strong><a href="https://partidopirata.com.ar/8153/sobre-los-creditos-del-incaa-cantidades-astronomicas-de-un-producto-con-poca-salida">este artículo sobre los créditos del INCAA </a> </strong>y su escaso aceptación por parte del público.
 
 Por <a href="https://hermanovianna.wordpress.com/2013/01/05/aprendendo-coreano/" target="_blank">Hermano Vianna</a>
 
@@ -34,4 +34,4 @@ Por <a href="https://hermanovianna.wordpress.com/2013/01/05/aprendendo-coreano/"
 <hr />
 
 Y además del posible <i>retorno</i> en espectadores que pudiera tener la inversión de cultura que se hace en la Argentina también está cuánto duran o que posibilidad de acceso hay en el país para productos que no son de EE.UU.
-<a href="http://partidopirata.com.ar/8150/elogio-a-la-diversidad-en-el-cine-y-a-la-pirateria-en-pagina-12">Acá estaba este <i>Elogio a la piratería</i> </a>sobre lo poco que duran o que ni siquiera pasan por los canales tradicionales, incluso productos que no son del mainstream de EE.UU.
+<a href="https://partidopirata.com.ar/8150/elogio-a-la-diversidad-en-el-cine-y-a-la-pirateria-en-pagina-12">Acá estaba este <i>Elogio a la piratería</i> </a>sobre lo poco que duran o que ni siquiera pasan por los canales tradicionales, incluso productos que no son del mainstream de EE.UU.

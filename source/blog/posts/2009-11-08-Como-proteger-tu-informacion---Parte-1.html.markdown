@@ -11,8 +11,8 @@ tags:
 - software
 - source
 - truecrypt
-image: http://partidopirata.com.ar/wp-content/uploads/2009/11/encryption-150x150.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2009/11/encryption-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2009/11/encryption-150x150.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2009/11/encryption-150x150.jpg
 wppost_name: como-proteger-tu-informacion-parte-1
 ---
 

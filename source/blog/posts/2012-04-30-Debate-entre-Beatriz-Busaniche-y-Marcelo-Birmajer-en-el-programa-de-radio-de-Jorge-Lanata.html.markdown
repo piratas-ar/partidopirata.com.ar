@@ -12,8 +12,8 @@ tags:
 - marcelo-birmajer
 - radio-2
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/Pirate-Radio.jpg-150x150.png
 wppost_name: debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de-radio-de-jorge-lanata
 ---
 
@@ -29,7 +29,7 @@ wppost_name: debate-entre-beatriz-busaniche-y-marcelo-birmajer-en-el-programa-de
 <p style="text-align: center;"><strong><a href="http://opinionymedios.blogspot.com/2012/04/lanata-en-radio-mitre-audio-3042012.html" target="_blank">En <em>Opinión y Medios</em> encuentran todo el programa Lanata Sin Filtro del 30 de abril para descargar</a></strong></p>
 <p style="text-align: center;"><strong>Gracias a <a href="http://opinionymedios.blogspot.com/" target="_blank">Opinión y Medios </a> por compartir el audio con todos!</strong></p>
 <p style="text-align: center;">Tal vez si a Marcelo Birmajer le preocupa tanto el tema de las regalías que cobran los músicos debería hacer una investigación sobre cuánto cobra y cómo se distribuye lo que entra en SADAIC.</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4287/el-sadaic-brasileno-en-jaque-comision-parlamentaria-de-investigacion">Podría impulsar una Comisión Parlamentaria de Investigación para saber qué hace SADAIC con todo el dinero que recauda</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4287/el-sadaic-brasileno-en-jaque-comision-parlamentaria-de-investigacion">Podría impulsar una Comisión Parlamentaria de Investigación para saber qué hace SADAIC con todo el dinero que recauda</a></strong></p>
 <p style="text-align: center;">Por ejemplo :</p>
 <p style="text-align: center;">"el acuerdo firmado con Google Brasil por causa de YouTube le rindió al Ecad “más o menos” R$ 850 mil. De ese valor, según él, “el Ecad distribuyó 67 mil reales, alegando que el repertorio que fue ejecutado en YouTube no estaria identificado”. En entrevista a Link el año pasado, Mario Sergio Campos, gerente de recaudación del Ecad, dijo que los artistas que más cobrarían de Google Brasil serian Justin Bieber, Lady Gaga y Rihanna."</p>
 <p style="text-align: center;">¿Cómo distribuye lo que cobra por Youtube SADAIC?</p>

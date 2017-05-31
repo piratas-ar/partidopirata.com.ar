@@ -7,8 +7,8 @@ tags:
 - doctorow
 - internet
 - pirateria
-image: http://partidopirata.com.ar/wp-content/uploads/2013/05/cory_library.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/05/cory_library-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/05/cory_library.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/05/cory_library-150x150.jpeg
 wppost_name: cory-doctorow-%c2%a8la-guerra-del-copyright-esta-danando-la-salud-de-internet%c2%a8
 ---
 

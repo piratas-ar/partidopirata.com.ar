@@ -13,8 +13,8 @@ tags:
 - mozambique
 - nigeria
 - rap
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/pg01_02-150x150.jpg
 wppost_name: bling-blue-por-hermano-vianna
 ---
 

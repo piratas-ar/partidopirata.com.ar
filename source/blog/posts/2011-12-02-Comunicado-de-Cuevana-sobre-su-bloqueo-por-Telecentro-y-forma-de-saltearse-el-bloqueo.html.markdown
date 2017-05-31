@@ -9,12 +9,12 @@ tags:
 - denuncias
 - telecentro
 - trending-topic
-image: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/11/logo-150x78.png
 wppost_name: comunicado-de-cuevana-sobre-su-bloqueo-por-telecentro-y-forma-de-saltearse-el-bloqueo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="aligncenter size-full wp-image-2318" title="Cuevana" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a>Si es un usuario de Telecentro hoy habrá percibido que no puede entrar en el site <a href="http://www.cuevana.tv/#!/comunicado" target="_blank">Cuevana</a> abajo de todo verá una forma de <em>saltearse </em>el bloque que Telecentro le impuso a Cuevana.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png"><img class="aligncenter size-full wp-image-2318" title="Cuevana" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="Logo de Cuevana" width="267" height="78" /></a>Si es un usuario de Telecentro hoy habrá percibido que no puede entrar en el site <a href="http://www.cuevana.tv/#!/comunicado" target="_blank">Cuevana</a> abajo de todo verá una forma de <em>saltearse </em>el bloque que Telecentro le impuso a Cuevana.
 Así tampoco podrá ver el comunicado que dejaron en su site, así que acá lo copio:
 
 &nbsp;

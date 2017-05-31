@@ -10,8 +10,8 @@ tags:
 - feria-del-libro
 - lobby
 - tito-cossa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/images.jpg
 wppost_name: tito-cossa-no-decepciona-el-famoso-samba-de-solo-una-nota-ii
 ---
 
@@ -56,9 +56,9 @@ El próximo Lobby de Tito Cossa y Argentores:
 	<li>4º mesa: Mesa Argentores y SADAIC / 2 de Mayo, desde las 18 hasta las 19.30 horas, Sala Javier Villafañe, Pabellón Azul / Título de la mesa:
 <strong><em>¿</em><em>En Internet los compositores y músicos están en su derecho?</em></strong></li>
 </ul>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3898/el-famoso-samba-de-una-sola-nota-antes-cadra-ahora-argentores-en-la-feria-del-libro">Acá habíamos dejado más información</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3898/el-famoso-samba-de-una-sola-nota-antes-cadra-ahora-argentores-en-la-feria-del-libro">Acá habíamos dejado más información</a></strong></p>
 <p style="text-align: center;"><strong>Estamos organizándonos para hacer un acto por la libertad en Internet en la Feria del Libro.</strong>
 <strong> Si quieren saber algo más <a href="http://lists.partidopirata.com.ar/listinfo.cgi/general-partidopirata.com.ar" target="_blank">suscríbanse a nuestra lista de correo</a> o lean <a href="https://twitter.com/#!/PartidoPirataAr" target="_blank">nuestro twitter</a></strong>
-<strong> Mientras tanto si quieren pueden volantear, dejar pegados en la Feria <a href="http://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">algunos de nuestros volantes.</a></strong>
+<strong> Mientras tanto si quieren pueden volantear, dejar pegados en la Feria <a href="https://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">algunos de nuestros volantes.</a></strong>
 <strong> El Lobby que se viene en toda la Feria del Libro será feroz, tenemos que organizarnos para defender nuestra libertad!</strong>
 <strong> Están todos invitados para aportar ideas, colaborar y luchar por nuestra libertad!</strong></p>

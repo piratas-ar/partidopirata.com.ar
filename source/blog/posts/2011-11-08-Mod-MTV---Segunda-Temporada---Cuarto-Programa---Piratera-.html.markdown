@@ -26,7 +26,7 @@ wppost_name: mod-mtv-segunda-temporada-cuarto-programa-pirateria
 Entrevistas con Emily Haines y James Shaw, de la banda Metric; el autor del libro “Go the Fuck to Sleep”, Adam Mansbach; Amanda Palmer; Peter Ferraro de la radio online East Village Radio; Alex Tyson y Troy Herion; y el investigador Joe Karaganis.
 <p style="text-align: center;"><strong><a href="http://mtv.uol.com.br/programas/mod/videos/02x04-pirataria" target="_blank">Fuente Mod MTV</a></strong></p>
 <p style="text-align: center;"><strong> <a href="http://www.4shared.com/document/mZUc_-nI/pirateria.html" target="_blank">Si quieren descargar los subtítulos en español.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/557/precios-altos-transforman-a-paises-emergentes-en-piratas">Sobre el informe de Joe Karaganis "Precios altos transforman a países emergentes en piratas", en nuestro blog.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/557/precios-altos-transforman-a-paises-emergentes-en-piratas">Sobre el informe de Joe Karaganis "Precios altos transforman a países emergentes en piratas", en nuestro blog.</a></strong></p>
 <p style="text-align: center;"><strong>
 </strong></p>
 <p style="text-align: center;"><strong><a href="http://lists.partidopirata.com.ar/pipermail/general-partidopirata.com.ar/2011-November/012860.html" target="_blank">No tiene que ver tanto con el video pero nos piden que difundamos que hay una movida para que Amanda Palmer venga a la Argentina, enviado a nuestra lista de correo.</a></strong></p>
@@ -44,4 +44,4 @@ Otra afirmación que se hace es que si uno se descarga un música obligará a lo
 
 <hr />
 
-<img class="aligncenter" title="Mod MTV" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="" width="223" height="69" />
+<img class="aligncenter" title="Mod MTV" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/movmtv.jpg" alt="" width="223" height="69" />

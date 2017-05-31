@@ -18,12 +18,12 @@ tags:
 - propiedad
 - protocolo
 - sustentable
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/logo-cop16-300x202.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/logo-cop16-300x202.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/logo-cop16-300x202.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/logo-cop16-300x202.jpg
 wppost_name: la-propiedad-intelectual-se-salvo-del-acuerdo-climatico-de-cancun
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/logo-cop16.jpg"><img class="aligncenter size-medium wp-image-323" title="Logo Cop 16" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/logo-cop16-300x202.jpg" alt="Logo de la reunión del clima de Cancún" width="300" height="202" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/logo-cop16.jpg"><img class="aligncenter size-medium wp-image-323" title="Logo Cop 16" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/logo-cop16-300x202.jpg" alt="Logo de la reunión del clima de Cancún" width="300" height="202" /></a>
 
 Y los derechos de propiedad no pueden estar ajenos al cambio climático..Sobre todo si se puede hacer negocios con él:
 

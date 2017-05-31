@@ -5,12 +5,12 @@ tags:
 - partido-pirata-polaco
 - pirates-times
 - polonia
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/3.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/3-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/3.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/3-150x150.jpg
 wppost_name: el-partido-pirata-de-polonia-esta-registrado-como-partido-politico
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/3.jpg"><img class="aligncenter  wp-image-8483" alt="3" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/3.jpg" width="690" height="231" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/3.jpg"><img class="aligncenter  wp-image-8483" alt="3" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/3.jpg" width="690" height="231" /></a></p>
 <strong><a href="http://piratetimes.net/pirate-party-of-poland-registered-as-a-political-party/" target="_blank">Fuente Pirate Times</a></strong>
 
 Por <a title="Andrew Reitemeyer" href="http://piratetimes.net/author/areitemeyer/">Andrew Reitemeyer</a>

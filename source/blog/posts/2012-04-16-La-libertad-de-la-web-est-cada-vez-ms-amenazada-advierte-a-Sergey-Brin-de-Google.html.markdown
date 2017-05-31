@@ -13,8 +13,8 @@ tags:
 - privacidad
 - sergei-brin
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008-150x150.jpg
 wppost_name: la-libertad-de-la-web-esta-cada-vez-mas-amenazada-advierte-a-sergey-brin-de-google
 ---
 
@@ -24,7 +24,7 @@ wppost_name: la-libertad-de-la-web-esta-cada-vez-mas-amenazada-advierte-a-sergey
 
 <strong>Exclusivo:</strong> Las amenazas van desde los gobiernos que intentan controlar a los ciudadanos a la aparición de Facebook y los "jardines amurallados" estilo Apple.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg"><img class="size-full wp-image-3989" title="Sergey Brin" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg" alt="" width="460" height="276" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg"><img class="size-full wp-image-3989" title="Sergey Brin" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/Sergey-Brin-008.jpg" alt="" width="460" height="276" /></a>
 
 
 Los principios de transparencia y de acceso universal que sustentaron la creación de<a title="More from guardian.co.uk on Internet" href="http://www.guardian.co.uk/technology/internet">internet</a> hace tres décadas, están más amenazados que nunca, según  <a title="More from guardian.co.uk on Sergey Brin" href="http://www.guardian.co.uk/media/sergeybrin">Sergey Brin</a>, cofundador de Google .
@@ -75,6 +75,6 @@ Brin reconoció que algunas personas estaban preocupadas por la cantidad de sus 
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/3554/blogspot-ahora-redirigira-los-dominios-al-pais-donde-este-navegando-el-lector-blogspot-com-ar-en-argentina-mas-censura">Ahora Google también incluye la posible censura del país desde donde se está viendo el blog</a></strong> además de recopilar más y más datos personales...No suena muy creíble su <em>miedo</em>. Pero si es necesario cada vez más cuidarse!
+<strong><a href="https://partidopirata.com.ar/3554/blogspot-ahora-redirigira-los-dominios-al-pais-donde-este-navegando-el-lector-blogspot-com-ar-en-argentina-mas-censura">Ahora Google también incluye la posible censura del país desde donde se está viendo el blog</a></strong> además de recopilar más y más datos personales...No suena muy creíble su <em>miedo</em>. Pero si es necesario cada vez más cuidarse!
 <p style="text-align: center;"><strong>Algo que se pregunta<a href="http://boingboing.net/2012/04/16/sergei-brin-on-the-existential.html" target="_blank"> Cory Doctorow con la entrevista de Sergey Brin</a></strong></p>
 <p style="text-align: center;"><strong>¿Por qué no recoger menos información, y eliminarla con más frecuencia? "</strong></p>

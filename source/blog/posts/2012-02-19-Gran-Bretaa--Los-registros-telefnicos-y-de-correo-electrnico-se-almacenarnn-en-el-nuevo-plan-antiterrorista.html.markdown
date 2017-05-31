@@ -13,8 +13,8 @@ tags:
 - olimpiadas
 - registros-telefonicos
 - vigilar
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/stop_error.gif
 wppost_name: gran-bretana-los-registros-telefonicos-y-de-correo-electronico-se-almacenarann-en-el-nuevo-plan-antiterrorista
 ---
 

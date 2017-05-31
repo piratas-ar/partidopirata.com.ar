@@ -8,8 +8,8 @@ tags:
 - partido-pirata-sueco
 - rick-falkvinge
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/rick_falkvinge-150x150.jpg
 wppost_name: rick-falkvinge-la-batalla-por-internet-ha-comenzado
 ---
 
@@ -28,4 +28,4 @@ wppost_name: rick-falkvinge-la-batalla-por-internet-ha-comenzado
 </ul>
 </ul>
 <p style="text-align: center;"><strong><a href="https://www.universalsubtitles.org/en/videos/kGU22TjvsD4g/es-ar/307911/" target="_blank">Los Subtítulos para revisar en Universal Subtitles</a></strong></p>
-<p style="text-align: center;"><strong>Si quieren enviarnos los subtítulos revisados y corregidos,<a href="http://partidopirata.com.ar/contacto"> avísennos en nuestro formulario de contacto.</a></strong></p>
+<p style="text-align: center;"><strong>Si quieren enviarnos los subtítulos revisados y corregidos,<a href="https://partidopirata.com.ar/contacto"> avísennos en nuestro formulario de contacto.</a></strong></p>

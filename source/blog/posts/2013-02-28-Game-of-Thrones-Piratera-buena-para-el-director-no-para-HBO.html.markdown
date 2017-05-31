@@ -7,12 +7,12 @@ tags:
 - hbo
 - petraca
 - pirateria
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11-150x150.jpg
 wppost_name: game-of-thrones-pirateria-buena-para-el-director-no-para-hbo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg"><img class="aligncenter size-full wp-image-8586" alt="gameofthrones13_11" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg" width="484" height="322" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg"><img class="aligncenter size-full wp-image-8586" alt="gameofthrones13_11" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/gameofthrones13_11.jpg" width="484" height="322" /></a>
 
 <strong><a href="http://www.fayerwayer.com/2013/02/director-de-game-of-thrones-afirma-que-las-descargas-ilegales-no-importan/" target="_blank">Según Fayerwayer</a></strong>
 

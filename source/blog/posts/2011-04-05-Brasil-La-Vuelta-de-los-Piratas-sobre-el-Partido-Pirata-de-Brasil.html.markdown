@@ -6,12 +6,12 @@ tags:
 - divulgacion
 - o-estado-de-sao-paulo
 - partido-pirata-de-brasil
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/Convocacao_pirata.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/Convocacao_pirata.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/Convocacao_pirata.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/Convocacao_pirata.png
 wppost_name: brasil-la-vuelta-de-los-piratas-sobre-el-partido-pirata-de-brasil
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/Convocacao_pirata.png"><img class="aligncenter size-medium wp-image-684" title="Convocacao_pirata" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/Convocacao_pirata-180x300.png" alt="" width="180" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/Convocacao_pirata.png"><img class="aligncenter size-medium wp-image-684" title="Convocacao_pirata" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/Convocacao_pirata-180x300.png" alt="" width="180" height="300" /></a>
 
 <strong><a href="http://blogs.estadao.com.br/link/a-volta-dos-piratas/" target="_blank">Fuente Suplemento Link de O Estado de São Paulo</a>:</strong>
 <div class="credito">Por Tatiana de Mello Dias</div>

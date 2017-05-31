@@ -6,8 +6,8 @@ tags:
 - gnu-linux
 - mendoza
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/Bandera_GL.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/Bandera_GL-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/Bandera_GL.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/Bandera_GL-150x150.png
 wppost_name: gnulinux-en-la-cima-de-america
 ---
 
@@ -16,7 +16,7 @@ wppost_name: gnulinux-en-la-cima-de-america
 SEBASTIÁN SATKE reside en la ciudad de Mendoza, es guía de montaña y durante el verano trabaja en el Parque Provincial  Aconcagua. Varias veces ha trepado hasta la cima del cerro. Lo más importante: es usuario de software libre.
 
 Sebastián tuvo una idea: llevar una bandera Gnu-Linux a la cumbre... Y puso manos a la obra. Es así que al inicio de esta temporada ha subido a su base en Plaza Argentina con la bandera en su mochila. El momento de hacer cumbre depende de las condiciones climáticas y del trabajo que tenga el equipo apostado en la base. Y hoy, 5 de enero, acaba de anunciar que en este fin de semana se va para la cumbre.
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/Bandera_GL.png"><img class="aligncenter  wp-image-8130" alt="Bandera_GL" src="http://partidopirata.com.ar/wp-content/uploads/2013/01/Bandera_GL.png" width="600" height="400" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/Bandera_GL.png"><img class="aligncenter  wp-image-8130" alt="Bandera_GL" src="https://partidopirata.com.ar/wp-content/uploads/2013/01/Bandera_GL.png" width="600" height="400" /></a></p>
 
 
 <hr />

@@ -10,8 +10,8 @@ tags:
 - rapidshare
 - torrentfreak
 - torrentfreak-noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo-150x148.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo-150x148.jpg
 wppost_name: rapidshare-se-prepara-para-la-eliminacion-en-masa-de-archivos-de-los-usuarios
 ---
 
@@ -21,7 +21,7 @@ wppost_name: rapidshare-se-prepara-para-la-eliminacion-en-masa-de-archivos-de-lo
 
 RapidShare ha anunciado un cambio en su modelo de negocio que está causando pánico entre sus usuarios no premiums. Después de ofrecer espacio de almacenamiento ilimitado para los clientes que utilizan su servicio gratuito, el alojador de archivos con sede en Suiza está a punto de implementar duros nuevos límites. Este miércoles todos los clientes gratuitos estarán limitados a sólo 5 GB de almacenamiento gratuito si deciden no pagar por una cuenta premium. Todos los archivos alojados en exceso serán borrados para siempre el 3 de abril.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg"><img class="size-full wp-image-4148" alt="Logo de Rapidshare" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg" width="200" height="148" /></a> Logo de Rapidshare
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg"><img class="size-full wp-image-4148" alt="Logo de Rapidshare" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/rapidsharelogo.jpg" width="200" height="148" /></a> Logo de Rapidshare
 
 
 En el mundo super-conectado de hoy ya no tenemos que almacenar datos únicamente en nuestras máquinas de escritorio. Ahora podemos subirlos en "la nube" y acceder a ella sin problemas desde cualquiera de nuestros dispositivos sin importar donde estemos. Es conveniente en gran escala pero trae nuevas preocupaciones sobre la otra cara - la falta de control sobre nuestros propios datos.
@@ -50,7 +50,7 @@ Huelga decir que algunos clientes de pago también están descontentos con los c
 
 RapidShare ha ajustado su modelo de negocio en varias ocasiones en los últimos meses y a cada cambios parece haber dado lugar a un menor tráfico para el sitio. Con esta nueva táctica no es probable que se revierta la tendencia.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/rapidtraffic.jpg"><img class="aligncenter size-medium wp-image-8890" alt="rapidtraffic" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/rapidtraffic-300x148.jpg" width="300" height="148" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/rapidtraffic.jpg"><img class="aligncenter size-medium wp-image-8890" alt="rapidtraffic" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/rapidtraffic-300x148.jpg" width="300" height="148" /></a>
 
 Hasta el momento de la publicación RapidShare no había respondido a nuestra solicitud de una entrevista
 

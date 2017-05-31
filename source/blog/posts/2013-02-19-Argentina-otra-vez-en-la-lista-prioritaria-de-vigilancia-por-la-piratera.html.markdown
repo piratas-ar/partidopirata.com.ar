@@ -8,12 +8,12 @@ tags:
 - lista-prioritaria
 - lobby
 - lobby-de-la-propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/communism-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/communism-150x150.jpg
 wppost_name: argentina-otra-vez-en-la-lista-prioritaria-de-vigilancia-por-la-pirateria
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg"><img class="aligncenter size-full wp-image-4295" alt="Se viene el informe 301" src="http://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg" width="226" height="305" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg"><img class="aligncenter size-full wp-image-4295" alt="Se viene el informe 301" src="https://partidopirata.com.ar/wp-content/uploads/2012/05/communism.jpg" width="226" height="305" /></a>
 
 <strong><a href="http://www.entornointeligente.com/articulo/1351677/URUGUAY---Lista-negra-de-la-propiedad-intelectual-incluye-a-Argentina-y-excluye-a-Uruguay-18022013" target="_blank">Fuente Entorno Inteligente</a></strong>
 
@@ -27,7 +27,7 @@ Tampoco se establece que el gobierno uruguayo deba hacer algo, según publica el
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/5268/argentina-paraiso-pirata-ojala">El año pasado Aza escribió un post sobre el informe 301 y todas las presiones que trae</a></strong>
+<strong><a href="https://partidopirata.com.ar/5268/argentina-paraiso-pirata-ojala">El año pasado Aza escribió un post sobre el informe 301 y todas las presiones que trae</a></strong>
 
 No deja de ser divertido pensar que a la cabeza de la lista negra esté China y Rusia. ¿Habrá terribles sanciones para esos países?.
 <p style="text-align: center;">Recordemos que todo esto es simplemente lobby, presión, seguramente aparecerá alguien diciendo que nos vamos al infierno por estar en esta lista.</p>

@@ -13,8 +13,8 @@ tags:
 - revisar-subtitulos
 - subtitulos
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/79d2b870182162ee0198d31d174dcb85o.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/79d2b870182162ee0198d31d174dcb85o-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/79d2b870182162ee0198d31d174dcb85o.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/79d2b870182162ee0198d31d174dcb85o-150x150.jpg
 wppost_name: erasing-david-borrando-a-david-para-hacerlerevisar-los-subtitulos
 ---
 
@@ -27,7 +27,7 @@ Si alguien quiere ayudar avísenos enviando un e-mail a:
 <strong>Eduardo#partidopirata.com.ar</strong>
 <strong> (reemplacen # por @)</strong>
 Pueden descargar el video si usan Firefox con el complemento <strong><a href="https://addons.mozilla.org/pt-BR/firefox/addon/video-downloadhelper/" target="_blank">Download Helper</a></strong>
-Al documental nos lo recomendaron <strong><a href="http://partidopirata.com.ar/3000/julian-assange-sobre-para-que-los-gobiernos-recolectan-tanta-informacion-de-nosotros-tarjeta-sube">en los comentarios de esta entrada</a></strong>
+Al documental nos lo recomendaron <strong><a href="https://partidopirata.com.ar/3000/julian-assange-sobre-para-que-los-gobiernos-recolectan-tanta-informacion-de-nosotros-tarjeta-sube">en los comentarios de esta entrada</a></strong>
 Ahí nos avisa que si buscamos por <strong><a href="https://encrypted.google.com/search?q=%E2%80%9CErasing+David+[DvdRIP]+[2010]+[Sub.]+[Documental]%E2%80%9C&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:es-AR:official&amp;client=firefox-a&amp;hl=en&amp;lr=all" target="_blank">“Erasing David [DvdRIP] [2010] [Sub.] [Documental]“</a></strong> la encontraremos con los subtítulos <em>pegados</em>. Lamentablemente con el pánico que llegó luego del cierre de Megaupload todos los sites donde estaba guardado el documental cerraron la opción para compartir archivos.
 No encontramos a los subtítulos en ningún idioma.</center>
 

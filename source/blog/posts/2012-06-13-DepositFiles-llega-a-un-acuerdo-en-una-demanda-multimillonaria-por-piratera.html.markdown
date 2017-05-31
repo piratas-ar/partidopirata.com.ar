@@ -9,8 +9,8 @@ tags:
 - por-que-no-pagar-por-porno
 - pornografia
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/Logo_Depositfiles.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/Logo_Depositfiles-150x61.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/Logo_Depositfiles.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/Logo_Depositfiles-150x61.jpg
 wppost_name: depositfiles-llega-a-un-acuerdo-en-la-demanda-multimillonaria-por-pirateria
 ---
 
@@ -18,7 +18,7 @@ wppost_name: depositfiles-llega-a-un-acuerdo-en-la-demanda-multimillonaria-por-p
 
 A la sombra de la causa penal contra Megaupload, otro popular cyberlocker está poniéndole fin en silencio a una controversia jurídica propia. DepositFiles ha resuelto la demanda de millones de dólares del editor de la revista para adultos Perfect 10 en su contra. Este último acusó a  DepositFiles de participar y facilitar una masiva infracción de copyright y exigió un mínimo de 5 millones de dólares por daños y perjuicios
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/Logo_Depositfiles.jpg"><img class="size-full wp-image-4741" title="Logo_Depositfiles" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/Logo_Depositfiles.jpg" alt="" width="188" height="61" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/Logo_Depositfiles.jpg"><img class="size-full wp-image-4741" title="Logo_Depositfiles" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/Logo_Depositfiles.jpg" alt="" width="188" height="61" /></a>
 
 
 Como uno de los <a href="http://torrentfreak.com/top-10-largest-file-sharing-sites-110828/">mayores</a> sitios para compartir archivos en Internet, DepositFiles es visitado por millones de usuarios por día.

@@ -10,8 +10,8 @@ tags:
 - pirateria
 - presion
 - tatiana-de-mello-dias
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo-150x150.jpg
 wppost_name: nintendo-reclama-accion-contra-la-pirateria-en-brasil-vendran-por-la-argentina-tambien
 ---
 
@@ -23,7 +23,7 @@ SÃO PAULO – Nintendo quiere que los Estados Unidos fuercen a otros países a 
 
 En una carta al Representante Comercial de los Estados Unidos, Nintendo <a href="http://torrentfreak.com/nintendo-wants-to-hunt-down-game-pirates-and-block-websites-130225/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29&amp;utm_content=Google+Reader" target="_Blank">pide que el país </a>aumente la presión internacional para que otros gobiernos adopten medidas más rígidas contra la piratería. La empresa dice que está sufriendo “grandes pérdidas” con la distribución no autorizada de sus juegos.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo.jpg"><img class="alignright size-full wp-image-8599" alt="nintendo" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo.jpg" width="390" height="265" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo.jpg"><img class="alignright size-full wp-image-8599" alt="nintendo" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo.jpg" width="390" height="265" /></a>
 
 Nintendo mira el Special 301, informe anual en que los Estados Unidos clasifican a los países del mundo en un ranking de piratería. La fabricante de juegos quiere que el país acate sus recomendaciones en la elaboración del próximo informe.
 
@@ -39,7 +39,7 @@ La empresa también quiere que Brasil implemente una nueva legislación para dar
 
 Las mismas recomendaciones fueron hechas sobre España — pero allá, Nintendo pidió otras medidas como el bloqueo de sites extranjeros de intercambio u hospedaje de archivos.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo11.jpg"><img class="aligncenter size-full wp-image-8600" alt="nintendo11" src="http://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo11.jpg" width="542" height="706" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo11.jpg"><img class="aligncenter size-full wp-image-8600" alt="nintendo11" src="https://partidopirata.com.ar/wp-content/uploads/2013/03/nintendo11.jpg" width="542" height="706" /></a>
 
 <hr />
 

@@ -11,8 +11,8 @@ tags:
 - el-buen-vivir
 - modelo-de-crecimiento
 - sumak-kawsay
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/index.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/index-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/index.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/index-150x150.jpg
 wppost_name: la-desmitificacion-del-desarrollo-y-las-lecciones-del-sumak-kawsay-el-buen-vivir
 ---
 

@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - pipa
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
 wppost_name: la-casa-blanca-libera-declaracion-en-contra-de-sopa-pide-que-la-legislacion-sea-revisada-este-ano
 ---
 

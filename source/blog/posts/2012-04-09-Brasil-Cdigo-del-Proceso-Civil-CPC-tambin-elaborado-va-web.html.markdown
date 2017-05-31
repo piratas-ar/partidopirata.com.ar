@@ -7,12 +7,12 @@ tags:
 - ministerio-de-justicia
 - plataforma-de-consultas
 - reforma
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/Código-civil.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/C%C3%B3digo-civil-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/Código-civil.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/C%C3%B3digo-civil-150x150.jpg
 wppost_name: brasil-codigo-del-proceso-civil-cpc-tambien-elaborado-via-web
 ---
 
-<strong><a href="http://partidopirata.com.ar/3866/por-que-no-crear-una-convocatoria-para-modificar-el-codigo-civil-en-la-argentina">Habíamos publicado la idea de hacer una consulta pública a través de la web para modificar el Código Civil.</a></strong>
+<strong><a href="https://partidopirata.com.ar/3866/por-que-no-crear-una-convocatoria-para-modificar-el-codigo-civil-en-la-argentina">Habíamos publicado la idea de hacer una consulta pública a través de la web para modificar el Código Civil.</a></strong>
 
 <strong>Mientras esperamos para charlar con <a href="https://twitter.com/#!/prenass" target="_blank">Paulo Rená </a></strong>, él nos avisa que en Brasil existió también ese modelo para elaborar modificaciones al Código de Proceso Civil :
 

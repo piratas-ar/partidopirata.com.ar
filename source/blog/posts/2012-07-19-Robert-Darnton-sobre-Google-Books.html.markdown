@@ -9,8 +9,8 @@ tags:
 - google-books
 - harvard
 - robert-darnton
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/google-china2-150x150.png
 wppost_name: robert-darnton-sobre-google-books
 ---
 

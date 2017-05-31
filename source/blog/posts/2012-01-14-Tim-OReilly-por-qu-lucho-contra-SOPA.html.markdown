@@ -3,8 +3,8 @@ title: 'Tim O’Reilly: “por qué lucho contra SOPA”'
 date: '2012-01-14'
 tags:
 - material-para-difusion
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
 wppost_name: tim-oreilly-por-que-lucho-contra-sopa
 ---
 

@@ -8,8 +8,8 @@ tags:
 - open-source-hardware
 - osh
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/116877579_640.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/116877579_640-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/116877579_640.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/116877579_640-150x150.jpg
 wppost_name: arduino-el-documental-2
 ---
 

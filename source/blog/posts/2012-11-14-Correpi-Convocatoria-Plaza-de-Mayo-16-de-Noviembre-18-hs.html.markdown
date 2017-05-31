@@ -8,8 +8,8 @@ tags:
 - herman-schiller
 - marcha
 - represion-policial-e-institucional
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/correpi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/correpi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/correpi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/correpi-150x150.jpg
 wppost_name: correpi-convocatoria-plaza-de-mayo-16-de-noviembre-18-hs
 ---
 
@@ -25,4 +25,4 @@ Ante un gobierno nacional que defiende los intereses de la clase dominante, pers
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/correpi.jpg"><img class="aligncenter size-full wp-image-7372" title="correpi" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/correpi.jpg" alt="" width="738" height="960" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/correpi.jpg"><img class="aligncenter size-full wp-image-7372" title="correpi" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/correpi.jpg" alt="" width="738" height="960" /></a>

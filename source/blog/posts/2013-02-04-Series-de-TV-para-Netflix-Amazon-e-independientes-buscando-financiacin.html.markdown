@@ -9,8 +9,8 @@ tags:
 - otras-formas-de-distribucion
 - series-de-television
 - webseries
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/tumblr_medmj7hiSG1r600lno1_1280.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/tumblr_medmj7hiSG1r600lno1_1280-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/tumblr_medmj7hiSG1r600lno1_1280.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/tumblr_medmj7hiSG1r600lno1_1280-150x150.jpg
 wppost_name: series-de-tv-para-netflix-amazon-e-independientes-buscando-financiacion
 ---
 
@@ -39,5 +39,5 @@ Los directores creen que el know-how de empresas como Netflix y Amazon debe ince
 <p style="text-align: center;"><strong><a href="http://daemonium.org/" target="_blank">Página oficial de Daemonium</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/tumblr_medmj7hiSG1r600lno1_1280.jpg"><img class=" wp-image-8384 " alt="WebSerie Argentina" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/tumblr_medmj7hiSG1r600lno1_1280.jpg" width="659" height="975" /></a> WebSerie Argentina
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/tumblr_medmj7hiSG1r600lno1_1280.jpg"><img class=" wp-image-8384 " alt="WebSerie Argentina" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/tumblr_medmj7hiSG1r600lno1_1280.jpg" width="659" height="975" /></a> WebSerie Argentina
 

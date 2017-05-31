@@ -2,8 +2,8 @@
 title: Nosotros los comunes y los bienes comunes.
 date: '2013-03-13'
 tags: []
-image: http://partidopirata.com.ar/wp-content/uploads/2013/03/madre_reloj.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/03/madre_reloj-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/03/madre_reloj.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/03/madre_reloj-150x150.jpg
 wppost_name: nosotros-los-comunes-y-los-bienes-comunes
 ---
 

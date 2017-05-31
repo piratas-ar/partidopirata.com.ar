@@ -13,14 +13,14 @@ tags:
 - jujuy
 - vivienda
 - vivienda-digna
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/represion-acampe-jujuy.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/represion-acampe-jujuy-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/represion-acampe-jujuy.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/represion-acampe-jujuy-150x150.jpg
 wppost_name: la-represion-continua-jujuydepie
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/represion-acampe-jujuy.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2011/10/represion-acampe-jujuy-300x200.jpg" alt="" title="represion-acampe-jujuy" width="300" height="200" class="alignleft size-medium wp-image-1996" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/represion-acampe-jujuy.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2011/10/represion-acampe-jujuy-300x200.jpg" alt="" title="represion-acampe-jujuy" width="300" height="200" class="alignleft size-medium wp-image-1996" /></a>
 
-Luego de la represión<a href="http://partidopirata.com.ar/1980/estan-reprimiendo-en-el-acampe-de-la-9-de-julio" title="Están reprimiendo en el Acampe de la 9 de Julio" target="_blank">[1]</a> <a href="http://partidopirata.com.ar/1984/para-festejar-el-12-de-octubre-represion-a-jujenos-en-el-acampe" title="Para “festejar” el 12 de Octubre #Represion a #jujeños en el #acampe" target="_blank">[2]</a> llevada a cabo por gendarmería y la policía federal anoche en el acampe jujeño de Avenida de Mayo y 9 de Julio en capital, las protestas en la provincia se recrudece.
+Luego de la represión<a href="https://partidopirata.com.ar/1980/estan-reprimiendo-en-el-acampe-de-la-9-de-julio" title="Están reprimiendo en el Acampe de la 9 de Julio" target="_blank">[1]</a> <a href="https://partidopirata.com.ar/1984/para-festejar-el-12-de-octubre-represion-a-jujenos-en-el-acampe" title="Para “festejar” el 12 de Octubre #Represion a #jujeños en el #acampe" target="_blank">[2]</a> llevada a cabo por gendarmería y la policía federal anoche en el acampe jujeño de Avenida de Mayo y 9 de Julio en capital, las protestas en la provincia se recrudece.
 
 Desde el grupo de <a href="https://www.facebook.com/DemocraciaRealYaBuenosAires" target="_blank">¡Democracia Real YA! Buenos Aires</a> nos enteramos que reprimieron también a quienes manifestaban frente a la casa de gobierno en la Provincia de Jujuy. Afortunadamente en ninguno de los dos casos hay víctimas graves, pero hubo golpes y gases lacrimógenos para mujeres, niños y ancianos indiscriminadamente.
 

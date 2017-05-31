@@ -9,8 +9,8 @@ tags:
 - richard-stallman
 - rick-falkvinge
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/stallman-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/stallman-150x150.png
 wppost_name: richard-stallman-publica-nota-de-apoyo-al-partido-pirata-sueco
 ---
 

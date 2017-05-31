@@ -16,8 +16,8 @@ tags:
 - venezuela
 - voto-electronico
 - voto-electrronico
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/20061012_votoelectronicono-150x150.png
 wppost_name: sobre-las-urnas-electronicas-sus-problemas-y-los-periodistas-que-tienen-miedo-de-demostrar-que-no-saben
 ---
 
@@ -98,7 +98,7 @@ Llama la atención que los periodistas de política no tienen mucha idea de tecn
 <p style="text-align: center;">–Es una transferencia de datos desde los individuos a una organización que es mucho más poderosa que ellos. Entiendo la seriedad de los carteles narco en América latina. Es un tema serio y no lo subestimo."
 <strong><a href="http://www.pagina12.com.ar/diario/elmundo/4-204060-2012-09-23.html" target="_blank">Entrevista a Julian Assange </a></strong></p>
 <p style="text-align: center;">El periodista no tiene que ser un experto en tecnología, pero, por lo menos, debería informarse un poco y cuestionarse un poco..</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/6728/los-peligros-de-tanta-informacion-recopilada-por-el-estado"> Algo más que agregamos acá</a>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/6728/los-peligros-de-tanta-informacion-recopilada-por-el-estado"> Algo más que agregamos acá</a>
 </strong></p>
 
 
@@ -126,4 +126,4 @@ La Corte Constitucional alemana afirma algo que muchos políticos y consultores 
 La sentencia tiene una amplia aceptación en la opinión pública. Esto se explica por el hecho de que en pocos países la administración pública y privada está tan informatizada como en Alemania y es precisamente este conocimiento de lo que una computadora puede y lo que no puede hacer, lo que genera la demanda popular de saber qué sucede dentro de la computadora electoral. No es casual que quienes impugnan sean especialistas en elecciones y en software.
 
 Esto resulta un golpe muy fuerte para aquellos que intentan encontrar soluciones "mágicas" disfrazadas de tecnología para compensar una institucionalidad debilitada. Un procedimiento no soluciona problemas estructurales.
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/6944/belgica-carta-de-protesta-por-parte-de-una-persona-que-se-niega-el-voto-electronico">Bélgica, Carta de protesta de un ciudadano que se niega a utilizar las urnas electrónicas</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/6944/belgica-carta-de-protesta-por-parte-de-una-persona-que-se-niega-el-voto-electronico">Bélgica, Carta de protesta de un ciudadano que se niega a utilizar las urnas electrónicas</a></strong></p>

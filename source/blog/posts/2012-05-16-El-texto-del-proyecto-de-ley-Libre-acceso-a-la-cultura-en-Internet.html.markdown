@@ -6,8 +6,8 @@ tags:
 - internet
 - julio-raffo
 - libre-acceso-a-la-cultura-en-internet
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/hqdefault-150x150.jpg
 wppost_name: el-texto-del-proyecto-de-ley-libre-acceso-a-la-cultura-en-internet
 ---
 
@@ -70,8 +70,8 @@ En el sentido señalado la Declaración sobre los Objetivos de Desarrollo del Mi
 Por todo lo expuesto, lo cual ya fue públicamente sostenido y señalado,  resulta ser  urgente el dictado de una norma que ponga fin a las acciones penales que, impulsadas fundamentalmente por las multinacionales de la música o el audiovisual, amenazan con penalizar a esos usuarios o a quienes contribuyen con los mismos ofreciéndoles información o vínculos mediante los sistemas técnicamente denominados “P2P” o similares. Para ello se propicia el presente proyecto de ley.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4381/audiencia-publica-libre-acceso-a-la-cultura-en-internet-proyecto-de-ley-de-proyecto-sur">La charla que mantuvimos con Julio Raffo para saber más sobre su proyecto de ley.</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4444/pino-solanas-y-julio-raffo-video-del-acto-en-el-congreso-acceso-libre-a-la-cultura-en-internet">El video de la presentación del proyecto en el Congreso Nacional.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4381/audiencia-publica-libre-acceso-a-la-cultura-en-internet-proyecto-de-ley-de-proyecto-sur">La charla que mantuvimos con Julio Raffo para saber más sobre su proyecto de ley.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4444/pino-solanas-y-julio-raffo-video-del-acto-en-el-congreso-acceso-libre-a-la-cultura-en-internet">El video de la presentación del proyecto en el Congreso Nacional.</a></strong></p>
 <p style="text-align: center;">Es bueno que haya una posición diferente a tanta represión y locura que circulan apoyados por poderosos hoy.</p>
 <p style="text-align: center;">Trabajemos y hagamos nuestro<strong><em> lobby</em></strong> para que este proyecto pueda ir avanzando.</p>
 <p style="text-align: center;">Vayan al Proyecto Sur si se sienten más representados por ellos, si son de otros partidos políticos presionen y hagan campaña dentro de sus partidos por este proyecto y, si no se sienten representados por nadie, coordinemos entre todos e intentemos presionar para que este proyecto se aprueba. (o, por lo menos, se discuta).</p>

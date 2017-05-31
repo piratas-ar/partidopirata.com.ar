@@ -15,12 +15,12 @@ tags:
 - noticias
 - preocupacion
 - reforma
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png
 wppost_name: reforma-de-la-ley-de-derecho-de-autor-en-brasil-y-algunos-argumentos-usuales
 ---
 
-En <a href="http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png"><img class="alignleft size-medium wp-image-360" title="brasil-copyright" src="http://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-300x242.png" alt="Tomado de &quot;Derecho de Autor" width="300" height="242" />el </a><a href="http://blogs.estadao.com.br/p2p/2010/12/17/reforma-da-lei-de-direitos-autorais-preocupa-entidade-internacional/" target="_blank"> Blog P2P</a> informan:
+En <a href="https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright.png"><img class="alignleft size-medium wp-image-360" title="brasil-copyright" src="https://partidopirata.com.ar/wp-content/uploads/2010/12/brasil-copyright-300x242.png" alt="Tomado de &quot;Derecho de Autor" width="300" height="242" />el </a><a href="http://blogs.estadao.com.br/p2p/2010/12/17/reforma-da-lei-de-direitos-autorais-preocupa-entidade-internacional/" target="_blank"> Blog P2P</a> informan:
 
 "La <a href="http://www.filaie.com/">Federación Iberolatinoamericana de Artistas, Intérpretes y Ejecutantes</a> (Filae) está “preocupada” con la <a href="http://blogs.estadao.com.br/link/2010-o-ano-em-que-o-direito-autoral-foi-a-debate/">reforma de la Ley de Derechos de Autor</a> propuesta por el Ministerio de Cultura de Brasil."
 

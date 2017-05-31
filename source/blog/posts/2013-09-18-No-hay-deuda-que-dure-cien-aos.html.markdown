@@ -8,8 +8,8 @@ tags:
 - educacion
 - la-revuelta
 - universidad
-image: http://partidopirata.com.ar/wp-content/uploads/2013/09/Screen-Shot-2013-09-18-at-3.43.56-PM.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/09/Screen-Shot-2013-09-18-at-3.43.56-PM-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/09/Screen-Shot-2013-09-18-at-3.43.56-PM.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/09/Screen-Shot-2013-09-18-at-3.43.56-PM-150x150.png
 wppost_name: no-hay-deuda-que-dure-cien-anos
 ---
 

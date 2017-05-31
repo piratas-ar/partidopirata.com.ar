@@ -8,8 +8,8 @@ tags:
 - sibios
 - todos-vigilados
 - vigilados
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
 wppost_name: camaras-de-vigilancia-con-reconocimiento-facial-usos-en-formosa
 ---
 
@@ -47,4 +47,4 @@ En una ciudad grande podrían reconocer el rostro de quien está haciendo un ges
 
 De todas maneras hacerle un gesto a una autoridad no es un delito!!
 
-<a href="http://partidopirata.com.ar/2011/11/09/sibios-todo-el-mundo-controlado-la-policia-y-la-side-sabran-quien-estuvo-en-una-marcha-manifestacion/">Más sobre el proyecto SIBIOS</a>
+<a href="https://partidopirata.com.ar/2011/11/09/sibios-todo-el-mundo-controlado-la-policia-y-la-side-sabran-quien-estuvo-en-una-marcha-manifestacion/">Más sobre el proyecto SIBIOS</a>

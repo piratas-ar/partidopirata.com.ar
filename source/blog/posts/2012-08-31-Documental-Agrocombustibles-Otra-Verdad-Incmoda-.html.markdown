@@ -12,8 +12,8 @@ tags:
 - soja
 - titeres
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/logotop.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/logotop-150x120.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/logotop.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/logotop-150x120.jpg
 wppost_name: documental-agrocombustibles-otra-verdad-incomoda
 ---
 

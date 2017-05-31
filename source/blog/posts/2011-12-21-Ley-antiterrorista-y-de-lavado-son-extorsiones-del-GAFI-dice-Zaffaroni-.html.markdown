@@ -9,8 +9,8 @@ tags:
 - terror
 - terrorismo
 - zaffaroni
-image: http://partidopirata.com.ar/wp-content/uploads/2011/12/zaffaroni.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/12/zaffaroni-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/12/zaffaroni.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/12/zaffaroni-150x150.jpg
 wppost_name: ley-antiterrorista-y-de-lavado-son-%e2%80%9cextorsiones%e2%80%9d-del-gafi-dice-zaffaroni
 ---
 

@@ -8,12 +8,12 @@ tags:
 - nacional-rock
 - no-tan-distintos
 - radio-naional
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande-150x150.jpg
 wppost_name: cultura-libre-para-todos-en-nacional-rock-martes-19-de-junio-de-19-a-21-hs
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande.jpg"><img class=" wp-image-4750" title="afiche-grande" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande-212x300.jpg" alt="" width="402" height="568" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande.jpg"><img class=" wp-image-4750" title="afiche-grande" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/afiche-grande-212x300.jpg" alt="" width="402" height="568" /></a>
 
 
 <div style="text-align: center;"><strong>Gala Cacchione y Victoria Tombolini en El Fin del Finde del 10/6/2012 anuncian el Festival Cultura Libre para todos y explican de qué se trata:</strong></div>
@@ -26,7 +26,7 @@ Presionen en <em>play</em> para escucharlo o:</div>
 
 &nbsp;
 
-<center><strong> </strong></center><center><strong><a href="http://lomejordelosmedios.blogspot.com/2012/06/gala-cacchione-y-victoria-tombolini-en.html" target="_blank">Acá encuentran a todo el programa El Fin del Finde para descargar</a>  Gracias a <em>Lo Mejor de los Medios</em> por compartirlo. </strong></center><center></center><center><a href="http://partidopirata.com.ar/4762/entrevista-a-candelaria-sabagh-obra-de-teatro-copyleft-no-mas-zzzzs">Entrevista a Candelaria Sabagh, obra de teatro con Creative Commons que estará en el evento</a></center>
+<center><strong> </strong></center><center><strong><a href="http://lomejordelosmedios.blogspot.com/2012/06/gala-cacchione-y-victoria-tombolini-en.html" target="_blank">Acá encuentran a todo el programa El Fin del Finde para descargar</a>  Gracias a <em>Lo Mejor de los Medios</em> por compartirlo. </strong></center><center></center><center><a href="https://partidopirata.com.ar/4762/entrevista-a-candelaria-sabagh-obra-de-teatro-copyleft-no-mas-zzzzs">Entrevista a Candelaria Sabagh, obra de teatro con Creative Commons que estará en el evento</a></center>
 
 <hr />
 <p align="CENTER"><a name="ecxFontBreak"></a><strong>Martes 19 de Junio</strong>

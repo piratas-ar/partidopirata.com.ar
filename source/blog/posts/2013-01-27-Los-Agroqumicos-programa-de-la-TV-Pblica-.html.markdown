@@ -8,8 +8,8 @@ tags:
 - material-para-difusion
 - glifosato
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/monsanto31-150x150.jpg
 wppost_name: los-agroquimicos-programa-de-la-tv-publica
 ---
 
@@ -26,7 +26,7 @@ Si quieren escuchar o descargar el audio del programa:</center>
 Si el enlace anterior no funciona presionen en <i>descargar</i> <a href="http://www.ivoox.com/audio-del-programa-cientificos-industria-argentina-dedicado-a-audios-mp3_rf_1739208_1.html" target="_blank">En este link.</a></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart3.png"><img class="size-full wp-image-8307" alt="Código QR de la dirección del archivo de audio." src="http://partidopirata.com.ar/wp-content/uploads/2013/01/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo de audio.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/chart3.png"><img class="size-full wp-image-8307" alt="Código QR de la dirección del archivo de audio." src="https://partidopirata.com.ar/wp-content/uploads/2013/01/chart3.png" width="150" height="150" /></a> Código QR de la dirección del archivo de audio.
 
 
 &nbsp;

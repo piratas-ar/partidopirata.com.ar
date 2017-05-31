@@ -19,8 +19,8 @@ tags:
 - rusia
 - ventas
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/02/sandman_by_neil_gaiman1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/02/sandman_by_neil_gaiman1.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/02/sandman_by_neil_gaiman1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/02/sandman_by_neil_gaiman1.jpg
 wppost_name: neil-gaiman-afirma-que-la-pirateria-lo-ayudo-a-vender-mas-libros
 ---
 

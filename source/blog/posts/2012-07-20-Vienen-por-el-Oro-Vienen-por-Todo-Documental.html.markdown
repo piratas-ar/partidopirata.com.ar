@@ -13,8 +13,8 @@ tags:
 - they-come-for-the-gold
 - multimedia
 - vienen-por-el-oro
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/barrick_glaciar-150x150.jpg
 wppost_name: vienen-por-el-oro-vienen-por-todo-documental
 ---
 

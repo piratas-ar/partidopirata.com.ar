@@ -9,8 +9,8 @@ tags:
 - torrent
 - torrents
 - trible
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/trib-search.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/trib-search-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/trib-search.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/trib-search-150x150.jpg
 wppost_name: tribler-hace-imposible-cerrar-bittorrent
 ---
 
@@ -34,7 +34,7 @@ Al igual que muchos otros clientes de BitTorrent, Tribler tiene un cuadro de bú
 
 <strong>Los resultados de búsqueda descentralizadas Tribler</strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/trib-search.jpg"><img class="aligncenter size-full wp-image-3109" title="Búsqueda con Tribler" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/trib-search.jpg" alt="" width="525" height="365" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/trib-search.jpg"><img class="aligncenter size-full wp-image-3109" title="Búsqueda con Tribler" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/trib-search.jpg" alt="" width="525" height="365" /></a>
 
 La descarga de un torrent es también totalmente descentralizada. Cuando un usuario hace clic en uno de los resultados de la búsqueda, los meta-datos son tomados desde otro par y la descarga se inicia de inmediato. Tribler se basa en el protocolo BitTorrent estándar y usa trackers BitTorrent regulares para comunicarse con otros compañeros. Pero, también puede continuar la descarga cuando un rastreador central cae.
 
@@ -42,7 +42,7 @@ Lo mismo es cierto para el control deseado. Cuando la mayoría de los sitios de 
 
 La última adición a Tribler es un sistema de edición de estilo Wikipedia llamado "Open2Edit", donde los usuarios tienen la opción de editar nombres y descripciones de los torrentes en los canales públicos. Todo ello sin un servidor central, totalmente descentralizado.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/tribler-edit.jpg"><img class="aligncenter size-full wp-image-3110" title="Editor Trible" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/tribler-edit.jpg" alt="" width="525" height="252" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/tribler-edit.jpg"><img class="aligncenter size-full wp-image-3110" title="Editor Trible" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/tribler-edit.jpg" alt="" width="525" height="252" /></a>
 
 Según el Dr. Pouwelse, Tribler es totalmente capaz de resistir a cualquier presión desde fuera, y seguirá funcionando cuando todos los sitios de torrents y rastreadores se hayan ido. Simplemente no puede ser apagado, bloqueado o censurado, lo que las leyes de los políticos pueden llegar a cumlir.
 
@@ -60,4 +60,4 @@ Aquellos que quieran darse una vuelta con Tribler son bienvenidos <a href="http:
 
 <hr />
 <p style="text-align: center;">Si lo prueban avísenos en los comentarios qué les pareció!</p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4597/los-investigadores-liberan-a-un-cliente-de-bittorrent-anonimo">Algo más sobre Tribler en nuestro blog.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4597/los-investigadores-liberan-a-un-cliente-de-bittorrent-anonimo">Algo más sobre Tribler en nuestro blog.</a></strong></p>

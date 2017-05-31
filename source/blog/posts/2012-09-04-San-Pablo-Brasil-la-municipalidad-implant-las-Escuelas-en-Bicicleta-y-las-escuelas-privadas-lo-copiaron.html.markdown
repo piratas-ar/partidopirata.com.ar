@@ -12,8 +12,8 @@ tags:
 - pedagogia
 - proyecto
 - san-pablo
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/escola_bicicletas_.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/escola_bicicletas_-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/escola_bicicletas_.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/escola_bicicletas_-150x150.jpg
 wppost_name: san-pablo-brasil-la-municipalidad-implanto-las-escuelas-en-bicicleta-y-las-escuelas-privadas-lo-copiaron
 ---
 
@@ -68,6 +68,6 @@ Los amigos Duarte Penreiro, de 17 años, y Pedro Coleta, de 16, siempre pedalean
 Investigación. En la Escuela Viva, que queda en Vila Olímpia, zona sur, la flaca es uno de los ejes de la investigación de los alumnos sobre mobilidad. "Andar en bicicleta se tornou una actividad curricular. Hacemos un paseo en bici en el centro y vamos a crear un 'tranvía' para que los alumnos vayan juntos todos los días", dice el coordinador Paulo Rota. "Con tantos transtornos que las escuelas le causan al tránsito, tenemos que pensar en como podemos contribuir para la ciudad."
 
 <hr />
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/6294/sobre-el-voto-optativo-a-partir-de-los-16-anos">
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/6294/sobre-el-voto-optativo-a-partir-de-los-16-anos">
 <strong> De todas maneras mientras debatimos en el voto si o no a partir de los 16 años ya estamos proponiendo proyectos!!</strong></a></p>
 Y si lo copia el PRO u otro partido!!!, bueh, ojalá lo copien!!!

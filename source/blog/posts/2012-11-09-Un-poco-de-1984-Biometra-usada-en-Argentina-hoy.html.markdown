@@ -9,8 +9,8 @@ tags:
 - rick-falkvinge
 - sibios
 - vigilancia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/handprint-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/handprint-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/handprint-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/handprint-646x363-150x150.jpg
 wppost_name: un-poco-de-1984-biometria-usada-en-argentina-hoy
 ---
 

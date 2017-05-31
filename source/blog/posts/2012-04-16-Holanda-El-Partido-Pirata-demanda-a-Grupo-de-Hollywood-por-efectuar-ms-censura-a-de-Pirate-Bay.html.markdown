@@ -10,8 +10,8 @@ tags:
 - paises-bajos
 - partido-pirata-de-holanda
 - proxys
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/P1140016-150x150.jpg
 wppost_name: holanda-el-partido-pirata-demanda-a-grupo-de-hollywood-por-efectuar-mas-censura-a-de-pirate-bay
 ---
 
@@ -51,4 +51,4 @@ El Partido Pirata se alegra de que finalmente será capaz de devolverle el golpe
 </strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3782/holanda-partido-pirata-se-niega-al-cierre-del-proxy-de-the-pirate-bay-y-se-enfrenta-a-demanda">Una noticia anterior sobre la decisión de mantener los proxys en a The Pirate Bay por parte del Partido Pirata Holandés</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3782/holanda-partido-pirata-se-niega-al-cierre-del-proxy-de-the-pirate-bay-y-se-enfrenta-a-demanda">Una noticia anterior sobre la decisión de mantener los proxys en a The Pirate Bay por parte del Partido Pirata Holandés</a></strong></p>

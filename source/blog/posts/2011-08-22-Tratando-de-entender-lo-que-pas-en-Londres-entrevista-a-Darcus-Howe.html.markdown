@@ -9,8 +9,8 @@ tags:
 - mark-dogan
 - mark-duggan
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/darcus_howe_bbc_interview1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/darcus_howe_bbc_interview1.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/darcus_howe_bbc_interview1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/darcus_howe_bbc_interview1.jpg
 wppost_name: tratando-de-entender-lo-que-paso-en-londres-entrevista-a-darcus-howe
 ---
 
@@ -21,7 +21,7 @@ Darcus Howe es entrevistado por Fiona Armstrong entrevista a Darcus Howe sobre l
 <strong> <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Darcus_Howe#BBC_apology" target="_blank">Algo más en esta entrada de la wikipedia (en inglés).</a></strong></center>&nbsp;
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1681/darcus-howe-el-pantera-negra-britanico">Entrevista a Darcus Howe.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1681/darcus-howe-el-pantera-negra-britanico">Entrevista a Darcus Howe.</a></strong></p>
 
 
 <hr />

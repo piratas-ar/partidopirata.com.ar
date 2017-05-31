@@ -9,8 +9,8 @@ tags:
 - monopolios
 - divulgacion
 - propiedad-intelectual
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/copista.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/copista.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/copista.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/copista.jpg
 wppost_name: nada-nuevo-bajo-el-sol-eclipsado-por-el-copyright
 ---
 

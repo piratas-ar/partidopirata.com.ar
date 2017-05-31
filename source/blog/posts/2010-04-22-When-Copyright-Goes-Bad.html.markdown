@@ -17,8 +17,8 @@ tags:
 - pirateria
 - remix
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2010/04/van_mal.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/04/van_mal.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/04/van_mal.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/04/van_mal.jpg
 wppost_name: when-copyright-goes-bad
 ---
 

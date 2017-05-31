@@ -21,8 +21,8 @@ tags:
 - principios
 - propietaria
 - sostenible
-image: http://partidopirata.com.ar/wp-content/uploads/2011/02/FCForum-logo.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/02/FCForum-logo.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/02/FCForum-logo.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/02/FCForum-logo.jpg
 wppost_name: modelos-sostenibles-para-la-creatividad-en-la-era-digital
 ---
 

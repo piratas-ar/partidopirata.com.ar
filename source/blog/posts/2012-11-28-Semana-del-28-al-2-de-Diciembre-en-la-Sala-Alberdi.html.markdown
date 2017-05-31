@@ -6,12 +6,12 @@ tags:
 - programacion
 - sala-alberdi
 - teatro-a-la-gorra
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/image1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/image1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/image1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/image1-150x150.png
 wppost_name: semana-del-28-al-2-de-diciembre-en-la-sala-alberdi
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/image1.png"><img class="size-large wp-image-7569" title="image(1)" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/image1-1024x313.png" alt="" width="620" height="189" /></a> Semana del 28 al 2 de Diciembre en la Sala Alberdi
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/image1.png"><img class="size-large wp-image-7569" title="image(1)" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/image1-1024x313.png" alt="" width="620" height="189" /></a> Semana del 28 al 2 de Diciembre en la Sala Alberdi
 
 
 <a href="https://twitter.com/salaalberdi" target="_blank">Twitter de la Sala Alberdi</a>

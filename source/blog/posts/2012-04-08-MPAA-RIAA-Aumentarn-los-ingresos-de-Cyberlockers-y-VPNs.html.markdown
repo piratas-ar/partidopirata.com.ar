@@ -12,8 +12,8 @@ tags:
 - seis-avisos
 - torrents
 - vigilar
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: mpaa-riaa-para-aumentaran-los-ingresos-de-cyberlocker-y-vpn
 ---
 
@@ -52,7 +52,7 @@ No estamos diciendo que el sistema de alerta de los derechos de autor no tiene n
 </strong>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Si quieren saber como funciona el sistema de los tres avisos o <em>Hadopi</em> acá conversamos con un oficial Hadopi</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">Si quieren saber como funciona el sistema de los tres avisos o <em>Hadopi</em> acá conversamos con un oficial Hadopi</a></strong></p>
 
 
 <hr />

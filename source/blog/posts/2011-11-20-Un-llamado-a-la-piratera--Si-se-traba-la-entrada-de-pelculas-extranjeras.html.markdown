@@ -15,7 +15,7 @@ thumb:
 wppost_name: "%c2%bfun-llamado-a-la-pirateria-si-se-traba-la-entrada-de-peliculas-extranjeras"
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg"><img class="size-full wp-image-2360" title="Guillermo Moreno" src="http://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg" alt="Secretario de Comercio" width="468" height="320" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg"><img class="size-full wp-image-2360" title="Guillermo Moreno" src="https://partidopirata.com.ar/wp-content/uploads/2011/11/moreno.jpg" alt="Secretario de Comercio" width="468" height="320" /></a>
 
 
 <hr />
@@ -52,4 +52,4 @@ Si siempre seremos los <em>socios bobos.</em>
 
 Al final las descargas ayudan al país, pero Moreno lo remata pidiendo que se respeten los derechos de autor, es una contradicción.
 <p style="text-align: center;"><strong> <a href="http://www.google.com/coop/cse?cx=015744699536747119104%3A6nr3z4bkd0g" target="_blank">Un lugar para buscar películas por descargas directas.</a></strong></p>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/2195/si-la-editorial-no-consigue-exportar-lo-que-importa-solucion-biblioteca-virtual">Y la alternativa ante todos los libros importados parados en la aduana.</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/2195/si-la-editorial-no-consigue-exportar-lo-que-importa-solucion-biblioteca-virtual">Y la alternativa ante todos los libros importados parados en la aduana.</a></strong></p>

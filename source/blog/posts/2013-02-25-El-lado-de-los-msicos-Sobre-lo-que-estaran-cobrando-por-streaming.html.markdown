@@ -10,8 +10,8 @@ tags:
 - pago-por-streaming
 - sadaic
 - streaming
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/sadaic.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/sadaic-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/sadaic.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/sadaic-150x150.jpg
 wppost_name: el-lado-de-los-musicos-sobre-lo-que-estarian-cobrando-por-streaming
 ---
 

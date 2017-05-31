@@ -7,8 +7,8 @@ tags:
 - portugues
 - raffo
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa-115x115.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa-115x115.jpg
 wppost_name: '1032'
 ---
 

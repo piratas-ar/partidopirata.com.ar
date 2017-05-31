@@ -10,8 +10,8 @@ tags:
 - itu
 - peligro
 - uit-secretaria-de-comunicaciones
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/secom.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/secom-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/secom.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/secom-150x150.png
 wppost_name: para-saber-la-posicion-argentina-en-la-proxima-reunion-de-la-uit-control-de-internet
 ---
 
@@ -35,7 +35,7 @@ Tucumán 744 - Piso 4°
 
 <hr />
 
-<strong>Como no sabíamos quien nos "representaría en la reunión en Dubai, le escribimos a la CNC que  <a href="http://partidopirata.com.ar/7417/preguntemosle-a-la-cnc-cual-es-la-posicion-de-la-argentina-respecto-al-control-de-internet-por-parte-de-la-uit">respondió nuestro formulario!</a></strong>
+<strong>Como no sabíamos quien nos "representaría en la reunión en Dubai, le escribimos a la CNC que  <a href="https://partidopirata.com.ar/7417/preguntemosle-a-la-cnc-cual-es-la-posicion-de-la-argentina-respecto-al-control-de-internet-por-parte-de-la-uit">respondió nuestro formulario!</a></strong>
 
 <strong>Respuesta:</strong>
 <p style="text-align: left;">De acuerdo a su consulta le informamos que su consulta se derivó automáticamente a la biblioteca de la CNC, el Centro de Información Técnica.</p>
@@ -46,12 +46,12 @@ Tucumán 744 - Piso 4°
 <hr />
 <p style="text-align: center;"><strong>Agradecemos a la CNC la pronta respuesta</strong> y buscaremos la información en la SECOM!
 Mientras tanto si alguno de uds. quiere preguntar, vayan al site de la SECOM</p>
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/secomtelef.png"><img class="aligncenter size-full wp-image-7424" title="secomtelef" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/secomtelef.png" alt="" width="459" height="121" /></a></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/secomtelef.png"><img class="aligncenter size-full wp-image-7424" title="secomtelef" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/secomtelef.png" alt="" width="459" height="121" /></a></p>
 <p style="text-align: center;"><strong>No se cómo se inicia el trámite, por las dudas si consiguen llamar al (11) 4318-9400</strong></p>
 <p style="text-align: center;"><strong>Para ver cómo preguntarle a la SECOM!</strong></p>
 <p style="text-align: center;"><strong><a href="www.secom.gob.ar/index.php?pageid=13&amp;noticiaid=8980" target="_blank">Fíjense que casualidad quién estuvo visitando la SECOM en abril:</a></strong></p>
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/secom.png"><img class="aligncenter size-large wp-image-7423" title="secom" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/secom-1002x1024.png" alt="" width="620" height="633" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/secom.png"><img class="aligncenter size-large wp-image-7423" title="secom" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/secom-1002x1024.png" alt="" width="620" height="633" /></a>
 
 &nbsp;

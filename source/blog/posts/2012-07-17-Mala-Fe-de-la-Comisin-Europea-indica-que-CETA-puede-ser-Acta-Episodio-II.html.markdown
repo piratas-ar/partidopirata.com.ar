@@ -7,8 +7,8 @@ tags:
 - falkvinge-noticias
 - noticias
 - rick-falvinge
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/2400_wpm_hires-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/2400_wpm_hires-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/2400_wpm_hires-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/2400_wpm_hires-646x363-150x150.jpg
 wppost_name: mala-fe-de-la-comision-europea-indica-que-ceta-puede-ser-%c2%a8acta-episodio-ii%c2%a8
 ---
 

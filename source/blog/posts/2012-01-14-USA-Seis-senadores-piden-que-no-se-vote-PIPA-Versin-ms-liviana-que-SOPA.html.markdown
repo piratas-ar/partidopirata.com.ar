@@ -9,8 +9,8 @@ tags:
 - pipa
 - protect-ip
 - proyectos-en-estados-unidos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: usa-seis-senadores-piden-que-no-se-vote-pipa-version-mas-liviana-que-sopa
 ---
 

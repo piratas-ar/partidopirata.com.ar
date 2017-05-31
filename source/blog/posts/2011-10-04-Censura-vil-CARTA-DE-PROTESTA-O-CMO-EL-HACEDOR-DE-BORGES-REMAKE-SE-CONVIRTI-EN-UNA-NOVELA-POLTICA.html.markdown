@@ -9,8 +9,8 @@ tags:
 - el-hacedor
 - jorge-luis-borges
 - maria-kodama
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: censura-vil-carta-de-protesta-o-como-el-hacedor-de-borges-remake-se-convirtio-en-una-novela-politica
 ---
 
@@ -31,4 +31,4 @@ Quienes queráis ratificarla con vuestra firma, por favor, enviad a <strong><a h
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg"><img class="size-full wp-image-661 aligncenter" title="censura" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg" alt="" width="320" height="287" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg"><img class="size-full wp-image-661 aligncenter" title="censura" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg" alt="" width="320" height="287" /></a>

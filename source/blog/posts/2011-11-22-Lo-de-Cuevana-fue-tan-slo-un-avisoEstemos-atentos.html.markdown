@@ -13,7 +13,7 @@ thumb:
 wppost_name: lo-de-cuevana-fue-tan-solo-un-aviso-estemos-atentos
 ---
 
-<img src="http://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="" />Leemos la noticia sobre el posible <em>globo de ensayo </em>para ver qué pasaba ante una denuncia penal contra Cuevana:
+<img src="https://partidopirata.com.ar/wp-content/uploads/2011/11/logo.png" alt="" />Leemos la noticia sobre el posible <em>globo de ensayo </em>para ver qué pasaba ante una denuncia penal contra Cuevana:
 
 "
 

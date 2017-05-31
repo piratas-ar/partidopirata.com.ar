@@ -9,12 +9,12 @@ tags:
 - reino-unido
 - sergei-brin
 - tim-berners-lee
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine-150x150.jpg
 wppost_name: tim-berners-lee-controlar-la-web-destrye-los-derechos-humanos
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine.jpg"><img class="size-medium wp-image-4155" title="tim-berners-lee-reuters-ray-stubblebine" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine-300x203.jpg" alt="" width="300" height="203" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine.jpg"><img class="size-medium wp-image-4155" title="tim-berners-lee-reuters-ray-stubblebine" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/tim-berners-lee-reuters-ray-stubblebine-300x203.jpg" alt="" width="300" height="203" /></a>
 
 
 <strong><a href="http://blogs.estadao.com.br/link/controlar-a-internet-destroi-os-direitos-humanos/" target="_blank">Fuente Suplemento Link diario "O Estado de São Paulo"</a></strong>
@@ -41,6 +41,6 @@ Según el plan, los datos a ser recolectados de la población por centros de esc
 
 Políticos y organizaciones defensoras de los derechos civiles criticaron el programa gobernamental porque entienden que viola el derecho a la privacidad de los ciudadanos británicos.
 
-El lunes, el cofundador de Google, Sergey Brin, <a href="http://partidopirata.com.ar/3988/la-libertad-de-la-web-esta-cada-vez-mas-amenazada-advierte-a-sergey-brin-de-google">también avisó que la libertad que permitió la creación de internet hace tres décadas está actualmente amenazada</a> por la acción de gobiernos que quieren controlarla.
+El lunes, el cofundador de Google, Sergey Brin, <a href="https://partidopirata.com.ar/3988/la-libertad-de-la-web-esta-cada-vez-mas-amenazada-advierte-a-sergey-brin-de-google">también avisó que la libertad que permitió la creación de internet hace tres décadas está actualmente amenazada</a> por la acción de gobiernos que quieren controlarla.
 
 <em><strong>/EFE</strong></em>

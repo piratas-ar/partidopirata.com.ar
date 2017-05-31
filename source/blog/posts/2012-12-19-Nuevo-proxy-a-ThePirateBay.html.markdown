@@ -9,12 +9,12 @@ tags:
 - proxy
 - the-pirate-bay
 - uk
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/tpb.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/tpb-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/tpb.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/tpb-150x150.jpg
 wppost_name: nuevo-proxy-a-thepiratebay
 ---
 
-<img src="http://partidopirata.com.ar/wp-content/uploads/2012/12/tpb-300x200.jpg" alt="tpb" width="300" height="200" class="alignleft size-medium wp-image-7926" />
+<img src="https://partidopirata.com.ar/wp-content/uploads/2012/12/tpb-300x200.jpg" alt="tpb" width="300" height="200" class="alignleft size-medium wp-image-7926" />
 Hace unos dias contabamos que BPI (un conglomerado de industrias de la música britanicas) le habia pedido al Partido Pirata de Reino Unido que baje su proxy a <a href="http://ThePirateBay.se" title="The Pirate Bay" target="_blank">ThePirateBay.se</a>, este sitio habia sido bloqueado por el gobierno ingles y el proxy permitia saltear este bloqueo.
 
 Luego de unos dias de idas y venidas el comite ejecutivo del PPUK decidio que no podia continuar con la lucha por que no disponian de los fondos para los gastos legales, así que <a href="http://www.pirateparty.org.uk/press/releases/2012/dec/19/bpi-legal-action-update/" target="_blank">dieron de baja su proxy</a>.

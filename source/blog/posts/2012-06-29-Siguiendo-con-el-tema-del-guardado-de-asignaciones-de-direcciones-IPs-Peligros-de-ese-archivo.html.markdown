@@ -9,16 +9,16 @@ tags:
 - guardado-del-registro
 - logs
 - proveedores-de-internet
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web.jpg.scaled500.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web.jpg.scaled500-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web.jpg.scaled500.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web.jpg.scaled500-150x150.jpg
 wppost_name: siguiendo-con-el-tema-del-guardado-de-asignaciones-de-direcciones-ips-peligros-de-ese-archivo
 ---
 
-<p style="text-align: left;"><strong><a href="http://partidopirata.com.ar/5008/cuanto-tiempo-tu-proveedor-de-internet-guarda-los-registros-de-direcciones-ips-asignadas">Acá dejé una nota de Torrentfreak sobre la cantidad de tiempo que guardan las asignaciones de las direcciones IP los proveedores de Internet en EE.UU.</a></strong></p>
+<p style="text-align: left;"><strong><a href="https://partidopirata.com.ar/5008/cuanto-tiempo-tu-proveedor-de-internet-guarda-los-registros-de-direcciones-ips-asignadas">Acá dejé una nota de Torrentfreak sobre la cantidad de tiempo que guardan las asignaciones de las direcciones IP los proveedores de Internet en EE.UU.</a></strong></p>
 <p style="text-align: left;">Vamos a ver qué peligros lleva guardar esa información:</p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web1.jpg.scaled5001.jpg"><img class="alignright size-full wp-image-5016" title="historia_xcf_web.jpg.scaled500" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web1.jpg.scaled5001.jpg" alt="" width="500" height="1559" /></a> <a href="https://www.rubens.net.br/pela-defesa-do-logzero-no-marcocivil" target="_blank"> Diseño de Rubens Menezes sobre las direcciones IP y el peligro de su almacenamiento.</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web1.jpg.scaled5001.jpg"><img class="alignright size-full wp-image-5016" title="historia_xcf_web.jpg.scaled500" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/historia_xcf_web1.jpg.scaled5001.jpg" alt="" width="500" height="1559" /></a> <a href="https://www.rubens.net.br/pela-defesa-do-logzero-no-marcocivil" target="_blank"> Diseño de Rubens Menezes sobre las direcciones IP y el peligro de su almacenamiento.</a>
 
 
 &nbsp;

@@ -13,8 +13,8 @@ tags:
 - podcasts
 - rejas
 - renato
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis-150x150.jpg
 wppost_name: conversando-con-renato-sobre-el-acampe-en-parque-centenario
 ---
 
@@ -23,7 +23,7 @@ wppost_name: conversando-con-renato-sobre-el-acampe-en-parque-centenario
 <p style="text-align: center;">Si el enlace anterior no funciona presionen en <em>descargar </em> <a href="http://www.ivoox.com/conversando-renato-desde-acampe-parque-audios-mp3_rf_1503561_1.html" target="_blank">en este link.</a></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart6.png"><img class="size-full wp-image-6892" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart6.png"><img class="size-full wp-image-6892" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 <p style="text-align: center;"><strong>Si alguien quiere hacerle el blog para que la información sobre lo que circula sobre el acampe esté abierta para todos comuníquense con la gente del Acampe del Parque Centenario!</strong></p>
 
@@ -71,5 +71,5 @@ Agradecemos difusión, ropa y comida para el acampe, y sobre todo, su presencia.
 
 <img src="http://anred.org/squelettes-dist/puce.gif" alt="-" width="8" height="11" /> facebook (grupo): <a href="http://www.facebook.com/groups/348242978595642/" rel="external">no a las rejas en todo el parque centenario</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg"><img class="size-full wp-image-6890" title="parque_polis" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg" alt="" width="442" height="248" /></a> Policía en el Parque Centenario
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg"><img class="size-full wp-image-6890" title="parque_polis" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/parque_polis.jpg" alt="" width="442" height="248" /></a> Policía en el Parque Centenario
 

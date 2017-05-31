@@ -13,8 +13,8 @@ tags:
 - teatro
 - teatro-con-copyleft
 - un-misterio-moderno
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/poster.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/poster-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/poster.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/poster-150x150.jpg
 wppost_name: obra-de-teatro-con-copyleft-en-buenos-aires-no-mas-zzzzzs-un-misterio-moderno
 ---
 
@@ -80,4 +80,4 @@ Teatro: <strong><a href="http://www.elextranjeroteatro.com/" target="_blank">El 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/03/poster.jpg"><img class="size-full wp-image-3489 aligncenter" title="No Más Zzzzs" src="http://partidopirata.com.ar/wp-content/uploads/2012/03/poster.jpg" alt="" width="453" height="640" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/03/poster.jpg"><img class="size-full wp-image-3489 aligncenter" title="No Más Zzzzs" src="https://partidopirata.com.ar/wp-content/uploads/2012/03/poster.jpg" alt="" width="453" height="640" /></a>

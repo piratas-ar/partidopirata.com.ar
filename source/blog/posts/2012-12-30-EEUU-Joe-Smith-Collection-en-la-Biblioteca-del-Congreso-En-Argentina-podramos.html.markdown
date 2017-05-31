@@ -11,12 +11,12 @@ tags:
 - joe-smith-collection
 - paul-mccartney
 - stones
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13-150x150.jpg
 wppost_name: ee-uu-joe-smith-collection-en-la-biblioteca-del-congreso-en-argentina-podriamos
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg"><img class="size-full wp-image-7979" alt="Joe SmithFoto: Sandy Gibson " src="http://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg" width="176" height="215" /></a> Joe Smith<br />Foto: Sandy Gibson
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg"><img class="size-full wp-image-7979" alt="Joe SmithFoto: Sandy Gibson " src="https://partidopirata.com.ar/wp-content/uploads/2012/12/JoeSmith13.jpg" width="176" height="215" /></a> Joe Smith<br />Foto: Sandy Gibson
 
 
 <strong>El ex presidente de Capitol Records/EMI, Joe Smith, grabó durante 2 años entrevistas de cantantes como Ella Fitzgerald, Ray Charles y Paul McCartney.</strong>

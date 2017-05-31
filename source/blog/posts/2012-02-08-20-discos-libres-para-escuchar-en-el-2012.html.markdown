@@ -8,12 +8,12 @@ tags:
 - musica-divulgacion
 - musica-libre
 - para-escuchar
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/freemusic.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/freemusic-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/freemusic.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/freemusic-150x150.jpg
 wppost_name: 20-discos-libres-para-escuchar-en-el-2012
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/freemusic.jpg"><img class="aligncenter size-full wp-image-3105" title="Free Music" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/freemusic.jpg" alt="" width="228" height="221" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/freemusic.jpg"><img class="aligncenter size-full wp-image-3105" title="Free Music" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/freemusic.jpg" alt="" width="228" height="221" /></a>
 
 <strong><a href="http://blogs.estadao.com.br/tatiana-dias/20-discos-livres-para-ouvir-em-2012/" target="_blank">Fuente Blog de Tatiana Tatiana de Mello Dias</a></strong>
 

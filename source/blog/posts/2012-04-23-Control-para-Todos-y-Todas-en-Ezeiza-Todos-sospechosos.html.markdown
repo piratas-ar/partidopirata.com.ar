@@ -10,8 +10,8 @@ tags:
 - plazademaho-com
 - reconocimiento-facial
 - sibios
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/protestaingresoezeiza-150x150.jpg
 wppost_name: control-para-todos-y-todas-en-ezeiza-todos-sospechosos
 ---
 
@@ -43,4 +43,4 @@ Este tipo de registro tan invasivo no es común en el mundo. En los EEUU aplica
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4162/si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-ezeiza">Modelo de nota protestando por la toma compulsiva de datos biométricos en Ezeiza</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4162/si-no-quiero-que-tomen-compulsivamente-mis-datos-biometricos-en-ezeiza">Modelo de nota protestando por la toma compulsiva de datos biométricos en Ezeiza</a></strong></p>

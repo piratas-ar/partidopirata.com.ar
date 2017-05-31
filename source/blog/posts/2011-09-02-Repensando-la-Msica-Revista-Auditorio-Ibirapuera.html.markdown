@@ -7,12 +7,12 @@ tags:
 - mercado-de-la-musica
 - musica
 - repensando
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/Revista-Auditório-1-e-Repensando-a-Música11.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/Revista-Audit%C3%B3rio-1-e-Repensando-a-M%C3%BAsica11-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/Revista-Auditório-1-e-Repensando-a-Música11.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/Revista-Audit%C3%B3rio-1-e-Repensando-a-M%C3%BAsica11-150x150.jpg
 wppost_name: repensando-la-musica-revista-auditorio-ibirapuera
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/Revista-Audit%C3%B3rio-1-e-Repensando-a-M%C3%BAsica1.jpg"><img class="aligncenter size-full wp-image-1743" title="Revista-Auditório-1-e-Repensando-a-Música1" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/Revista-Audit%C3%B3rio-1-e-Repensando-a-M%C3%BAsica1.jpg" alt="" width="336" height="264" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/Revista-Audit%C3%B3rio-1-e-Repensando-a-M%C3%BAsica1.jpg"><img class="aligncenter size-full wp-image-1743" title="Revista-Auditório-1-e-Repensando-a-Música1" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/Revista-Audit%C3%B3rio-1-e-Repensando-a-M%C3%BAsica1.jpg" alt="" width="336" height="264" /></a>
 
 &nbsp;
 

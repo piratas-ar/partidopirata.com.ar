@@ -8,8 +8,8 @@ tags:
 - icann
 - monopolio
 - riaa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/riaa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/riaa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/riaa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/riaa-150x150.jpg
 wppost_name: quien-se-llevara-el-dominio-music
 ---
 

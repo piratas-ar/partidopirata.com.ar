@@ -9,8 +9,8 @@ tags:
 - senales-de-celular
 - valentina
 - wifi
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/primeros-drones-accion-vigilancia-municipio-l-L-mL_axI.jpeg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/primeros-drones-accion-vigilancia-municipio-l-L-mL_axI-150x150.jpeg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/primeros-drones-accion-vigilancia-municipio-l-L-mL_axI.jpeg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/primeros-drones-accion-vigilancia-municipio-l-L-mL_axI-150x150.jpeg
 wppost_name: un-drone-casero-husmea-wifis-e-intercepta-llamadas-a-celulares
 ---
 

@@ -11,14 +11,14 @@ tags:
 - maquina-de-turing
 - rompiendo-codigos
 - subtitulos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-150x150.jpg
 wppost_name: 23-de-junio-100-anos-del-nacimiento-de-alan-turing-humilde-homenaje-subtitulos-en-progreso
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg"><img class="aligncenter size-medium wp-image-3086" title="Estampilla Touring" src="http://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-300x53.jpg" alt="" width="300" height="53" />Homenaje a Turing</a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide.jpg"><img class="aligncenter size-medium wp-image-3086" title="Estampilla Touring" src="https://partidopirata.com.ar/wp-content/uploads/2012/02/atywide-300x53.jpg" alt="" width="300" height="53" />Homenaje a Turing</a>
 
-En febrero lanzamos la propuesta para homenajear a Alan Turing haciendo los subtítulos del telefilm<strong> <a href="http://partidopirata.com.ar/3085/reivindicando-a-alan-turing-posible-humilde-homenaje">Breaking the code o Rompiendo códigos</a></strong>
+En febrero lanzamos la propuesta para homenajear a Alan Turing haciendo los subtítulos del telefilm<strong> <a href="https://partidopirata.com.ar/3085/reivindicando-a-alan-turing-posible-humilde-homenaje">Breaking the code o Rompiendo códigos</a></strong>
 
 En su momento colocamos:
 

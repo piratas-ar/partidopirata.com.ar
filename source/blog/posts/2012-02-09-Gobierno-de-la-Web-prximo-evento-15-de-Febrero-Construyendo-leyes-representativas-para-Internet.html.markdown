@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - evento
 - gobierno-de-la-web
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/gobierno-web-leyes-300x166.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/gobierno-web-leyes-300x166-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/gobierno-web-leyes-300x166.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/gobierno-web-leyes-300x166-150x150.jpg
 wppost_name: gobierno-de-la-web-proximo-evento-15-de-febrero-construyendo-leyes-representativas-para-internet
 ---
 

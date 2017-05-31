@@ -13,8 +13,8 @@ tags:
 - microsoft
 - netflix
 - w3c
-image: http://partidopirata.com.ar/wp-content/uploads/2013/04/eff_13.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/04/eff_13-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/04/eff_13.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/04/eff_13-150x150.jpg
 wppost_name: cuidado-drm-en-la-web
 ---
 

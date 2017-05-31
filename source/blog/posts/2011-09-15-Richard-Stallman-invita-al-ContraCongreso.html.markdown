@@ -8,8 +8,8 @@ tags:
 - mar-del-plata
 - richard-stallman
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/ccc-rms.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/ccc-rms-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/ccc-rms.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/ccc-rms-150x150.png
 wppost_name: richard-stallman-invita-al-contracongreso
 ---
 

@@ -14,8 +14,8 @@ tags:
 - the-yes-men
 - union-carbide
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/12/wikileaks-150x150.jpg
 wppost_name: the-yes-men-filtracion-masiva-revela-la-criminalidad-y-paranoia-entre-los-titanes-corporativos
 ---
 

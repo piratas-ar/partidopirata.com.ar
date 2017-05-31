@@ -10,8 +10,8 @@ tags:
 - instalacion-de-software-libre
 - mauricio-macri
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/400px-Mapa_conceptual_del_software_libre.svg_.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/400px-Mapa_conceptual_del_software_libre.svg_-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/400px-Mapa_conceptual_del_software_libre.svg_.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/400px-Mapa_conceptual_del_software_libre.svg_-150x150.png
 wppost_name: palabras-del-alcalde-mayor-de-bogota-en-la-instalacio%cc%81n-del-mes-del-software-libre
 ---
 
@@ -24,7 +24,7 @@ wppost_name: palabras-del-alcalde-mayor-de-bogota-en-la-instalacio%cc%81n-del-me
 <strong> <a href="http://www.ivoox.com/palabras-del-alcalde-mayor-bogota-la_md_1377682_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart6.png"><img class="size-full wp-image-5932" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart6.png"><img class="size-full wp-image-5932" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart6.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 <p style="text-align: center;">Si el enlace anterior no funciona presionen en <em>Descargar</em><a href="http://www.ivoox.com/palabras-del-alcalde-mayor-bogota-la-audios-mp3_rf_1377682_1.html" target="_blank">en este link.</a></p>
 

@@ -12,12 +12,12 @@ tags:
 - podcasts
 - revista-bola
 - secundarios
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/028.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/028-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/028.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/028-150x150.jpg
 wppost_name: charlando-con-los-editores-de-la-revista-bola-sobre-la-escuela-superior-de-comercio-carlos-pellegrini
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/028.jpg"><img class="size-medium wp-image-5917" title="028" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/028-262x300.jpg" alt="" width="262" height="300" /></a> Tapa de la Revista Bola Nro. 28
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/028.jpg"><img class="size-medium wp-image-5917" title="028" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/028-262x300.jpg" alt="" width="262" height="300" /></a> Tapa de la Revista Bola Nro. 28
 
 
 Entrevistamos a los editores de la <strong>Revista Bola</strong> de la Escuela Superior de Comercio Carlos Pellegrini dependiente de la Universidad de Buenos Aires.
@@ -34,10 +34,10 @@ Entrevistamos a los editores de la <strong>Revista Bola</strong> de la Escuela S
 Presionen en <em>Play</em> para escucharlo sin descargar o :
 <a href="http://www.ivoox.com/charlando-alumnos-del-carlos-pellegrini-revista-bola_md_1377240_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a></center>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart3.png"><img class="size-full wp-image-5918" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart3.png" alt="" width="150" height="150" /></a> <strong>Código QR de la dirección del archivo mp3.</strong>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart3.png"><img class="size-full wp-image-5918" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart3.png" alt="" width="150" height="150" /></a> <strong>Código QR de la dirección del archivo mp3.</strong>
 
 <p style="text-align: center;"><strong>Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/charlando-alumnos-del-carlos-pellegrini-revista-bola-audios-mp3_rf_1377240_1.html" target="_blank">en el siguiente link.</a></strong></p>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/2179/actividades-diversas-para-el-mes-de-noviembre-debate-sobre-el-canon-por-fotocopias">Sobre el <em>Canon</em> por fotocopias que paga la Universidad de Buenos Aires</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/2179/actividades-diversas-para-el-mes-de-noviembre-debate-sobre-el-canon-por-fotocopias">Sobre el <em>Canon</em> por fotocopias que paga la Universidad de Buenos Aires</a></strong></p>
 
 
 <hr />
@@ -53,7 +53,7 @@ Los jóvenes ponen en acto algo que el “sentido común” vigente en cuanto a 
 Quienes los critican no pueden comprender estas demandas, es evidente que no están –permítasenos la metáfora– “formateados” para hacerlo: pedir bienes públicos, autogestión, comida sana (muy ligada al tema de los agroquímicos), solidaridad con una persona mayor; todo esto está fuera del sentido común que dejó instalado la cultura neoliberal. Algunos dijeron “está bien que pidan gas si tienen frío en invierno, pero un bar no privado y nutricionista…”. Otra crítica más interna dice “cómo pedir la permanencia de ese anciano no docente cuando a los profesores de más de 65 años los están obligando a jubilarse”. Dejamos de lado los comentarios que muestran rasgos autoritarios de nuestra sociedad que tanto preocupan, porque en algunos casos cuando hablan con los jóvenes se asemejan a ficciones de personajes separados no por una simple generación sino por varios siglos. De lo que se trata es de pedir por gas y todo lo que necesiten las escuelas secundarias y también las interesantes demandas de estos colegios; se trata de hacer entender que la jubilación es un derecho y no una obligación y, que como lo indica una ley de la Nación y fallos judiciales, los profesores pueden optar por quedarse hasta los 70 años y si alguno –docente o no docente– no tiene los aportes completos, pueden realizarse excepciones por solidaridad y respeto. Una cosa no debe sacar espacio a la otra. Las apuestas por los “bienes públicos” tanto como por los “bienes comunes”, la autogestión, la solidaridad, el respeto, los alimentos sin tóxicos y accesibles para todos, la educación pública en autorreflexión permanente, la “democracia sin fin” que supone “igualdad sin fin”, forman parte de esas bisagras que se van construyendo en estos tiempos de pasajes y que algunos se obstinan en negar.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5317/tratando-de-entender-lo-que-pasa-en-el-pellegrini">Algo más sobre las reivindicaciones en el Carlos Pellegrini</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5317/tratando-de-entender-lo-que-pasa-en-el-pellegrini">Algo más sobre las reivindicaciones en el Carlos Pellegrini</a></strong></p>
 
 
 <hr />
@@ -69,7 +69,7 @@ Quienes los critican no pueden comprender estas demandas, es evidente que no est
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los podcast del Partido Pirata Argentino</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/857/indice-con-los-podcast-del-partido-pirata-argentino">Índice con los podcast del Partido Pirata Argentino</a></strong></p>
 
 
 <hr />

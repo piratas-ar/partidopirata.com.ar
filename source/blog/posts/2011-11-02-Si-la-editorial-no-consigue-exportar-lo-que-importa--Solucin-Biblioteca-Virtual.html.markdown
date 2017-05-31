@@ -11,8 +11,8 @@ tags:
 - libros
 - moreno
 - proyecto-dal
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcción_1982.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcci%C3%B3n_1982-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcción_1982.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcci%C3%B3n_1982-150x150.jpg
 wppost_name: si-la-editorial-no-consigue-exportar-lo-que-importa-solucion-biblioteca-virtual
 ---
 
@@ -45,10 +45,10 @@ Uno puede preguntarse :
 <p style="text-align: center;">Ofrecer el material que pueda tener interés en el Exterior y no se consiga y solicitar que alguien escanee el libro que precisamos y no entra al país.</p>
 <p style="text-align: center;">Igual es difícil coordinar algo así.</p>
 <p style="text-align: center;"><strong>De todas maneras si quieren empezar a escanear sus libros que, tal vez, no se consigan en el Exterior, vean el proyecto <a href="http://www.derechoaleer.org/2011/11/proyecto-dal-sitio-y-presentacion.html" target="_blank">DAL </a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2359/%c2%bfun-llamado-a-la-pirateria-si-se-traba-la-entrada-de-peliculas-extranjeras">Si Moreno aplica lo mismo para las películas</a></strong>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2359/%c2%bfun-llamado-a-la-pirateria-si-se-traba-la-entrada-de-peliculas-extranjeras">Si Moreno aplica lo mismo para las películas</a></strong>
 <strong></strong></p>
 
 
 <hr />
 
-<img class="aligncenter" title="Biblioteca Nacional" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcci%C3%B3n_1982.jpg" alt="" width="552" height="427" />
+<img class="aligncenter" title="Biblioteca Nacional" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/Biblioteca_Nacional_Argentina_en_construcci%C3%B3n_1982.jpg" alt="" width="552" height="427" />

@@ -3,8 +3,8 @@ title: "#noalcanon #artistascontraelcanon #Articultores"
 date: '2011-07-06'
 tags:
 - campanas
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/articultores_1_tapa1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/articultores_1_tapa1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/articultores_1_tapa1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/articultores_1_tapa1-150x150.jpg
 wppost_name: noalcanon-artistascontraelcanon-articultores
 ---
 

@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - marzo-negro
 - no-comprar-con-derecho-de-autor
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/marzo_230x230.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/marzo_230x230-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/marzo_230x230.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/marzo_230x230-150x150.jpg
 wppost_name: operacion-marzo-negro-no-comprar-nada-con-derecho-de-autor-durante-el-mes-de-marzo
 ---
 
@@ -37,9 +37,9 @@ La venganza en contra de la industria audiovisual, por su apoyo a las leyes Pipa
 <hr />
 <p style="text-align: center;"><strong>Desde el Partido Pirata Apoyamos el Marzo Negro!</strong></p>
 También podemos organizar un <em><strong>P2P No Virtual</strong></em> si quieren saber un poco más sobre la idea
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1589/charlando-con-alvaro-sobre-truequedigital-en-la-ciudad-de-buenos-aires">Un podcast charlando con Álvaro sobre <em>Trueque Digital</em></a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1589/charlando-con-alvaro-sobre-truequedigital-en-la-ciudad-de-buenos-aires">Un podcast charlando con Álvaro sobre <em>Trueque Digital</em></a></strong></p>
 
 
 <hr />
 
-<strong></strong><a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/marzo_230x230.jpg"><img class="aligncenter size-full wp-image-2931" title="marzo_230x230" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/marzo_230x230.jpg" alt="Marzo Negro" width="230" height="230" /></a>
+<strong></strong><a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/marzo_230x230.jpg"><img class="aligncenter size-full wp-image-2931" title="marzo_230x230" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/marzo_230x230.jpg" alt="Marzo Negro" width="230" height="230" /></a>

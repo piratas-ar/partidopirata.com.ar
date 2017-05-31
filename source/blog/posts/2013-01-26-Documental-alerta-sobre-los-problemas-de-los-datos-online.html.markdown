@@ -10,8 +10,8 @@ tags:
 - sundance
 - terminos-y-condiciones
 - terms-and-conditions
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/google-2084-150x150.jpg
 wppost_name: documental-alerta-sobre-los-problemas-de-los-datos-online
 ---
 

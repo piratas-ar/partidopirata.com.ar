@@ -9,8 +9,8 @@ tags:
 - rick-falkvinge
 - the-pirate-bay
 - torrents
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/282848_1952-646x363.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/282848_1952-646x363-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/282848_1952-646x363.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/282848_1952-646x363-150x150.jpg
 wppost_name: cuatro-razones-mas-por-las-cuales-the-pirate-bay-es-efectivamente-una-biblioteca-publica-y-una-muy-buena
 ---
 

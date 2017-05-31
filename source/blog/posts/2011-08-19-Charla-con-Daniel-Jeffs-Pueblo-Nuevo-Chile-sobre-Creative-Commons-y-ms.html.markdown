@@ -9,8 +9,8 @@ tags:
 - netlabels
 - podcasts
 - pueblo-nuevo
-image: http://partidopirata.com.ar/wp-content/uploads/2011/08/5370695607_d544684777_z.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/08/5370695607_d544684777_z-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/08/5370695607_d544684777_z.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/08/5370695607_d544684777_z-150x150.jpg
 wppost_name: charla-con-daniel-jeffs-pueblo-nuevo-chile-sobre-creative-commons-y-mas
 ---
 

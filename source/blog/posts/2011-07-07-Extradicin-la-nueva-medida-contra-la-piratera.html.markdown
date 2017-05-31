@@ -8,8 +8,8 @@ tags:
 - extradicion
 - inglaterra
 - noticias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/carcel.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/carcel-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/carcel.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/carcel-150x150.jpg
 wppost_name: extradicion-la-nueva-medida-contra-la-pirateria
 ---
 

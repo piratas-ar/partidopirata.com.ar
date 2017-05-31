@@ -10,8 +10,8 @@ tags:
 - floresta-vermelha
 - open-source
 - software-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1-150x150.jpg
 wppost_name: un-proyecto-libre-para-el-cine-una-camara-para-hacer-cine-de-codigo-abierto
 ---
 
@@ -19,7 +19,7 @@ wppost_name: un-proyecto-libre-para-el-cine-una-camara-para-hacer-cine-de-codigo
 
 <em>Cortometraje incorpora el espírito del software libre là propia producción, usando incluso una cámara ‘open source’</em>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1.jpg"><img class="size-full wp-image-7459" title="flavio-soares-floresta-vermelha_Epitacio-pessoa" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1.jpg" alt="" width="600" height="332" /></a> Flavio Soares-Selva Roja
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1.jpg"><img class="size-full wp-image-7459" title="flavio-soares-floresta-vermelha_Epitacio-pessoa" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/flavio-soares-floresta-vermelha_Epitacio-pessoa1.jpg" alt="" width="600" height="332" /></a> Flavio Soares-Selva Roja
 
 
 SÃO PAULO – El paulistano Flávio Soares, de 32 años, queria grabar un corta metraje usando software libre. Estudiando formas más baratas y menos problemáticas de hacer una película para el cine, se deparó con Elphel, una cámara desarrollada por el físico ruso Andrey Filippov, conocida por tener toda su documentación abierta. Los softwares internos están disponibles en internet bajo licencia GNU GPL (General Public License), el tipo más común para designar creaciones que pueden ser copiadas y alteradas sin el pago de royalties.

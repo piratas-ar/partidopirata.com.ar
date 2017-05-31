@@ -10,16 +10,16 @@ tags:
 - innovacion
 - torrentfreak
 - trabas-a-la-innovacion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-logo.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-logo-150x69.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-logo.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-logo-150x69.png
 wppost_name: dropbox-prohibe-boxopus-bittorrent-startup-por-preocupaciones-con-la-pirateria
 ---
 
-<p style="text-align: left;"><strong><a href="http://partidopirata.com.ar/4916/boxopus-descarga-torrents-directamente-a-tu-dropbox">Acá habíamos dejado la noticia anterior, con alegría, sobre Boxopus</a> ahora leemos lo siguiente:</strong></p>
+<p style="text-align: left;"><strong><a href="https://partidopirata.com.ar/4916/boxopus-descarga-torrents-directamente-a-tu-dropbox">Acá habíamos dejado la noticia anterior, con alegría, sobre Boxopus</a> ahora leemos lo siguiente:</strong></p>
 <p style="text-align: left;"><strong><a href="https://torrentfreak.com/dropbox-bans-bittorrent-startup-boxopus-over-piracy-concerns-120626/" target="_blank">Fuente Torrentfreak.</a></strong></p>
 <p style="text-align: left;">Dropbox ha prohibido al nuevo Boxopus BitTorrent startup el acceso a su API. La empresa teme que el estigma de piratería de BitTorrent  pueda borrarle el éxito en el servicio de almacenamiento en la nube . El equipo de Boxopus está decepcionado por este movimiento anti-innovación. Miles de dólares en costes de desarrollo se han ido por el desagüe por lo que creen es un miedo irracional impuesto por un grupo de presión cada vez mayor de derechos de autor.</p>
-<p style="text-align: left;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-logo.png"><img class="alignright size-full wp-image-4917" title="boxopus-logo" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-logo.png" alt="" width="200" height="69" /></a></p>
-<p style="text-align: left;">El sábado <a href="http://partidopirata.com.ar/4916/boxopus-descarga-torrents-directamente-a-tu-dropbox">informamos sobre Boxopus</a>, una empresa nueva que le permite a la gente descargar torrents directamente a sus carpetas en Dropbox.</p>
+<p style="text-align: left;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-logo.png"><img class="alignright size-full wp-image-4917" title="boxopus-logo" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/boxopus-logo.png" alt="" width="200" height="69" /></a></p>
+<p style="text-align: left;">El sábado <a href="https://partidopirata.com.ar/4916/boxopus-descarga-torrents-directamente-a-tu-dropbox">informamos sobre Boxopus</a>, una empresa nueva que le permite a la gente descargar torrents directamente a sus carpetas en Dropbox.</p>
 <p style="text-align: left;">La noticia fue recogida rápidamente por muchos otros sitios de la tecnología y como resultado el recuento de miembros del servicio aumentó a más de 50.000. <a href="http://www.boxopus.com/">Boxopus</a> no pasó desapercibido por la gente de Dropbox tampoco.</p>
 <p style="text-align: left;">Sin embargo, cuando la mayoría de las críticas anunciaban la utilidad del servicio, Dropbox lo ve como una amenaza.</p>
 Aunque Boxopus es una tecnología neutra, el estigma de piratería de BitTorrent es algo de lo que Dropbox quiere permanecer lejos. Al parecer, la compañía cree que una 'percepción' vinculado con la piratería es suficiente para prohibir el acceso a Boxopus a su API.

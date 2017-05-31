@@ -4,8 +4,8 @@ date: '2012-01-23'
 tags:
 - material-para-difusion
 - megauload
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/20100608193804-anticapitalismo0.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/20100608193804-anticapitalismo0-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/20100608193804-anticapitalismo0.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/20100608193804-anticapitalismo0-150x150.jpg
 wppost_name: in-usa-we-trust
 ---
 

@@ -9,8 +9,8 @@ tags:
 - privacidad
 - suriya-prakash
 - telefonos-celulares
-image: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/10/facebook.jpg
 wppost_name: facebook-confirma-fuga-de-datos
 ---
 

@@ -20,4 +20,4 @@ wppost_name: richard-stallman-en-mar-del-plata-2011-video-contracongreso
 <hr />
 <p style="text-align: center;"><strong><a href="http://marquitux.blogspot.com/2011/09/video-de-richard-stallman-en-mardel.html" target="_blank">Fuente Marquitux en donde encuentran el archivo .ogg para descargar y más información sobre el video.</a></strong></p>
 <p style="text-align: center;"></p>
-<p style="text-align: center;"><img class="alignnone" title="Exposición de Richard Stallman en el Contra Congreso" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png" alt="" width="477" height="256" /></p>
+<p style="text-align: center;"><img class="alignnone" title="Exposición de Richard Stallman en el Contra Congreso" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/stallman.png" alt="" width="477" height="256" /></p>

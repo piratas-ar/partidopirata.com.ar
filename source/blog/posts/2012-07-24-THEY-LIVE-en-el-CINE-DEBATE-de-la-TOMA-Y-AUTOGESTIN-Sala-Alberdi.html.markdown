@@ -10,12 +10,12 @@ tags:
 - sala-alberdi
 - they-lives
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000-150x150.jpg
 wppost_name: they-live-en-el-cine-debate-de-la-toma-y-autogestion-sala-alberdi
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg"><img class="aligncenter size-medium wp-image-5327" title="cine debate_00000" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000-300x179.jpg" alt="" width="300" height="179" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000.jpg"><img class="aligncenter size-medium wp-image-5327" title="cine debate_00000" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/cine-debate_00000-300x179.jpg" alt="" width="300" height="179" /></a>
 <p style="text-align: center;"> <strong>   THEY LIVE! en el CINE DEBATE de la TOMA Y AUTOGESTIÓN</strong></p>
 *Un trabajador encuentra casualmente unas gafas que permiten ver a las personas tal y como son. Gracias a ellas descubrirá que importantes personajes de la vida política y social son en realidad extraterrestres.
 Durante su particular cruzada podrá observar cómo estos alienígenas han ido sembrando el mundo de mensajes subliminales con los que pretenden convertir a los hombres en una raza de esclavos.*

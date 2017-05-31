@@ -4,8 +4,8 @@ date: '2014-06-26'
 tags:
 - destacados
 - deuda-externa
-image: http://partidopirata.com.ar/wp-content/uploads/2014/06/deuda-odiosa.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2014/06/deuda-odiosa-150x150.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2014/06/deuda-odiosa.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2014/06/deuda-odiosa-150x150.gif
 wppost_name: la-deuda-odiosa
 ---
 
@@ -21,7 +21,7 @@ En el año 2000 el juez Ballestero declaró mas del 90% de la deuda contraida po
 
 Además de la deuda privada estatizada (Macri, Fortabat, Bunge &amp; Born, Bridas, Bulgheroni, Pérez Companc, Techint, etc.) y las sucesivas renegociaciones (Plan Bradley, Megacanje, etc.) que hicieron que, una y otra vez, creciera el capital y los intereses de la deuda, se efectuan pagos por encima de las obligaciones (como el cupón del PBI, el pago a Repsol o el acuerdo secreto con el <a href="http://seprin.info/2014/06/23/la-deuda-externa-es-una-estafa-descomunal-que-este-gobierno-oculta">Club de París</a>) y de deuda de dudosa procedencia sin ningún tipo de respaldo documental oficial. Al punto que no se sabe a ciencia cierta a quién, cuánto y en concepto de qué se debe.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2014/06/evolución-de-la-deuda.png"><img class="wp-image-9464" src="http://partidopirata.com.ar/wp-content/uploads/2014/06/evolución-de-la-deuda.png" alt="evolución-de-la-deuda" width="600" height="362" /></a> Evolución de la deuda externa argentina desde 1976 (en millones de dólares)
+<a href="https://partidopirata.com.ar/wp-content/uploads/2014/06/evolución-de-la-deuda.png"><img class="wp-image-9464" src="https://partidopirata.com.ar/wp-content/uploads/2014/06/evolución-de-la-deuda.png" alt="evolución-de-la-deuda" width="600" height="362" /></a> Evolución de la deuda externa argentina desde 1976 (en millones de dólares)
 
 <h2>Antecedentes internacionales</h2>
 Argentina no es el único país que se ha encontrado en esta encrucijada. La agrupación ATTAC reclama la auditoría de la deuda en cada uno de los países de la Unión Europea.

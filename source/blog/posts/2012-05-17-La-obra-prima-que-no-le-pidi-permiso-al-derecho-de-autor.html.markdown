@@ -8,8 +8,8 @@ tags:
 - remix
 - samplear
 - sampler
-image: http://partidopirata.com.ar/wp-content/uploads/2012/05/copyrightc-300x163.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/05/copyrightc-300x163-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/05/copyrightc-300x163.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/05/copyrightc-300x163-150x150.jpg
 wppost_name: la-obra-prima-que-no-le-pidio-permiso-al-derecho-de-autor
 ---
 

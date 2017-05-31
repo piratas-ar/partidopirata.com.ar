@@ -9,8 +9,8 @@ tags:
 - material-para-difusion
 - festival
 - sala-alberdi
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/jornada-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/jornada-150x150.jpg
 wppost_name: sala-alberdi-ciudad-de-buenos-aires-viernes-27-de-abril-festival-de-clave-artistica
 ---
 
@@ -27,5 +27,5 @@ Dado el claro avance que están efectuando las autoridades en contra de la toma 
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg"><img class="size-full wp-image-4208" title="jornada" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg" alt="" width="594" height="842" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg"><img class="size-full wp-image-4208" title="jornada" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/jornada.jpg" alt="" width="594" height="842" /></a>
 

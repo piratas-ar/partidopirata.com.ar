@@ -10,8 +10,8 @@ tags:
 - proceso
 - radio-2
 - taringa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/taringa.jpg
 wppost_name: taringa-el-ajusticiamiento-tiene-un-caracter-aleccionador-para-el-resto-abogado-de-taringa
 ---
 
@@ -53,4 +53,4 @@ colabora con los ladrones facilitando el robo de automotores."</blockquote>
 <a href="http://www.derechoaleer.org/2011/05/medidas-aleccionadoras.html" target="_blank">Algo más en Derecho a Leer.</a>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1017/la-entrevista-completa-a-andres-san-juan-abogado-de-taringa-en-rebeldes-stereotipos">Si quieren escuchar toda la entrevista a Andrés San Juan.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1017/la-entrevista-completa-a-andres-san-juan-abogado-de-taringa-en-rebeldes-stereotipos">Si quieren escuchar toda la entrevista a Andrés San Juan.</a></strong></p>

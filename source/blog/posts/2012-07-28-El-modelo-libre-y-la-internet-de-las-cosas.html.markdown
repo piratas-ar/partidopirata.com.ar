@@ -8,20 +8,20 @@ tags:
 - hardware-libre
 - internet-de-las-cosas
 - softare-libre
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl-150x90.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl-150x90.jpg
 wppost_name: el-modelo-libre-y-la-internet-de-las-cosas
 ---
 
 <center>
 <iframe src="http://www.youtube.com/embed/542oTWpKPlE" frameborder="0" width="560" height="315"></iframe>
 Sobre la Internet de las Cosas</center>
-<a href="http://partidopirata.com.ar/2781/de-la-internet-de-las-cosas-y-la-realidad-del-gran-hermano-no-el-reality">Otro artículo sobre <em>Internet de las cosas</em> en nuestro blog.</a>
-<a href="http://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">Conferencia de Cory Doctorow sobre quien tiene el control de los programas que corren en algunas de las cosas</a>
+<a href="https://partidopirata.com.ar/2781/de-la-internet-de-las-cosas-y-la-realidad-del-gran-hermano-no-el-reality">Otro artículo sobre <em>Internet de las cosas</em> en nuestro blog.</a>
+<a href="https://partidopirata.com.ar/2702/cory-doctorow-la-inminente-guerra-en-la-computadora-de-proposito-general">Conferencia de Cory Doctorow sobre quien tiene el control de los programas que corren en algunas de las cosas</a>
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl.jpg"><img title="13 Fisl" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl.jpg" alt="" width="600" height="90" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl.jpg"><img title="13 Fisl" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/testeira_fisl.jpg" alt="" width="600" height="90" /></a>
 
 &nbsp;
 
@@ -35,7 +35,7 @@ PORTO ALEGRE – El uso de software y hardware libre en un tiempo en que todo y 
 
 Cascardo prevé un salto de 5 mil millones a 50 mil millones de objetos conectados hasta 2020. Si esos dispositivos y los softwares que los controlan estuvieran basados en formato cerrado, será imposible saber qué tipo de información es recolectadas y de que manera los datos obtenidos son tratados, pudiento haber agujeros en la privacidad.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/brasuino.jpg"><img title="brasuino" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/brasuino.jpg" alt="" width="390" height="265" /></a> Brasuíno, la versión brasileña de la plataforma pró hardware libre Arduino. FOTO: Divulgación
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/brasuino.jpg"><img title="brasuino" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/brasuino.jpg" alt="" width="390" height="265" /></a> Brasuíno, la versión brasileña de la plataforma pró hardware libre Arduino. FOTO: Divulgación
 
 
 “Las personas tienen que tener el control sobre las cosas que poseen, no sólo el control, sino el conocimiento sobre aquello. Para eso, es necesaria transparencia”, dice Cascardo. “A partir de Arduino mostré como construir esa internet de las cosas.”

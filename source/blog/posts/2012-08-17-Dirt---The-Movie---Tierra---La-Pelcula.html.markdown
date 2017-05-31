@@ -9,12 +9,12 @@ tags:
 - preservacion-de-la-tierra
 - tierra-la-pelicula
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/Dirt01.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/Dirt01-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/Dirt01.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/Dirt01-150x150.jpg
 wppost_name: dirt-the-movie-tierra-la-pelicula
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/Dirt01.jpg"><img class="size-medium wp-image-6080 alignright" title="Dirt01" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/Dirt01-212x300.jpg" alt="" width="212" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/Dirt01.jpg"><img class="size-medium wp-image-6080 alignright" title="Dirt01" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/Dirt01-212x300.jpg" alt="" width="212" height="300" /></a>
 <ul>
 	<li><strong>Género:</strong> Documental</li>
 	<li><strong>Clasificación temática:</strong> Diagnóstico / Acciones resilientes</li>

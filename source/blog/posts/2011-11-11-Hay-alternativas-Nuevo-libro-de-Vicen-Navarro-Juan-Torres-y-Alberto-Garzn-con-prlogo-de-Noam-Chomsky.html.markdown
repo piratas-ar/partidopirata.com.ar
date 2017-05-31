@@ -16,7 +16,7 @@ thumb:
 wppost_name: hay-alternativas-nuevo-libro-de-vicenc-navarro-juan-torres-y-alberto-garzon-con-prologo-de-noam-chomsky
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg"><img class="aligncenter size-full wp-image-248" title="Censura" src="http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg" alt="" width="320" height="274" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg"><img class="aligncenter size-full wp-image-248" title="Censura" src="https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg" alt="" width="320" height="274" /></a>
 <strong><a href="http://www.vnavarro.org/?p=6409" target="_blank">Fuente Blog de Vicenç Navarro</a></strong>
 
 Hace un par de meses, la Editorial Aguilar, mostró su interés por publicar nuestro libro HAY ALTERNATIVAS. Propuestas para crear empleo y bienestar en España, que nos prologó Noam Chomsky.

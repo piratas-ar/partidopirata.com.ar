@@ -7,8 +7,8 @@ tags:
 - democracia-2
 - destacados
 - documentos
-image: http://partidopirata.com.ar/wp-content/uploads/2013/12/aaron.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/12/aaron-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/12/aaron.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/12/aaron-150x150.jpg
 wppost_name: la-democracia-exponencial
 ---
 

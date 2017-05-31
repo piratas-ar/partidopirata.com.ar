@@ -11,8 +11,8 @@ tags:
 - pipa
 - radio-2
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/8articultoresg.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/8articultoresg-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/8articultoresg.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/8articultoresg-150x150.jpg
 wppost_name: entrevista-a-eduardo-en-el-programa-activate-de-fm-la-boca
 ---
 

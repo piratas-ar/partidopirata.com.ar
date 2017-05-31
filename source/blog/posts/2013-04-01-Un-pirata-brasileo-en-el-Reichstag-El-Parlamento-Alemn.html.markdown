@@ -12,18 +12,18 @@ tags:
 - suplemento-link
 - tatiana-de
 - tatiana-de-melo-dias
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten-150x150.jpg
 wppost_name: un-pirata-brasileno-en-el-reichstag-el-parlamento-aleman
 ---
 
 <strong><a href="http://blogs.estadao.com.br/link/um-pirata-brasileiro-no-reichstag/" target="_blank">Por Tatiana de Mello Dias</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg"><img class="aligncenter size-medium wp-image-1872" alt="Piraten" src="http://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten-216x300.jpg" width="216" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten.jpg"><img class="aligncenter size-medium wp-image-1872" alt="Piraten" src="https://partidopirata.com.ar/wp-content/uploads/2011/09/Piraten-216x300.jpg" width="216" height="300" /></a>
 
 <em>‘Mate hacker’ y maestre cervecero, gaúcho [de Río Grande do Sul] miembro del Partido Pirata es candidato al Parlamento alemán</em>
 
-SAO PAULO - Desde que publicó una página completa en el suplemento <em>Link</em> a fines de 2011, el brasileño radicado en Berlín Fabricio do Canto adopta el apodo de "el infiltrado" - el título del <a href="http://partidopirata.com.ar/2011/09/25/reportaje-a-fabricio-do-canto-del-partido-pirata-en-berlin/">reportaje</a> En ese momento, Canto celebraba su participación en el Partido Pirata alemán, que había logrado una victoria sin precedentes logrando un 9% de los votos en las elecciones estatales de Berlín.
+SAO PAULO - Desde que publicó una página completa en el suplemento <em>Link</em> a fines de 2011, el brasileño radicado en Berlín Fabricio do Canto adopta el apodo de "el infiltrado" - el título del <a href="https://partidopirata.com.ar/2011/09/25/reportaje-a-fabricio-do-canto-del-partido-pirata-en-berlin/">reportaje</a> En ese momento, Canto celebraba su participación en el Partido Pirata alemán, que había logrado una victoria sin precedentes logrando un 9% de los votos en las elecciones estatales de Berlín.
 
 Ex-punk y ex-director de una multinacional, Fabrício do Canto largó la profesión para pasar algunos años en un retiro “sabático-nómade”. Se casó con una hindú y vive en Berlín con sus tres hijos trilingues – cada uno de ellos tiene cuatro pasaportes. El nombre “El infiltrado” caló hondo porque Fabrício se define como una persona offline que consiguió espacio en un partido totalmente volcado a internet – aunque ahora los piratas también abracen otras causas, como el derecho al voto a las minorias y pasajes de ómnibus gratuitos.
 
@@ -56,6 +56,6 @@ No sólo es posible como necesario, especialmente para darle voz a las minorias.
 Derecho a voz para aquellos afectados por una situación. Por ejemplo, en la decisión alemana sobre el apoyo financiero a la construcción de Angra 3 [una central nuclear en Brasil], queremos oir las voces de los brasileños al respecto. En la venta de turbinas alemanas para las hidroeléctricas de Brasil, queremos saber si los derechos humanos de las naciones indígenas están siendo respetadas, y así siguiendo. En relación a los niños, ¿para quiénes queremos sostenibilidad ? Si es para los niños, que ellos puedan decidir con nosotros qué recursos usaremos y para qué.
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/3833/podcast-con-fabricio-do-canto-del-partido-pirata-aleman"> Acá hicimos un podcast [programa de radio grabado] con Fabricio do Canto.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/3833/podcast-con-fabricio-do-canto-del-partido-pirata-aleman"> Acá hicimos un podcast [programa de radio grabado] con Fabricio do Canto.</a></strong></p>
 <p style="text-align: center;"><strong> <a href="http://mier.metamate.cc/sample-page/miers-cc-license/" target="_blank">La fórmula de la cerveza con yerba mate</a> hay que traducirlas al español.</strong></p>
 <p style="text-align: center;"><strong><a href="https://twitter.com/oinfiltrado23" target="_blank">Twitter de Fabricio do Canto</a></strong></p>

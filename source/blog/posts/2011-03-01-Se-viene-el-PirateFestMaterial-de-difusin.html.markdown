@@ -14,8 +14,8 @@ tags:
 - material
 - pirata
 - piratefest
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/piratest-volantin.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/piratest-volantin.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/piratest-volantin.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/piratest-volantin.png
 wppost_name: se-viene-el-piratefestmaterial-de-difusion
 ---
 

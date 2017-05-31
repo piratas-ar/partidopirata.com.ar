@@ -16,8 +16,8 @@ tags:
 - senado-argentino
 - senadores
 - transparencia
-image: http://partidopirata.com.ar/wp-content/uploads/2011/09/senado-argentino.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/09/senado-argentino-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/09/senado-argentino.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/09/senado-argentino-150x150.jpg
 wppost_name: ley-de-musica-carta-abierta-a-senadores
 ---
 

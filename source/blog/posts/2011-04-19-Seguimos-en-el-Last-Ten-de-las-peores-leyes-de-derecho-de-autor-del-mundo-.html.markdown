@@ -8,12 +8,12 @@ tags:
 - divulgacion
 - peor-ley
 - quinta-peor-ley
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/top_ten.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/top_ten.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/top_ten.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/top_ten.jpg
 wppost_name: seguimos-en-el-last-five-de-las-peores-leyes-de-derecho-de-autor-del-mundo
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/04/top_ten.jpg"><img class="aligncenter size-medium wp-image-787" title="top_ten" src="http://partidopirata.com.ar/wp-content/uploads/2011/04/top_ten-300x266.jpg" alt="" width="300" height="266" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/04/top_ten.jpg"><img class="aligncenter size-medium wp-image-787" title="top_ten" src="https://partidopirata.com.ar/wp-content/uploads/2011/04/top_ten-300x266.jpg" alt="" width="300" height="266" /></a>
 <a href="http://partido-pirata.blogspot.com/2010/04/estamos-en-el-last-ten-de-los-paises.html" target="_blank">El año pasado estabamos sextos ahora seguimos entre los peores!!!</a> . Otro éxito más de la Ley Noble,<a href="http://youtu.be/TNPGp9Yejyg" target="_blank"> <em>una ley justa</em> </a>
 
 No encontré un artículo sobre Argentina con este tema, por eso dejo la de Brasil, igual nosotros estamos un puesto atrás en el ranking, así que muy diferente no debe ser.
@@ -92,4 +92,4 @@ Si encuentran una de la Argentina avísennos en los comentarios o envíenos un m
 <em> </em>
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/806/cuarto-podcast-del-partido-pirata-argentino-charlando-con-beatriz-garcia-buitrago-sobre-la-ley-de-derecho-de-autor">Si quiere escuchar nuestro podcast con Beatriz García Buitrago de "Consumidores Argentinos"</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/806/cuarto-podcast-del-partido-pirata-argentino-charlando-con-beatriz-garcia-buitrago-sobre-la-ley-de-derecho-de-autor">Si quiere escuchar nuestro podcast con Beatriz García Buitrago de "Consumidores Argentinos"</a></strong></p>

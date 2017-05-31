@@ -10,14 +10,14 @@ tags:
 - microsoft
 - software-libre
 - software-propietario
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/softwarelivre2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/softwarelivre2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/softwarelivre2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/softwarelivre2-150x150.jpg
 wppost_name: software-libre-en-todas-partes
 ---
 
 <strong><a href="http://blogs.estadao.com.br/link/em-toda-parte/" target="_blank">Fuente Suplemento Link.</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/softwarelivre2.jpg"><img class="alignright  wp-image-5790" title="softwarelivre2" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/softwarelivre2.jpg" alt="" width="282" height="282" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/softwarelivre2.jpg"><img class="alignright  wp-image-5790" title="softwarelivre2" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/softwarelivre2.jpg" alt="" width="282" height="282" /></a>
 
 Por Murilo Roncolato
 

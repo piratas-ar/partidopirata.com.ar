@@ -14,7 +14,7 @@ thumb:
 wppost_name: ahora-viene-occupymuseums
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/occupy_museums2-1.jpg"><img class="aligncenter size-full wp-image-2103" title="occupy_museums2-1" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/occupy_museums2-1.jpg" alt="" width="288" height="288" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/occupy_museums2-1.jpg"><img class="aligncenter size-full wp-image-2103" title="occupy_museums2-1" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/occupy_museums2-1.jpg" alt="" width="288" height="288" /></a>
 
 <hr />
 
@@ -42,7 +42,7 @@ Durante las últimas décadas, las voces de la disidencia han sido silenciadas p
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2121/ocuppy-museums-explicado">Occupy Museums explicado para argentinos, por José María Casas.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2121/ocuppy-museums-explicado">Occupy Museums explicado para argentinos, por José María Casas.</a></strong></p>
 
 
 <hr />

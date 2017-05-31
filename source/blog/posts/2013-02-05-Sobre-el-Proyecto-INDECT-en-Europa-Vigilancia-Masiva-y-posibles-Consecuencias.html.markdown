@@ -9,8 +9,8 @@ tags:
 - sibios
 - tarjeta-sube
 - vigilancia-masiva
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/camaras_vigilancia-150x150.jpg
 wppost_name: sobre-el-proyecto-indect-en-europa-vigilancia-masiva-y-posibles-consecuencias
 ---
 
@@ -53,12 +53,12 @@ CFK Hablando de las <i>bondades</i> del reconocimiento facial</center>
 <hr />
 
 <ul>
-	<li><strong><a href="http://partidopirata.com.ar/7838/sistema-federal-de-identificacion-biometrica-sibios-pluralidad-activada">Sistema Federal de Identificación Biométrica (SIBIOS)</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/2231/sibios-todo-el-mundo-controlado-la-policia-y-la-side-sabran-quien-estuvo-en-una-marcha-manifestacion">SIBIOS, todos vigilados: Reconocer una cara entre 36 millones!</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/7331/un-poco-de-1984-biometria-usada-en-argentina-hoy" rel="bookmark">Un poco de 1984: Biometría usada en Argentina hoy</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/8227/alerta-avanza-el-estado-de-vigilancia-el-reconocimiento-facial-llego">Reconocimiento Facial en las Cámaras de Vigilancia en los subterráneos de Buenos Aires.</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">El escrito para presentar cuando nos solicitan nuestros datos biométricos y la charla que mantuvimos con Ramiro sobre toma compulsiva de datos biométricos</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5503/crece-el-control-de-la-afip-mediante-el-cruce-de-las-bases-de-datos" rel="bookmark">Crece el control de la Afip mediante el cruce de las bases de datos</a></strong></li>
-	<li><strong><a href="http://partidopirata.com.ar/5195/quienes-tienen-acceso-a-nuestra-informacion-de-la-tarjeta-sube" rel="bookmark">¿Quiénes tienen acceso a nuestra información de la Tarjeta SUBE?</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/7838/sistema-federal-de-identificacion-biometrica-sibios-pluralidad-activada">Sistema Federal de Identificación Biométrica (SIBIOS)</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/2231/sibios-todo-el-mundo-controlado-la-policia-y-la-side-sabran-quien-estuvo-en-una-marcha-manifestacion">SIBIOS, todos vigilados: Reconocer una cara entre 36 millones!</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/7331/un-poco-de-1984-biometria-usada-en-argentina-hoy" rel="bookmark">Un poco de 1984: Biometría usada en Argentina hoy</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/8227/alerta-avanza-el-estado-de-vigilancia-el-reconocimiento-facial-llego">Reconocimiento Facial en las Cámaras de Vigilancia en los subterráneos de Buenos Aires.</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/4758/escrito-para-protestar-por-la-toma-compulsiva-de-datos-biometricos-aeropuerto-de-ezeiza-afip-otros">El escrito para presentar cuando nos solicitan nuestros datos biométricos y la charla que mantuvimos con Ramiro sobre toma compulsiva de datos biométricos</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5503/crece-el-control-de-la-afip-mediante-el-cruce-de-las-bases-de-datos" rel="bookmark">Crece el control de la Afip mediante el cruce de las bases de datos</a></strong></li>
+	<li><strong><a href="https://partidopirata.com.ar/5195/quienes-tienen-acceso-a-nuestra-informacion-de-la-tarjeta-sube" rel="bookmark">¿Quiénes tienen acceso a nuestra información de la Tarjeta SUBE?</a></strong></li>
 	<li><strong><a href="http://www.minutouno.com/notas/276500-con-unos-robots-voladores-refuerzan-la-vigilancia-tigre" target="_blank">Y también tenemos Drones (aviones no tripulados) vigilando a la población , por lo menos a Tigre ya llegaron...</a></strong></li>
 </ul>

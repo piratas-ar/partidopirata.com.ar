@@ -9,8 +9,8 @@ tags:
 - impuesto
 - libros
 - tasas
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/la-foto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/la-foto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/la-foto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/la-foto-150x150.jpg
 wppost_name: el-gobierno-fomentando-la-pirateria-o-el-impuesto-que-no-puede-existir
 ---
 
@@ -20,7 +20,7 @@ Hace unos días, en lugar de recibir directo el pedido de Amazon como tantas vec
 
 <hr />
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/11/la-foto.jpg"><img class="aligncenter size-full wp-image-7380" title="la-foto" src="http://partidopirata.com.ar/wp-content/uploads/2012/11/la-foto.jpg" alt="" width="350" height="466" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/11/la-foto.jpg"><img class="aligncenter size-full wp-image-7380" title="la-foto" src="https://partidopirata.com.ar/wp-content/uploads/2012/11/la-foto.jpg" alt="" width="350" height="466" /></a>
 
 <hr />
 

@@ -10,12 +10,12 @@ tags:
 - divulgacion
 - secretario-de-cultura
 - subsidios
-image: http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg
 wppost_name: jorge-coscia-secretario-de-cultura-de-la-nacion-hablando-sobre-cambios-en-el-derecho-de-autor
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="aligncenter size-full wp-image-873" title="225px-Coscia" src="http://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="" width="225" height="149" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg"><img class="aligncenter size-full wp-image-873" title="225px-Coscia" src="https://partidopirata.com.ar/wp-content/uploads/2011/05/225px-Coscia.jpg" alt="" width="225" height="149" /></a>
 
 Fragmentos de una entrevista que le realizaron a Jorge Coscia-Secretario de Cultura de la Nación en el programa<strong> <a href="http://rebeldes.org.ar/2011/04/30/programa-30-de-abril-de-2011/" target="_blank">Rebeldes Steorótipos</a></strong> de FM La Tribu el 30 de abril. Si quieren descargar todo el programa en el link anterior lo encuentran,<strong> <a href="http://rebeldes.org.ar/audios/2011/rs20110430-2.mp3" target="_blank">Si quieren descargar toda la entrevista a Jorge Coscia, archivo mp3.</a></strong>
 
@@ -28,7 +28,7 @@ Fragmentos de una entrevista que le realizaron a Jorge Coscia-Secretario de Cult
 Presione en <em>play</em> si quieren escuchar el segmento o
 <a href="http://www.ivoox.com/jorge-coscia-secretario-cultura-hablando-sobre-derecho-autor_md_635554_1.mp3" target="_blanK">Si quieren descargar el archivo mp3.</a>
 
-<strong><a href="http://partidopirata.com.ar/979/julio-raffo-en-rebeldes-stereotipos-analizando-lo-que-dijo-jorge-coscia">Si quieren escuchar a Julio Raffo analizando las palabras de Jorge Coscia.</a></strong>
+<strong><a href="https://partidopirata.com.ar/979/julio-raffo-en-rebeldes-stereotipos-analizando-lo-que-dijo-jorge-coscia">Si quieren escuchar a Julio Raffo analizando las palabras de Jorge Coscia.</a></strong>
 
 <hr />
 
@@ -43,7 +43,7 @@ Si pensamos en alguna posibilidad de cambios por parte del Estado...<strong><a h
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/773/773" target="_blank"> Si quieren saber como se reparte el Canon Digital en España les recomendamos que asistan al documental "Copiad Malditos!"</a> </strong>en donde se explica claramente como se distribuye el <em>canon</em> y los altos costos que eso implica para toda la sociedad española. También se explica la <em> rara</em> democracia de la SGAE ...Asistan al documental para entender un poco más qué defiende el Secretario de Cultura por favor.
+<strong><a href="https://partidopirata.com.ar/773/773" target="_blank"> Si quieren saber como se reparte el Canon Digital en España les recomendamos que asistan al documental "Copiad Malditos!"</a> </strong>en donde se explica claramente como se distribuye el <em>canon</em> y los altos costos que eso implica para toda la sociedad española. También se explica la <em> rara</em> democracia de la SGAE ...Asistan al documental para entender un poco más qué defiende el Secretario de Cultura por favor.
 
 <hr />
 
@@ -102,7 +102,7 @@ Argentina es uno de los 21 países de todo el mundo que <strong>no tiene excepci
 <em>Hay posibilidades de flexibilizar las cosas dentro del marco de la Convención de Berna...Y si uno pudiera bajarse todos los libros.y Coscia sigue pensando en darle subsidios a las editoriales....</em>
 
 No se puede liberalizar el conocimiento....El Estado les paga un sueldo a muchos autores....Les paga a través de salarios en las Universidades Públicas!!!!, ¿éso no importa?...
-<a href="http://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii" target="_blank">Hay escritores que no tienen jubilación y</a> , supuestamente , ¿ Derecho de Autor es tan magnífico que no hay que tocarlo?, pero a la hora de pagar, es , de nuevo, el Estado el que tiene que pagar sin ni siqueira liberar la obra de ese autor..Seguimos siendo un Estado bobo...
+<a href="https://partidopirata.com.ar/708/de-que-no-viven-los-escritores-ii" target="_blank">Hay escritores que no tienen jubilación y</a> , supuestamente , ¿ Derecho de Autor es tan magnífico que no hay que tocarlo?, pero a la hora de pagar, es , de nuevo, el Estado el que tiene que pagar sin ni siqueira liberar la obra de ese autor..Seguimos siendo un Estado bobo...
 <div style="text-align: center;"><strong><a href="http://www.derechoaleer.org/2011/04/miente-miente-que-algo-quedara.html" target="_blank">Toda la entrada en Derecho a Leer</a></strong></div>
 
 <hr />

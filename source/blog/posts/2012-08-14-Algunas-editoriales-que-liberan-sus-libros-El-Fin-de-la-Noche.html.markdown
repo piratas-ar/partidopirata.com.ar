@@ -8,8 +8,8 @@ tags:
 - el-fin-de-la-noche
 - libros-divulgacion
 - revista-ene
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/140420121270-150x150.jpg
 wppost_name: algunas-editoriales-que-liberan-sus-libros-el-fin-de-la-noche
 ---
 

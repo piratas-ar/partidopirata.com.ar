@@ -13,15 +13,15 @@ tags:
 - patentes
 - right
 - multimedia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-150x150.jpg
 wppost_name: siguiendo-con-el-ciclo-copy-right-patents-absurdity-y-arduino-el-documental
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright.jpg"><img class="size-medium wp-image-4672" title="copyright" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/copyright-300x274.jpg" alt="" width="300" height="274" /></a> Festival Copy, Right?
 
 <p style="text-align: center;"><strong>Mientras en San Pablo, Brasil, ocurre el ciclo de cine:</strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/4671/festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-para-hacerlo-en-argentina">Copy, Right?</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/4671/festival-discute-copyright-en-san-pablo-brasil-una-posible-idea-para-hacerlo-en-argentina">Copy, Right?</a></strong></p>
 <p style="text-align: center;">En la Argentina (y otros países del mundo que quieran) lo hacemos virtual :</p>
 <p style="text-align: center;">Otros de los documentales que se emitirán en el ciclo son:</p>
 <p style="text-align: center;"><strong>“Patent Absurdity” (2010, 28 minutos):
@@ -43,7 +43,7 @@ wppost_name: siguiendo-con-el-ciclo-copy-right-patents-absurdity-y-arduino-el-do
 <strong>Si usan Firefox pueden descargarlo con la aplicación <a href="https://addons.mozilla.org/pt-BR/firefox/addon/video-downloadhelper/" target="_blank">Download Helper</a></strong>
 
 <hr />
-<p style="text-align: center;"><strong>Si quieren saber cómo sigue el ciclo : <a href="http://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copy, Right?</a>
-<a href="http://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copiad, Malditos!, primer documental</a>
-<a href="http://partidopirata.com.ar/4892/siguiendo-con-el-ciclo-copy-right-rip-a-remix-manifesto">Documental del 23 de Junio: RiP! A remix Manifesto</a></strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2491/ctrl-v-documental-que-puede-ayudarnos-a-entender-un-poco-mas-el-caso-cuevana">Ctrl-V</a></strong></p>
+<p style="text-align: center;"><strong>Si quieren saber cómo sigue el ciclo : <a href="https://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copy, Right?</a>
+<a href="https://partidopirata.com.ar/4690/para-los-fines-de-semana-ciclo-copy-right-pero-virtual">Copiad, Malditos!, primer documental</a>
+<a href="https://partidopirata.com.ar/4892/siguiendo-con-el-ciclo-copy-right-rip-a-remix-manifesto">Documental del 23 de Junio: RiP! A remix Manifesto</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2491/ctrl-v-documental-que-puede-ayudarnos-a-entender-un-poco-mas-el-caso-cuevana">Ctrl-V</a></strong></p>

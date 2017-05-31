@@ -9,12 +9,12 @@ tags:
 - derecho-de-autor
 - edu-da-gaite
 - o-estado-de-sao-paulo
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/censura-150x150.jpg
 wppost_name: brasil-sufrimos-una-censura-cultural
 ---
 
-<img class="alignnone" title="Censura" src="http://partidopirata.com.ar/wp-content/uploads/2010/11/censura-115x115.jpg" alt="" width="115" height="115" /><strong><a href="http://www.estadao.com.br/noticias/impresso,sofremos-uma-censura-cultural,776887,0.htm" target="_blank">Fuente "O Estado de São Paulo"</a></strong>
+<img class="alignnone" title="Censura" src="https://partidopirata.com.ar/wp-content/uploads/2010/11/censura-115x115.jpg" alt="" width="115" height="115" /><strong><a href="http://www.estadao.com.br/noticias/impresso,sofremos-uma-censura-cultural,776887,0.htm" target="_blank">Fuente "O Estado de São Paulo"</a></strong>
 <div>O Estado de S.Paulo</div>
 Un secuestro de la historia brasileña. Así el musicólogo Ricardo Cravo Albin define el 'olvido' de grandes discos, embargados desde hace años en el acervo de las discográficas o por parte de los herederos. "Hay una maldición de nuestro baúl musical, impidiendo que los discos que podrían ser reeditados no lo sean", compara. "Es un absurdo. Nuestra historia musical enfrenta una censura estética y cultural."
 

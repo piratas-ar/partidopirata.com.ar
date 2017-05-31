@@ -11,8 +11,8 @@ tags:
 - libre
 - libros
 - reunion
-image: http://partidopirata.com.ar/wp-content/uploads/2011/01/bookcrossing.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/01/bookcrossing.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/01/bookcrossing.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/01/bookcrossing.jpg
 wppost_name: reunion-bookcrossing-argentina
 ---
 

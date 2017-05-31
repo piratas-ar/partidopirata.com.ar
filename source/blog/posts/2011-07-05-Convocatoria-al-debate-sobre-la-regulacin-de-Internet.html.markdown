@@ -3,8 +3,8 @@ title: Convocatoria al debate sobre la regulación de Internet
 date: '2011-07-05'
 tags:
 - eventos
-image: http://partidopirata.com.ar/wp-content/uploads/2011/03/pinedo-internet.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/03/pinedo-internet-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/03/pinedo-internet.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/03/pinedo-internet-150x150.png
 wppost_name: convocatoria-al-debate-sobre-la-regulacion-de-internet
 ---
 
@@ -14,4 +14,4 @@ Comenzara a las <strong>19:30 hs</strong> y estarán varias figuras de diferente
 
 Los invitamos a ir y hacerle saber su opinión al diputado Federico Pinedo.
 
-Si queres leer mas sobre el proyecto de ley de Pinedo podes leer <a href="http://partidopirata.com.ar/644/una-mala-copia-de-la-ley-sinde-propuesta-por-el-macrismo">Una mala copia de la ley Sinde, propuesta por el macrismo</a> y <a href="http://partidopirata.com.ar/712/ley-pinedo-escasas-aclaraciones-muchas-dudas-y-contradicciones">Ley Pinedo: escasas aclaraciones, muchas dudas y contradicciones</a>
+Si queres leer mas sobre el proyecto de ley de Pinedo podes leer <a href="https://partidopirata.com.ar/644/una-mala-copia-de-la-ley-sinde-propuesta-por-el-macrismo">Una mala copia de la ley Sinde, propuesta por el macrismo</a> y <a href="https://partidopirata.com.ar/712/ley-pinedo-escasas-aclaraciones-muchas-dudas-y-contradicciones">Ley Pinedo: escasas aclaraciones, muchas dudas y contradicciones</a>

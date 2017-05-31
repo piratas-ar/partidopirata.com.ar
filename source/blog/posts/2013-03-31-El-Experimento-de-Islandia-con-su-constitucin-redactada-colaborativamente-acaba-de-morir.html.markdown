@@ -10,8 +10,8 @@ tags:
 - material-para-difusion
 - islandia
 - multitud
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/protesta-islandia-150x150.jpg
 wppost_name: el-experimento-de-islandia-con-su-constitucion-redactada-colaborativamente-acaba-de-morir
 ---
 
@@ -35,7 +35,7 @@ Bjarnason no es el único decepcionado por las acciones del parlamento. Los mani
 
 <hr />
 
-Lástima, <a href="http://partidopirata.com.ar/2012/12/19/ollas-cacerolas-y-otras-soluciones-islanndia-la-gente-haciendo-una-revolucion/">Un documental que mostraba la esperanza en la nueva constitución: Ollas, Cacerolas y otras soluciones</a>.
+Lástima, <a href="https://partidopirata.com.ar/2012/12/19/ollas-cacerolas-y-otras-soluciones-islanndia-la-gente-haciendo-una-revolucion/">Un documental que mostraba la esperanza en la nueva constitución: Ollas, Cacerolas y otras soluciones</a>.
 Ojalá el pueblo pueda lograr revertir esta traición.
 La clase política parece siempre la misma en todos lados....
 

@@ -8,8 +8,8 @@ tags:
 - no-tengo-nada
 - paper
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/policía.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/polic%C3%ADa-150x150.jpg
 wppost_name: no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso-iii
 ---
 
@@ -17,7 +17,7 @@ wppost_name: no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-t
 <p style="text-align: center;"><strong><a href="https://twitter.com/#%21/klausconsine" target="_blank">Klaus Consine nos manda esta parte</a>
 Si alguien quiere seguir con la traducción avísenos <a href="../contacto" target="_blank">vía e-mail</a> así no duplicamos el trabajo.</strong></p>
 <p style="text-align: center;"><strong><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565" target="_blank">Si quieren descargar el paper en inglés.</a></strong></p>
-<p style="text-align: center;"><strong> <a href="http://partidopirata.com.ar/4178/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso-ii">Las páginas anteriores a ésta.</a></strong></p>
+<p style="text-align: center;"><strong> <a href="https://partidopirata.com.ar/4178/no-tengo-nada-que-ocultar-y-otras-confusiones-sobre-la-privacidad-traduccion-en-progreso-ii">Las páginas anteriores a ésta.</a></strong></p>
 <p style="text-align: center;"><strong><a href="https://twitter.com/#%21/klausconsine" target="_blank">Gracias a Klaus Consine por esta traducción</a></strong></p>
 
 

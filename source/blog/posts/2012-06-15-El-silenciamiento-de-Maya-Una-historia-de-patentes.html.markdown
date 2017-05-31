@@ -12,8 +12,8 @@ tags:
 - maya
 - patentes
 - speak-for-yourself
-image: http://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640-150x150.jpg
 wppost_name: el-silenciamiento-de-maya-una-historia-de-patentes
 ---
 
@@ -94,7 +94,7 @@ El hecho de que la capacidad de mi hija para hablar se está convirtiendo en una
 
 <strong><span style="font-family: inherit;">Ojalá que a Maya no le quiten su voz!</span></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640.jpg"><img class="size-medium wp-image-4768" title="IMAG0569 (557x640)" src="http://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640-260x300.jpg" alt="" width="260" height="300" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640.jpg"><img class="size-medium wp-image-4768" title="IMAG0569 (557x640)" src="https://partidopirata.com.ar/wp-content/uploads/2012/06/IMAG0569-557x640-260x300.jpg" alt="" width="260" height="300" /></a>
 
 
 &nbsp;

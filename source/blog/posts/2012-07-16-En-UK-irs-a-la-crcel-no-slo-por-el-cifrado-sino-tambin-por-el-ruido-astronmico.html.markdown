@@ -9,8 +9,8 @@ tags:
 - rick-falkvinge
 - seguridad
 - seguridad-2
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/Photoxpress_2519332-646x3631.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/Photoxpress_2519332-646x3631-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/Photoxpress_2519332-646x3631.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/Photoxpress_2519332-646x3631-150x150.jpg
 wppost_name: en-uk-iras-a-la-carcel-no-solo-por-el-cifrado-sino-por-tambien-por-el-ruido-astronomico
 ---
 

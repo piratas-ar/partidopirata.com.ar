@@ -7,8 +7,8 @@ tags:
 - keith-stuart
 - videogames
 - videojuegos-politicos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/videogames.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/videogames-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/videogames.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/videogames-150x150.jpg
 wppost_name: los-10-juegos-politicos-que-todos-deberiamos-jugar
 ---
 
@@ -52,4 +52,4 @@ El artículo es del año 2006, así que convocamos a quienes quieran actualizar 
 Invitamos también a quienes quieran desarrollar juegos políticos con una temática argentina.
 
 Podríamos pensar en las políticas extractivas del país, Barrick Gold, Soja, Expansión de la Frontera Agrícola, Cámaras de Videovigilancia y algo más....
-<p style="text-align: center;"><strong>Pueden escribirnos a través de <a href="http://partidopirata.com.ar/contacto">nuestro formulario de contacto.</a></strong></p>
+<p style="text-align: center;"><strong>Pueden escribirnos a través de <a href="https://partidopirata.com.ar/contacto">nuestro formulario de contacto.</a></strong></p>

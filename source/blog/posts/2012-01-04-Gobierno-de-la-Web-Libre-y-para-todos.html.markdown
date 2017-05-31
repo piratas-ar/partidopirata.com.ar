@@ -7,8 +7,8 @@ tags:
 - eventos-2
 - leyes
 - neutralidad-de-la-red
-image: http://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/11/neutralidad-de-la-red-150x150.jpg
 wppost_name: gobierno-de-la-web-libre-y-para-todos
 ---
 

@@ -9,8 +9,8 @@ tags:
 - ministerio-de-relaciones-exteriores
 - posicion-argentina-sobre-el-acta
 - posicion-oficial
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/acta-arma-destruccion-masiva-150x150.png
 wppost_name: "%c2%bfcual-es-la-postura-de-cancilleria-sobre-el-acta-el-pueblo-quiere-saber"
 ---
 
@@ -67,7 +67,7 @@ Entonces nos preguntamos:
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/1899/infografia-acta-un-arma-de-destruccion-masiva-contra-tus-derechos">Infografía sobre el ACTA-Un Arma de Destrucción Masiva contra tus Derechos.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/1899/infografia-acta-un-arma-de-destruccion-masiva-contra-tus-derechos">Infografía sobre el ACTA-Un Arma de Destrucción Masiva contra tus Derechos.</a></strong></p>
 
 
 <hr />

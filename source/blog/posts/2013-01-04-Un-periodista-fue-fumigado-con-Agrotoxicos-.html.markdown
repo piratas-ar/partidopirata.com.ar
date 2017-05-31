@@ -3,8 +3,8 @@ title: 'Un periodista fue fumigado con Agrotoxicos '
 date: '2013-01-04'
 tags:
 - denuncias
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/Captura-de-pantalla-completa-04012013-081202-p.m..jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/Captura-de-pantalla-completa-04012013-081202-p.m.-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/Captura-de-pantalla-completa-04012013-081202-p.m..jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/Captura-de-pantalla-completa-04012013-081202-p.m.-150x150.jpg
 wppost_name: un-periodista-fumigado-con-agrotoxicos
 ---
 
@@ -20,7 +20,7 @@ wppost_name: un-periodista-fumigado-con-agrotoxicos
 
 <center><iframe src="http://www.youtube.com/embed/MR024T_3hK8" height="315" width="420" allowfullscreen="" frameborder="0"></iframe></center><em>Anteriormente mostrabamos una denuncia que se hizo por estar fumigando cerca del Garrahan</em>:
 <em><strong>
-<a href="http://partidopirata.com.ar/7939/fumigaciones-con-matayuyos-en-el-campito-situado-entre-pichincha-brasil-garay-y-combate-de-los-pozos" rel="bookmark">Fumigaciones con “matayuyos” en el “Campito” situado entre Pichincha, Brasil, Garay y Combate de los Pozos</a>
+<a href="https://partidopirata.com.ar/7939/fumigaciones-con-matayuyos-en-el-campito-situado-entre-pichincha-brasil-garay-y-combate-de-los-pozos" rel="bookmark">Fumigaciones con “matayuyos” en el “Campito” situado entre Pichincha, Brasil, Garay y Combate de los Pozos</a>
 </strong></em>
 
 &nbsp;

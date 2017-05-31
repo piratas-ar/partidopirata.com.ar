@@ -3,12 +3,12 @@ title: Contra la destrucción de cultura
 date: '2014-04-02'
 tags:
 - libros-divulgacion
-image: http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/10/images-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/10/images-150x150.jpg
 wppost_name: contra-la-destruccion-de-cultura
 ---
 
-<img class="size-full wp-image-6710" alt="Derecho a Leer" src="http://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg" width="245" height="206" />
+<img class="size-full wp-image-6710" alt="Derecho a Leer" src="https://partidopirata.com.ar/wp-content/uploads/2012/10/images.jpg" width="245" height="206" />
 <blockquote>Respuesta pirata a sobre cómo la industria editorial justifica algunas quemas de libros</blockquote>
 Por Pablo Q. y con consenso de nuestra Asamblea General
 

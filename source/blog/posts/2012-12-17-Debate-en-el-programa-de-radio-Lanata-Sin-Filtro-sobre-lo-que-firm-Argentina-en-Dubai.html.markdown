@@ -11,8 +11,8 @@ tags:
 - maria-eugenia-estenssoro
 - radio-2
 - uit
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/chart5.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/chart5-115x115.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/chart5.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/chart5-115x115.png
 wppost_name: debate-en-el-programa-de-radio-lanata-sin-filtro-sobre-lo-que-firmo-argentina-en-dubai
 ---
 
@@ -23,7 +23,7 @@ wppost_name: debate-en-el-programa-de-radio-lanata-sin-filtro-sobre-lo-que-firmo
 <strong> Si el enlace anterior no funciona presionen en <em>descargar</em> <a href="http://www.ivoox.com/sobre-reunion-uit-dubai-audios-mp3_rf_1653366_1.html" target="_blank">en este link.</a></strong></p>
 
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart5.png"><img class="size-full wp-image-7875" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/chart5.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart5.png"><img class="size-full wp-image-7875" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/chart5.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo mp3
 
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><strong><a href="http://www.plazademayo.com/mediosyopinion/?p=1869" target="_blank">Si quieren descargar o escuchar todo el programa </a> Gracias a <em><a href="https://twitter.com/MEDIOSYOPINION" target="_blank">Medios y Opinión</a></em> por dejar disponible este programa</strong></p>
@@ -31,7 +31,7 @@ wppost_name: debate-en-el-programa-de-radio-lanata-sin-filtro-sobre-lo-que-firmo
 
 <hr />
 
-<strong><a href="http://partidopirata.com.ar/7868/tratando-de-entender-lo-que-firmo-con-reservas-la-argentina-en-dubai-organizarse-para-resistir">Acá dejamos algo más explicando de qué se trató la reunión de Dubai</a></strong>
+<strong><a href="https://partidopirata.com.ar/7868/tratando-de-entender-lo-que-firmo-con-reservas-la-argentina-en-dubai-organizarse-para-resistir">Acá dejamos algo más explicando de qué se trató la reunión de Dubai</a></strong>
 
 Es importante estar preparados para cuando nos toque hablar ante los medios. Resaltar que las leyes que existen fuera de Internet siguen valiendo dentro de ella. El robo está penalizado tanto dentro como fuera de Internet, la estafa también. Hay muchísimas leyes que se aplican tanto a Internet como fuera de ella.
 

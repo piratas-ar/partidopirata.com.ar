@@ -12,8 +12,8 @@ tags:
 - intimidad
 - kamala-d-harris
 - privacidad
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/kamalaharris.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/kamalaharris-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/kamalaharris.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/kamalaharris-150x150.jpg
 wppost_name: califonia-crea-organismo-para-vigilar-que-se-cuide-la-privacidad
 ---
 
@@ -23,7 +23,7 @@ wppost_name: califonia-crea-organismo-para-vigilar-que-se-cuide-la-privacidad
 </em>
 – El Estado de California <a href="http://oag.ca.gov/news/pres-releases/attorney-general-kamala-d-harris-announces-privacy-enforcement-and-protection">anunció la creación</a> de una unidad especial en su Departamento de Justicia para cuidar de la privacidad de los indivíduos. La idea es estimular la creación y adopción de leyes federales y estatales para proteger a los ciudadanos. La mayor preocupación de la procuradora general del estado, Kamala D. Harris, es con el destino de las informaciones personales en las nuevas plataformas tecnológicas.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/kamalaharris.jpg"><img title="kamalaharris" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/kamalaharris.jpg" alt="" width="390" height="265" /></a> Kamala Harris. FOTO: Reproducción /Facebook
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/kamalaharris.jpg"><img title="kamalaharris" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/kamalaharris.jpg" alt="" width="390" height="265" /></a> Kamala Harris. FOTO: Reproducción /Facebook
 
 
 “En el siglo 21, compartimos y almacenamos nuestras informaciones más sensibles en teléfonos, computadoras e incluso en la nube. Es fundamental que los consumidores tengan la capacidad de entender como esas innovaciones usan las informaciones personales, entonces pueden tomar decisiones informadas sobre lo que quieren intercambiar”, dijo Kamala. “La Unidad de Privacidad vigilará las prácticas de privacidad de los indivíduos y responsabilizará a aquellos que hacen mal uso de la tecnologia para invadir la privacidad de los otros”.

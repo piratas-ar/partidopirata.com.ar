@@ -10,8 +10,8 @@ tags:
 - legislacion
 - megamineria
 - terrorismo
-image: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/04/censura-150x150.jpg
 wppost_name: conferencia-de-prensa-manana-en-oposicion-al-proyecto-de-legislacion-antiterrorista-e-inversiones
 ---
 
@@ -43,7 +43,7 @@ Red de Asistencia Jurídica contra la mega minería
 
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/2554/llegan-las-recetas-con-batracios-proyecto-para-criminalizar-la-protesta">Más información sobre el proyecto de ley antiterrorista.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/2554/llegan-las-recetas-con-batracios-proyecto-para-criminalizar-la-protesta">Más información sobre el proyecto de ley antiterrorista.</a></strong></p>
 
 
 <hr />

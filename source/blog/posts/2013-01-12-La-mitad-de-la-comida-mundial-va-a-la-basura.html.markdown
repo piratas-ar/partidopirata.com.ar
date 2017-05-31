@@ -7,8 +7,8 @@ tags:
 - basura
 - material-para-difusion
 - transgenicos
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/biotecnologia-alimentos-transgenicos-biotechnology-genetically-modified-foods_1_1153754-150x150.jpg
 wppost_name: la-mitad-de-la-comida-mundial-va-a-la-basura
 ---
 

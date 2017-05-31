@@ -10,8 +10,8 @@ tags:
 - the-pirate-bay
 - tpb
 - tpbafk
-image: http://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2-150x150.jpg
 wppost_name: hoy-proyeccion-de-the-pirate-bay-afk-en-el-hacklab-de-barracas
 ---
 
@@ -21,4 +21,4 @@ El Hacklab como siempre abre a partir de las 15-15:30 y están todos invitados a
 
 Están todos formal e informalmente invitados, viva la piratería \ø/
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg" alt="tpb-afk2" width="240" height="196" class="aligncenter size-full wp-image-8299" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2013/01/tpb-afk2.jpg" alt="tpb-afk2" width="240" height="196" class="aligncenter size-full wp-image-8299" /></a>

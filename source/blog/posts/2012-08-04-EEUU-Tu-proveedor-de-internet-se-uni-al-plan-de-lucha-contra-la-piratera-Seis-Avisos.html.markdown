@@ -12,8 +12,8 @@ tags:
 - seis-avisos
 - torrentfreak
 - twitter
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/isp-strikes.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/isp-strikes-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/isp-strikes.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/isp-strikes-150x150.png
 wppost_name: ee-uu-tu-proveedor-de-internet-se-unio-al-plan-de-lucha-contra-la-pirateria-seis-avisos
 ---
 
@@ -23,7 +23,7 @@ En los próximos meses a los proveedores de Internet comenzarán a advertir y ca
 
 A finales de este año, el Centro de Información sobre Derecho de Autor (CCI) comenzará <a href="http://torrentfreak.com/which-vpn-providers-really-take-anonymity-seriously-111007/"> a rastrear a los piratas</a> como parte de un acuerdo de todos los principales proveedores de internet en Estados Unidos junto con la MPAA y la RIAA. [Cine y TV y Discográficas]
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/isp-strikes.png"><img class="alignright size-full wp-image-5758" title="isp-strikes" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/isp-strikes.png" alt="" width="150" height="246" /></a>Las partes acordaron un sistema mediante el cual a los infractores de derechos de autor se les advierte que están violando la ley. Después de seis advertencias los ISP pueden entonces tomar una serie de medidas represivas, que incluyen ralentizar las conexiones de los acusados y desconexiones temporales.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/isp-strikes.png"><img class="alignright size-full wp-image-5758" title="isp-strikes" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/isp-strikes.png" alt="" width="150" height="246" /></a>Las partes acordaron un sistema mediante el cual a los infractores de derechos de autor se les advierte que están violando la ley. Después de seis advertencias los ISP pueden entonces tomar una serie de medidas represivas, que incluyen ralentizar las conexiones de los acusados y desconexiones temporales.
 
 A pesar de que hemos escrito un buen número de artículos sobre el tema, mucha gente asume que todos los ISPs son parte del acuerdo. Sin embargo, esto no es ciertamente el caso. De hecho, sólo cinco proveedores de Internet se han puesto de acuerdo para enviar advertencias a sus clientes.
 
@@ -64,7 +64,7 @@ En este punto todavía no se sabe cuando se enviarán las primeras cartas de adv
 <hr />
 
 En Francia existe un sistema similar, sólo que son 3 avisos en lugar de seis.
-El año pasado hablamos con uno de los administradores de HADOPI la alta autoridad que se ocupa <a href="http://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">de los 3 avisos allá.</a>
+El año pasado hablamos con uno de los administradores de HADOPI la alta autoridad que se ocupa <a href="https://partidopirata.com.ar/2648/ahora-que-se-viene-la-criminalizacion-como-es-hadopi-en-francia-podcast">de los 3 avisos allá.</a>
 Es importante notar que todo es un acuerdo entre privados. El Estado no aparece en ningún lugar.
 Cada vez más el tema de la libertad de expresión pasa, también, por lo que las grandes corporaciones permiten ( o no) que hagamos.
 Un caso importante es el que <a href="http://www.pagina12.com.ar/diario/sociedad/3-200283-2012-08-04.html" target="_blank">relata Mariano Blejman </a>ante una crítica hecha vía Twitter a la transmisión de los Juegos Olímpicos en EE.UU. Twitter, que es socia de la cadena de televisión NBC que transmite los juegos, decidió cerrarle la cuenta al periodista que había criticado a la NBC, de nuevo el Estado pasa de largo ante todo esto.

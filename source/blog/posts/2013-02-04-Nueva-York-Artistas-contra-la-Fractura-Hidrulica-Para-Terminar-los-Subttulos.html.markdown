@@ -11,8 +11,8 @@ tags:
 - seann-lennon
 - susan-sarandon
 - yoko-ono
-image: http://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2013/02/CALL-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2013/02/CALL-150x150.png
 wppost_name: nueva-york-artistas-contra-la-fractura-hidraulica-para-terminar-los-subtitulos
 ---
 
@@ -48,5 +48,5 @@ El 17 de Enero fueron a las regiones donde se hace <i>Fracking</i> en Pennsylvan
 
 &nbsp;
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png"><img class="size-full wp-image-8372" alt="Si viven en Nueva York y Quieren decirle No al Fracking a Cuomo" src="http://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png" width="215" height="264" /></a> Si viven en Nueva York y Quieren decirle No al Fracking a Cuomo
+<a href="https://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png"><img class="size-full wp-image-8372" alt="Si viven en Nueva York y Quieren decirle No al Fracking a Cuomo" src="https://partidopirata.com.ar/wp-content/uploads/2013/02/CALL.png" width="215" height="264" /></a> Si viven en Nueva York y Quieren decirle No al Fracking a Cuomo
 

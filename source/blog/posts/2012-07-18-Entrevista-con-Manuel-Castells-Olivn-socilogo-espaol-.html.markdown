@@ -10,8 +10,8 @@ tags:
 - luchar-por-la-libertad
 - manuel-castells
 - sopa
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/Occupy-Wall-Street-Citibank-protests-New-York-City-Video.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/Occupy-Wall-Street-Citibank-protests-New-York-City-Video-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/Occupy-Wall-Street-Citibank-protests-New-York-City-Video.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/Occupy-Wall-Street-Citibank-protests-New-York-City-Video-150x150.jpg
 wppost_name: entrevista-con-manuel-castells-olivan-sociologo-espanol
 ---
 

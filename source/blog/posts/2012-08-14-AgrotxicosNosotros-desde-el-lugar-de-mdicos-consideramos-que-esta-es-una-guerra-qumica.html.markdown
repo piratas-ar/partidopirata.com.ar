@@ -11,8 +11,8 @@ tags:
 - lorenzo-basso
 - monsanto
 - venado-tuerto
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: agrotoxicosnosotros-desde-el-lugar-de-medicos-consideramos-que-esta-es-una-guerra-quimica
 ---
 
@@ -27,7 +27,7 @@ Si quieren escuchar el audio.
 <a href="http://www.ivoox.com/agrotoxicos-nosotros-desde-lugar-medicos-consideramos-que_md_1380286_1.mp3" target="_blank">Si quieren descargar el archivo mp3.</a>
 Si el enlace anterior no funciona para descargarlo presionen en <em>descargar</em><a href="http://www.ivoox.com/agrotoxicos-nosotros-desde-lugar-medicos-consideramos-que-audios-mp3_rf_1380286_1.html" target="_blank">en el siguiente link.</a>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart7.png"><img class="size-full wp-image-6015" title="chart" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/chart7.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo de audio.
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart7.png"><img class="size-full wp-image-6015" title="chart" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/chart7.png" alt="" width="150" height="150" /></a> Código QR de la dirección del archivo de audio.
 
 
 <hr />

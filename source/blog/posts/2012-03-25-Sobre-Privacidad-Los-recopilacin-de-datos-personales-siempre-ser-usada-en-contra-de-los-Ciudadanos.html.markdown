@@ -12,8 +12,8 @@ tags:
 - privacidad
 - rick-falkvinge
 - terrorista
-image: http://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/03/vuelveelnick.png
 wppost_name: sobre-privacidad-los-recopilacion-de-datos-personales-siempre-sera-usada-en-contra-de-los-ciudadanos
 ---
 
@@ -70,9 +70,9 @@ En algunos casos el aparecer en una agenda telefónica podía significar la dife
 
 Cuidemos nuestra privacidad, usemos nics, no permitamos que aplicaciones <em>gratis nos cobren recopliando</em> nuestros datos.
 
-Hoy<a href="http://partidopirata.com.ar/3304/twitter-almacena-los-contactos-de-iphone-sin-que-el-usuario-lo-sepa">Twitter y Facebook tienen acceso a nuestra agenda!!!,</a> los grupos de represión ni siquiera tendrían que secuestrarnos y tomar nuestras agendas!
+Hoy<a href="https://partidopirata.com.ar/3304/twitter-almacena-los-contactos-de-iphone-sin-que-el-usuario-lo-sepa">Twitter y Facebook tienen acceso a nuestra agenda!!!,</a> los grupos de represión ni siquiera tendrían que secuestrarnos y tomar nuestras agendas!
 
-Hoy el gobierno puede saber,<a href="http://partidopirata.com.ar/2976/anonymous-publica-base-de-datos-de-sube"> a través de la tarjeta SUBE, </a>todos nuestros movimientos, también están implementando reconocimiento facial, cualquiera que vaya a una manifestación será reconocido!!
+Hoy el gobierno puede saber,<a href="https://partidopirata.com.ar/2976/anonymous-publica-base-de-datos-de-sube"> a través de la tarjeta SUBE, </a>todos nuestros movimientos, también están implementando reconocimiento facial, cualquiera que vaya a una manifestación será reconocido!!
 
 <hr />
 

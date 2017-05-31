@@ -11,8 +11,8 @@ tags:
 - ministra-de-cultura
 - partido-pirata-do-brasil
 - paulo-rena
-image: http://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1-150x150.png
 wppost_name: la-nueva-ministra-de-cultura-de-brasil-se-reunio-con-los-opositores-a-la-gestion-anterior
 ---
 
@@ -20,7 +20,7 @@ wppost_name: la-nueva-ministra-de-cultura-de-brasil-se-reunio-con-los-opositores
 
 <em>En un encuentro de tres horas, la ministra de Cultura habló de internet, pero dijo no tener planes concretos todavía para áreas como los derechos de autor</em>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1.png"><img class=" wp-image-6576" title="marta-suplicy-minc-cultura-digital-ativistas1" src="http://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1.png" alt="" width="713" height="281" /></a> Marta Suplicy , al centro, cercada por representantes de varios movimientos – como Beatriz Tibiriçá (Colectivo Digital), el ex-coordinador de Políticas Digitales del Ministerio de Cultura Cláudio Prado, Pablo Capilé (Fora do Eixo), Ivana Bentes (UFRJ) y Paulo Rená (Partido Pirata do Brasil) –, que ella llamó ‘mi equipo’. FOTO: Divulgación
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1.png"><img class=" wp-image-6576" title="marta-suplicy-minc-cultura-digital-ativistas1" src="https://partidopirata.com.ar/wp-content/uploads/2012/09/marta-suplicy-minc-cultura-digital-ativistas1.png" alt="" width="713" height="281" /></a> Marta Suplicy , al centro, cercada por representantes de varios movimientos – como Beatriz Tibiriçá (Colectivo Digital), el ex-coordinador de Políticas Digitales del Ministerio de Cultura Cláudio Prado, Pablo Capilé (Fora do Eixo), Ivana Bentes (UFRJ) y Paulo Rená (Partido Pirata do Brasil) –, que ella llamó ‘mi equipo’. FOTO: Divulgación
 
 
 SÃO PAULO – Recién asumida, la nueva ministra de Cultura, Marta Suplicy, se reunió en la tarde dej jueves, 20, con casi docientos activistas, representantes de movimientos culturales, investigadores y personas relaciondas al activismo en internet. En resumen: pasó la tarde con los mayores opositores de su antecesora, la ex-ministra Ana de Hollanda.
@@ -44,6 +44,6 @@ Pero cuando el miembro del Partido Pirata do Brasil, Paulo Rená, mencionó la r
 Les deseamos buena suerte a los brasileños.
 Con Paulo Rená estuvimos hablando sobre el Marco Civil, puede escucharlo en:
 
-<strong><a href="http://partidopirata.com.ar/5498/hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-brasil-y-el-marco-civil">Con Paulo Rená a días de la convención que fundará al Partido Pirata en Brasil.</a></strong>
+<strong><a href="https://partidopirata.com.ar/5498/hablando-con-paulo-rena-sobre-el-lanzamiento-del-partido-pirata-de-brasil-y-el-marco-civil">Con Paulo Rená a días de la convención que fundará al Partido Pirata en Brasil.</a></strong>
 
-<strong><a href="http://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong>
+<strong><a href="https://partidopirata.com.ar/3891/podcast-con-paulo-rena-da-silva-santarem-gestor-del-marco-civil-de-internet-de-brasil">Con Paulo Rená da Silva Santarém Gestor del Marco Civil de Internet de Brasil</a></strong>

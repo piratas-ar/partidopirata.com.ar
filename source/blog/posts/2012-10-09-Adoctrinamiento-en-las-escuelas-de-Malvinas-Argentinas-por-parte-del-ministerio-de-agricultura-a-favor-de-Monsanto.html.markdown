@@ -11,8 +11,8 @@ tags:
 - monsanto
 - no-a-monsanto
 - si-a-la-vida
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/monsanto-skull-and-bones1-150x150.jpg
 wppost_name: adoctrinamiento-en-las-escuelas-de-malvinas-argentinas-por-parte-del-ministerio-de-agricultura-a-favor-de-monsanto
 ---
 

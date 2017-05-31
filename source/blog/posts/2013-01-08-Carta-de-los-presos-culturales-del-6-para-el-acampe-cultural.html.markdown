@@ -7,8 +7,8 @@ tags:
 - material-para-difusion
 - sala-alberdi
 - toma
-image: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/02/salalberdi-150x150.jpg
 wppost_name: carta-de-los-presos-culturales-del-6-para-el-acampe-cultural
 ---
 

@@ -8,8 +8,8 @@ tags:
 - libros
 - modelos-de-negocios
 - nuevos-modelos-de-negocios
-image: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2010/05/mercado_de_libros-150x150.jpg
 wppost_name: nuevos-modelos-de-negocios-para-la-edicion-de-libros
 ---
 

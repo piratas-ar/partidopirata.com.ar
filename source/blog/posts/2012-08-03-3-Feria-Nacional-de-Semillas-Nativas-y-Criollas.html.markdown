@@ -10,8 +10,8 @@ tags:
 - semillas-criollas
 - semillas-nativas
 - soberania-alimenticia
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/Feria-Semilla.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/Feria-Semilla-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/Feria-Semilla.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/Feria-Semilla-150x150.jpg
 wppost_name: 3a-feria-nacional-de-semillas-nativas-y-criollas
 ---
 
@@ -21,7 +21,7 @@ Para proteger la biodiversidad, por la autonomía alimenticia y contra los embat
 <em>17 y 18 de Agosto de 2012 
 Predio Ferial, San Fernando del Valle de Catamarca - Catamarca  </em>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/feria-nacional-semillas-nativas-criollas.jpg"><img src="http://partidopirata.com.ar/wp-content/uploads/2012/08/feria-nacional-semillas-nativas-criollas.jpg" alt="" title="feria-nacional-semillas-nativas-criollas" width="760" height="200" class="aligncenter size-full wp-image-5741" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/feria-nacional-semillas-nativas-criollas.jpg"><img src="https://partidopirata.com.ar/wp-content/uploads/2012/08/feria-nacional-semillas-nativas-criollas.jpg" alt="" title="feria-nacional-semillas-nativas-criollas" width="760" height="200" class="aligncenter size-full wp-image-5741" /></a>
 <strong>
 Queremos, con nuestra multiplicidad de voces y miradas, sensibilizar al país entero sobre el papel que representa la semilla y la diversidad biológica a la hora de seguir forjando una Argentina que se identifique con su naturaleza, con sus agricultores familiares como camino para construir la Soberanía Alimentaria.</strong>
 

@@ -9,8 +9,8 @@ tags:
 - internet
 - union-internacional-de-telecomunicaciones
 - uti
-image: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/11/wcit-logo-web-150x150.png
 wppost_name: sobre-la-uit-regulando-internet-presionemos-para-que-no-se-haga
 ---
 

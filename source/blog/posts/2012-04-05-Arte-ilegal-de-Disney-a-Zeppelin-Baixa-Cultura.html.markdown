@@ -10,14 +10,14 @@ tags:
 - illegal-art
 - mash-up
 - mickey
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/notmickey.gif
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/notmickey-150x150.gif
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/notmickey.gif
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/notmickey-150x150.gif
 wppost_name: arte-ilegal-de-disney-a-zeppelin-baixa-cultura
 ---
 
 <strong><a href="http://baixacultura.org/2012/04/04/arte-ilegal-de-disney-a-zeppelin/" target="_blank">Fuente Baixa Cultura</a></strong>
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/notmickey.gif"><img class="aligncenter size-full wp-image-3817" title="Not Mickey" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/notmickey.gif" alt="" width="271" height="316" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/notmickey.gif"><img class="aligncenter size-full wp-image-3817" title="Not Mickey" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/notmickey.gif" alt="" width="271" height="316" /></a>
 
 Este post era para iniciar la (re) publicación de dos textos de la <a href="http://baixacultura.org/2012/03/09/a-biblioteca-rizomatica-de-ricardo-rosas/" target="_blank">Biblioteca Rizomática de Ricardo Rosas</a>. El primer elegido instigava ya desde el título - <strong>Al final, ¿qué es la originalidad?</strong> – y fue publicado en la coletánea “<a href="http://isuu.com/rizoma.net/docs/rizoma_recombinacao" target="_blank">Recombinación</a>“, de Rizoma.
 
@@ -29,12 +29,12 @@ La idea de “Illegal Art” fue hacer un panorama del “arte degenerado” de 
 
 La muestra engloba a una gran variedad de medios – del collage al audio, pasando por el cine – e incluye trabajos que desafian a las leyes de propiedad intelectual, violando derechos de autor y marcas registradas. En la página <a href="http://illegal-art.org/video/index.html" target="_blank">de los videos</a>, trae personajes de Disney asesinados, una parodia de la logomarca de la red de cafes Starbucks y una estampa de la servilleta hecha con logomarcas de compañías de petróleo.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/ilegal-art-6.png"><img class="aligncenter size-full wp-image-3818" title="Arte Ilegal" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/ilegal-art-6.png" alt="" width="500" height="383" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/ilegal-art-6.png"><img class="aligncenter size-full wp-image-3818" title="Arte Ilegal" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/ilegal-art-6.png" alt="" width="500" height="383" /></a>
 <p style="text-align: center;">Site de la exposición, de 2002</p>
 “<em>Casi todas las obras de arte son, hasta cierto punto, no originales</em>“, dijo la curadora de la exposición y editora de la revista <a href="http://www.stayfreemagazine.org/archives/index.html" target="_blank">Stay Free</a> Carrie McLaren a Mayfield. “<em>En un ambiente donde se puede tener el libre intermcambio de ideas, el arte siempre tiene más calidad</em>“.
 
 Como explica la periodista Mayfield, “Si las atuales leyes de derecho de autor ya existiesen cuando los músicos de jazz se prestaban riffs de otros artistas en los años 30 y los ilustradores de Looney Toones creaban cartoons en los años 40, géneros artísticos enteros, tales como el hip-hop, el collage y el pop art tal vez jamás hubiesen surgido”
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/ilegal-art.jpg"><img class="aligncenter size-full wp-image-3819" title="ilegal-art" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/ilegal-art.jpg" alt="" width="280" height="394" /></a><strong>Dick Detzner, "The Sacrifice of Sprout," "Original Sin (Barbie and Ken)" 1999-2000</strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/ilegal-art.jpg"><img class="aligncenter size-full wp-image-3819" title="ilegal-art" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/ilegal-art.jpg" alt="" width="280" height="394" /></a><strong>Dick Detzner, "The Sacrifice of Sprout," "Original Sin (Barbie and Ken)" 1999-2000</strong></p>
 El site de la exposición todavía trae películas y videos considerados ilegalles porque se apropian de propiedad intelectual ajena a través del uso de filmaciones encontradas, música no autorizada o imágenes de material protegido. Es una pena que estos videos no están más disponibles en el site, pero en los próximos parágrafos rescatamos algunos de ellos en otros lugares (como YouTube, que en la época de la exposición ni siquiera había sido creado!).
 
 Los visitantes también podrían escuchar/bajar archivos “ilegales” de MP3, incluyendo la hilaria <a href="http://www.youtube.com/watch?v=65GQ70Rf_8Y" target="_blank">parodia hecha por el grupo de rap 2 Live Crew</a> para la canción “<em>Oh, Pretty Woman</em>“, de Roy Orbison y el hit “<a href="http://www.pp2g.tv/vYnl-Z3Q_.aspx" target="_blank">Ice Ice Baby</a>“, grabado en 1990 por Vanilla Ice, cujo riff principal fue tomado de la canción Under Pressure, compuesta por David Bowie y Queen.

@@ -11,8 +11,8 @@ tags:
 - proveedores-de-internet
 - suecia
 - torrentfreak
-image: http://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/04/ephone-150x59.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/04/ephone-150x59.jpg
 wppost_name: europa-isps-tienen-que-identificar-a-presuntos-piratas-reglas-de-la-corte-de-la-ue-pensando-en-la-feria-del-libro
 ---
 
@@ -22,7 +22,7 @@ Una disputa sobre si un ISP [proveedor de internt] sueco puede ser obligado a en
 
 No mucho tiempo después que el polémico proyecto  IPRED de Suecia se convirtiera en ley en 2009, cinco editores de libros entregaron una solicitud de información a un tribunal local.
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg"><img class="size-full wp-image-4122" title="ephone" src="http://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg" alt="" width="180" height="59" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg"><img class="size-full wp-image-4122" title="ephone" src="https://partidopirata.com.ar/wp-content/uploads/2012/04/ephone.jpg" alt="" width="180" height="59" /></a>
 
 
 Los titulares de derechos, representados por el grupo anti-piratería Antipiratbyrån , quería obligar al isp local a entregar los datos personales de un usuario que supuestamente almacena más de 2000 audio libros en su servidor, 27 de los cuales violaríann derechos de autor de los editores.
@@ -46,4 +46,4 @@ Si Suprema Corte de Suecia, de hecho decide que ephone debe entregar la informac
 
 <hr />
 
-Una decisión que, sin duda, aplaudirían entre los que darán algunas de las mesas <strong><a href="http://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">en la Feria del Libro de Buenos Aires,</a></strong> triste es pensar que quienes, supuestamente, representan la libertad, la edición de libros, etc. etc..presionan por más censura y terminarán metiéndonos presos a todos...
+Una decisión que, sin duda, aplaudirían entre los que darán algunas de las mesas <strong><a href="https://partidopirata.com.ar/4083/se-inaugura-la-feria-del-libro-lobby-estas-volantes-y-mesas-para-ir-a-cuestionar-el-discurso-vigente">en la Feria del Libro de Buenos Aires,</a></strong> triste es pensar que quienes, supuestamente, representan la libertad, la edición de libros, etc. etc..presionan por más censura y terminarán metiéndonos presos a todos...

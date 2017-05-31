@@ -11,14 +11,14 @@ tags:
 - prokofiev
 - salida-del-dominio-publico
 - wired
-image: http://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico-150x150.jpg
 wppost_name: ee-uu-corte-suprema-le-dice-al-congreso-que-pueden-tener-copyright-obras-que-estaban-en-dominio-publico
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg"><img class="aligncenter size-full wp-image-1949" title="dominio-publico" src="http://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg" alt="Dominio Público" width="317" height="361" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg"><img class="aligncenter size-full wp-image-1949" title="dominio-publico" src="https://partidopirata.com.ar/wp-content/uploads/2011/10/dominio-publico.jpg" alt="Dominio Público" width="317" height="361" /></a>
 
-<strong><a href="http://partidopirata.com.ar/1948/suprema-corte-decidira-el-destino-de-millones-de-obras-en-dominio-publico">En otra entrada habíamos dejado una traducción sobre un proceso judicial que había llegado hasta la Suprema Corte de los EE.UU.</a>.</strong> Era por el cobro de derechos de autor, en EE.UU. de obras de artistas extranjeros, que ya estaban en dominio público en ese país y que, gracias a las modificaciones realizadas en ese país, deberían dejar de estarlo.
+<strong><a href="https://partidopirata.com.ar/1948/suprema-corte-decidira-el-destino-de-millones-de-obras-en-dominio-publico">En otra entrada habíamos dejado una traducción sobre un proceso judicial que había llegado hasta la Suprema Corte de los EE.UU.</a>.</strong> Era por el cobro de derechos de autor, en EE.UU. de obras de artistas extranjeros, que ya estaban en dominio público en ese país y que, gracias a las modificaciones realizadas en ese país, deberían dejar de estarlo.
 
 Citaba el caso de <a href="https://es.wikipedia.org/wiki/Sergu%C3%A9i_Prok%C3%B3fiev" target="_blank">Serguéi Prokófiev</a> que falleció el 5 de marzo de 1953) o <a href="Ígor Stravinski" target="_blank">Ígor Stravinski</a> fallecido el 6 de abril de 1971.
 Ambos estaban en dominio público, en EE.UU., antes de la última reforma que lo llevó de vida del autor + 70 años.
@@ -30,7 +30,7 @@ Una de las consecuencias de la salida de Serguéi Prokófiev del dominio públic
 
 Las orquestas que solían ser capaces de comprar la sinfonía de Prokofiev por $ 100, y tocarla hasta que la partitura estaba agotada. Ahora deben alquilarlas, a un costo de varios cientos de dólares por cada presentación."
 
-<a href="http://partidopirata.com.ar/1948/suprema-corte-decidira-el-destino-de-millones-de-obras-en-dominio-publico">del artículo sobre el proceso ante la Corte Suprema de EE.UU.</a>
+<a href="https://partidopirata.com.ar/1948/suprema-corte-decidira-el-destino-de-millones-de-obras-en-dominio-publico">del artículo sobre el proceso ante la Corte Suprema de EE.UU.</a>
 
 Suponemos que a Serguéi Prokófiev muerto en 1953 no le debe importar mucho recibir algo por la ejecución de su obra. No se fomentará mucha creatividad estando muerto.
 

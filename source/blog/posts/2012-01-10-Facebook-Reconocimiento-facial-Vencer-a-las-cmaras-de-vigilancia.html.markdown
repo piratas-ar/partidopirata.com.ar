@@ -6,12 +6,12 @@ tags:
 - facebook-reconocimiento-facial
 - luchadores-sociales
 - redes-sociales
-image: http://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg-150x150.jpg
 wppost_name: facebook-reconocimiento-facial-vencer-a-las-camaras-de-vigilancia
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg"><img class="size-full wp-image-2790" title="Reconocimiento Facial en Facebook" src="http://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg" alt="Cuidemos lo que usamos en Facebook" width="640" height="360" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg"><img class="size-full wp-image-2790" title="Reconocimiento Facial en Facebook" src="https://partidopirata.com.ar/wp-content/uploads/2012/01/ht_face_comparison_technology_thg_120109_wg.jpg" alt="Cuidemos lo que usamos en Facebook" width="640" height="360" /></a>
 
 
 <a href="http://abcnews.go.com/Technology/protecting-privacy-defeating-facial-recognition-computer-vision-technology/story?id=15322337" target="_blank"><strong>Fuente ABC News</strong>.</a>

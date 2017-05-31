@@ -12,12 +12,12 @@ tags:
 - musica
 - noticias
 - open
-image: http://partidopirata.com.ar/wp-content/uploads/2011/07/cover.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2011/07/cover-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2011/07/cover.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2011/07/cover-150x150.jpg
 wppost_name: the-power-of-open-y-mas-material-para-mostrar-que-con-licencias-abiertas-es-posible-ganar-dinero
 ---
 
-<img class="aligncenter" title="The Power of Open" src="http://partidopirata.com.ar/wp-content/uploads/2011/07/cover-232x300.jpg" alt="" width="232" height="300" />
+<img class="aligncenter" title="The Power of Open" src="https://partidopirata.com.ar/wp-content/uploads/2011/07/cover-232x300.jpg" alt="" width="232" height="300" />
 
 “La obra, disponible en nueve idiomas[también en español] , presenta más de 30 casos de éxito de productos y servicios generados a partir del intercambio de contenido y de la colaboración, destacando el papel de las licencias <strong>Creative Commons</strong> en el fomento a la innovación en la era digital. ”
 
@@ -29,7 +29,7 @@ wppost_name: the-power-of-open-y-mas-material-para-mostrar-que-con-licencias-abi
 
 <ul>
 <ul>
-	<li><a href="http://partidopirata.com.ar/533/modelos-sostenibles-para-la-creatividad-en-la-era-digital">Modelos Sostenibles para la Creatividad en la Era Digital</a></li>
+	<li><a href="https://partidopirata.com.ar/533/modelos-sostenibles-para-la-creatividad-en-la-era-digital">Modelos Sostenibles para la Creatividad en la Era Digital</a></li>
 </ul>
 </ul>
 
@@ -37,7 +37,7 @@ wppost_name: the-power-of-open-y-mas-material-para-mostrar-que-con-licencias-abi
 
 <ul>
 <ul>
-	<li><a href="http://partidopirata.com.ar/557/precios-altos-transforman-a-paises-emergentes-en-piratas">Precios altos transforman a los países emergentes en <em>piratas</em></a></li>
+	<li><a href="https://partidopirata.com.ar/557/precios-altos-transforman-a-paises-emergentes-en-piratas">Precios altos transforman a los países emergentes en <em>piratas</em></a></li>
 </ul>
 </ul>
 
@@ -45,7 +45,7 @@ wppost_name: the-power-of-open-y-mas-material-para-mostrar-que-con-licencias-abi
 
 <ul>
 <ul>
-	<li><a href="http://partidopirata.com.ar/1198/comparte">Como publicar tu obra con una licencia libre</a></li>
+	<li><a href="https://partidopirata.com.ar/1198/comparte">Como publicar tu obra con una licencia libre</a></li>
 </ul>
 </ul>
 
@@ -77,7 +77,7 @@ wppost_name: the-power-of-open-y-mas-material-para-mostrar-que-con-licencias-abi
 
 <hr />
 <p style="text-align: center;"><strong>Si conoce más material para difundir y demostrar que es posible hacer buenos negocios sin pasar por todas las trabas del derecho de autor clásico y las sociedes de gestión, deje el enlace en los comentarios o </strong></p>
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/contacto">envíenos un e-mail.</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/contacto">envíenos un e-mail.</a></strong></p>
 
 
 <hr />

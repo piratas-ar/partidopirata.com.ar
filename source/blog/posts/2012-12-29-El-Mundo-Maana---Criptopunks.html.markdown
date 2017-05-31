@@ -11,12 +11,12 @@ tags:
 - julian-assange
 - multimedia
 - wikileaks
-image: http://partidopirata.com.ar/wp-content/uploads/2012/12/cripto.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/12/cripto-150x150.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/12/cripto.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/12/cripto-150x150.jpg
 wppost_name: el-mundo-manana-criptopunks
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/12/cripto.jpg"><img class="aligncenter size-full wp-image-7964" alt="cripto" src="http://partidopirata.com.ar/wp-content/uploads/2012/12/cripto.jpg" width="600" height="380" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/12/cripto.jpg"><img class="aligncenter size-full wp-image-7964" alt="cripto" src="https://partidopirata.com.ar/wp-content/uploads/2012/12/cripto.jpg" width="600" height="380" /></a>
 
 <strong><a href="http://baixacultura.org/2012/12/11/criptopunks-wikileaks-e-o-mundo-amanha/" target="_blank">Fuente Baixa Cultura</a></strong>
 

@@ -10,12 +10,12 @@ tags:
 - luana-piovani
 - luis-melo
 - marihuana
-image: http://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/07/banner1-150x90.jpg
+image: https://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/07/banner1-150x90.jpg
 wppost_name: brasil-campana-para-modificar-la-ley-de-drogas
 ---
 
-<p style="text-align: center;"><a href="http://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg"><img class="aligncenter size-full wp-image-5179" title="banner1" src="http://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg" alt="zzBanner de &quot;É preciso mudar&quot;" width="728" height="90" /></a><strong>¿Es eso justo? Brasil invierte más en la prisión por delitos con drogas de lo que invierte en el tratamiento de usuaros.</strong></p>
+<p style="text-align: center;"><a href="https://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg"><img class="aligncenter size-full wp-image-5179" title="banner1" src="https://partidopirata.com.ar/wp-content/uploads/2012/07/banner1.jpg" alt="zzBanner de &quot;É preciso mudar&quot;" width="728" height="90" /></a><strong>¿Es eso justo? Brasil invierte más en la prisión por delitos con drogas de lo que invierte en el tratamiento de usuaros.</strong></p>
 <p style="text-align: center;">Es parte de una campaña para modificar la ley de drogas en Brasil,</p>
 <p style="text-align: center;"><strong><a href="http://eprecisomudar.com.br/" target="_blanK">Acá puede encontrar más información.</a></strong></p>
 <p style="text-align: center;">Dentro de la campaña actores interpretan historias reales de personas que vieron su vida afectada por la ley.</p>
@@ -43,7 +43,7 @@ Presione donde dice CC con fondo rojo para ver los subtítulos en español, actr
 <iframe src="http://www.youtube.com/embed/T7HXjiH19Zk" frameborder="0" width="560" height="315"></iframe></center>&nbsp;
 
 <hr />
-<p style="text-align: center;"><strong><a href="http://partidopirata.com.ar/5249/mas-videos-de-la-campana-para-modificar-la-ley-de-drogas-en-brasil">Más videos de la campaña con testimonios de personas que vieron su vida afectada por la ley de drogas</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://partidopirata.com.ar/5249/mas-videos-de-la-campana-para-modificar-la-ley-de-drogas-en-brasil">Más videos de la campaña con testimonios de personas que vieron su vida afectada por la ley de drogas</a></strong></p>
 
 
 <hr />

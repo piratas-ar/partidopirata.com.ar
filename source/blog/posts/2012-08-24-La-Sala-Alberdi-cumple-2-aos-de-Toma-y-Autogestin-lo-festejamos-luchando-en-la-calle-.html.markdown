@@ -10,12 +10,12 @@ tags:
 - sala-alberdi
 - toma-y-autogestion
 - tomar-las-calles
-image: http://partidopirata.com.ar/wp-content/uploads/2012/08/image-1.png
-thumb: http://partidopirata.com.ar/wp-content/uploads/2012/08/image-1-150x150.png
+image: https://partidopirata.com.ar/wp-content/uploads/2012/08/image-1.png
+thumb: https://partidopirata.com.ar/wp-content/uploads/2012/08/image-1-150x150.png
 wppost_name: la-sala-alberdi-cumple-2-anos-de-toma-y-autogestion-lo-festejamos-luchando-en-la-calle
 ---
 
-<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/image-1.png"><img class=" wp-image-6160" title="Sala Alberdi" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/image-1-212x300.png" alt="" width="347" height="491" /></a> Toma y Autogestión<a href="http://partidopirata.com.ar/wp-content/uploads/2012/08/image.png"><img class="aligncenter  wp-image-6161" title="Sala Alberdi" src="http://partidopirata.com.ar/wp-content/uploads/2012/08/image-211x300.png" alt="Cronograma de actividades 24 de Agosto" width="305" height="433" /></a>
+<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/image-1.png"><img class=" wp-image-6160" title="Sala Alberdi" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/image-1-212x300.png" alt="" width="347" height="491" /></a> Toma y Autogestión<a href="https://partidopirata.com.ar/wp-content/uploads/2012/08/image.png"><img class="aligncenter  wp-image-6161" title="Sala Alberdi" src="https://partidopirata.com.ar/wp-content/uploads/2012/08/image-211x300.png" alt="Cronograma de actividades 24 de Agosto" width="305" height="433" /></a>
 
 
 <center>
