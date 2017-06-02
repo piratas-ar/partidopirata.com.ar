@@ -7,7 +7,7 @@ tags:
   - seguridad informática
   - represión
   - vigilancia
-image: ../images/2017-05-31-si_denunciaste_a_un_narco/tuit-mis2cents-2017-01-26.png
+image: ./blog/images/2017-05-31-si_denunciaste_a_un_narco/tuit-mis2cents-2017-01-26.png
 thumb: https://media.giphy.com/media/RqzMtDuGECzL2/giphy.gif
 ---
 
