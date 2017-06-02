@@ -7,11 +7,11 @@ tags:
   - seguridad informática
   - represión
   - vigilancia
-image: https://lut.im/DPKumnCvzj/X1NoxXB1vOzAOKZw.png
+image: ../images/2017-05-31-si_denunciaste_a_un_narco/tuit-mis2cents-2017-01-26.png
 thumb: https://media.giphy.com/media/RqzMtDuGECzL2/giphy.gif
 ---
 
-![](https://lut.im/DPKumnCvzj/X1NoxXB1vOzAOKZw.png)
+[![imagen: tuit mis2centavos 2017-01-26](../images/2017-05-31-si_denunciaste_a_un_narco/tuit-mis2cents-2017-01-26.png)](https://twitter.com/mis2centavos/status/824752482744205313)
 
 _El Partido Interdimensional Pirata en Argentina (PIPAr) saluda la
 valentía de la periodista Irina Sternik (@ladob), quien publicó el lunes
@@ -116,8 +116,8 @@ sensibles como la protección de los datos personales y su utilización
 por parte de instituciones estatales. Criterios de protección de datos
 que, evidentemente, no incluyen tampoco  temas tan delicados como el
 envío de documentos de investigaciones de narcotráfico y trata de
-personas a través de un medio demostradamente inseguro como el correo
-electrónico, o de su uso con fines electorales, como ya se hizo con la
+personas a través de un medio demostradamente [inseguro como el correo
+electrónico no-cifrado](https://emailselfdefense.fsf.org/es/), o de su uso con fines electorales, como ya se hizo con la
 [base de datos de la
 ANSES](http://www.lavaca.org/notas/el-dato-que-faltaba/).
 
@@ -148,7 +148,7 @@ responsabilidad en las vulnerabilidades en su infraestructura
 informática, que son las que ponen en peligro a informantes y testigas
 frente a esta o cualquier otra filtración.**
 
-![](https://lut.im/lenM1nOQFT/zFjvCSE6rsdCEgUr.png)
+[![imagen: infosuck 0x007c 2nd panel](../images/2017-05-31-si_denunciaste_a_un_narco/infosuck_0x007c_2nd_panel.png)](http://infosuck.org/)
 
 Con respecto a los leaks en sí, saludamos toda filtración de información
 que ayude a evidenciar la falta de transparencia del Estado y la
