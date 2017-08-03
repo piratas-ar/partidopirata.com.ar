@@ -20,6 +20,11 @@
           <div class="8u skel-cell-important centered" id="content">
 
           <% unless current_article.nil? %>
+
+            <% if current_article.data.image %>
+              <img class="post-cover" src="<%= current_article.data.image %>" alt="<%= current_article.title %>"/>
+            <% end %>
+
             <h2><%= current_article.title %></h2>
           <% end %>
           <%= yield %>

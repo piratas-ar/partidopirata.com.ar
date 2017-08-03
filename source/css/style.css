@@ -1304,6 +1304,12 @@ div.\38u.centered {
 	margin: 0 auto;
 }
 
+img.post-cover {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
 @media screen and (max-width: 600px) {
   nav#nav ul li {
     width: 40%;
@@ -1322,7 +1328,8 @@ div.\38u.centered {
   }
 
   #content {
-    padding-left: 5em;
+    padding-left: 1em;
+    padding-right: 1em;
     width: 100%;
   }
 }
