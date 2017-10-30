@@ -20,7 +20,7 @@ Template http://html5up.net/helios
     gem install bundler
     bundle install
 
-### Correr 
+### Correr
 
     cd partidopirata.com.ar
     middleman
@@ -29,6 +29,10 @@ Template http://html5up.net/helios
 
     cd partidopirata.com.ar
     middleman build
+
+### Agregar imagenes locales
+* Guardar la imagen en `source/images`
+* En el markdown del post referenciarla con `![Amazing picture](nombre_de_la_imagen.jpg)`
 
 ## Migracion a Middleman desde Wordpress
 
