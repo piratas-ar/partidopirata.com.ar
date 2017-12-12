@@ -35,10 +35,12 @@ Hay que instalar algunas cosas antes de empezar:
     gem install bundler
     bundle install
 
-### Correr
+### Correr de prueba
 
     cd partidopirata.com.ar
-    ./bin/middleman
+    ./bin/middleman serve
+
+Luego ingresar a la URL de prueba que da.
 
 ### Generar sitio estático
 
@@ -50,6 +52,30 @@ Hay que instalar algunas cosas antes de empezar:
 (Necesitás una llave SSH en el servidor)
 
     ./bin/cap production deploy
+
+### Traer cambios
+
+Traer los cambios con `git`:
+
+```bash
+cd partidopirata.com.ar
+git pull
+```
+
+### Enviar los cambios
+
+Usar git para guardar los cambios:
+
+```bash
+git add archivos_modificados
+git commit -m "hice este cambio"
+```
+
+Y luego enviarlos:
+
+```bash
+git push
+```
 
 ### Crear un artículo
 
