@@ -9,6 +9,11 @@ image: /images/grog_tor_mu_trinchera_boutique.jpg
 thumb: /images/grog_tor_mu_trinchera_boutique.jpg
 ---
 
+**IMPORTANTE:** Por la represión de ayer que terminó en más de 40
+detenciones decidimos pasar la G&T de hoy para el próximo viernes 22.
+
+---
+
 Se realizará en CABA un nuevo encuentro sobre autodefensa digital,
 organizado por el Partido Interdimensional Pirata. La última Grog&Tor
 del año será el **viernes 15 de diciembre de 15 a 20. La entrada es libre
