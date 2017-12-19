@@ -1347,3 +1347,5 @@ img.post-cover {
     width: 100%;
   }
 }
+
+img.legigato { display:block; max-height: 140px!important; max-width: 200px!important; border-radius: 70px; }
