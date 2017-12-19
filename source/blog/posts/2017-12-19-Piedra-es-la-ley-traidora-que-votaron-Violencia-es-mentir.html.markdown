@@ -5,30 +5,76 @@ wppost_name: violencia-es-mentir
 tags:
   - represion
   - ajuste
-image: /images/cartucho.jpg
-thumb: /images/cartucho.jpg
+image: /images/votacion.jpg
+thumb: /images/votacion.jpg
 ---
 
+Imagen: <https://twitter.com/jerecurci/status/943124936213848065>
 
-Desde el Partido Interdimensional Pirata nos manifestamos en contra de la Reforma Previsional y repudiamos la brutal represión policial -cuasi estado de sitio- montada por el gobierno nacional para imponer una medida tan impopular como nefasta. Tal es la impunidad de los gobiernos neoliberales amparados por el poder económico real, que aun ante la masiva movilización popular, la Reforma fue votada y convertida en ley por [127 votos a favor (117 en contra, 2 abstenciones y 10 ausentes)](https://votaciones.hcdn.gob.ar/votacion/3730).
+Desde el Partido Interdimensional Pirata nos manifestamos en contra de
+la Reforma Previsional y repudiamos la brutal represión policial -cuasi
+estado de sitio- montada por el gobierno nacional para imponer una
+medida tan impopular como nefasta. Tal es la impunidad de los gobiernos
+neoliberales amparados por el poder económico real, que aun ante la
+masiva movilización popular, la Reforma fue votada y convertida en ley
+por [127 votos a favor (117 en contra, 2 abstenciones y 10
+ausentes)](https://votaciones.hcdn.gob.ar/votacion/3730).
 
-Durante la jornada de ayer, nos movilizamos masivamente a lo largo de todo el día.
+Durante la jornada de ayer, nos movilizamos masivamente a lo largo de
+todo el día.
 
-El nivel de represión y ensañamiento que vivimos no se corresponde con el estado democrático en el que nos quieren hacer creer que vivimos.
+El nivel de represión y ensañamiento que vivimos no se corresponde con
+el estado democrático en el que nos quieren hacer creer que vivimos.
 
-Como en tiempos de dictadura y en un modus operandi al que ya nos tienen casi acostumbradas (porque no: no nos acostumbramos), los medios de concentración editorializaban lo que estábamos viviendo como "repudio a los violentos", "grupos aislados", "tira piedras", "enfrentamientos", "violencia" y otras tantas mentiras. 
+Como en tiempos de dictadura y en un modus operandi al que ya nos tienen
+casi acostumbradas (porque no: no nos acostumbramos), los medios de
+concentración editorializaban lo que estábamos viviendo como "repudio a
+los violentos", "grupos aislados", "tira piedras", "enfrentamientos",
+"violencia" y otras tantas mentiras. 
 
-Frente a los intentos de instaurar de nuevo la teoría de los dos demonios, queremos dejar en claro que la violencia viene de un solo lado: del Estado, fiel representante de los grupos económicos concentrados. Mientras circulan numerosos testimonios (incluso audiovisuales) que dan cuenta de cómo las mismas personas manifestantes detectan policías infiltrados tirando piedras o provocando, de cómo esos mismos policías de civil aparecen luego entre "los uniformados", reprimiendo a mansalva e incluso participando de detenciones.
+Frente a los intentos de instaurar de nuevo la teoría de los dos
+demonios, queremos dejar en claro que la violencia viene de un solo
+lado: del Estado, fiel representante de los grupos económicos
+concentrados. Mientras circulan numerosos testimonios (incluso
+audiovisuales) que dan cuenta de cómo las mismas personas manifestantes
+detectan policías infiltrados tirando piedras o provocando, de cómo esos
+mismos policías de civil aparecen luego entre "los uniformados",
+reprimiendo a mansalva e incluso participando de detenciones.
 
-Esto evidencia que los medios hegemónicos participan como elemento de sofisticación de un aparato represivo que, lejos de estar en retroceso, ha sabido encontrar los resquicios institucionales para mantenerse más años en el poder. Por eso la prensa hegemónica es parte del plan represivo organizado. Los "infiltrados", "los violentos", la estrategia de mostrar un grupo "corriendo a la policía" y luego la policía "respondiendo a los desmanes", los pedidos de diputados de "frenar la violencia" o acusar al pueblo de un virtual golpe de estado, son algunas de las formas de montar un escenario para ocultar lo indisimulable: nos están cagando.
+Esto evidencia que los medios hegemónicos participan como elemento de
+sofisticación de un aparato represivo que, lejos de estar en retroceso,
+ha sabido encontrar los resquicios institucionales para mantenerse más
+años en el poder. Por eso la prensa hegemónica es parte del plan
+represivo organizado. Los "infiltrados", "los violentos", la estrategia
+de mostrar un grupo "corriendo a la policía" y luego la policía
+"respondiendo a los desmanes", los pedidos de diputados de "frenar la
+violencia" o acusar al pueblo de un virtual golpe de estado, son algunas
+de las formas de montar un escenario para ocultar lo indisimulable: nos
+están cagando.
 
-Sin embargo, pese a que coincidimos en que los infiltrados son de la policía, no quisiéramos entrar en ese juego. Frente al despliegue de prefectura, gendarmería, policías y otras lacras armadas con la última tecnología (¡y tirando cartuchos vencidos!, ¡balas de goma y gases a corta distancia!, ¡cartuchos de plomo!), recientemente equipados y formados por el ejército israelí, creemos que entrar en el discurso de las piedras como armas es peor que ingenuo. No hay comparación posible, frente a las imágenes de la policía atropellando chicxs y viejxs, pegando con saña, gaseando en la cara, manoseando a las compañeras que se llevaba detenidas, provocando... al tiempo que Macri jugaba al paddle.
+Sin embargo, pese a que coincidimos en que los infiltrados son de la
+policía, no quisiéramos entrar en ese juego. Frente al despliegue de
+prefectura, gendarmería, policías y otras lacras armadas con la última
+tecnología (¡y tirando cartuchos vencidos!, ¡balas de goma y gases a
+corta distancia!, ¡cartuchos de plomo!), recientemente equipados y
+formados por el ejército israelí, creemos que entrar en el discurso de
+las piedras como armas es peor que ingenuo. No hay comparación posible,
+frente a las imágenes de la policía atropellando chicxs y viejxs,
+pegando con saña, gaseando en la cara, manoseando a las compañeras que
+se llevaba detenidas, provocando... al tiempo que Macri jugaba al
+paddle.
 
-(¿Lo escucharon justificarse como un macho violento? "No tuve más remedio, ustedes me votaron".)
+(¿Lo escucharon justificarse como un macho violento? "No tuve más
+remedio, ustedes me votaron".)
 
-Como parte del ejercicio de nuestro derecho a protestar (con o sin cacerolas) y como un ejercicio de memoria, compartimos el listado de traidores y cómplices que votaron este asesinato encubierto, robo a nuestro pueblo.
+Como parte del ejercicio de nuestro derecho a protestar (con o sin
+cacerolas) y como un ejercicio de memoria, compartimos el listado de
+traidores y cómplices que votaron este asesinato encubierto, robo a
+nuestro pueblo.
 
-Nos seguimos encontrando en las calles y otras trincheras interdimensionales.
+Nos seguimos encontrando en las calles y otras trincheras
+interdimensionales.
+
 
 
 
