@@ -20,8 +20,8 @@ masiva movilización popular, la Reforma fue votada y convertida en ley
 por [127 votos a favor (117 en contra, 2 abstenciones y 10
 ausentes)](https://votaciones.hcdn.gob.ar/votacion/3730).
 
-Durante la jornada de ayer, nos movilizamos masivamente a lo largo de
-todo el día.
+Durante la jornada de ayer, nos movilizamos **pacífica** y masivamente
+durante todo el día.
 
 El nivel de represión y ensañamiento que vivimos no se corresponde con
 el estado democrático en el que nos quieren hacer creer que vivimos.
@@ -30,7 +30,8 @@ Como en tiempos de dictadura y en un modus operandi al que ya nos tienen
 casi acostumbradas (porque no: no nos acostumbramos), los medios de
 concentración editorializaban lo que estábamos viviendo como "repudio a
 los violentos", "grupos aislados", "tira piedras", "enfrentamientos",
-"violencia" y otras tantas mentiras. 
+"violencia" y otras tantas mentiras, mientras en las calles éramos miles
+movilizándonos pacíficamente.
 
 Frente a los intentos de instaurar de nuevo la teoría de los dos
 demonios, queremos dejar en claro que la violencia viene de un solo
